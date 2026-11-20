@@ -1,0 +1,548 @@
+{
+  "generated_at": "2026-11-17T02:36:37Z",
+  "query": "non-interconnected zones Colombia microgrids",
+  "source": "openalex (type:review)",
+  "total": 18,
+  "reviews": [
+    {
+      "source": "openalex",
+      "title": "A review on control and fault-tolerant control systems of AC/DC microgrids",
+      "abstract": "Microgrids (MG) treat local energy supply issues effectively and from a point of view of the distribution grid, may be a power supply or virtual load. Despite holding a myriad of benefits, MGs also bear a set of challenges, including a higher fault rate. Currently, many articles focus on control techniques; however, little has been written about the techniques of control, hierarchical control, and fault-tolerant control (FTC) applied to MGs, which is the motive of this bibliographic revision on control systems. A brief comparison of the different approaches in the field of present-day research is carried out primarily addressing hierarchical control and fault tolerance. The objective of this investigation is to attract the interest of researchers to the field of control and fault tolerance applied to MGs, such as: modeling, testbed, benchmark systems, control and hierarchical control strategies, fault diagnosis and FTC.",
+      "authors": [
+        "Leony Ortíz",
+        "Jorge W. González",
+        "Luis B. Gutiérrez",
+        "Orestes Llanes‐Santiago"
+      ],
+      "year": 2020,
+      "venue": "Heliyon",
+      "doi": "10.1016/j.heliyon.2020.e04799",
+      "keywords": [
+        "hybrid AC/DC microgrid",
+        "fault-tolerant control",
+        "hierarchical control",
+        "microgrid control",
+        "fault diagnosis",
+        "microgrid modeling",
+        "microgrid testbed",
+        "benchmark systems"
+      ],
+      "url": "https://openalex.org/W3081738397",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Reliability as a design principle: A systematic review and integrated framework for renewable-based microgrids",
+      "abstract": "Reliable operation is a central motivation for deploying renewable-based microgrids, yet reliability is frequently treated as a secondary outcome of cost-driven design rather than as a governing planning objective. Existing reviews remain fragmented across techno-economic sizing, optimization methods, and reliability assessment, limiting the translation of planning outcomes into operationally reliable systems. This paper presents a systematic rapid review that positions reliability as the central organizing principle for microgrid design. Specifically, this review systematically synthesizes recent literature to examine how planning assumptions, optimization formulations, operational flexibility mechanisms, and reliability assessment frameworks jointly shape reliability outcomes. The synthesis shows that reliability in renewable-based microgrids is governed primarily by chronological, time-coupled energy adequacy rather than installed capacity alone, with Dunkelflaute events emerging as a key determinant of adequacy failure. Reliability outcomes are shaped by the joint interaction of resource portfolios, storage operating policies, and state trajectories, network features, and protection feasibility under inverter-dominated operation. The review further demonstrates that reliability indices inherited from conventional power systems are poorly suited for renewable-based microgrids, as they compress performance into single dimensions and obscure temporal, spatial, and service-critical risk concentrations. Across optimization practice, reliability is increasingly embedded through multi-objective and constrained formulations; however, persistent gaps remain in representing correlated renewable scarcity, mission-profile-dependent component reliability, and interruption valuation (e.g., value of lost load and customer damage functions) in a consistent and decision-relevant manner. Overall, this review consolidates planning factors, optimization approaches, reliability evaluation methods, and metric suitability into an integrated roadmap for reliability-centered microgrid planning, and outlines future directions toward state-aware, service-oriented planning and assessment frameworks.",
+      "authors": [
+        "Mohammed Zeehan Saleheen",
+        "Markus Wagner",
+        "Reza Razzaghi",
+        "Hao Wang"
+      ],
+      "year": 2026,
+      "venue": "Energy Conversion and Management X",
+      "doi": "10.1016/j.ecmx.2026.101878",
+      "keywords": [
+        "microgrid reliability",
+        "energy adequacy",
+        "reliability index",
+        "value of lost load",
+        "multi-objective optimization",
+        "resource portfolio"
+      ],
+      "url": "https://openalex.org/W7155045942",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "The role of biofuels for sustainable MicrogridsF: A path towards carbon neutrality and the green economy",
+      "abstract": "Today, with the progress of technology, the world is facing an increasing growth in power consumption. Since the fuel of most power plants is supplied from fossil fuels, it has caused an increase in global fossil fuel consumption and environmental degradation. ّFurthermore, the volatility of fossil fuel prices and unstable energy security have prompted international organizations and governments to apply policies to restrict fossil fuel use and examine alternatives to fossil fuels. Since biofuels come from renewable sources and are clean fuels, they can be an appropriate alternative to fossil fuels and play a more expansive role in supplying energy for transportation industries, power plants, and heat production systems. Although there is some research about the drawbacks of using fossil fuels and the commendation of using biofuels in various industries such as transportation, the literature lacks a comprehensive study on the evaluation and analysis of the potential of using biofuels instead of conventional fuels in power generation systems. The primary purpose of this study is to evaluate the impact of utilizing biofuels instead of fossil fuels in microgrids to achieve carbon neutrality objectives. Furthermore, this paper reviews previous research studies that have operated biofuels in three categories: solid, liquid, and gas, to generate electricity and analyzes the potential of different biofuels to produce heat and electricity for microgrid power systems. In addition to outlining the present knowledge gaps in this area, this study explores the prospects and threats associated with expanding the use of biofuels in the power production industry and the development of sustainable microgrids. This study indicated that if the technical and economic problems of employing biofuels are overcome, these clean fuels have a great potential to obtain the maximum share of the global power generation market and move toward Net Zero Emissions by 2050 Scenario (NZE) goals.",
+      "authors": [
+        "Mohammadali Kiehbadroudinezhad",
+        "Adel Merabet",
+        "Chaouki Ghenaï",
+        "Ahmed Galal Abo-Khalil",
+        "Tareq Samir Zaki Salameh"
+      ],
+      "year": 2023,
+      "venue": "Heliyon",
+      "doi": "10.1016/j.heliyon.2023.e13407",
+      "keywords": [
+        "biofuels",
+        "microgrids",
+        "carbon neutrality",
+        "fossil fuel substitution",
+        "solid biofuels",
+        "liquid biofuels",
+        "gaseous biofuels",
+        "electricity generation",
+        "heat and electricity production",
+        "net-zero emissions",
+        "green economy",
+        "energy security",
+        "renewable energy"
+      ],
+      "url": "https://openalex.org/W4318757103",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Applications of Deep Reinforcement Learning for Home Energy Management Systems: A Review",
+      "abstract": "In the context of the increasing integration of renewable energy sources (RES) and smart devices in domestic applications, the implementation of Home Energy Management Systems (HEMS) is becoming a pivotal factor in optimizing energy usage and reducing costs. This review examines the role of reinforcement learning (RL) in the advancement of HEMS, presenting it as a powerful tool for the adaptive management of complex, real-time energy demands. This review is notable for its comprehensive examination of the applications of RL-based methods and tools in HEMS, which encompasses demand response, load scheduling, and renewable energy integration. Furthermore, the integration of RL within distributed automation and Internet of Things (IoT) frameworks is emphasized in the review as a means of facilitating autonomous, data-driven control. Despite the considerable potential of this approach, the authors identify a number of challenges that require further investigation, including the need for robust data security and scalable solutions. It is recommended that future research place greater emphasis on real applications and case studies, with the objective of bridging the gap between theoretical models and practical implementations. The objective is to achieve resilient and secure energy management in residential and prosumer buildings, particularly within local microgrids.",
+      "authors": [
+        "Dominik Latoń",
+        "Jakub Grela",
+        "Andrzej Ożadowicz"
+      ],
+      "year": 2024,
+      "venue": "Energies",
+      "doi": "10.3390/en17246420",
+      "keywords": [
+        "home energy management systems",
+        "deep reinforcement learning",
+        "demand response",
+        "load scheduling",
+        "renewable energy integration",
+        "Internet of Things",
+        "distributed automation",
+        "prosumers",
+        "microgrids",
+        "residential energy management",
+        "energy cost reduction"
+      ],
+      "url": "https://openalex.org/W4405642925",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Photovoltaic Technology and Rural Landscapes: A Systematic Literature Review on Challenges and Sustainable Integration",
+      "abstract": "Energy supply through photovoltaic technology represents one of the most widely applied solutions in achieving energy transition goals. However, its expansion in rural contexts raises concerns due to the unique characteristics of the natural environment and the intrinsic landscape qualities of these areas. This systematic literature review examines the relationship between photovoltaic technology and the agricultural landscape, categorizing the selected studies into the following three macro-groups: the integration of photovoltaics in protected buildings and landscapes, the electrification of remote agricultural areas, and agrivoltaics as a compromise between production needs and landscape compatibility. Despite the extensive literature on the energy transition, systematic analyses of the landscape impacts of rural photovoltaics remain limited. This review addresses this gap by focusing on three key application areas marked by the tension between innovation and conservation. Through a systematic analysis conducted following the PRISMA guidelines, selecting 89 scientific publications from over 1200 evaluated sources, this review highlights the growing scientific interest in the topic and the heterogeneity of related research areas. The multidisciplinary nature of the discussion underscores the need to develop additional solutions that are more compatible with the environmental values of agricultural heritage, facilitating a more integrated and sustainable deployment of photovoltaics in high-value rural landscapes.",
+      "authors": [
+        "Stefano Bigiotti",
+        "Mariangela Ludovica Santarsiero",
+        "Carlo Costantino",
+        "Alvaro Marucci"
+      ],
+      "year": 2025,
+      "venue": "Energies",
+      "doi": "10.3390/en18082095",
+      "keywords": [
+        "photovoltaics",
+        "rural landscape",
+        "agrivoltaics",
+        "landscape compatibility",
+        "protected buildings",
+        "landscape conservation",
+        "agricultural electrification",
+        "remote rural areas",
+        "agricultural heritage",
+        "energy transition"
+      ],
+      "url": "https://openalex.org/W4409567202",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Optimisation of island integrated energy system based on marine renewable energy",
+      "abstract": "Integrating marine renewable energy (MRE) with conventional energy sources and logically constructing island energy systems is crucial for alleviating island energy supply challenges and helping coastal energy systems achieve a sustainable, low-carbon transition. In this study, the status of marine energy utilisation technologies is reviewed, with a focus on advancements in energy conversion equipment, grid integration, and energy storage. The economic feasibility and environmental sustainability of marine energy systems are comparatively analysed to enhance the development and utilisation of marine energy technology while reducing the economic cost of power generation. Suitable equipment is highlighted for islands, with efficient energy generation strategies proposed to achieve cleaner, localised, and cost-effective island integrated energy system (IIES) design. Island energy facilities vary, and integrated development is crucial for building new energy systems. Based on the types and resources of island energy, IIESs are constructed for hierarchical energy utilisation and multi-energy coupling, coordinating resources to achieve source-grid-load-storage integration. The optimisation of IIESs is reviewed, with a focus on modelling methods, intelligent algorithm development, and system simulation. This study differs from previous research as it considers the integration of marine energy into existing systems to achieve comprehensive integration of multiple energy sources. Additionally, optimisation and solution methods for IIES models are summarised. To integrate complex, multivariable energy systems and create stable and predictable outputs, marine energy and load forecasting methods are explored. Overall, this study supports the advancement of marine energy utilisation, focusing on its progressive integration into island energy systems as the efficiency of marine energy improves. This work aims to inspire the development of new functions and modules based on existing system optimisation and forecasting techniques.",
+      "authors": [
+        "Wenhua Zhao",
+        "Bohong Wang",
+        "Ting Pan",
+        "Yujie Chen",
+        "Hengcong Tao",
+        "Baoying Guo",
+        "Petar Sabev Varbanov",
+        "Jinshu Lu"
+      ],
+      "year": 2024,
+      "venue": "Fundamental Research",
+      "doi": "10.1016/j.fmre.2024.11.022",
+      "keywords": [
+        "marine renewable energy",
+        "energy system optimization",
+        "multi-energy coupling",
+        "energy storage",
+        "grid integration",
+        "load forecasting",
+        "economic feasibility",
+        "low-carbon transition",
+        "island energy supply"
+      ],
+      "url": "https://openalex.org/W4405414315",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Coordination of Smart Home Energy Management Systems in Neighborhood Areas: A Systematic Review",
+      "abstract": "High penetration of selfish Home Energy Management Systems (HEMSs) causes adverse effects such as rebound peaks, instabilities, and contingencies in different regions of distribution grid. To avoid these effects and relieve power grid stress, the concept of HEMSs coordination has been suggested. Particularly, this concept can be employed to fulfill important grid objectives in neighborhood areas such as flattening aggregated load profile, decreasing electricity bills, facilitating energy trading, diminishing reverse power flow, managing distributed energy resources, and modifying consumers' consumption/generation patterns. This paper reviews the latest investigations into coordinated HEMSs. The required steps to implement these systems, accounting for coordination topologies and techniques, are thoroughly explored. This exploration is mainly reported through classifying coordination approaches according to their utilization of decomposition algorithms. Furthermore, major features, advantages, and disadvantages of the methods are examined. Specifically, coordination process characteristics, its mathematical issues and essential prerequisites, as well as players concerns are analyzed. Subsequently, specific applications of coordination designs are discussed and categorized. Through a comprehensive investigation, this work elaborates significant remarks on critical gaps in existing studies toward a useful coordination structure for practical HEMSs implementations. Unlike other reviews, the present survey focuses on effective frameworks to determine future opportunities that make the concept of coordinated HEMSs feasible. Indeed, providing effective studies on HEMSs coordination concept is beneficial to both consumers and service providers since as reported, these systems can lead to 5% to 30% reduction in electricity bills.",
+      "authors": [
+        "Farshad Etedadi",
+        "Kodjo Agbossou",
+        "Sousso Kélouwani",
+        "Nilson Henao",
+        "Sayed Saeed Hosseini"
+      ],
+      "year": 2021,
+      "venue": "IEEE Access",
+      "doi": "10.1109/access.2021.3061995",
+      "keywords": [
+        "home energy management systems",
+        "load flattening",
+        "electricity cost reduction",
+        "energy trade",
+        "reverse power flow",
+        "distributed energy resources",
+        "coordination topology",
+        "decomposition method"
+      ],
+      "url": "https://openalex.org/W3134694222",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Humanitarian aid distribution logistics with accessibility constraints: a systematic literature review",
+      "abstract": "Purpose The purpose of this paper is to review the relevant literature in order to identify trends and suggest some possible directions for future research in the framework of humanitarian aid distribution logistics with accessibility constraints. Design/methodology/approach The authors developed a systematic literature review to study the state of the art on distribution logistics considering accessibility constraints. The electronic databases used were Web of science, Scopus, Science Direct, Jstor, Emerald, EBSCO, Scielo and Redalyc. As a result, 49 articles were reviewed in detail. Findings This study identified some gaps, as well as some research opportunities. The main conclusions are the need for further studies on the interrelationships and hierarchies of multiple actors, explore intermodality, transshipment options and redistribution relief goods to avoid severe shortages in some nodes and excess inventory in others, studies of the vulnerability of transport networks, correlational analysis of road failures and other future lines. Research limitations/implications The bibliography is limited to peer-reviewed academic journals due to their academic relevance, accessibility and ease of searching. Most of the studies included in the review were conducted in high-income countries, which may limit the generalizability of the results to low-income countries. However, the authors focused on databases covering important journals on humanitarian logistics. Originality/value This paper contextualises and synthesises research into humanitarian aid distribution logistics with accessibility constrains, highlights key themes and suggests areas for further research.",
+      "authors": [
+        "Carlos Alberto Rojas Trejos",
+        "José D. Meisel",
+        "Wilson Adarme Jaimes"
+      ],
+      "year": 2022,
+      "venue": "Journal of Humanitarian Logistics and Supply Chain Management",
+      "doi": "10.1108/jhlscm-05-2021-0041",
+      "keywords": [
+        "humanitarian aid distribution",
+        "access barriers",
+        "humanitarian logistics",
+        "intermodality",
+        "transshipment",
+        "road failure",
+        "research gaps"
+      ],
+      "url": "https://openalex.org/W4311486404",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Economic-financial and technical challenges in the operation of power systems with the integration of variable renewable energy: A systematic literature review",
+      "abstract": "In this study, we investigate the principal economic, financial, and technical challenges in the operation of electricity markets arising from the integration of variable renewable energy (VRE), specifically solar photovoltaic and wind power, and evaluate the role of regulation in addressing these challenges. VRE affects both short-term power system operation and long-term investment conditions. The main contribution of this work is to reduce the prevailing fragmentation in the literature by systematically linking technical constraints with economic and financial requirements. To this end, we propose a challenge–service–instrument framework designed to support context-specific energy strategies and regulatory design. Methodologically, we implement a qualitative and quantitative keyword co-occurrence protocol applied to a corpus of 91 articles, systematically selected from scientific databases and published between 2016 and 2027. The results reveal a methodological disconnect in existing literature and show that VRE intermittency is rarely analyzed jointly with other relevant factors. Consequently, this study advances an integrative perspective that traces how technical constraints (e.g., inertia and system stability) translate into economic and financial requirements for firmness, thereby necessitating specific regulatory instruments (e.g., capacity mechanisms) to safeguard the viability of the energy transition.",
+      "authors": [
+        "John García",
+        "Samuel Bustamante-Castaño",
+        "Gilberto Osorio-Gómez",
+        "Gustavo García",
+        "Nicolas Robledo Aguilar",
+        "Sebastian Ochoa Morales"
+      ],
+      "year": 2026,
+      "venue": "Energy Strategy Reviews",
+      "doi": "10.1016/j.esr.2026.102365",
+      "keywords": [
+        "variable renewable energy integration",
+        "electricity market operation",
+        "photovoltaics",
+        "wind energy",
+        "intermittency",
+        "system inertia",
+        "power system stability",
+        "capacity mechanisms",
+        "energy regulation",
+        "energy transition",
+        "firmness"
+      ],
+      "url": "https://openalex.org/W7213427034",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Sensors for Sustainable Smart Cities: A Review",
+      "abstract": "Experts confirm that 85% of the world’s population is expected to live in cities by 2050. Therefore, cities should be prepared to satisfy the needs of their citizens and provide the best services. The idea of a city of the future is commonly represented by the smart city, which is a more efficient system that optimizes its resources and services, through the use of monitoring and communication technology. Thus, one of the steps towards sustainability for cities around the world is to make a transition into smart cities. Here, sensors play an important role in the system, as they gather relevant information from the city, citizens, and the corresponding communication networks that transfer the information in real-time. Although the use of these sensors is diverse, their application can be categorized in six different groups: energy, health, mobility, security, water, and waste management. Based on these groups, this review presents an analysis of different sensors that are typically used in efforts toward creating smart cities. Insights about different applications and communication systems are provided, as well as the main opportunities and challenges faced when making a transition to a smart city. Ultimately, this process is not only about smart urban infrastructure, but more importantly about how these new sensing capabilities and digitization developments improve quality of life. Smarter communities are those that socialize, adapt, and invest through transparent and inclusive community engagement in these technologies based on local and regional societal needs and values. Cyber security disruptions and privacy remain chief vulnerabilities.",
+      "authors": [
+        "Mauricio Adolfo Ramírez-Moreno",
+        "Sajjad Keshtkar",
+        "Diego A. Padilla-Reyes",
+        "Edrick Ramos",
+        "Moisés García-Martínez",
+        "Mónica C. Hernández-Luna",
+        "Antonio E. Mogro",
+        "Jürgen Mahlknecht",
+        "Jose  Ignacio Huertas",
+        "Rodrigo E. Peimbert-García",
+        "Ricardo A. Ramírez-Mendoza",
+        "Agostino Marcello Mangini",
+        "Michèle Roccotelli",
+        "Blas L. Pérez Henríquez",
+        "Subhas Chandra Mukhopadhyay",
+        "Jorge de J. Lozoya-Santos"
+      ],
+      "year": 2021,
+      "venue": "Applied Sciences",
+      "doi": "10.3390/app11178198",
+      "keywords": [
+        "smart cities",
+        "urban sensors",
+        "sustainable cities",
+        "energy management",
+        "health monitoring",
+        "mobility",
+        "urban security",
+        "water management",
+        "waste management",
+        "real-time communication networks",
+        "urban infrastructure",
+        "community participation",
+        "cybersecurity",
+        "privacy"
+      ],
+      "url": "https://openalex.org/W3196539257",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "IEC 61850 GOOSE: A Systematic Literature Review on the State of the Art and Current Applications",
+      "abstract": "To develop secure, fast, and interoperable smart substations, it is vital to understand the current situation and potential future directions of the technologies involved. This study presents the evolution and state of the art of the Generic Object Oriented Substation Event (GOOSE) communication protocol, defined by the International Electrotechnical Commission (IEC) 61850 standard. A Systematic Literature Review (SLR) was conducted following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) protocol. This included journal articles published from 2004 to 2025 and conference papers from 2020 to 2025, written in English within Engineering. Only studies primarily focusing on GOOSE, citing it at least ten times, and indexed in the Scopus, IEEE Xplore, and Web of Science databases were included. The quantitative analysis used SciMAT software, complemented by a qualitative analysis. Due to the bibliometric and thematic nature of this review, potential biases were considered at the review level rather than by applying a formal study-level risk-of-bias tool. The final analysis comprised 82 journal articles and 84 conference papers. The results offer a comprehensive mapping of GOOSE research evolution, identify nine main challenges and limitations from the last 22 years, and highlight current research directions. The literature reveals methodological heterogeneity, a predominance of simulation-based approaches, and limited large-scale empirical validation.",
+      "authors": [
+        "Arthur Kniphoff da Cruz",
+        "Ana Clara Hackenhaar Kellermann",
+        "Ingridy Caroliny da Silva",
+        "Jaine Mercia Fernandes de Oliveira",
+        "Márcia Elena Jochims Kniphoff da Cruz",
+        "Lorenz Däubler"
+      ],
+      "year": 2026,
+      "venue": "Automation",
+      "doi": "10.3390/automation7020062",
+      "keywords": [
+        "IEC 61850",
+        "geese",
+        "smart substation",
+        "power system protection",
+        "interoperability",
+        "research trends",
+        "simulation validation"
+      ],
+      "url": "https://openalex.org/W7154738178",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Decoding development: the AI frontier in policy crafting: A systematic review",
+      "abstract": "Abstract In today’s world, smart algorithms—artificial intelligence (AI) and other intelligent systems—are pivotal for promoting the development agenda. They offer novel support for decision-making across policy planning domains, such as analysing poverty alleviation funds and predicting mortality rates. To comprehensively assess their efficacy and implications in policy formulation, this paper conducts a systematic review of 207 publications. The analysis underscores their integration within and across stages of the policy planning cycle: problem diagnosis and goal articulation; resource and constraint identification; design of alternative solutions; outcome projection; and evaluation. However, disparities exist in smart algorithm applications across stages, economic development levels, and Sustainable Development Goals (SDGs). While these algorithms predominantly focus on resource identification (29%) and contribute significantly to designing alternatives—such as long-term national energy policies—and projecting outcomes, including predicting multi-scenario land-use ecological security strategies, their application in evaluation remains limited (10%). Additionally, low-income nations have yet to fully harness AI’s potential, while upper-middle-income countries effectively leverage it. Notably, smart algorithm applications for SDGs also exhibit unevenness, with more emphasis on SDG 11 than on SDG 5 and SDG 17. Our study identifies literature gaps. Firstly, despite theoretical shifts, a disparity persists between physical and socioeconomic/environmental planning applications. Secondly, there is limited attention to policy-making in development initiatives, which is critical for improving lives. Future research should prioritise developing adaptive planning systems using emerging powerful algorithms to address uncertainty and complex environments. Ensuring algorithmic transparency, human-centered approaches, and responsible AI are crucial for AI accountability, trust, and credibility.",
+      "authors": [
+        "Sofiarti Dyah Anggunia",
+        "Jesse Sowell",
+        "María Pérez‐Ortiz"
+      ],
+      "year": 2025,
+      "venue": "Data & Policy",
+      "doi": "10.1017/dap.2025.10",
+      "keywords": [
+        "artificial intelligence in policymaking",
+        "development policy",
+        "Sustainable Development Goals",
+        "poverty reduction",
+        "mortality prediction",
+        "low-income countries",
+        "responsible AI",
+        "algorithmic transparency",
+        "resource identification",
+        "policy evaluation"
+      ],
+      "url": "https://openalex.org/W4408282575",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "TECHNICAL AND ECONOMIC FEASIBILITY OF SOLAR IRRIGATION PUMPING SYSTEM: A REVIEW",
+      "abstract": "Climate change has become a major constraint to the development of rain-fed agriculture due to the decline of rainfall. Therefore, irrigated agriculture is an alternative allowing farmers to have more access to water in order to meet crop water requirements. However, irrigated agriculture faces a major constraint related to the accessibility of energy sources used in pumping water. In general, the most common energy sources used in pumping water for irrigation are fuel and electricity. Nevertheless, they are very expensive, are not always accessible particularly in rural areas in Africa and have a negative impact on the environment; hence the need to find alternatives to solve this problem. This review focuses on the technical and economic feasibility of solar irrigation pumps and the impact of their use on the environment. Several aspects related to solar pumping have been discussed, namely the components of the solar pumping system, the energy source used, the principle of operation of the system, the technical, economic, and environmental feasibility. Reviews show that the use of solar irrigation pumps is a technically and economically feasible alternative in several areas with less environmental impact.",
+      "authors": [
+        "Lamine Diop"
+      ],
+      "year": 2020,
+      "venue": "Knowledge-Based Engineering and Sciences",
+      "doi": "10.51526/kbes.2020.1.01.1-22",
+      "keywords": [
+        "solar irrigation pumps",
+        "solar water pumping",
+        "technical feasibility",
+        "economic feasibility",
+        "environmental impact",
+        "irrigated agriculture",
+        "rainfed agriculture",
+        "water pumping",
+        "renewable energy",
+        "rural water access",
+        "climate change"
+      ],
+      "url": "https://openalex.org/W3197902287",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Electric Mobility Transition, Intelligent Digital Platforms, and Grid–Vehicle Integration Models: A Systematic Review",
+      "abstract": "The transition to electric mobility requires the coordinated evolution of vehicles, charging infrastructure, power systems, and intelligent digital platforms. This study examines the role of Industry 4.0 technologies in enabling large-scale electric vehicle (EV) adoption and effective EV grid integration and synthesizes the existing evidence into a coherent analytical framework to support planning and policy decision-making. A systematic review of 27 peer-reviewed studies published between 2018 and 2025 was conducted in accordance with PRISMA 2020 guidelines, capturing the acceleration of electromobility following the consolidation of Industry 4.0 technologies and the emergence of large-scale policy commitments worldwide. The analysis covers six technology families, including the Internet of Things, big data and analytics, artificial intelligence and machine learning, blockchain, digital twins, and extended reality, and examines their applications in smart charging, grid vehicle coordination, fleet optimization, and vehicle-to-grid services. The findings show that analytics and artificial intelligence consistently enhance operational reliability and efficiency, while digital twins are increasingly applied to infrastructure siting, grid impact assessment, and scenario analysis. Building on these results, the study proposes a three-layer analytical framework composed of physical, digital, and decision layers, together with a functional EV grid generation integration model that links technology readiness to system-level deployment. In addition, a transition timeline for the 2025–2040 period and a concise set of key performance indicators are introduced to support evaluation and comparison. Policy implications for Ecuador and Latin America emphasize interoperability, data governance, realistic cost assessment, and a phased approach to vehicle-to-grid deployment.",
+      "authors": [
+        "Eduardo Javier Pozo Burgos",
+        "Luis Omar Alpala",
+        "Argenis Lissander Heredia Campaña"
+      ],
+      "year": 2026,
+      "venue": "World Electric Vehicle Journal",
+      "doi": "10.3390/wevj17030123",
+      "keywords": [
+        "electric mobility transition",
+        "electric vehicles",
+        "grid integration of electric vehicles",
+        "Industry 4.0 technologies",
+        "smart charging",
+        "vehicle-to-grid",
+        "digital twin",
+        "Internet of Things",
+        "big data analytics",
+        "artificial intelligence",
+        "blockchain",
+        "extended reality",
+        "fleet optimization",
+        "charging station location",
+        "grid impact assessment",
+        "technology readiness",
+        "analytical framework",
+        "key performance indicators",
+        "interoperability",
+        "data governance",
+        "Latin America",
+        "Ecuador"
+      ],
+      "url": "https://openalex.org/W7133121586",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "No Place to Hide? Regional Resilience and Vulnerability to Global Catastrophic Risk",
+      "abstract": "ABSTRACT What places on Earth are most resilient to global catastrophic risk (GCR)? We provide the first study of what locations are more resilient against the impacts of nuclear war, near‐Earth objects, large‐magnitude volcanic eruptions, large‐scale cyberattacks, high altitude electromagnetic pulse, geomagnetic storms and pandemics. This shows there is no place on Earth which is resilient against all kinds of GCR. Australia shows resilience across the widest range of GCR scenarios in the literature we reviewed, but even for it, continued international cooperation and trade are essential. Across the different risks, common resilience factors that show up most are geographic isolation (e.g. islands), self‐sufficiency (especially in food production), high governance quality (more democratic and lower inequality) and decentralization to mitigate single point catastrophic failures (e.g. impacting trade or food supply). Many of these factors stand in tension with each other and trade‐offs are required to balance between different GCR scenarios and between a higher resilience against the immediate impacts or against the longer‐term consequences. The literature suggests that increased GCR resilience requires more investment in preparation (e.g., food security), planning (e.g., national risk assessments), and international agreements that facilitate cooperation on preparation and GCR response.",
+      "authors": [
+        "Florian Ulrich Jehn",
+        "Maximilian Roessler",
+        "Luke Kemp",
+        "Mike Cassidy",
+        "Zachary Kallenborn",
+        "Juan Bartolomé García Martínez",
+        "Lara Mani",
+        "Matt Boyd"
+      ],
+      "year": 2026,
+      "venue": "Global Challenges",
+      "doi": "10.1002/gch2.70146",
+      "keywords": [
+        "global catastrophic risk",
+        "regional resilience",
+        "nuclear war",
+        "near-Earth objects",
+        "cyberattacks",
+        "high-altitude electromagnetic pulse",
+        "geomagnetic storms",
+        "pandemic",
+        "geographic isolation",
+        "self-sufficiency",
+        "food security",
+        "governance quality",
+        "inequality",
+        "decentralization",
+        "international cooperation",
+        "risk trade-offs",
+        "Australia"
+      ],
+      "url": "https://openalex.org/W7141584863",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Digital Technologies for Young Entrepreneurs in Latin America: A Systematic Review of Educational Innovations (2018–2024)",
+      "abstract": "This systematic review based on PRISMA presents an analysis of 74 studies, conducted between 1889 and 2024, on the issue of digital technologies for the development of entrepreneurial skills of young people, with a focus on Latin America. The original review combines 44 regional and 30 international studies, examining mobile platforms, e-commerce, artificial intelligence, and immersive technologies. The results present a paradigm of innovation through constraint, with all successful adaptations driven by infrastructural limitations. As case studies, Latin American contexts have demonstrated the effectiveness of mobile technology and microlearning comparable to costly immersive technologies, completely contradicting deficit narratives. Seventy-eight percent of regional studies adhere systematically to the Sustainable Development Goals (SDGs 4, 8, 10), illustrating an inclusive approach to technological development that values social impact over technical sophistication. Triangulation bibliometrics confirm the institutionalization of three research traditions—techno-deterministic, constructivist, and critical—with a focus on innovation–digital transformation–technological entrepreneurship. Studies show that contexts traditionally considered “limited” generate innovations with potential for reverse transfer to developed economies. The implementation gap between research and practice reflects systemic tensions between academic frameworks and contextual complexities. This will motivate fundamental justifications for implementing educational policies in ways that support contextual diversity as a strategic strength, fostering the sustainable development of youth entrepreneurial skills in the digital age.",
+      "authors": [
+        "Pedro Manuel Silva León",
+        "Luís Edgardo Cruz Salinas",
+        "Gary Christiam Farfán Chilicaus",
+        "Gabriela Lizeth Castro Ijiri",
+        "Lisseth Katherine Chuquitucto Cotrina",
+        "Flor Delicia Heredia Llatas",
+        "Emma Verónica Ramos Farroñán",
+        "Celín Pérez Nájera"
+      ],
+      "year": 2025,
+      "venue": "Social Sciences",
+      "doi": "10.3390/socsci14090537",
+      "keywords": [
+        "youth entrepreneurship",
+        "entrepreneurial skills",
+        "digital technologies",
+        "educational innovation",
+        "mobile learning",
+        "microlearning",
+        "e-commerce",
+        "artificial intelligence",
+        "immersive technologies",
+        "Latin America",
+        "Sustainable Development Goals",
+        "digital divide",
+        "technology entrepreneurship",
+        "digital transformation",
+        "education policy"
+      ],
+      "url": "https://openalex.org/W4414021157",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Commons Movements: Old and New Trends in Rural and Urban Contexts",
+      "abstract": "Over the past few years, studies in political ecology and environmental justice have been increasingly connecting the commons and social movements empirically, giving shape to a new, distinctive body of research on commons movements. In our review, we first organize and synthesize empirical lessons from this body of literature. We then highlight recent theoretical efforts made by scholars to both bridge and transcend the gap between the theory of the commons and social movement theory. As we illustrate, movements can help create and strengthen commons institutions and discourses, as well as rescale them horizontally and vertically. This is particularly evident in the context of rural community-rights movements in the global South, as well as in new water and food commons movements and community energy movements in both the global South and North. Commons institutions, in turn, can serve as the basis of social mobilization and become a key frame for social movements, as shown in the context of local environmental justice and livelihoods conflicts and anti-privatization struggles. Tensions and contradictions of commons-movement dynamics also exist and reflect trade-offs between diversity versus uniformization and organizational closure versus expansion of discourses and practices. Theoretically, there is an opportunity to cross boundaries from the theory of the commons to social movementtheory and vice versa, e.g., by highlighting the role of political opportunities and framing, and biophysical factors and polycentricity, respectively. More importantly, a new commons movements theory is emerging focusing on cross-scalar organizations, the virtuous cycles between commons projects and mobilization, and the processes of commons-making.",
+      "authors": [
+        "Sergio Villamayor‐Tomás",
+        "Gustavo A. García-López"
+      ],
+      "year": 2021,
+      "venue": "Annual Review of Environment and Resources",
+      "doi": "10.1146/annurev-environ-012220-102307",
+      "keywords": [
+        "commons movement",
+        "commons theory",
+        "social movement theory",
+        "water commons",
+        "environmental justice",
+        "commons institutions",
+        "polycentricity",
+        "framing",
+        "political opportunities",
+        "Global South"
+      ],
+      "url": "https://openalex.org/W3193760861",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Simulation methods in entrepreneurship research: a systematic review and text mining analysis",
+      "abstract": "Entrepreneurship, a prolific field of research, is vital for nurturing new ventures, yet comprehending its diverse impacts on enterprises poses a challenge. In this context, the use of simulation methods is innovative to unravel the complex organizational processes affected by entrepreneurship. Therefore, this study aims to investigate simulation approaches in entrepreneurship domains. To achieve this, we combined a systematic literature review (SLR) and a text mining analysis based on Natural Language Processing (NLP). In total, 3527 articles published between 1995 and Jan 2024 in the Clarivate Analytics Web of Science database have been collected; 219 articles were selected for the systematic literature review. A machine learning classification method using Latent Dirichlet Allocation (LDA) determines the optimal number of topics. Thereafter, research methods, fields, themes are extracted and categorized. In addition, this paper highlights the major gaps in this field which shed light on the future research directions. Results indicate that the business field is the most prevalent, and Agent-Based Modeling stands out as the most commonly applied technique.",
+      "authors": [
+        "S. M. Ayazi",
+        "Seyed Mojtaba Sajadi",
+        "Marjan Ghazisaeedi",
+        "Danial Esmaeilnezhad",
+        "Mohammad Reza Taghizadeh"
+      ],
+      "year": 2025,
+      "venue": "Journal of Simulation",
+      "doi": "10.1080/17477778.2025.2503869",
+      "keywords": [
+        "simulation methods",
+        "entrepreneurship research",
+        "agent-based modeling",
+        "research gaps",
+        "startups"
+      ],
+      "url": "https://openalex.org/W4410482631",
+      "type": "review"
+    }
+  ]
+}

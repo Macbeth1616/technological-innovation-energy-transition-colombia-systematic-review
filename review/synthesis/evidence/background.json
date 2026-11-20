@@ -1,0 +1,296 @@
+[
+ {
+  "id": "c10",
+  "regime": "discovery",
+  "source": "guidance/background/definitions-10.3389-fenrg.2021.743114/definitions-10.3389-fenrg.2021.743114.md",
+  "cite_key": "kabeyi2022sustainable",
+  "content": "[bg-definitions / energy transition] Energy transition denotes changes in the fundamental processes behind the evolution of human societies, which both drive and are driven by technical, economic and social change. Supporting quote: \"Energy transition refers changes undertaken in fundamental processes in charge of evolution of human societies that drive and are driven by technical, economic, and social changes\" Cite as \\cite{kabeyi2022sustainable} (M. B. Kabeyi, Frontiers in Energy Research, 2022)"
+ },
+ {
+  "id": "c11",
+  "regime": "discovery",
+  "source": "guidance/background/definitions-10.3389-fenrg.2021.743114/definitions-10.3389-fenrg.2021.743114.md",
+  "cite_key": "kabeyi2022sustainable",
+  "content": "[bg-definitions / energy transition] The International Renewable Energy Agency defines energy transition as the pathway by which the global energy sector moves from a fossil-dominated mix to zero carbon. Supporting quote: \"The International Renewable Energy Agency (IRA) defines energy transition as the pathway in the transformation of the global energy sector from fossil-dominated mix to zero-carbon by the second half of the 21st century\" Cite as \\cite{kabeyi2022sustainable} (M. B. Kabeyi, Frontiers in Energy Research, 2022)"
+ },
+ {
+  "id": "c12",
+  "regime": "discovery",
+  "source": "guidance/background/definition-10.1016-j.erss.2017.09.015/definition-10.1016-j.erss.2017.09.015.md",
+  "cite_key": "cherp2018integrating",
+  "content": "[bg-definitions / energy transition] Conceptualized as a co-evolutionary process, an energy transition involves mechanisms that explain how each subsystem evolves and mechanisms that connect the subsystems. Supporting quote: \"Conceptualized as a co-evolutionary process, an energy transition involves two types of mechanisms: (1) those explaining the evolution of each of the subsystems and (2) those connecting these subsystems.\" Cite as \\cite{cherp2018integrating} (A. Cherp, Energy research and social science, 2018)"
+ },
+ {
+  "id": "c13",
+  "regime": "discovery",
+  "source": "guidance/background/definition-10.1016-j.eist.2013.03.002/definition-10.1016-j.eist.2013.03.002.md",
+  "cite_key": "papachristos2013system",
+  "content": "[bg-definitions / socio-technical transition and multi-level perspective] Sociotechnical systems frameworks have been developed to conceptualise and understand large-scale, complex processes of technology, production and social change. Supporting quote: \"Sociotechnical systems frameworks are developed to conceptualise and understand large scale complex processes of technology, production, and social change.\" Cite as \\cite{papachristos2013system} (G. Papachristos, Environmental innovation and societal transitions, 2013)"
+ },
+ {
+  "id": "c14",
+  "regime": "discovery",
+  "source": "guidance/background/definition-10.1016-j.erss.2017.09.015/definition-10.1016-j.erss.2017.09.015.md",
+  "cite_key": "cherp2018integrating",
+  "content": "[bg-definitions / socio-technical transition and multi-level perspective] Socio-technical transition analysis, like the multi-level perspective, treats technological change as shifts in normally stable regimes driven by pressure from external landscapes together with innovation in protected niches. Supporting quote: \"The second analytical approach, ‘socio-technical transition analysis’, similarly to the MLP, views technological change as shifts in normally stable sociotechnical regimes resulting from a combination of pressures from external landscapes and innovation in protected niches.\" Cite as \\cite{cherp2018integrating} (A. Cherp, Energy research and social science, 2018)"
+ },
+ {
+  "id": "c15",
+  "regime": "discovery",
+  "source": "guidance/background/open-problem-10.32479-ijeep.8294/open-problem-10.32479-ijeep.8294.md",
+  "cite_key": "montenegro2019energy",
+  "content": "[bg-definitions / non-conventional renewable energy sources and Law 1715 of 2014] Colombia's Law 1715 of 2014 provides for integrating non-conventional renewable energies into the National Energy System in order to promote the development and use of unconventional, mainly renewable, energy sources. Supporting quote: \"In Colombia, Law 1715 of 2014 defines the integration of non-conventional renewable energies (NCRE) into the National Energy System, with the objective of promoting the development and use of unconventional energy sources, mainly those of a renewable nature.\" Cite as \\cite{montenegro2019energy} (A. R. Montenegro, International Journal of Energy Economics and Policy, 2019)"
+ },
+ {
+  "id": "c16",
+  "regime": "discovery",
+  "source": "guidance/background/definition-10.32479-ijeep.10010/definition-10.32479-ijeep.10010.md",
+  "cite_key": "moreno2020first",
+  "content": "[bg-definitions / non-conventional renewable energy sources and Law 1715 of 2014] Colombia held its first long-term auction of non-conventional renewable sources as a milestone, intended by the National Government as a major step in its energy transition policy. Supporting quote: \"In Colombia, as a historic milestone, the first long-term auction of non-conventional renewable sources was held in 2019, with the aim of the National Government to take a major step in the energy transition policy.\" Cite as \\cite{moreno2020first} (R. Moreno, International Journal of Energy Economics and Policy, 2020)"
+ },
+ {
+  "id": "c17",
+  "regime": "discovery",
+  "source": "guidance/introduction/context-10.1016-j.renene.2019.10.066/context-10.1016-j.renene.2019.10.066.md",
+  "cite_key": "ruizlopez2020solar",
+  "content": "[bg-definitions / non-interconnected zones and the National Interconnected System] In Colombia's non-interconnected zones, small private grids and heavy dependence on diesel generators have led to high electricity prices, poor coverage and low supply reliability. Supporting quote: \"In Non-interconnected Zones (ZNI), small and private electricity grids, as well as a significant dependency on diesel generators have resulted in high electricity prices, poor coverage and low reliability in electricity supply.\" Cite as \\cite{ruizlopez2020solar} (Andrea Erica Ruiz-Lopez, Renewable Energy, 2020)"
+ },
+ {
+  "id": "c18",
+  "regime": "discovery",
+  "source": "guidance/background/open-problem-10.32479-ijeep.15931/open-problem-10.32479-ijeep.15931.md",
+  "cite_key": "gonzalez2024localized",
+  "content": "[bg-definitions / non-interconnected zones and the National Interconnected System] Certain areas of Colombia are not connected to the National Interconnected System of energy, which creates a problem of electricity service in those zones. Supporting quote: \"There is a problem in certain areas of Colombia where the zones are not connected to the National Interconnected System of energy (NIS).\" Cite as \\cite{gonzalez2024localized} (Angelica Gonzalez, International Journal of Energy Economics and Policy, 2024)"
+ },
+ {
+  "id": "c19",
+  "regime": "discovery",
+  "source": "guidance/background/definitions-10.3389-fenrg.2021.743114/definitions-10.3389-fenrg.2021.743114.md",
+  "cite_key": "kabeyi2022sustainable",
+  "content": "[bg-definitions / microgrid] A microgrid is a group of interconnected loads and distributed energy resources within a well-defined electrical boundary, operated as one controllable unit relative to the grid. Supporting quote: \"A microgrid can be defined as a group of interconnected loads and distributed energy resources existing in a well-defined electrical boundary that is operated as single controllable unit with respect to the grid\" Cite as \\cite{kabeyi2022sustainable} (M. B. Kabeyi, Frontiers in Energy Research, 2022)"
+ },
+ {
+  "id": "c20",
+  "regime": "discovery",
+  "source": "guidance/background/definitions-10.3389-fenrg.2021.743114/definitions-10.3389-fenrg.2021.743114.md",
+  "cite_key": "kabeyi2022sustainable",
+  "content": "[bg-definitions / microgrid] Microgrids are becoming an important solution in the sustainable energy transition because they improve the reliability and resilience of electric power grids. Supporting quote: \"Microgrids are becoming an important solution in the sustainable energy transition by improving reliability and resilience of electric power grids\" Cite as \\cite{kabeyi2022sustainable} (M. B. Kabeyi, Frontiers in Energy Research, 2022)"
+ },
+ {
+  "id": "c21",
+  "regime": "discovery",
+  "source": "guidance/introduction/existing-review-10.15446-sicel.v12.121195/existing-review-10.15446-sicel.v12.121195.md",
+  "cite_key": "botero2026performance",
+  "content": "[bg-definitions / energy efficiency] Energy efficiency is defined as the ability to obtain the same energy service or outcome while using a smaller amount of energy. Supporting quote: \"Energy efficiency is defined as the ability to achieve the same energy service or outcome using a smaller amount of energy.\" Cite as \\cite{botero2026performance} (Alejandro Osorio Botero, Simposio Internacional sobre la Calidad de la Energía Eléctrica - SICEL, 2026)"
+ },
+ {
+  "id": "c22",
+  "regime": "discovery",
+  "source": "guidance/background/definitions-10.3389-fenrg.2021.804091/definitions-10.3389-fenrg.2021.804091.md",
+  "cite_key": "valle2022promoting",
+  "content": "[bg-definitions / energy efficiency] Energy efficiency policy has only recently begun to integrate the human factor, complementing a physical, technical and economic approach that focuses strongly on technologies and cost savings. Supporting quote: \"Only recently, the integration of the human factor started being integrated into energy efficiency policy, complementing the physical–technical–economic approach, which has a strong focus on technologies and cost savings.\" Cite as \\cite{valle2022promoting} (N. Della Valle, Frontiers in Energy Research, 2022)"
+ },
+ {
+  "id": "c23",
+  "regime": "discovery",
+  "source": "guidance/background/flexibility-10.3389-fenrg.2020.527910/flexibility-10.3389-fenrg.2020.527910.md",
+  "cite_key": "zhang2020benefit",
+  "content": "[bg-definitions / power-system flexibility] Reliable and cost-effective power system operation with high renewable shares requires more operational flexibility and backup generation capacity. Supporting quote: \"To ensure reliable and cost-effective power system operations, more operational flexibility and backup generation capacity is required\" Cite as \\cite{zhang2020benefit} (Jia-Zi Zhang, Frontiers in Energy Research, 2020)"
+ },
+ {
+  "id": "c24",
+  "regime": "discovery",
+  "source": "guidance/introduction/costs-maturity-10.1038-s41467-019-08855-1/costs-maturity-10.1038-s41467-019-08855-1.md",
+  "cite_key": "bogdanov2019radical",
+  "content": "[bg-definitions / power-system flexibility] A growing share of renewable generation increases the need for flexibility in the power system. Supporting quote: \"as the growing share of RE generation results in an increased need for system flexibility\" Cite as \\cite{bogdanov2019radical} (D. Bogdanov, Nature Communications, 2019)"
+ },
+ {
+  "id": "c25",
+  "regime": "discovery",
+  "source": "guidance/background/definitions-10.3389-fenrg.2021.743114/definitions-10.3389-fenrg.2021.743114.md",
+  "cite_key": "kabeyi2022sustainable",
+  "content": "[bg-definitions / energy storage] Energy storage is an important solution to the intermittency of renewable supply and therefore a critical element of a sustainable energy system. Supporting quote: \"Energy storage is an important solution to intermittent renewable energy supply and hence a critical aspect of a sustainable energy system\" Cite as \\cite{kabeyi2022sustainable} (M. B. Kabeyi, Frontiers in Energy Research, 2022)"
+ },
+ {
+  "id": "c26",
+  "regime": "discovery",
+  "source": "guidance/background/flexibility-10.3389-fenrg.2020.00219/flexibility-10.3389-fenrg.2020.00219.md",
+  "cite_key": "hargreaves2020long",
+  "content": "[bg-definitions / energy storage] The most suitable storage technologies for balancing a power system depend on the duration of the deficit events they are designed to mitigate. Supporting quote: \"The best storage technologies to balance the system depend on the duration of deficit events it is designed to mitigate\" Cite as \\cite{hargreaves2020long} (Jeremy J. Hargreaves, Frontiers in Energy Research, 2020)"
+ },
+ {
+  "id": "c27",
+  "regime": "discovery",
+  "source": "guidance/background/just-transition-territory-10.3389-fenrg.2019.00099/just-transition-territory-10.3389-fenrg.2019.00099.md",
+  "cite_key": "lee2019expanding",
+  "content": "[bg-definitions / energy justice and just transition] The prevailing framework of energy justice, which has shaped current discourse, rests on three dimensions: distributional, procedural and recognition justice. Supporting quote: \"This paper reviews the prevailing three-tenet framework of energy justice which has shaped the current discourse based on the three dimensions—distributional, procedural, and recognition justice.\" Cite as \\cite{lee2019expanding} (Joohee Lee, Frontiers in Energy Research, 2019)"
+ },
+ {
+  "id": "c28",
+  "regime": "discovery",
+  "source": "guidance/background/just-transition-territory-10.3389-fenrg.2022.1089025/just-transition-territory-10.3389-fenrg.2022.1089025.md",
+  "cite_key": "babayomi2023renewable",
+  "content": "[bg-definitions / energy justice and just transition] Procedural justice means that energy-related decision-making processes are carried out in a transparent and impartial manner. Supporting quote: \"Procedural justice ensures that energy-related decisionmaking processes are performed transparently and impartially\" Cite as \\cite{babayomi2023renewable} (O. Babayomi, Frontiers in Energy Research, 2023)"
+ },
+ {
+  "id": "c29",
+  "regime": "discovery",
+  "source": "guidance/background/definitions-10.3389-fenrg.2021.743114/definitions-10.3389-fenrg.2021.743114.md",
+  "cite_key": "kabeyi2022sustainable",
+  "content": "[bg-definitions / energy justice and just transition] Universal energy access from which everyone benefits is a key requirement and component of a fair and just transition. Supporting quote: \"A key requirement and component of a fair and just transition is the universal energy access where all benefit.\" Cite as \\cite{kabeyi2022sustainable} (M. B. Kabeyi, Frontiers in Energy Research, 2022)"
+ },
+ {
+  "id": "c30",
+  "regime": "discovery",
+  "source": "guidance/background/open-problem-10.32479-ijeep.15931/open-problem-10.32479-ijeep.15931.md",
+  "cite_key": "gonzalez2024localized",
+  "content": "[bg-definitions / energy poverty] Energy poverty refers to the lack of access to essential services that can be obtained through the use of electricity. Supporting quote: \"Energy poverty (EP) refers to the lack of access to essential services that can be obtained through the use of electricity.\" Cite as \\cite{gonzalez2024localized} (Angelica Gonzalez, International Journal of Energy Economics and Policy, 2024)"
+ },
+ {
+  "id": "c31",
+  "regime": "discovery",
+  "source": "guidance/background/open-problem-10.32479-ijeep.15931/open-problem-10.32479-ijeep.15931.md",
+  "cite_key": "gonzalez2024localized",
+  "content": "[bg-definitions / energy poverty] The United Nations Development Programme describes energy poverty as inadequate access to affordable, dependable, high-quality and environmentally and health-friendly energy services that open opportunities for economic development. Supporting quote: \"According to the United Nations Development Programme, EP is the inadequate access to affordable, dependable, high-quality energy services that are environmentally and health-friendly, and that provide opportunities for economic development in communities\" Cite as \\cite{gonzalez2024localized} (Angelica Gonzalez, International Journal of Energy Economics and Policy, 2024)"
+ },
+ {
+  "id": "c32",
+  "regime": "discovery",
+  "source": "guidance/background/definition-10.1016-j.eist.2013.03.002/definition-10.1016-j.eist.2013.03.002.md",
+  "cite_key": "papachristos2013system",
+  "content": "[bg-open-problems / policy and regulation] The absence of a stable and uniform regulatory framework signals that a sociotechnical system is still a niche rather than an established regime. Supporting quote: \"The lack of stable uniform regulatory framework indicates that the system is still a niche.\" Cite as \\cite{papachristos2013system} (G. Papachristos, Environmental innovation and societal transitions, 2013)"
+ },
+ {
+  "id": "c33",
+  "regime": "discovery",
+  "source": "guidance/background/just-transition-territory-10.3389-fenrg.2022.1089025/just-transition-territory-10.3389-fenrg.2022.1089025.md",
+  "cite_key": "babayomi2023renewable",
+  "content": "[bg-open-problems / policy and regulation] Weak regulatory and policy frameworks lengthen approval times and, together with financial requirements, are key challenges for operating off-grid mini-grids. Supporting quote: \"Key challenges include weak regulatory and policy frameworks, which increase the time for approvals, and financial requirements to operate off-grid mini-grids.\" Cite as \\cite{babayomi2023renewable} (O. Babayomi, Frontiers in Energy Research, 2023)"
+ },
+ {
+  "id": "c34",
+  "regime": "discovery",
+  "source": "guidance/background/definitions-10.3389-fenrg.2021.743114/definitions-10.3389-fenrg.2021.743114.md",
+  "cite_key": "kabeyi2022sustainable",
+  "content": "[bg-open-problems / policy and regulation] A successful energy transition requires a stable political and economic framework, supported by financial, technical and administrative policy measures that overcome the barriers created by a distorted energy market. Supporting quote: \"A successful energy transition requires a stable political and economic framework, and support systems, financial measures, technical and as well as well as administrative policy measures to overcome barriers existing as a result of a distorted energy market\" Cite as \\cite{kabeyi2022sustainable} (M. B. Kabeyi, Frontiers in Energy Research, 2022)"
+ },
+ {
+  "id": "c35",
+  "regime": "discovery",
+  "source": "guidance/background/definition-10.32479-ijeep.8038/definition-10.32479-ijeep.8038.md",
+  "cite_key": "forero2019renewable",
+  "content": "[bg-open-problems / economics and finance] High investment costs, scarce human capital and policies focused on conventional sources are the main difficulties for developing non-conventional renewable sources in Colombia. Supporting quote: \"The high investment costs, the lack of human capital with knowledge in these technologies and general policies focused on conventional sources, are the main difficulties for the development of these energy sources.\" Cite as \\cite{forero2019renewable} (J. Duarte Forero, International Journal of Energy Economics and Policy, 2019)"
+ },
+ {
+  "id": "c36",
+  "regime": "discovery",
+  "source": "guidance/background/finance-regulation-10.1038-s41560-024-01606-7/finance-regulation-10.1038-s41560-024-01606-7.md",
+  "cite_key": "calcaterra2024reducing",
+  "content": "[bg-open-problems / economics and finance] Easing financial constraints in developing countries benefits both climate and equity by enabling more renewable and affordable energy. Supporting quote: \"We found that alleviating financial constraints benefits both climate and equity as a result of more renewable and affordable energy in the developing world.\" Cite as \\cite{calcaterra2024reducing} (M. Calcaterra, Nature Energy, 2024)"
+ },
+ {
+  "id": "c37",
+  "regime": "discovery",
+  "source": "guidance/background/definitions-10.3389-fenrg.2021.743114/definitions-10.3389-fenrg.2021.743114.md",
+  "cite_key": "kabeyi2022sustainable",
+  "content": "[bg-open-problems / markets and supply chains] A sustainable energy transition calls for an appropriate market structure so that the energy sector performs well in terms of prices, energy efficiency, supply and technological innovation. Supporting quote: \"A sustainable energy transition calls for the design of an appropriate market structure for proper performance of the energy sector in terms of prices, energy efficiency, supply, and technological innovation.\" Cite as \\cite{kabeyi2022sustainable} (M. B. Kabeyi, Frontiers in Energy Research, 2022)"
+ },
+ {
+  "id": "c38",
+  "regime": "discovery",
+  "source": "guidance/introduction/costs-maturity-10.1038-s41467-023-41971-7/costs-maturity-10.1038-s41467-023-41971-7.md",
+  "cite_key": "nijsse2023momentum",
+  "content": "[bg-open-problems / markets and supply chains] Uncertainties remain over grid stability, finance in underdeveloped economies, supply-chain capacity and political resistance from regions that lose employment as renewables come to dominate power systems. Supporting quote: \"Uncertainties arise, however, over grid stability in a renewables-dominated power system, the availability of sufficient finance in underdeveloped economies, the capacity of supply chains and political resistance from regions that lose employment.\" Cite as \\cite{nijsse2023momentum} (F. Nijsse, Nature Communications, 2023)"
+ },
+ {
+  "id": "c39",
+  "regime": "discovery",
+  "source": "guidance/background/definition-10.1007-s10584-019-02521-7/definition-10.1007-s10584-019-02521-7.md",
+  "cite_key": "sovacool2019decarbonization",
+  "content": "[bg-open-problems / markets and supply chains] Low-carbon transitions involve cosmopolitan injustices that centre largely on globalized supply chains, the sourcing of materials and waste streams. Supporting quote: \"Our analysis shows that cosmopolitan injustices were identified in all cases, and they largely centered on globalized supply chains, sourcing of materials, and waste streams.\" Cite as \\cite{sovacool2019decarbonization} (Benjamin K. Sovacool, Climatic Change, 2019)"
+ },
+ {
+  "id": "c40",
+  "regime": "discovery",
+  "source": "guidance/background/open-problem-10.32479-ijeep.8294/open-problem-10.32479-ijeep.8294.md",
+  "cite_key": "montenegro2019energy",
+  "content": "[bg-open-problems / technical infrastructure] The natural intermittency and dispersion of wind and solar sources limit their extensive use and increase the vulnerability of the existing electrical system. Supporting quote: \"Despite the benefits of renewable sources such as wind and solar energies, some difficulties as their natural intermittency and dispersion avoid its extensive use, which increases the vulnerability of the existing electrical system.\" Cite as \\cite{montenegro2019energy} (A. R. Montenegro, International Journal of Energy Economics and Policy, 2019)"
+ },
+ {
+  "id": "c41",
+  "regime": "discovery",
+  "source": "guidance/background/flexibility-10.3389-fenrg.2020.527910/flexibility-10.3389-fenrg.2020.527910.md",
+  "cite_key": "zhang2020benefit",
+  "content": "[bg-open-problems / technical infrastructure] Integrating high shares of variable renewable energy raises challenges for the reliability and cost-effectiveness of power systems. Supporting quote: \"The integration of high shares of variable renewable energy raises challenges for the reliability and cost-effectiveness of power systems.\" Cite as \\cite{zhang2020benefit} (Jia-Zi Zhang, Frontiers in Energy Research, 2020)"
+ },
+ {
+  "id": "c42",
+  "regime": "discovery",
+  "source": "guidance/background/flexibility-10.3389-fenrg.2020.00219/flexibility-10.3389-fenrg.2020.00219.md",
+  "cite_key": "hargreaves2020long",
+  "content": "[bg-open-problems / technical infrastructure] The dynamics of sustained peaking capability in high-renewable systems, and their interaction with long-term storage and reliability, are still at a nascent stage in planning, operations and electricity markets. Supporting quote: \"Finally, the dynamics of sustained peaking capability in high renewable systems and the interaction between LTS and reliability is still at a nascent stage in planning, operations, and electricity markets.\" Cite as \\cite{hargreaves2020long} (Jeremy J. Hargreaves, Frontiers in Energy Research, 2020)"
+ },
+ {
+  "id": "c43",
+  "regime": "discovery",
+  "source": "guidance/introduction/existing-review-10.15446-sicel.v12.121195/existing-review-10.15446-sicel.v12.121195.md",
+  "cite_key": "botero2026performance",
+  "content": "[bg-open-problems / institutions and governance] Structural and regulatory challenges in the energy system include institutional fragmentation and a lack of coordination among key actors. Supporting quote: \"Firstly, the structural and regulatory challenges include institutional fragmentation and the lack of coordination among key actors in the energy system.\" Cite as \\cite{botero2026performance} (Alejandro Osorio Botero, Simposio Internacional sobre la Calidad de la Energía Eléctrica - SICEL, 2026)"
+ },
+ {
+  "id": "c44",
+  "regime": "discovery",
+  "source": "guidance/background/definitions-10.3389-fenrg.2021.743114/definitions-10.3389-fenrg.2021.743114.md",
+  "cite_key": "kabeyi2022sustainable",
+  "content": "[bg-open-problems / institutions and governance] Transition challenges are compounded because efforts to promote more sustainable, resilient and equitable energy disrupt economic, political and institutional relationships. Supporting quote: \"The transition challenges are further compounded by the fact that efforts to promote more sustainable, more resilient, and equitable energy disrupts economic, political, and institutional relationships.\" Cite as \\cite{kabeyi2022sustainable} (M. B. Kabeyi, Frontiers in Energy Research, 2022)"
+ },
+ {
+  "id": "c45",
+  "regime": "discovery",
+  "source": "guidance/introduction/costs-maturity-10.1038-s41467-019-08855-1/costs-maturity-10.1038-s41467-019-08855-1.md",
+  "cite_key": "bogdanov2019radical",
+  "content": "[bg-open-problems / social acceptance and justice] Social acceptance of technologies changes over time and cannot be derived or estimated through techno-economic analysis alone. Supporting quote: \"Social acceptance of technologies varies over time and cannot be derived or estimated by techno-economic analysis.\" Cite as \\cite{bogdanov2019radical} (D. Bogdanov, Nature Communications, 2019)"
+ },
+ {
+  "id": "c46",
+  "regime": "discovery",
+  "source": "guidance/background/definition-10.1007-s10584-019-02521-7/definition-10.1007-s10584-019-02521-7.md",
+  "cite_key": "sovacool2019decarbonization",
+  "content": "[bg-open-problems / social acceptance and justice] Failing to enable the participation of all citizens can yield less responsive and representative policy choices and may create friction and resentment that widen exclusion and inequality. Supporting quote: \"A failure to facilitate the participation of all citizens may not only make for less responsive and representative policy choices; it may also create friction and resentment in society, widening exclusion and inequality\" Cite as \\cite{sovacool2019decarbonization} (Benjamin K. Sovacool, Climatic Change, 2019)"
+ },
+ {
+  "id": "c47",
+  "regime": "discovery",
+  "source": "guidance/background/open-problem-10.2458-jpe.5470/open-problem-10.2458-jpe.5470.md",
+  "cite_key": "banks2023opted",
+  "content": "[bg-open-problems / social acceptance and justice] Latin America has long been a key site of resource extraction, acting as a sacrifice zone for the fossil fuel needs of the Global North. Supporting quote: \"Latin America has long been a key site of resource extraction, acting as a sacrifice zone for the Global North's fossil fuel needs.\" Cite as \\cite{banks2023opted} (Emma Banks, Journal of Political Ecology, 2023)"
+ },
+ {
+  "id": "c48",
+  "regime": "discovery",
+  "source": "guidance/background/definition-10.32479-ijeep.8038/definition-10.32479-ijeep.8038.md",
+  "cite_key": "forero2019renewable",
+  "content": "[bg-open-problems / knowledge and capacity] Barriers such as a lack of human capital, policies focused on conventional technologies and high investment costs have impeded the growth of non-conventional renewable sources. Supporting quote: \"barriers such as lack of human capital, policies focused on conventional technologies and high investment costs have impeded their growth.\" Cite as \\cite{forero2019renewable} (J. Duarte Forero, International Journal of Energy Economics and Policy, 2019)"
+ },
+ {
+  "id": "c49",
+  "regime": "discovery",
+  "source": "guidance/introduction/context-10.1016-j.renene.2019.10.066/context-10.1016-j.renene.2019.10.066.md",
+  "cite_key": "ruizlopez2020solar",
+  "content": "[bg-open-problems / knowledge and capacity] There is insufficient awareness among the population that a transition of the energy sector is beneficial in the long run. Supporting quote: \"Moreover, there is not enough awareness among the population that a transition of the energy sector is beneficial in the long run.\" Cite as \\cite{ruizlopez2020solar} (Andrea Erica Ruiz-Lopez, Renewable Energy, 2020)"
+ },
+ {
+  "id": "c51",
+  "regime": "discovery",
+  "source": "guidance/introduction/context-10.1016-j.enpol.2018.12.057/context-10.1016-j.enpol.2018.12.057.md",
+  "cite_key": "arangoaramburo2019climate",
+  "content": "[bg-open-problems / natural resources and climate] Climate change is likely to affect water availability and therefore hydropower generation in many regions of the world. Supporting quote: \"Climate change is likely to affect water availability and therefore hydropower generation in many regions of the world.\" Cite as \\cite{arangoaramburo2019climate} (S. Arango-Aramburo, Energy Policy, 2019)"
+ },
+ {
+  "id": "c52",
+  "regime": "discovery",
+  "source": "guidance/introduction/context-10.1016-j.solener.2019.11.087/context-10.1016-j.solener.2019.11.087.md",
+  "cite_key": "jurasz2019complementarity",
+  "content": "[bg-open-problems / natural resources and climate] Energy sources driven by weather and climate, such as wind and solar, are characterized by significant spatial and temporal variability. Supporting quote: \"However, the weather and climate driven energy sources are characterized by a significant spatial and temporal variability.\" Cite as \\cite{jurasz2019complementarity} (Jakob Jurasz, Solar Energy, 2019)"
+ }
+]

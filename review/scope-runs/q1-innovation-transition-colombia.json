@@ -1,0 +1,758 @@
+{
+  "generated_at": "2026-11-17T02:36:24Z",
+  "query": "technological innovation energy transition Colombia",
+  "source": "openalex (type:review)",
+  "total": 1062,
+  "reviews": [
+    {
+      "source": "openalex",
+      "title": "Energy, material, and resource efficiency for industrial decarbonization: A systematic review of sociotechnical systems, technological innovations, and policy options",
+      "abstract": "Efficiency stands out as one of the most important options for achieving industrial decarbonization. In addition to carbon emissions reductions, improving energy, material and resource efficiency can bring many desirable benefits, such as cost savings, increased energy and resource security, and higher productivity. However, despite these clear benefits being understood for decades, the adoption of efficiency practices still lags far behind its potential, and commercial liftoff remains a challenge. To understand these gaps, we conducted a comprehensive and systematic review through a socio-technical lens of more than 2.8 million references and 380 selected studies on industrial decarbonization. This research uses a socio-technical lens across the industrial supply chain and delves into the classes of raw materials and feedstocks, pre-processing, manufacturing, and waste and recycling. The paper also clarifies the barriers to decarbonization efforts, which include economic, organizational, and behavioral challenges, and highlights policy measures to address these barriers. It concludes by outlining areas for further research.",
+      "authors": [
+        "Jinsoo Kim",
+        "Benjamin Kenneth Sovacool",
+        "Morgan Bazilian",
+        "Steve Griffiths",
+        "Minyoung Yang"
+      ],
+      "year": 2024,
+      "venue": "Energy Research & Social Science",
+      "doi": "10.1016/j.erss.2024.103521",
+      "keywords": [
+        "industrial decarbonization",
+        "energy efficiency",
+        "material efficiency",
+        "resource efficiency",
+        "socio-technical systems",
+        "technological innovation",
+        "decarbonization policy",
+        "industrial supply chains",
+        "recycling",
+        "waste management",
+        "carbon emission reduction"
+      ],
+      "url": "https://openalex.org/W4393142154",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Decarbonizing the oil refining industry: A systematic review of sociotechnical systems, technological innovations, and policy options",
+      "abstract": "The oil refining industry, which was established in the mid-19th century, has become a foundation of modern society. While the refining of crude oil to produce transportation fuels, petrochemical feedstocks and a variety of other products has brought manifold benefits, it has also led to the global proliferation of greenhouse gas emissions as well as local air pollution from the combustion of fossil fuels. The industry is therefore confronted with a growing need to decarbonize its operations, as well as to support decarbonization of the end use sectors that it directly enables. This paper provides a systematic and critical literature review to uncover the means by which the oil refining industry can decarbonize and evolve as part of an increasingly carbon constrained future. A sociotechnical perspective is used to understand the full range of industrial and economic activities where a decarbonized oil refining industry is expected to remain important and to provide the framework to assess key technical, economic, social and political factors that will likely impact the evolution of the oil refining industry. We highlight key opportunities for this industry to decarbonize while also exposing gaps in the existing literature concerning its decarbonization. The insights provided are expected to support policy makers, researchers and practitioners with the tools needed advance a low-carbon transition of the oil refining industry.",
+      "authors": [
+        "Steve Griffiths",
+        "Benjamin Kenneth Sovacool",
+        "Jinsoo Kim",
+        "Morgan Bazilian",
+        "Joao M. Uratani"
+      ],
+      "year": 2022,
+      "venue": "Energy Research & Social Science",
+      "doi": "10.1016/j.erss.2022.102542",
+      "keywords": [
+        "oil refining industry",
+        "decarbonization",
+        "socio-technical systems",
+        "technological innovation",
+        "decarbonization policy",
+        "greenhouse gas emissions",
+        "air pollution",
+        "low-carbon transition",
+        "petrochemical feedstock",
+        "transportation fuels",
+        "carbon emission constraints"
+      ],
+      "url": "https://openalex.org/W4213388338",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Clean Technology Transfer and Innovation in Social Housing Production in Brazil and Colombia. A Framework from a Systematic Review",
+      "abstract": "Over recent years in Brazil and Colombia, the social housing programs of these two countries have increasingly become directly related to the concept of green construction and seek to integrate with their respective laws. For example, a series of technological strategies allows bought countries to guarantee a reduction of the environmental impact of traditional construction technologies. Therefore, these actions try to answer the problems in the design of dwellings in Latin America. However, the construction sector reduced productivity and limited innovation in business. Some of the technological management processes in the social housing construction sector only consider the implementation of clean technologies tangentially. This situation is mainly because of general policies since they do not consider different local contexts. It is then worth asking: What impact do the processes of transfer of clean technologies have on social housing in Brazil and Colombia? This systematic review was carried out on scientific papers indexed by the science database from 2013 to 2019. The PRISMA method was applied to this review with an aim to propose a conceptual model for the transfer of clean technology in the production of social housing in Brazil and Colombia. Finally, we identify that the impact of clean technologies transfer on social housing is very low in these two countries.",
+      "authors": [
+        "Rolando González",
+        "Grace Tibério Cardoso"
+      ],
+      "year": 2020,
+      "venue": "Sustainability",
+      "doi": "10.3390/su12041335",
+      "keywords": [
+        "social housing",
+        "sustainable construction",
+        "construction innovation",
+        "environmental impact of construction",
+        "housing policy",
+        "Brazil",
+        "Colombia",
+        "conceptual model"
+      ],
+      "url": "https://openalex.org/W3005581009",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Systematic review of techniques and tools for the simultaneous improvement of operational efficiency and innovation in the Colombian energy sector: Application in the company Celsia.",
+      "abstract": "Esta investigación aborda la tensión operativa no resuelta en el sector energético colombiano, definida por una contradicción sistémica: la exigencia de estandarización para la eficiencia de costos choca con la necesidad de flexibilidad para la innovación en la transición energética. Ante la gestión fragmentada de estas variables, el objetivo general fue identificar las técnicas implementadas en el país para resolver esta tensión y evaluar su aplicabilidad en Celsia S.A. E.S.P. La metodología siguió un enfoque mixto, integrando una Revisión Sistemática de Literatura (RSL) bajo protocolo PRISMA sobre un corpus de 923 documentos científicos (con filtrado por criterios de calidad) y un estudio de caso validado mediante el análisis de los reportes corporativos del periodo 2020-2025. Los resultados evidenciaron que, aunque la literatura global presenta una fragmentación teórica, la evidencia empírica en Celsia demostró que la digitalización profunda (RPA y Centro NOVA) generó ahorros operativos de 165.000 millones de COP. Estos recursos validaron un mecanismo de financiación cruzada donde la eficiencia operativa (PermaneC) sostiene la inversión en innovación (EnergizarC). Se concluye que la eficiencia opera como el habilitador financiero de la innovación, resolviendo la contradicción inicial mediante modelos de negocio servitizados y de rotación de activos fortaleciendo la competitividad, sostenibilidad y resiliencia organizacional",
+      "authors": [
+        "Jeily Camila Amorocho Carvajal"
+      ],
+      "year": 2026,
+      "venue": "Universidad Industrial de Santander",
+      "doi": "",
+      "keywords": [
+        "operational efficiency",
+        "innovation",
+        "Colombian energy sector",
+        "energy transition",
+        "digitalization",
+        "robotic process automation",
+        "cost standardization",
+        "innovation financing",
+        "organizational resilience"
+      ],
+      "url": "https://openalex.org/W7135000596",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Energy transition in sustainable transport: concepts, policies, and methodologies",
+      "abstract": "The growth in population, economic expansion, and urban dynamism has collectively driven a surge in the use of public and private transport, resulting in increased energy consumption in this sector. Consequently, the transport sector requires an energy transition to meet mobility demands, foster economic growth, and achieve emission reduction. The main objective of this article is to systematically review the literature on energy transition in transportation, categorizing research, identifying barriers, and providing analysis to guide future steps, with a special focus on developing countries. The methodology used in this study follows a sequence for a systematic review based on an evidence-informed approach and specific guidelines for systematic reviews, exploring the concepts, methodologies, and policies within the context of the energy transition, considering transport modes and geographical scope. The findings indicate that electricity is the predominant energy source in this transition, although its prevalence varies by transport mode. Biofuels present an alternative, primarily contributing to emission reduction associated with fossil fuel use. Natural gas emerges as a cost-effective option for heavy transport, while hydrogen represents another alternative, with the challenge of developing recharging infrastructure. Determinants of this transition include recharging infrastructure, tax and nontax incentives, public policies, the generation of electric power from renewable sources, and the management of battery life cycles from mineral extraction to disposal.",
+      "authors": [
+        "Julieth Stefany García Collazos",
+        "Laura M. Cárdenas",
+        "Carlos Jaime Franco"
+      ],
+      "year": 2024,
+      "venue": "Environmental Science and Pollution Research",
+      "doi": "10.1007/s11356-024-34862-x",
+      "keywords": [
+        "energy transition",
+        "sustainable transport",
+        "transport emissions reduction",
+        "biofuels",
+        "natural gas vehicles",
+        "hydrogen fuel",
+        "charging infrastructure",
+        "transport policy",
+        "tax incentives",
+        "renewable energy",
+        "battery lifecycle management",
+        "heavy transport",
+        "developing countries"
+      ],
+      "url": "https://openalex.org/W4402761471",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Fossil fuels, stranded assets, and the energy transition in the Global South: A systematic literature review",
+      "abstract": "Abstract Complying with the Paris Agreement on Climate Change requires leaving fossil fuels underground (LFFU), which raises justice issues regarding the Global South and its energy transition. The literature is scattered with no review papers on the challenges of LFFU in the Global South, hence we ask: What can be learnt from reviewing the scholarship on the Global South's energy transition, focusing on LFFU and the issue of stranded resources and assets? Our review reveals: (a) renewable investments in the Global South are relatively low for the scale of change needed, and such renewable deployment is more additive than substitutive. Nonetheless, there is potential for the Global South to leapfrog; (b) literature on LFFU in the Global South is limited, and much of it focuses on subsidies. However, developing countries might include stranded assets in their accounting, making LFFU appealing; (c) the Right to Development influences the energy transition's governance and justice issues: limited governance hampers LFFU, while understudied power dynamics shape transition's political economies. However, a global and multilevel just transition may have the potential to achieve LFFU. Thus, the literature overlooks (i) the dilemmas of stranded resources and assets from a developing country perspective and the implications in terms of equity, development, and climate change impacts; and (ii) the underlying power dynamics. Future research should investigate energy leapfrogging viability, critically assess renewables' additive rather than substitutive character in the Global South, and better identify the constraints to an inclusive energy transition, posed by North–South power dynamics and FF incumbents. This article is categorized under: Climate and Development > Social Justice and the Politics of Development",
+      "authors": [
+        "Augusto Heras",
+        "Joyeeta Gupta"
+      ],
+      "year": 2023,
+      "venue": "Wiley Interdisciplinary Reviews Climate Change",
+      "doi": "10.1002/wcc.866",
+      "keywords": [
+        "stranded assets",
+        "energy transition",
+        "Global South",
+        "just transition",
+        "renewable energy investment",
+        "right to development",
+        "energy governance",
+        "power relations",
+        "fossil fuel subsidies",
+        "Paris Agreement",
+        "climate justice",
+        "developing countries"
+      ],
+      "url": "https://openalex.org/W4388416302",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Technological Innovation in Start-Ups on a Pathway to Achieving Sustainable Development Goal (SDG) 8: A Systematic Review",
+      "abstract": "In a start-up, the level of technological innovation is crucial to the start-up’s competitiveness, especially in the digital age; as a result, high-tech start-ups stand a better chance of being more profitable than middle-tech and low-tech start-ups. The aim of this study is to identify and examine research papers regarding the role of technological innovation in advancing Sustainable Development Goal 8 (SDG) in the current context. This study intends to fill research gaps by performing a systematic literature review and meta-analysis following the PRISMA guidelines on the subject. To investigate advancements in the use of start-up technologies, scientific publications were obtained from the Scopus database, yielding a total of 384 entries for the preferred reporting items for systematic reviews and the meta-analyses identification stage. The findings indicate that high technology encompasses artificial intelligence (AI), blockchain, the Internet of Things (IoT), and collaborative robots; medium technology comprises mobile applications, big data, and cloud computing; and low technology consists of software and connectivity. Each of the technological innovations plays a significant role in advancing SDG 8, encompassing aspects such as economic growth, employment, productivity, creativity, innovation, entrepreneurship, development policies, and business growth.",
+      "authors": [
+        "Lilian Danil",
+        "Siti Jahroh",
+        "Rizal Syarief",
+        "Asep Taryana"
+      ],
+      "year": 2025,
+      "venue": "Sustainability",
+      "doi": "10.3390/su17031220",
+      "keywords": [
+        "technological innovation",
+        "startups",
+        "SDG 8",
+        "SDG 12",
+        "high-tech start-ups",
+        "artificial intelligence",
+        "blockchain",
+        "Internet of Things",
+        "collaborative robots",
+        "mobile application",
+        "big data",
+        "cloud computing",
+        "entrepreneurship",
+        "economic growth",
+        "employment"
+      ],
+      "url": "https://openalex.org/W4407106157",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "MAPPING THE MECHANISMS LINKING TECHNOLOGICAL INNOVATION AND INSTITUTIONAL RESILIENCE: AN EXPLORATORY SYSTEMATIC LITERATURE REVIEW",
+      "abstract": "This study investigates how technological innovation enhances institutional resilience across various sectors, addressing a conceptual gap where both are often explored in isolation. Employing an Exploratory Systematic Literature Review (SLR) using the Scopus database, the study screened 154 documents, applying PRISMA guidelines and bibliometric mapping with VOS viewer to synthesize 35 eligible articles published between 2010 and 2025. The review reveals five key themes: sectoral focus on health and education, a temporal surge in post-pandemic studies, dominance of social sciences and environmental disciplines, geographical concentration in Anglo-American contexts, and the growing role of AI and digital platforms in adaptive governance. Despite rising interest, theoretical integration remains limited. Insights underscore the need for interdisciplinary models and empirical focus on underrepresented regions like the Global South. This could inform strategic policymaking and institutional design for resilience in volatile environments. This study is among the first to systematically map the mechanisms linking technology-driven innovation and institutional resilience using both qualitative synthesis and bibliometric visualization, offering a structured research agenda for future inquiry.",
+      "authors": [
+        "Alfalisyado Alfalisyado",
+        "James Chou",
+        "Edi Joko Setyadi",
+        "Sri Fitri Wahyuni"
+      ],
+      "year": 2025,
+      "venue": "The International Conference on Sustainable Economics Management and Accounting Proceeding",
+      "doi": "10.32424/icsema.1.1.131",
+      "keywords": [
+        "technological innovation",
+        "institutional resilience",
+        "adaptive governance",
+        "health sector",
+        "education sector",
+        "COVID-19 pandemic",
+        "artificial intelligence",
+        "digital platforms",
+        "Global South",
+        "institutional design",
+        "research agenda"
+      ],
+      "url": "https://openalex.org/W4413619671",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "A bibliometric review of grid parity, energy transition and electricity cost research for sustainable development",
+      "abstract": "As the topic of sustainable development continues to prominence in global affairs, the case for renewable energy has never been stronger. To be regarded as a perfect alternative to conventional (non-renewable) energy sources in many climes, renewable energy, such as solar and wind, shows promise when considering concepts like grid parity. A significant number of studies have been devoted to understanding the concept. However, only a few studies have committed themselves to analysing the research activity carried out on it. This paper will present a bibliometric and empirical review of worldwide grid parity, energy transition, and electricity cost research. To situate the progress in this research area, a detailed search of Scopus was used to identify and situate research development in the field from 1965 until 2021. Using the data extracted from Scopus and VOSviewer for analysis, we explore different aspects of the publications, such as the volume, growth rate, and coverage of published documents, the most influential research papers and journals in this research area, and the most studied research themes in recent years. We also discuss Governmental policies in developed and developing economies that have accelerated the attainment of Grid parity in certain countries. Also, an empirical review of top-down, bottom-up, and artificial neural network approaches to evaluating grid parity was conducted. The study revealed a steady increase in the research articles focused on grid parity, energy transition, and electricity cost research from 2006. The geographic distribution of the publications shows that most of the publications on the subject originated from the USA, Germany, China, United Kingdom, and Spain, raking in 42.2% of the publications. Also, the top 7 authors with the highest document count from Scopus are from Finland, which coincidentally is one of the countries making significant progress in Grid parity attainment. Of the total document count from Scopus, only 0.02% are papers published from African Countries. Could this reluctance to publish research findings on energy transition be one of the reasons for the slow progression of sustainable energy for all in Africa? Therefore, it is imperative now more than ever for more research focusing on the attainment of grid parity, energy transition, and electricity costs for developing countries to be brought to the fore. This article provides a review of state-of-the-art research on the attainment of grid parity and energy transition with a focus on the Levelized Cost of Electricity (LCOE) models of renewable energy sources.",
+      "authors": [
+        "Temitope M. Adeyemi-Kayode",
+        "Sanjay Misra",
+        "Rytis Maskeliūnas",
+        "Robertas Damaševičius"
+      ],
+      "year": 2023,
+      "venue": "Heliyon",
+      "doi": "10.1016/j.heliyon.2023.e15532",
+      "keywords": [
+        "grid parity",
+        "energy transition",
+        "electricity cost",
+        "levelized cost of electricity",
+        "renewable energy",
+        "solar energy",
+        "wind energy",
+        "sustainable development",
+        "energy policy",
+        "artificial neural networks",
+        "research trends"
+      ],
+      "url": "https://openalex.org/W4366124634",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Dynamics and challenges of technology transfer in Colombia: a systematic literature review",
+      "abstract": "Introduction: Technology transfer in Colombia plays a critical role in promoting innovation and regional development. However, its implementation continues to face significant institutional, economic, and cultural challenges that hinder its effectiveness and sustainability. Methods: A systematic literature review was conducted in accordance with the PRISMA 2020 guidelines. The databases Scopus and Web of Science were used to identify peer-reviewed articles that addressed knowledge and technology transfer within the Colombian context. Results: The analysis revealed multiple barriers: institutional fragmentation, inadequate investment in R&D, lack of incentives for collaboration, and weak trust between academia and industry. Additionally, organizational rigidity and the limited adaptation of international transfer models to local contexts were identified as factors that reduce the effectiveness of these processes. Discussion: The findings highlight the need to acknowledge regional particularities, foster inclusive governance, and promote horizontal relationships among stakeholders. Effective international strategies, such as open innovation, co-creation models, and hybrid technology transfer offices, could be adapted to the Colombian context. Strengthening institutional capacities, increasing R&D funding, and aligning innovation with social and environmental objectives are imperative to build a more robust and inclusive innovation ecosystem.",
+      "authors": [
+        "Alejandro Valencia-Arías",
+        "Karla Cristina Bonilla Restrepo",
+        "Eliana María Villa Enciso",
+        "Jackeline Valencia",
+        "Juan Camilo Rua Hernandez",
+        "Diana Marleny Ramírez-Ramírez"
+      ],
+      "year": 2025,
+      "venue": "Frontiers in Research Metrics and Analytics",
+      "doi": "10.3389/frma.2025.1628141",
+      "keywords": [
+        "technology transfer",
+        "Colombia",
+        "barriers to technology transfer",
+        "institutional fragmentation",
+        "R&D investment",
+        "academia-industry collaboration",
+        "organizational rigidity",
+        "open innovation",
+        "co-creation",
+        "innovation ecosystems",
+        "regional development",
+        "inclusive governance"
+      ],
+      "url": "https://openalex.org/W4414103973",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Overview of Mobile Communications in Colombia and Introduction to 5G",
+      "abstract": "The deployment of 5G around the world continues to progress at a rapid pace, especially in North America and Asia. Its advantages and efficiency as a data transmission network have been widely demonstrated in different fields such as agriculture, education, health, and surveillance. However, this process does not have the same dynamics in Latin America, specifically in Colombia. The country is currently implementing actions aimed at facilitating the deployment of this technology in the short term, including pilot tests for the use of the radio spectrum, spectrum auctions, the planning of future auctions, and the review of spectrum caps. The results of this review allow us to conclude that despite the forecasts and the intentions of the Colombian government and mobile communication service operators, 5G in standalone mode will not be commercially available in Colombia before the end of 2023. The main failures in its deployment are related to the lack of available spectrum to support the ultrahigh-reliability and low-latency, enhanced mobile broadband, and massive machine-type communications scenarios, as well as the delay in the auction processes for its assignment.",
+      "authors": [
+        "Alexis Barrios-Ulloa",
+        "Dora Cama-Pinto",
+        "Francisco Manuel Arrabal Campos",
+        "Juan Martínez-Lao",
+        "José Monsalvo-Amaris",
+        "Audomaro Hernández-López",
+        "Alejandro Cama-Pinto"
+      ],
+      "year": 2023,
+      "venue": "Sensors",
+      "doi": "10.3390/s23031126",
+      "keywords": [
+        "5G deployment",
+        "mobile communication",
+        "radio spectrum",
+        "spectrum auctions",
+        "spectrum allocation",
+        "Colombia",
+        "commercial availability",
+        "low-latency communication",
+        "enhanced mobile broadband",
+        "massive machine-type communications",
+        "Latin America"
+      ],
+      "url": "https://openalex.org/W4317398990",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Grassroots innovation and social innovation in perspective",
+      "abstract": "This article provides a comprehensive review of social innovation and grassroots innovation over the last 5 years, offering a detailed analysis of both concepts. This study explores the integration of grassroots innovation and social innovation based on an extensive literature review. It examines five dimensions within the literature: key fields, disciplines, actors, geographical areas and theoretical frameworks. Despite significant research in recent decades, there is a notable gap of literature devoted to grassroots innovation and its position within discourse of social innovation. This paper explores the differences and similarities between the concepts of social innovation and grassroots innovation in order to better understand the use of both concepts, the cases in which they are used and possible complementarities. The main findings of the literature on combining the concepts of social innovation and grassroots innovation focus on social enterprises, while research on grassroots innovation as a stand-alone concept focuses on community-led initiatives, civil society organisations, cooperatives and local leaders. Geographically, India plays a very important role in grassroots and social innovation research, followed by Brazil and Spain. In terms of theoretical approach, the combination of social innovation and grassroots innovation has a strong sociological focus, emphasising theories of social practice, collective action, solidarity and community. In contrast, the theoretical frameworks of grassroots innovation are more anchored in power relations and socio-technical transitions, including, for example, resistance to innovation. Grassroots innovation offers practical insights into understanding innovation through the lenses of grassroots and community-based social change. Similarly, social innovation can contribute to the debate on grassroots innovations by understanding not only the agency of actors, but also the innovation ecosystem, actors and types of innovation. Further empirical research on the understanding and application of both concepts in the global North and South in academic discourse offers great potential, therefore potential research questions have been raised here for further investigation.",
+      "authors": [
+        "Karina Maldonado-Mariscal"
+      ],
+      "year": 2023,
+      "venue": "Frontiers in Sociology",
+      "doi": "10.3389/fsoc.2023.1247293",
+      "keywords": [
+        "grassroots innovation",
+        "social innovation",
+        "social enterprises",
+        "community-led initiatives",
+        "civil society organizations",
+        "cooperatives",
+        "local leaders",
+        "social practice theory",
+        "collective action",
+        "solidarity",
+        "socio-technical transitions",
+        "resistance to innovation",
+        "power relations",
+        "innovation ecosystems",
+        "Global North and Global South"
+      ],
+      "url": "https://openalex.org/W4388187646",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "A transition to sustainable ocean governance",
+      "abstract": "Human wellbeing relies on the Biosphere, including natural resources provided by ocean ecosystems. As multiple demands and stressors threaten the ocean, transformative change in ocean governance is required to maintain the contributions of the ocean to people. Here we illustrate how transition theory can be applied to ocean governance. We demonstrate how current economic and social systems can adapt to existing pressures and shift towards ocean stewardship through incorporation of niche innovations within and across economic sectors and stakeholder communities. These novel approaches support an emergent but purposeful transition and suggest a clear path to a thriving and vibrant relationship between humans and the ocean. Oceans provide important natural resources, but the management and governance of the ocean is complex and the ecosystem is suffering as a result. The authors discuss current barriers to sustainable ocean governance and suggest pathways forward.",
+      "authors": [
+        "Tanya Brodie Rudolph",
+        "Mary H. Ruckelshaus",
+        "Mark Swilling",
+        "Edward H. Allison",
+        "Henrik Österblom",
+        "Stefan Gelcich",
+        "Philile Mbatha"
+      ],
+      "year": 2020,
+      "venue": "Nature Communications",
+      "doi": "10.1038/s41467-020-17410-2",
+      "keywords": [
+        "sustainable ocean governance",
+        "transition theory",
+        "ocean stewardship",
+        "transformative change",
+        "niche innovation",
+        "stakeholder engagement",
+        "barriers to change",
+        "human-ocean relationship"
+      ],
+      "url": "https://openalex.org/W3043724156",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "The water-energy-food nexus in biodiversity conservation: A systematic review around sustainability transitions of agricultural systems",
+      "abstract": "The Water Energy Food nexus is a powerful topic in agricultural systems to elucidate threats to biodiversity conservation and culture. This paper aimed to recapitulate nexus thinking research, focusing on social-ecological transitions of agriculture systems and biodiversity management within the Water-Energy-Food nexus. We developed a systematic review and a bibliometric analysis derived from 529 documents in the Scopus database. The ToS method identified a total of 81 relevant information in the sample of documents (529) categorised into roots (10), trunks (9) and leaves (62). This review paper situates types, focus, and highlights regarding biodiversity and prevalent thematic research areas such as \"Food Nexus\", \"Environmental Flows\", \"Sustainability\", \"Transitions\", and \"Governance\". Our results suggest that future research should focus on the nexus of \"Water-Energy-Food-Biodiversity\" and propose a transdisciplinary approach to elucidate the state of sustainability transitions in the agricultural systems at the landscape level. It could increase stakeholder interest in conservation, and sustainability management, to reverse biodiversity losses in ecosystems.",
+      "authors": [
+        "Diana Cristina Moreno Vargas",
+        "Carolina del Pilar Quiñones Hoyos",
+        "Olga Lucía Hernández-Manrique"
+      ],
+      "year": 2023,
+      "venue": "Heliyon",
+      "doi": "10.1016/j.heliyon.2023.e17016",
+      "keywords": [
+        "water-energy-food nexus",
+        "biodiversity conservation",
+        "sustainability transitions",
+        "agricultural systems",
+        "social-ecological transitions",
+        "environmental flows",
+        "biodiversity governance",
+        "biodiversity loss",
+        "transdisciplinary research"
+      ],
+      "url": "https://openalex.org/W4383536245",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Innovation as A Driver of SMEs Sustainability: A Systematic Review of the Literature",
+      "abstract": "One interesting area of research is innovation for the sustainability of Small and Medium Enterprises (SMEs), which has increasingly attracted economists' attention in recent years. This paper is a literature review of several articles on the application of innovation to encourage SME sustainability. This paper aims to ensure that technological, process, and production innovation are integrated ways to drive SME sustainability and are most widely used in the literature, especially about SME sustainability. Based on a comprehensive review of innovation variables with systematic literature review methods, the search yielded 25 articles from journal publications indexed in ScienceDirect. The results concluded that product innovation could create significant added value and open up new market opportunities while marketing innovation and business models can increase customer reach and adaptability of SMEs to a dynamic business environment. Product innovation, marketing, and business models can be applied to encourage SMEs' sustainability to encourage SMEs' sustainability. Government policy support, access to financing, and strategic partnerships are critical factors for the success of this innovation initiative, which overall improves the competitiveness and viability of SMEs.",
+      "authors": [
+        "Nuri Latifannisa",
+        "Yunia Wardi",
+        "Marwan Marwan"
+      ],
+      "year": 2025,
+      "venue": "BASKARA Journal of Business and Entrepreneurship",
+      "doi": "10.54268/baskara.v7i2.26926",
+      "keywords": [
+        "innovation",
+        "small and medium-sized enterprises",
+        "SME sustainability",
+        "product innovation",
+        "marketing innovation",
+        "business models",
+        "technological innovation",
+        "process innovation",
+        "production innovation",
+        "government policy support",
+        "access to finance",
+        "strategic partnership",
+        "competitiveness"
+      ],
+      "url": "https://openalex.org/W4414412950",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Organizational Strategies for Energy Sustainability: Systematic Review of the Literature Spanning 2020–2024",
+      "abstract": "Energy sustainability is a key strategic focus of organizations in the transition to renewable energy sources. This study conducted a systematic review of the literature published between 2020 and 2024 to identify energy sustainability strategies at the organizational level that optimize energy efficiency and reduce dependence on fossil fuels. Academic databases such as Scopus, ScienceDirect, and Web of Science were consulted, selecting 50 high-impact articles using inclusion criteria related to thematic relevance, timeliness, and methodological rigor. The results showed that digitization, circular economy, and technological innovation are fundamental pillars in energy sustainability. However, significant barriers, such as financial and regulatory restrictions, were identified that hinder the adoption of these strategies. Similarly, the integration of smart technologies and sustainable management models favors the optimization of energy consumption and compliance with environmental regulations. In conclusion, the implementation of these strategies not only contributes to the mitigation of climate change but also improves the operational efficiency of organizations for the formulation of public policies and the possibility of opening new lines of research in energy sustainability.",
+      "authors": [
+        "Emma Verónica Ramos Farroñán",
+        "Danny Alonso Lizarzaburu Aguinaga",
+        "Luís Edgardo Cruz Salinas",
+        "Gary Christiam Farfán Chilicaus",
+        "Mabel Ysabel Otiniano León",
+        "Francisco Segundo Mogollón García",
+        "Celín Pérez Nájera"
+      ],
+      "year": 2025,
+      "venue": "Sustainability",
+      "doi": "10.3390/su17125252",
+      "keywords": [
+        "energy sustainability",
+        "energy efficiency",
+        "renewable energy transition",
+        "fossil fuel dependence",
+        "digitization",
+        "circular economy",
+        "technological innovation",
+        "smart technologies",
+        "sustainable management",
+        "barriers to adoption",
+        "environmental compliance",
+        "climate change mitigation",
+        "energy optimization"
+      ],
+      "url": "https://openalex.org/W4411092893",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "A Comprehensive Review on Natural Fibers: Technological and Socio-Economical Aspects",
+      "abstract": "Asian countries have abundant resources of natural fibers, but unfortunately, they have not been optimally utilized. The facts showed that from 2014 to 2020, there was a shortfall in meeting national demand of over USD 2.75 million per year. Therefore, in order to develop the utilization and improve the economic potential as well as the sustainability of natural fibers, a comprehensive review is required. The study aimed to demonstrate the availability, technological processing, and socio-economical aspects of natural fibers. Although many studies have been conducted on this material, it is necessary to revisit their potential from those perspectives to maximize their use. The renewability and biodegradability of natural fiber are part of the fascinating properties that lead to their prospective use in automotive, aerospace industries, structural and building constructions, bio packaging, textiles, biomedical applications, and military vehicles. To increase the range of applications, relevant technologies in conjunction with social approaches are very important. Hence, in the future, the utilization can be expanded in many fields by considering the basic characteristics and appropriate technologies of the natural fibers. Selecting the most prospective natural fiber for creating national products can be assisted by providing an integrated management system from a digitalized information on potential and related technological approaches. To make it happens, collaborations between stakeholders from the national R&D agency, the government as policy maker, and academic institutions to develop national bioproducts based on domestic innovation in order to move the circular economy forward are essential.",
+      "authors": [
+        "Azizatul Karimah",
+        "Muhammad Rasyidur Ridho",
+        "Sasa Sofyan Munawar",
+        "Ismadi Ismadi",
+        "Yusup Amin",
+        "Ratih Damayanti",
+        "Muhammad Adly Rahandi Lubis",
+        "Asri Peni Wulandari",
+        "Nurindah Nurindah",
+        "Apri Heri Iswanto",
+        "Ahmad Fudholi",
+        "Mochamad Asrofi",
+        "Euis Saedah",
+        "Nasmi Herlina Sari",
+        "Bayu Rizky Pratama",
+        "Widya Fatrıasarı",
+        "Deded Sarip Nawawi",
+        "Sanjay Mavinkere Rangappa",
+        "Suchart Siengchin"
+      ],
+      "year": 2021,
+      "venue": "Polymers",
+      "doi": "10.3390/polym13244280",
+      "keywords": [
+        "natural fibers",
+        "socio-economic aspects",
+        "biodegradability",
+        "renewability",
+        "bioproducts",
+        "circular economy",
+        "bio-based packaging",
+        "automotive and aerospace applications",
+        "biomedical applications",
+        "military vehicles",
+        "textile applications",
+        "stakeholder collaboration",
+        "Asia"
+      ],
+      "url": "https://openalex.org/W4200613717",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Textile industry innovation: systematic review of key trends and particularities",
+      "abstract": "Innovation in the textile industry is a key strategic factor, influenced by geographic disparities, structural challenges, and rapid technological change. However, fragmented knowledge makes it difficult to fully understand the phenomenon. This study aimed to analyse how various types of innovation appear and interact in the global textile sector. A systematic literature review was carried out following PRISMA 2020 guidelines, using Scopus and Web of Science databases. From an initial pool of 94 articles, 19 met the inclusion criteria. Findings reveal that beyond specific advancements like automation or smart textiles, structural tensions hinder the integrated adoption of technological, organisational, and sustainability innovations. The diversity of analytical approaches shows there is no single, unified path to innovation in this sector. Instead, multiple innovation trajectories coexist, influenced by local conditions and unequal institutional capacities. In addition, knowledge gaps between developed and emerging regions, as well as the lack of focus on early stages of the supply chain, highlight the need to rethink research priorities. Ultimately, innovation in the textile industry must be understood as a comprehensive process that brings together technology, organisational change, and sustainability, requiring a holistic approach to improve competitiveness and ensure long-term transformation across the sector.",
+      "authors": [
+        "Sebastián Cardona-Acevedo",
+        "Alejandro Arango Correa",
+        "Diana Carolina Ríos-Echeverri",
+        "Alejandro Valencia-Arías",
+        "Jhon Edward Aguirre Cuervo"
+      ],
+      "year": 2026,
+      "venue": "IAES International Journal of Robotics and Automation (IJRA)",
+      "doi": "10.11591/ijra.v15i3.pp720-736",
+      "keywords": [
+        "textile industry",
+        "innovation",
+        "technological innovation",
+        "organizational innovation",
+        "sustainable innovation",
+        "smart textiles",
+        "automation",
+        "innovation pathways",
+        "institutional capacity",
+        "supply chain",
+        "knowledge gaps",
+        "competitiveness",
+        "industrial transformation"
+      ],
+      "url": "https://openalex.org/W7212251802",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Sustainability Innovation in the Textile Industry: A Systematic Review",
+      "abstract": "The aim of this review study is to understand the current state and practice of sustainability innovation in the textile industry. The textile industry is regarded as one of the industries that faces the biggest challenges in incorporating sustainability in its business practices. In this study, we conducted a systematic review to synthesize empirical knowledge relevant to sustainable innovation in the textile industry. From the systematic search process, 41 papers that were identified met the criteria of inclusion and were then analyzed qualitatively using thematic analysis. The findings showed that the attention of researchers toward sustainability innovation has increased in the recent years. Sustainability innovation practices in the textile industry were identified. Sustainability product innovation includes ecodesign, ecolabel, life cycle assessment, materials, and packaging. Sustainability process innovation includes cleaner production, ecoefficiency, waste handling, supply chain management, and enzymatic textile processing in process innovation. Sustainability organizational innovation includes the environmental management system (EMS) and corporate policy, collaboration, business model innovation, culture and knowledge management, and enzymatic textile processing. This study found that the dominant sustainability innovation practice discussed in the textile industry is more related to the ecological innovation aspect compared to social innovation. As consumer demand for ecofriendly products is growing, as are more stringent regulations, it is important for business players and policymakers to develop sustainability innovation in the textile industry together.",
+      "authors": [
+        "Budi Harsanto",
+        "Ina Primiana",
+        "Vita Sarasi",
+        "Yayan Satyakti"
+      ],
+      "year": 2023,
+      "venue": "Sustainability",
+      "doi": "10.3390/su15021549",
+      "keywords": [
+        "sustainable innovation",
+        "textile industry",
+        "sustainable product innovation",
+        "organizational innovation",
+        "eco-design",
+        "eco-labels",
+        "life cycle assessment",
+        "cleaner production",
+        "eco-efficiency",
+        "waste management",
+        "supply chain management",
+        "environmental management systems",
+        "business model innovation",
+        "knowledge management",
+        "sustainable products"
+      ],
+      "url": "https://openalex.org/W4316037925",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Toward energy systems within the planetary boundaries",
+      "abstract": "",
+      "authors": [
+        "Samir Meramo",
+        "Jaime A. Mesa",
+        "Natalia Cano",
+        "Oscar Pupo-Roncallo",
+        "Arturo González‐Quiroga"
+      ],
+      "year": 2025,
+      "venue": "AMBIO",
+      "doi": "10.1007/s13280-025-02197-7",
+      "keywords": [
+        "planetary boundaries",
+        "energy systems",
+        "environmental sustainability",
+        "fossil fuels",
+        "renewable energy",
+        "bioenergy",
+        "climate change",
+        "ocean acidification",
+        "chemical pollution",
+        "eutrophication",
+        "biogeochemical cycles",
+        "water demand",
+        "land use",
+        "energy transition",
+        "sustainability trade-offs"
+      ],
+      "url": "https://openalex.org/W4410775747",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Barriers to the adoption of solar and wind energy technologies: a systematic literature review",
+      "abstract": "Purpose Renewable energy (RE) sources hold immense potential to address future energy demands and mitigate greenhouse gas emissions. Despite the abundant availability of these resources, their global contribution to energy generation remains limited. This study aims to review relevant literature to explore the barriers hindering the development and integration of RE sources worldwide. Design/methodology/approach A systematic literature review was conducted using the Scopus database, with article selection guided by the Preferred Reporting Items for Systematic Reviews and Meta-Analyses method. A citation frequency analysis and Pareto analysis were conducted to evaluate the barriers to the adoption of solar and wind energy. Findings The review identified 39 barriers, categorised into nine taxonomies: economic/financial, technical/technological, sociocultural, policy, political, institutional, market, geographical and environmental. Among these, the technical/technological and economic/financial categories were the most frequently cited taxonomies, with a lack of skilled labour and high investment costs emerging as the most significant challenges within these categories. In addition, the study analysed and ranked eleven strategies to overcome these barriers. Originality/value This paper enriches the theoretical discourse on RE by providing an in-depth analysis of global challenges and mitigation strategies, thereby paving the way for a more effective energy transition.",
+      "authors": [
+        "Pheladi Morufa Molepo",
+        "Tebello N.D. Mathaba",
+        "Khaled Mohamed Abo-Al-Ez"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Energy Sector Management",
+      "doi": "10.1108/ijesm-12-2024-0001",
+      "keywords": [
+        "solar energy",
+        "wind energy",
+        "renewable energy adoption",
+        "barriers to adoption",
+        "energy transition",
+        "investment costs",
+        "skilled labor shortage",
+        "energy policy",
+        "mitigation measures"
+      ],
+      "url": "https://openalex.org/W7128478730",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "A Systematic Review of Integrated Management in Blueberry (Vaccinium spp.): Technological Innovation, Sustainability, and Practices in Propagation, Physiology, Agronomy, Harvest, and Postharvest",
+      "abstract": "The cultivation of blueberry (Vaccinium spp.) has undergone an unprecedented global expansion, driven by its nutraceutical value and the diversification of production zones across the Americas, Europe, and Asia. Its consolidation as a strategic crop has prompted intensive scientific activity aimed at optimizing every stage of management from propagation and physiology to harvest, postharvest, and environmental sustainability. However, the available evidence remains fragmented, limiting the integration of results and the formulation of knowledge-based, comparative production strategies. The objective of this systematic review was to synthesize scientific and technological advances related to the integrated management of blueberry cultivation, incorporating physiological, agronomic, technological, and environmental dimensions. The PRISMA 2020 methodology (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) was applied to ensure transparency and reproducibility in the search, selection, and analysis of scientific literature indexed in the Scopus database. After screening, 367 articles met the inclusion criteria and were analyzed comparatively and thematically. The results reveal significant progress in propagation using hydrogel and micropropagation techniques, efficient fertigation practices, and the integration of climate control operations within greenhouses, leading to improved yield and fruit quality. Likewise, non-thermal technologies, edible coatings, and harvest automation enhance postharvest quality and reduce losses. In terms of sustainability, the incorporation of water reuse and waste biorefinery has emerged as key strategies to reduce the environmental footprint and promote circular systems. Among the main limitations are the lack of methodological standardization, the scarce economic evaluation of innovations, and the weak linkage between experimental and commercial scales. It is concluded that integrating physiology, technology, and sustainability within a unified management framework is essential to consolidate a resilient, low-carbon, and technologically advanced fruit-growing system.",
+      "authors": [
+        "David Alejandro Pinzon",
+        "Gina Marcela Amado Saavedra",
+        "Jader Rodríguez",
+        "Edwin Villagrán"
+      ],
+      "year": 2026,
+      "venue": "Crops",
+      "doi": "10.3390/crops6010015",
+      "keywords": [
+        "blueberry",
+        "Vaccinium",
+        "integrated crop management",
+        "micropropagation",
+        "fertigation",
+        "greenhouse climate control",
+        "fruit physiology",
+        "fruit quality",
+        "post-harvest losses",
+        "edible coatings",
+        "water reuse",
+        "waste biorefinery",
+        "circular agriculture",
+        "sustainable fruit production",
+        "low-carbon agriculture"
+      ],
+      "url": "https://openalex.org/W7126043510",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Latin America towards Sustainability through Renewable Energies: A Systematic Review",
+      "abstract": "Nowadays, the increase in global energy demand is notorious, a situation that, in turn, impacts the environment through the generation of pollutants that are harmful to the planet. In this sense, an energy transition towards clean energy sources, also known as renewable sources, is essential, as well as better energy management and a responsible use of available natural resources. In this context, the objective of this systematic review was to analyze the use of renewable energy sources in Latin America, in addition to the guidelines established for their use, and the consequences of the use of non-renewable sources. Therefore, the PRISMA method was applied, and 60 publications were selected, from which the existing interest in this region in combatting the increase in energy demand and the use of fossil fuels through renewable energies is evidenced. Finally, it is concluded that there is still a need for greater dissemination in the region regarding this problem, as well as greater actions on the part of industries and governments to make proper use of this type of energy source.",
+      "authors": [
+        "Renzo Antonio Seminario Córdova"
+      ],
+      "year": 2023,
+      "venue": "Energies",
+      "doi": "10.3390/en16217422",
+      "keywords": [
+        "renewable energy",
+        "energy transition",
+        "sustainability",
+        "Latin America",
+        "energy demand",
+        "fossil fuels",
+        "non-renewable energy",
+        "energy management",
+        "clean energy",
+        "environmental pollution"
+      ],
+      "url": "https://openalex.org/W4388288740",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "THE CREATION AND DIFFUSION OF INNOVATION IN DEVELOPING COUNTRIES: A SYSTEMATIC LITERATURE REVIEW",
+      "abstract": "Abstract In this study, we review the literature on the creation and diffusion of innovation in the private sectors (industry and services) in developing countries. In particular, we collect evidence on what are the barriers to innovation creation and diffusion and the channels of innovation diffusion to and within developing countries. We find that innovation in developing countries is about creation or adoption of new ideas and technologies; but the capacity for innovation is embedded in and constituted by dynamics between geographical, socio‐economic, political and legal subsystems. We contextualize the findings from the review in the current theoretical framework of diffusion of innovations, and we emphasize how the institutional context typical of developing countries impacts the diffusion itself.",
+      "authors": [
+        "Giacomo Zanello",
+        "Xiaolan Fu",
+        "Pierre Mohnen",
+        "Marc J. Ventresca"
+      ],
+      "year": 2015,
+      "venue": "Journal of Economic Surveys",
+      "doi": "10.1111/joes.12126",
+      "keywords": [
+        "diffusion of innovations",
+        "innovation creation",
+        "developing countries",
+        "barriers to innovation",
+        "institutional environment",
+        "private sector innovation",
+        "technology adoption"
+      ],
+      "url": "https://openalex.org/W2153042129",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Real Option Analysis for Renewable Energy: A Systematic Review",
+      "abstract": "Renewable energy projects suffer from deep uncertainties associated with volatile market conditions, unstable policy regimes and changing technological landscapes. Traditional valuation tools like Net Present Value (NPV) are increasingly being accepted as insufficient to capture the managerial flexibility needed to deal with this complex environment. As a result, a powerful alternative investment framework, Real Options Analysis (ROA), has been proposed, in which the possibility of strategic adaptability under uncertainty is valued explicitly for renewable energy investment. This paper reports a systematic review between 2000-2025 of research works on ROA application in the renewable energy sector. Using the Preferred Reporting Items for Systematic Reviews and Meta-Analysis (PRISMA) framework, 288 peer-reviewed studies were identified from twelve major academic databases (Scopus, IEEE Xplore, and Wiley Online Library). Each study was reviewed in terms of key dimensions: renewable technology type, real option category, modelling technique, dominant sources of uncertainty and geographical focus. The results show the dominance of the decision to defer (timing option) as the most important strategic flexibility for all technologies, emphasising the key problem of optimal investment timing. Methodologically, the field has transitioned from basic analytical models to complex simulation-based models, with binomial lattices and Monte Carlo models dominating the scene, followed by a significant move to hybrid, fuzzy, and AI-enhanced models after 2015. The analysis also reveals clear regional patterns in the types of uncertainties modelled with European studies focusing on market and policy risks, Asian studies on resource availability and work in the Americas taking into account technical risks. However, a serious underrepresentation in Africa, especially in Nigeria, is also revealed, which constitutes a major gap in the research. This review concludes that while the methodological foundations of ROA are well established, its practical application remains limited, particularly outside developed countries. Expanding the use of ROA could better support the global energy transition, but achieving this requires addressing barriers such as computational complexity, limited modeling expertise, and regulatory reliance on deterministic valuation methods. Greater integration of these flexible decision-making tools into policy design and project appraisal, especially in high-risk and underrepresented regions, is therefore necessary.",
+      "authors": [
+        "Jethro Olorunfemi Idowu",
+        "Ini Adinya"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Applied Mathematics and Theoretical Physics",
+      "doi": "10.11648/j.ijamtp.20261201.11",
+      "keywords": [
+        "real options",
+        "renewable energy investment",
+        "investment under uncertainty",
+        "strategic flexibility",
+        "timing options",
+        "deferral option",
+        "Monte Carlo simulation",
+        "fuzzy modeling",
+        "energy transition",
+        "project evaluation"
+      ],
+      "url": "https://openalex.org/W7124705582",
+      "type": "review"
+    }
+  ]
+}

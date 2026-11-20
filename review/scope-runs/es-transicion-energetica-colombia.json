@@ -1,0 +1,674 @@
+{
+  "generated_at": "2026-11-17T02:39:34Z",
+  "query": "transición energética Colombia",
+  "source": "openalex (type:review)",
+  "total": 36,
+  "reviews": [
+    {
+      "source": "openalex",
+      "title": "Systematic review of emerging pharmacological pollutants presents in water resources, quantification methods and treatments for their elimination in Colombia.",
+      "abstract": "El estudio de los contaminantes emergentes de origen farmacéutico ha generado gran interés en la comunidad científica por la amenaza creciente que representan estos compuestos en el ecosistema acuático y la calidad del agua. Los sistemas de tratamientos de aguas residuales no logran depurar por completo estos contaminantes, generando acumulación y persistencia causada por las propiedades recalcitrantes de estos fármacos, en particular los antibióticos. Su presencia se debe principalmente por actividad antropogénica, especialmente al consumo masivo y no regulado de fármacos. Para este estudio, se llevó cabo una revisión sistemática de la literatura utilizando la metodología PRISMA, con el objetivo de identificar los contaminantes emergentes de origen farmacéuticos presentes en diferentes matrices acuáticas en Colombia, así mismo, se analizaron los métodos de cuantificación y eliminación con el fin de proponer un sistema de depuración de aguas residuales basado en las tecnologías más investigadas en los artículos revisados en las bases de datos consultadas, incluyendo ScienceDirect, Scopus ,Springer, SciELO y la Red Colombiana de Información Científica del Ministerio de Ciencias (Minciencias). En total, se seleccionaron 43 artículos relevantes publicados entre el 2014 y 2025, que reportaron los fármacos con mayor presencia en matrices acuáticas colombianas, como la carbamazepina, diclofenaco y el ibuprofeno. Estos fármacos fueron detectados y cuantificados mediante Cromatografía Líquida de Alta Resolución (HPLC) y Cromatografía Líquida acoplada a Espectrometría de Masas (UPLC-MS/MS). La oxidación avanzada por foto-Fenton se destacó por su efectividad en la eliminación de contaminantes de origen farmacéutico. Para el contexto colombiano, se propone su aplicación acoplada a un sistema biológico, aprovechando la disponibilidad de radiación solar que permite optimizar el proceso y reducir costos energéticos. Aunque representa una alternativa sostenible para el tratamiento de aguas residuales, se requieren estudios más detallados para su aplicación a escala real en una PTAR.",
+      "authors": [
+        "Cristian Uribe Luna",
+        "Karol Nathalia Toloza Ariza"
+      ],
+      "year": 2025,
+      "venue": "Universidad Industrial de Santander",
+      "doi": "",
+      "keywords": [
+        "water pollution",
+        "wastewater treatment",
+        "carbamazepine",
+        "diclofenac",
+        "ibuprofen",
+        "photo-Fenton process",
+        "advanced oxidation processes",
+        "UPLC-MS/MS quantification",
+        "antibiotic pollution",
+        "Colombia",
+        "solar energy",
+        "biological treatment",
+        "water quality",
+        "aquatic ecosystems",
+        "wastewater treatment plants",
+        "energy cost reduction"
+      ],
+      "url": "https://openalex.org/W7133369131",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Systematic review of Corporate Social Responsibility in tourism of Colombia",
+      "abstract": "Este documento tiene como objetivo analizar los retos que afronta la Responsabilidad Social Empresarial (RSE) en el turismo de Colombia. Siguiendo un enfoque de investigación cualitativo y empleando como método una revisión sistemática de la literatura publicada entre 2019 y 2024 en Scopus y Web of Science, se analizaron los artículos que abordan la RSE en organizaciones turísticas de Colombia, siguiendo la declaración PRISMA 2020. Los resultados muestran heterogeneidad de iniciativas de RSE por parte de estas organizaciones, especialmente para los hoteles. El documento aporta a la identificación de los retos para la gestión de la RSE en el turismo del país, elaborando diversas recomendaciones como: la necesidad de diseñar políticas públicas que trasciendan enfoques coyunturales del turismo; crear información accesible y contextualizada que oriente a las organizaciones; fortalecer la cultura y gestión participativa; y, dar un rol protagónico a las universidades para que avancen en proceso de investigación y proyección social sobre el tema.",
+      "authors": [
+        "Carlos Arturo Téllez Bedoya",
+        "Carlos Alberto Almanza Junco",
+        "Javier Sabogal Aguilar"
+      ],
+      "year": 2025,
+      "venue": "El Servicio de Difusión de la Creación Intelectual (National University of La Plata)",
+      "doi": "",
+      "keywords": [
+        "corporate social responsibility",
+        "tourism",
+        "Colombian tourism",
+        "hotels",
+        "tourism organizations",
+        "public policy",
+        "participatory management",
+        "CSR challenges"
+      ],
+      "url": "https://openalex.org/W7138826822",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Systematic review and web analysis on funding sources for social impact projects in the energy sector",
+      "abstract": "En Colombia, la universalización del suministro de energía eléctrica a zonas no interconectadas ha sido fundamental para el desarrollo económico y social de las diversas regiones que no cuentan con este servicio. Por tal motivo, en el gobierno existen entidades que recaudan y destinan recursos a proyectos que tienen por objeto la construcción de redes de distribución en zonas no interconectadas del país, con el fin de expandir la cobertura del servicio y por ende mejorar la calidad de vida de las comunidades más alejadas. Este documento contiene la documentación requerida por los fondos de apoyo financiero y describe brevemente el proceso a llevar a cabo; esto se logra mediante el análisis de artículos académicos y documentos relevantes identificados en el análisis de contenido web.",
+      "authors": [
+        "María Yulieth Maldonado Orduz"
+      ],
+      "year": 2024,
+      "venue": "Universidad Industrial de Santander",
+      "doi": "",
+      "keywords": [
+        "energy sector",
+        "social impact projects",
+        "funding sources",
+        "off-grid electrification",
+        "distribution network construction",
+        "energy access",
+        "remote communities",
+        "Colombia"
+      ],
+      "url": "https://openalex.org/W7133453298",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Systematic review of techniques and tools for the simultaneous improvement of operational efficiency and innovation in the Colombian energy sector: Application in the company Celsia.",
+      "abstract": "Esta investigación aborda la tensión operativa no resuelta en el sector energético colombiano, definida por una contradicción sistémica: la exigencia de estandarización para la eficiencia de costos choca con la necesidad de flexibilidad para la innovación en la transición energética. Ante la gestión fragmentada de estas variables, el objetivo general fue identificar las técnicas implementadas en el país para resolver esta tensión y evaluar su aplicabilidad en Celsia S.A. E.S.P. La metodología siguió un enfoque mixto, integrando una Revisión Sistemática de Literatura (RSL) bajo protocolo PRISMA sobre un corpus de 923 documentos científicos (con filtrado por criterios de calidad) y un estudio de caso validado mediante el análisis de los reportes corporativos del periodo 2020-2025. Los resultados evidenciaron que, aunque la literatura global presenta una fragmentación teórica, la evidencia empírica en Celsia demostró que la digitalización profunda (RPA y Centro NOVA) generó ahorros operativos de 165.000 millones de COP. Estos recursos validaron un mecanismo de financiación cruzada donde la eficiencia operativa (PermaneC) sostiene la inversión en innovación (EnergizarC). Se concluye que la eficiencia opera como el habilitador financiero de la innovación, resolviendo la contradicción inicial mediante modelos de negocio servitizados y de rotación de activos fortaleciendo la competitividad, sostenibilidad y resiliencia organizacional",
+      "authors": [
+        "Jeily Camila Amorocho Carvajal"
+      ],
+      "year": 2026,
+      "venue": "Universidad Industrial de Santander",
+      "doi": "",
+      "keywords": [
+        "operational efficiency",
+        "innovation",
+        "Colombian energy sector",
+        "energy transition",
+        "digitalization",
+        "robotic process automation",
+        "cost standardization",
+        "innovation financing",
+        "organizational resilience"
+      ],
+      "url": "https://openalex.org/W7135000596",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Systematic review of Electrolytic Cells with Biocathodes in the Production of Green Hydrogen at Industrial Scale for Wastewater Treatment",
+      "abstract": "La transición energética global ha intensificado la búsqueda de fuentes de energía renovables y sostenibles, entre las cuales el hidrógeno verde se posiciona como un vector energético estratégico por su potencial para sustituir combustibles fósiles y reducir las emisiones de carbono. Sin embargo, la producción de hidrógeno mediante electrólisis requiere mejoras en eficiencia energética para ser competitiva a gran escala. En este marco, las celdas de electrólisis microbiana (MEC) con biocátodos emergen como una tecnología innovadora al integrar microorganismos electroactivos capaces de reducir la energía necesaria para la electrólisis y, de forma simultánea, promover la remoción de contaminantes orgánicos presentes en aguas residuales. Esta integración permite combinar la producción de hidrógeno verde con el tratamiento de efluentes, generando beneficios ambientales y energéticos de manera conjunta. La revisión sistemática abarcó un periodo de diez años e incluyó inicialmente 68 estudios, de los cuales 36 fueron seleccionados tras aplicar criterios de filtrado por título, resumen y palabras clave. Los resultados muestran que las MEC con biocátodos alcanzan eficiencias del 70–85 % en la producción de hidrógeno, con reducciones en el consumo energético de hasta 40 % en comparación con métodos convencionales. Además, se reportan eficiencias de remoción de contaminantes orgánicos del 80–90 % y una mayor estabilidad operativa cuando se emplean consorcios microbianos durante periodos superiores a 1.200 horas. No obstante, el escalado de esta tecnología presenta desafíos, ya que el rendimiento disminuye al aumentar el volumen de los reactores debido a limitaciones en la transferencia electrónica, pérdidas asociadas a procesos metanogénicos y resistencias internas. A pesar de ello, estrategias como la modularización de electrodos, el uso de materiales de alta conductividad y el control selectivo de comunidades microbianas se identifican como líneas de investigación clave para superar estas limitaciones.",
+      "authors": [
+        "Ines Nayely Herrera Manrique",
+        "Maria Paula Franco Ruiz"
+      ],
+      "year": 2026,
+      "venue": "Universidad Industrial de Santander",
+      "doi": "",
+      "keywords": [
+        "microbial electrolysis cells",
+        "biocathode",
+        "green hydrogen production",
+        "wastewater treatment",
+        "electroactive microorganisms",
+        "energy consumption reduction",
+        "organic pollutant removal",
+        "microbial consortia",
+        "reactor scale-up",
+        "electrode conductivity",
+        "hydrogen production efficiency"
+      ],
+      "url": "https://openalex.org/W7133591161",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Management of the Organic Fraction of Municipal Solid Waste in the Context of a Sustainable and Circular Model: Analysis of Trends in Latin America and the Caribbean",
+      "abstract": "The main objective of this research is to analyze the most relevant aspects of the management of the organic fraction of municipal solid waste (OFMSW) and the Sustainable and Circular Production Models (SCPMs) in Latin America and the Caribbean (LAC). The bibliometric method was used for the analysis of 190 studies obtained from the Scopus and Latin America and The Caribbean on Health Sciences (LILACS) databases. The systematic review provided information on the main research approaches: identification and characterization; quantification; strategic and interdisciplinary management; and processes for treatment or valorization. Finally, an evaluation of public policies and strategies was performed. The results show that Brazil, Mexico, and Colombia have the highest number of publications on OFMSW. The findings also indicate that both research and policy strategies on SCPMs prioritize bioenergy and biofuels as the leading alternatives for the valorization of OFMSW. It also reflects the relevance of the Circular Economy (CE) and Bioeconomy (BE) as the main drivers of waste recovery and/or valorization in LAC. These aspects are of great interest to governments that are still in the process of implementing SCPMs. However, for those more advanced in this area, it provides valuable information on progress, policy effectiveness, and future actions for improvement.",
+      "authors": [
+        "Leidy Marcela Ulloa-Murillo",
+        "Lina María Villegas-Trujillo",
+        "Alejandra Rodríguez-Ortiz",
+        "Mónica Duque-Acevedo",
+        "Francisco Joaquín Cortés‐García"
+      ],
+      "year": 2022,
+      "venue": "International Journal of Environmental Research and Public Health",
+      "doi": "10.3390/ijerph19106041",
+      "keywords": [
+        "organic fraction of municipal solid waste",
+        "waste management",
+        "circular economy",
+        "bioeconomy",
+        "waste valorization",
+        "bioenergy",
+        "biofuels",
+        "waste recovery",
+        "waste management policy",
+        "Latin America and the Caribbean"
+      ],
+      "url": "https://openalex.org/W4280593663",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Decarbonization of the Electricity Sector Using Solar Photovoltaic and Wind Generation: A Systematic Review",
+      "abstract": "From the review of the articles, it is confirmed that the insertion of renewable energies such as solar photovoltaic and wind energy, which, for the purpose of supplying the demand for electricity, contribute to reduce the greenhouse gases resulting from the environmental pollution generated by conventional power plants and thus decarbonize the electricity sector. Likewise, the State is required to implement training activities, promote a regulatory framework to encourage the massive use of renewable energies and evaluate the technical capacity of the facilities to absorb, without problems, the growth of these important projects that use natural resources.",
+      "authors": [
+        "Edwin Ramirez-Soto",
+        "Luis Arellan-Yanac",
+        "Javier Lucana-Jaramillo",
+        "Adolfo Rios-Velasco",
+        "Edison Espinoza-Rojas",
+        "Jose Garay-Torres",
+        "Carlos Alfaro-Rodriguez"
+      ],
+      "year": 2023,
+      "venue": "LACCEI International Multi-Conference for Engineering, Education and Technology (LACCEI)",
+      "doi": "10.18687/laccei2023.1.1.1388",
+      "keywords": [
+        "decarbonization",
+        "electric utilities",
+        "photovoltaics",
+        "wind energy",
+        "renewable energy integration",
+        "greenhouse gas emissions",
+        "conventional power plants",
+        "energy regulation",
+        "renewable energy policy",
+        "grid capacity"
+      ],
+      "url": "https://openalex.org/W4385863629",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Latin America towards Sustainability through Renewable Energies: A Systematic Review",
+      "abstract": "Nowadays, the increase in global energy demand is notorious, a situation that, in turn, impacts the environment through the generation of pollutants that are harmful to the planet. In this sense, an energy transition towards clean energy sources, also known as renewable sources, is essential, as well as better energy management and a responsible use of available natural resources. In this context, the objective of this systematic review was to analyze the use of renewable energy sources in Latin America, in addition to the guidelines established for their use, and the consequences of the use of non-renewable sources. Therefore, the PRISMA method was applied, and 60 publications were selected, from which the existing interest in this region in combatting the increase in energy demand and the use of fossil fuels through renewable energies is evidenced. Finally, it is concluded that there is still a need for greater dissemination in the region regarding this problem, as well as greater actions on the part of industries and governments to make proper use of this type of energy source.",
+      "authors": [
+        "Renzo Antonio Seminario Córdova"
+      ],
+      "year": 2023,
+      "venue": "Energies",
+      "doi": "10.3390/en16217422",
+      "keywords": [
+        "renewable energy",
+        "energy transition",
+        "sustainability",
+        "Latin America",
+        "energy demand",
+        "fossil fuels",
+        "non-renewable energy",
+        "energy management",
+        "clean energy",
+        "environmental pollution"
+      ],
+      "url": "https://openalex.org/W4388288740",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Transforming business management through environmental sustainability in Latin America: a systematic review between 2020 and 2025",
+      "abstract": "This review examines how business management in Latin America has evolved between 2020 and 2025 through the incorporation of environmental sustainability, using a systematic review of the literature under the PRISMA protocol and the PICO framework.The articles analyzed were extracted from reliable databases such as Scopus, WOS, Scielo, and Google Scholar.After applying inclusion and exclusion criteria related to thematic relevance, timeliness, and methodological rigor, 15 articles were selected that adequately responded to the objective of this research.The findings reveal that companies that apply sustainable practices manage to improve their operational efficiency, optimize resources, strengthen their corporate image, and increase their competitiveness.Conversely, organizations that do not adopt these practices face limitations arising from legal requirements, market changes, and social pressure.Likewise, the positive role of public policies and environmental regulations in promoting sustainable initiatives is highlighted.In conclusion, the need for a comprehensive vision that combines technological, regulatory, and organizational dimensions to achieve effective business sustainability and generate sustainable competitive advantages is emphasized.",
+      "authors": [
+        "Giovanna Madeleyne Martínez Molina",
+        "Cristhian Rodrigo Pacheco Rincón",
+        "Gabriel Matias Vargas Galvez"
+      ],
+      "year": 2026,
+      "venue": "LACCEI International Multi-Conference for Engineering, Education and Technology (LACCEI)",
+      "doi": "10.18687/laccei2026.1.1.2377",
+      "keywords": [
+        "environmental sustainability",
+        "business management",
+        "sustainable business practices",
+        "operational efficiency",
+        "corporate image",
+        "competitiveness",
+        "environmental regulation",
+        "public policy",
+        "sustainable competitive advantage",
+        "Latin America"
+      ],
+      "url": "https://openalex.org/W7196927206",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "A systematic review of how the use of biomass can reduce CO2 emissions and improve sustainability in the cement industry",
+      "abstract": "The cement industry, essential for urban development, faces criticism for its high energy consumption and contribution to global CO₂ emissions.This review systematizes scientific evidence on the use of biomass as a sustainable energy alternative to mitigate emissions, emphasizing technical, economic, and environmental feasibility.The PICO framework was applied to structure the analysis, focusing on clinker production, calcination, biomass use, and other decarbonization strategies.Outcomes included CO₂ reduction and improved energy efficiency.Using the PRISMA protocol, 1,246 records were screened, with 52 relevant studies selected from the past six years in Scopus.Most research was from Europe and Asia, with initial cases in America and Africa.Half the studies used industrial waste like fly ash, while agricultural residues such as rice husk and sugarcane bagasse reduced CO₂ emissions by up to 42 percent and enhanced concrete performance.Several applications also showed economic benefits, reducing costs and emissions of NOx, SOx, and particulates by up to 72 percent.Rotary kilns, pyrolysis, and direct blending were the most effective technologies.The evidence indicates that biomass use in cement production supports circular economy principles, cost savings, and emission reduction.Further research is recommended on Peruvian biomass sources like quinoa and coffee residues, and their synergy with solar energy.",
+      "authors": [
+        "Mabely Yessy Cuyo Chura",
+        "Betsy Tatiana Revilla Núñez",
+        "Italo Treviño-Zevallos"
+      ],
+      "year": 2025,
+      "venue": "LACCEI International Multiconference on Entrepreneurship, Innovation and Regional Development (LEIRD)",
+      "doi": "10.18687/leird2025.1.1.1034",
+      "keywords": [
+        "CO2 emission reduction",
+        "cement industry decarbonization",
+        "clinker production",
+        "calcination",
+        "industrial waste",
+        "fly ash",
+        "rice husk",
+        "sugarcane bagasse",
+        "rotary kiln",
+        "pyrolysis",
+        "circular economy",
+        "energy efficiency",
+        "NOx and SOx emissions",
+        "coffee residues",
+        "solar energy"
+      ],
+      "url": "https://openalex.org/W4417244717",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "State of the art of humanitarian logistics management in migration processes: an approach from a systematic review.",
+      "abstract": "Los fenómenos migratorios en la actualidad son un tema de gran relevancia a nivel global y están influenciados por factores económicos, políticos, sociales y ambientales. La migración se ha convertido en un fenómeno intrínsecamente ligado a la dinámica de las economías, los cambios políticos y sociales, así como a las consecuencias del cambio climático. Estos factores, en conjunto, crean flujos migratorios que pueden ser impulsados tanto por la aspiración de una vida mejor como por la necesidad de escapar de situaciones insostenibles. En medio de situaciones de migración forzada, donde la urgencia y la vulnerabilidad predominan, una logística humanitaria organizada y coordinada se convierte en la columna vertebral de la respuesta humanitaria para que las necesidades básicas sean satisfechas de manera oportuna y equitativa, preservando la dignidad y el bienestar de las personas. Además, la logística humanitaria permite una distribución eficiente de recursos y servicios en albergues temporales y campamentos, optimizando la capacidad de respuesta a gran escala. La coordinación efectiva entre organizaciones humanitarias y autoridades gubernamentales se requiere para garantizar una respuesta integral y sostenible, contribuyendo así a mitigar el sufrimiento humano y proteger los derechos fundamentales de los migrantes en medio de circunstancias complejas. En el presente estado del arte se tuvo en cuenta información proporcionada por organismos internacionales relacionados con la migración y la logística humanitaria para comprender los avances y los retos existentes en el área. Además, se consideraron las tendencias en logística humanitaria que contemplan tecnologías emergentes y enfoques innovadores que permiten realizar los procesos de forma más eficiente, impactando positivamente en la situación de los migrantes.",
+      "authors": [
+        "Luis Fernando Céspedes Mendoza"
+      ],
+      "year": 2024,
+      "venue": "Universidad Industrial de Santander",
+      "doi": "",
+      "keywords": [
+        "humanitarian logistics",
+        "forced migration",
+        "humanitarian response",
+        "refugee camps",
+        "temporary shelters",
+        "humanitarian coordination",
+        "migrant rights",
+        "climate change and migration",
+        "humanitarian organizations"
+      ],
+      "url": "https://openalex.org/W7133434997",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Advancing Electric Mobility in Andean Countries: A Systematic Review and Case Study of Ecuador",
+      "abstract": "Electric mobility is emerging as a crucial solution to reduce dependence on fossil fuels and mitigate environmental impact. In Ecuador, the transportation sector significantly contributes to CO2 emissions. However, the transition to electric vehicles faces several challenges, including high initial costs, insufficient charging infrastructure, and limited battery range. This highlights the need for effective public policies and local economic incentives. This study provides a comprehensive analysis of the current state of electric mobility in Andean regions, with a particular focus on Ecuador. It employs a systematic literature review (SLR) adapted from Kitchenham’s methodology, incorporating a multicriteria hierarchical analysis to rank journals according to their relevance. The goal is to assess the growth, implementation, and limitations of electric mobility in Andean countries. Three key research questions are addressed: (i) What are the benefits associated with the transition to electric transportation in Andean countries, with a special focus on Ecuador? (ii) What are the current challenges in transitioning to electric mobility? (iii) What recent public policies are promoting electric transportation? The analysis reveals that the transition to electric mobility could significantly reduce greenhouse gas (GHG) emissions. However, it faces notable challenges due to the insufficient demand for studies in electromobility plans and methodologies for defining charging points. The SLR includes a review of over 90 articles published in high-impact journals over the past six years, providing a solid foundation for decision-making in the current landscape and suggesting strategies to overcome the obstacles faced by government institutions. Finally, the study presents the reality of an installed charging infrastructure in Ecuador and the development of electric mobility in the region.",
+      "authors": [
+        "Luis Maita Jaramillo",
+        "Diego Díaz-Sinche"
+      ],
+      "year": 2025,
+      "venue": "Sustainability",
+      "doi": "10.3390/su17178075",
+      "keywords": [
+        "electric mobility",
+        "electric vehicles",
+        "Andean countries",
+        "Ecuador",
+        "charging infrastructure",
+        "public policy",
+        "greenhouse gas emissions reduction",
+        "transport emissions",
+        "barriers to electric vehicle adoption",
+        "battery range",
+        "economic incentives"
+      ],
+      "url": "https://openalex.org/W4414097439",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Organizational Strategies for Energy Sustainability: Systematic Review of the Literature Spanning 2020–2024",
+      "abstract": "Energy sustainability is a key strategic focus of organizations in the transition to renewable energy sources. This study conducted a systematic review of the literature published between 2020 and 2024 to identify energy sustainability strategies at the organizational level that optimize energy efficiency and reduce dependence on fossil fuels. Academic databases such as Scopus, ScienceDirect, and Web of Science were consulted, selecting 50 high-impact articles using inclusion criteria related to thematic relevance, timeliness, and methodological rigor. The results showed that digitization, circular economy, and technological innovation are fundamental pillars in energy sustainability. However, significant barriers, such as financial and regulatory restrictions, were identified that hinder the adoption of these strategies. Similarly, the integration of smart technologies and sustainable management models favors the optimization of energy consumption and compliance with environmental regulations. In conclusion, the implementation of these strategies not only contributes to the mitigation of climate change but also improves the operational efficiency of organizations for the formulation of public policies and the possibility of opening new lines of research in energy sustainability.",
+      "authors": [
+        "Emma Verónica Ramos Farroñán",
+        "Danny Alonso Lizarzaburu Aguinaga",
+        "Luís Edgardo Cruz Salinas",
+        "Gary Christiam Farfán Chilicaus",
+        "Mabel Ysabel Otiniano León",
+        "Francisco Segundo Mogollón García",
+        "Celín Pérez Nájera"
+      ],
+      "year": 2025,
+      "venue": "Sustainability",
+      "doi": "10.3390/su17125252",
+      "keywords": [
+        "energy sustainability",
+        "energy efficiency",
+        "renewable energy transition",
+        "fossil fuel dependence",
+        "digitization",
+        "circular economy",
+        "technological innovation",
+        "smart technologies",
+        "sustainable management",
+        "barriers to adoption",
+        "environmental compliance",
+        "climate change mitigation",
+        "energy optimization"
+      ],
+      "url": "https://openalex.org/W4411092893",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Circular Economy and its application in Public Management Management for the period 2012-2022, a systematic review 2012-2022, a systematic review",
+      "abstract": "Currently, there is a disengagement of the government with the urgency to act to curb environmental degradation, therefore, the purpose of the research was to conduct a systematic review that inspects the application of circular economy in public management, observe what has been developed in the literature at the international level and provide a summary of knowledge, comprehensively using empirical and relevant sources (indexed to Scopus, Science Direct, and Proquest) in the period 2012-2022. The circular economy concept implies the separation of environmental consequences and economic growth. This paper examines four topics related to the transition to circularity: 1) governance (managerial and regulatory state), 2) waste management, 3) public procurement, and 4) barriers that hinder its implementation. The State can use the first three as leverage to boost the circular economy. A limitation found was that the literature is very focused on waste management.Finally, it's concluded that a government capable of fostering intersectoral cooperation, designing policies, implementing programs, and promoting education, in the framework of circularity and sustainable innovation is vitally important for societies to perceive benefits in economic and environmental terms.",
+      "authors": [
+        "Ricardo Fashin Ríos Varona",
+        "Sharon Nahomi Abanto Calvanapón",
+        "Álvaro Larry Luis Felipe Mendoza Castillo",
+        "Wilmer Enrique Infante Pollack",
+        "Marlon Walter Valderrama Puscán"
+      ],
+      "year": 2022,
+      "venue": "LACCEI International Multiconference on Entrepreneurship, Innovation and Regional Development (LEIRD)",
+      "doi": "10.18687/leird2022.1.1.23",
+      "keywords": [
+        "circular economy",
+        "public sector management",
+        "waste management",
+        "public procurement",
+        "barriers to circular economy implementation",
+        "sustainable innovation",
+        "environmental policy",
+        "intersectoral collaboration"
+      ],
+      "url": "https://openalex.org/W4316659345",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Adding Insult to Injury: The COVID‐19 Crisis Strikes Latin America",
+      "abstract": "This article takes on the task of historicizing the global crisis that unfolded after the outbreak of COVID-19, focusing on its particular dynamics in Latin America. It proposes a distinction between a first phase - an unmitigated crisis that lasted until the end of 2020 - and a second phase in the period since then, that is defined by managed crisis and lukewarm economic recovery. The first phase showed a profoundly fragmented local state response, the breakdown of capital's 'normal' capacity for reproduction, and a disarticulation of the world order. As of 2021, a different kind of crisis has been evident: the response has been more emphatic and more effective in re-establishing accumulation and a weak and fragile international order, but at a cost to legitimacy whose full extent is yet to unfold.",
+      "authors": [
+        "Juan Grigera"
+      ],
+      "year": 2022,
+      "venue": "Development and Change",
+      "doi": "10.1111/dech.12740",
+      "keywords": [
+        "COVID-19 pandemic",
+        "Latin America",
+        "economic crisis",
+        "capital accumulation",
+        "international order",
+        "economic recovery",
+        "crisis management",
+        "legitimacy"
+      ],
+      "url": "https://openalex.org/W4307713685",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "The Green Supply Chain and its Impact on Industrial Sustainability: A Systematic Literature Review 2022-2024",
+      "abstract": "The Green Supply Chain (GSCM) is presented as a key strategy to promote the sustainability of industries. This study aims to analyze the impact of GSCM practices on industrial sustainability between 2022 and 2024, focusing on waste management, resource efficiency and environmental improvements compared to the conventional chain. Using the PRISMA 2020 methodology, 23 relevant studies were collected from the SCOPUS database under strict inclusion and exclusion criteria, integrating a qualitative and quantitative approach to ensure the reliability of the results.The findings revealed that practices such as sustainable logistics and transportation, selection of responsible suppliers, sustainable product design and use of renewable energy have had a positive impact on sustainability.In addition, 70% of the studies highlighted a significant reduction in greenhouse gas emissions; also, 57% reported optimization in the use of resources and higher recycling and reuse rates.In addition, these practices improved economic performance by reducing long-term operating costs and fostered corporate social responsibility.However, initial implementation may require significant investments, although economic and resource optimization benefits can be seen in the short term.It is concluded that GSCM is fundamental to achieving industrial sustainability, combining environmental, economic and social benefits.It is recommended to explore emerging technologies such as Artificial Intelligence to overcome challenges in its adoption, especially in developing economies.",
+      "authors": [
+        "Cristopher Ricardo Vasquez Lujan",
+        "Ehrlich Jarek Leon Paucar",
+        "Julio Winston Torres Velasquez"
+      ],
+      "year": 2025,
+      "venue": "LACCEI International Multiconference on Entrepreneurship, Innovation and Regional Development (LEIRD)",
+      "doi": "10.18687/leird2025.1.1.211",
+      "keywords": [
+        "green supply chain management",
+        "industrial sustainability",
+        "waste management",
+        "resource efficiency",
+        "green logistics",
+        "supplier selection",
+        "sustainable product design",
+        "renewable energy",
+        "greenhouse gas emissions reduction",
+        "recycling and reuse",
+        "corporate social responsibility",
+        "economic performance",
+        "artificial intelligence adoption"
+      ],
+      "url": "https://openalex.org/W4417244849",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Sobre \"Reformas económicas y consolidación democrática\", Historia contemporánea de América Latina, volumen VI 1980-2006, De Manuel Alcántara, Ludolfo Paramio, Flavia Freidenberg y José Déniz (Madrid, Síntesis, 2006, 491 páginas)",
+      "abstract": "El prestigioso historiador norteamericano Carl E. Schorske, premio Pulitzer 1981 por su libro Viena fin-de siècle, afirmaba a fines del siglo pasado: “La historia solamente puede existir en relación simbiótica con otras disciplinas. Debido a su carácter asociativo no teórico, sus conceptos analíticos dependen de éstas (…) Al hacer hincapié en los procesos de cambio y transformación cultural, la historia ofrece ventajas recíprocas a las demás disciplinas de las que depende”. Pues bien, el volumen sexto de la Historia Contemporánea de América Latina de la editorial Síntesis, es una prueba más de esa provechosa simbiosis entre la tela de Clío y las ciencias sociales. No en vano, la historia inmediata de Latinoamérica, que comienza en 1980 y se cierra en 2006, es contada por tres politólogos y un economista. Sin embargo, pese a su renombre académico, o tal vez por ello, es llamativa la escasa información dada al lector sobre los autores en la contraportada (nombre, rango y centro de trabajo); de ahí que me parezca oportuno subsanar este error de márquetin e iniciar la recensión con unas líneas al respecto",
+      "authors": [
+        "Artaza Montero",
+        "Manuel María de"
+      ],
+      "year": 2008,
+      "venue": "Hispana",
+      "doi": "",
+      "keywords": [
+        "economic reform",
+        "democratic consolidation",
+        "authorship attribution"
+      ],
+      "url": "https://openalex.org/W2808200232",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Energy transition in sustainable transport: concepts, policies, and methodologies",
+      "abstract": "The growth in population, economic expansion, and urban dynamism has collectively driven a surge in the use of public and private transport, resulting in increased energy consumption in this sector. Consequently, the transport sector requires an energy transition to meet mobility demands, foster economic growth, and achieve emission reduction. The main objective of this article is to systematically review the literature on energy transition in transportation, categorizing research, identifying barriers, and providing analysis to guide future steps, with a special focus on developing countries. The methodology used in this study follows a sequence for a systematic review based on an evidence-informed approach and specific guidelines for systematic reviews, exploring the concepts, methodologies, and policies within the context of the energy transition, considering transport modes and geographical scope. The findings indicate that electricity is the predominant energy source in this transition, although its prevalence varies by transport mode. Biofuels present an alternative, primarily contributing to emission reduction associated with fossil fuel use. Natural gas emerges as a cost-effective option for heavy transport, while hydrogen represents another alternative, with the challenge of developing recharging infrastructure. Determinants of this transition include recharging infrastructure, tax and nontax incentives, public policies, the generation of electric power from renewable sources, and the management of battery life cycles from mineral extraction to disposal.",
+      "authors": [
+        "Julieth Stefany García Collazos",
+        "Laura M. Cárdenas",
+        "Carlos Jaime Franco"
+      ],
+      "year": 2024,
+      "venue": "Environmental Science and Pollution Research",
+      "doi": "10.1007/s11356-024-34862-x",
+      "keywords": [
+        "energy transition",
+        "sustainable transport",
+        "transport emissions reduction",
+        "biofuels",
+        "natural gas vehicles",
+        "hydrogen fuel",
+        "charging infrastructure",
+        "transport policy",
+        "tax incentives",
+        "renewable energy",
+        "battery lifecycle management",
+        "heavy transport",
+        "developing countries"
+      ],
+      "url": "https://openalex.org/W4402761471",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Roadmaps and Circular Economy: A Systematic Review to Trace the Future Towards Sustainability",
+      "abstract": "The new sustainability agenda encompasses various strategies implemented by nations to align efforts and cooperatively reduce global warming, whose effects are increasingly severe and largely considered irreversible. Among the most widely recognized strategies is the circular economy, a concept that has been developed through diverse approaches across different regions of the world. The objective of this research is to examine the relationship between roadmaps and the circular economy, with the aim of identifying common factors. The study employs a systematic review of 238 articles indexed in the Web of Science (2013–2024). The results reveal trending topics, as well as the identification of seven clusters and five key factors influencing roadmaps for the transition toward circularity, including waste management, water treatment, and energy generation.",
+      "authors": [
+        "Universidad Autónoma del Estado de Hidalgo",
+        "María Concepción García-Pérez",
+        "Carla Carolina Pérez Hernández",
+        "Universidad Autónoma del Estado de Hidalgo"
+      ],
+      "year": 2025,
+      "venue": "Economía Creativa",
+      "doi": "10.46840/ec.2025.22.763",
+      "keywords": [
+        "circular economy",
+        "roadmap",
+        "sustainability transitions",
+        "circularity",
+        "waste management",
+        "water treatment",
+        "energy production",
+        "climate change mitigation"
+      ],
+      "url": "https://openalex.org/W4414796574",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Riesgo de sobrepeso en niños preescolares beneficiarios de programas de ayuda alimentaria",
+      "abstract": "Objective To review the evidence regarding the potential impact of food programs on the risk of obesity in beneficiary children. Methods The search was conducted in databases using terms in Spanish and English. Those items that included the variable of interest, cross sectional studies, cohort or community trials were selected. Results Food assistance programs could contribute to increased obesity rates in the target population due to the availability and easier access to food with high energy content, either through the delivery of provisions or cash. However, the impact of the programs on this outcome has been little studied and evaluations have been mostly in adults or school-age children. Conclusion This review contributes to knowledge about the possible effect that food programs have on the risk of obesity in beneficiary children. This review may also serve as a reference for the design, implementation and evaluation of food and nutrition programs in countries of low and middle income facing malnutrition.",
+      "authors": [
+        "Edna Magaly Gamboa-Delgado",
+        "Teresita González de Cossío",
+        "Arantxa Colchero‐Aragonés"
+      ],
+      "year": 2016,
+      "venue": "Revista de Salud Pública",
+      "doi": "10.15446/rsap.v18n4.42444",
+      "keywords": [
+        "childhood obesity",
+        "preschool children",
+        "food assistance programs",
+        "food aid",
+        "overweight risk",
+        "energy-dense foods",
+        "cash transfers",
+        "food provisioning",
+        "malnutrition",
+        "low- and middle-income countries",
+        "nutrition program evaluation"
+      ],
+      "url": "https://openalex.org/W2531075238",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Relación entre nutrición y salud en hatos lecheros: [revisión]",
+      "abstract": "Incidence of health and production problems related to feeding, nutrition and/or metabolism have being growing in dairy herds. Early diagnosis allows their reduction and consequently reduces economic losses. Monitoring nutritional status periodically allows to identify possible causes of nutritional unbalances and/or mistakes in feeding practices and establish corrective measurements.",
+      "authors": [
+        "Héctor Jairo Correa",
+        "Juan E Carulla"
+      ],
+      "year": 2009,
+      "venue": "Revista de la Facultad de Medicina Veterinaria y de Zootecnia",
+      "doi": "",
+      "keywords": [
+        "dairy cattle",
+        "nutrition and health",
+        "nutritional monitoring",
+        "nutritional status",
+        "metabolic disorders",
+        "reproductive disorders",
+        "economic losses",
+        "dairy herd management"
+      ],
+      "url": "https://openalex.org/W1942468582",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Medical waste management: A systematic literature review",
+      "abstract": "La gestión de residuos médicos constituye un problema prioritario en los sistemas de salud debido a sus implicaciones para la seguridad del personal sanitario, los pacientes, la comunidad y el medio ambiente. En países en desarrollo este desafío se ve agravado por limitaciones normativas, deficiencias en infraestructura y dificultades financieras, lo que genera una brecha entre la normativa existente y la práctica hospitalaria. Este proyecto tuvo como objetivo analizar de manera integral el estado actual de la literatura sobre gestión de residuos médicos mediante una revisión sistemática basada en la metodología PRISMA. Se consultaron las bases de datos Scopus y Web of Science, identificándose 883 documentos, de los cuales, tras aplicar criterios de inclusión y exclusión, se seleccionaron 60 artículos publicados en revistas de alto impacto (Q1 y Q2). Estos fueron organizados en cinco grupos: modelos de simulación, modelos de optimización, estudios experimentales, análisis normativos, descriptivos y económicos, y aplicaciones clínicas y operativas. Los resultados muestran que, aunque existen avances significativos en modelación y en propuestas normativas, persisten limitaciones en la implementación práctica, especialmente en contextos hospitalarios con recursos restringidos. Entre las principales brechas identificadas se encuentran la insuficiente capacitación del personal, la escasez de infraestructura adecuada y la falta de mecanismos financieros sostenibles. Se concluye que la gestión de residuos médicos requiere un enfoque integral en el que se articulen los aportes tecnológicos y normativos con la realidad operativa de las instituciones de salud, ofreciendo una síntesis crítica que puede servir como base para futuras investigaciones y para la formulación de políticas públicas orientadas a sistemas hospitalarios más seguros, eficientes y sostenibles.",
+      "authors": [
+        "Iván Darío García García",
+        "Camilo Pineda Barrosso"
+      ],
+      "year": 2025,
+      "venue": "Universidad Industrial de Santander",
+      "doi": "",
+      "keywords": [
+        "medical waste management",
+        "medical waste",
+        "healthcare worker safety",
+        "environmental health",
+        "waste management infrastructure",
+        "waste management regulation",
+        "computer simulation",
+        "optimization model",
+        "employee training",
+        "sustainable finance",
+        "resource-limited settings",
+        "public health policy"
+      ],
+      "url": "https://openalex.org/W7157517285",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Megaproyectos turísticas en América Central. Los casos de Guanacaste y Bahía de Tela",
+      "abstract": "TRODUCCIÓNLa tecnología, que como capital se vuelve contra el hombre como un \"poder ciego\", autónomo, brutal, debería primero ser rescatada de la subsunción que sufre como momento del sistema de valorización del capital, para poder ser un instrumento del trabajo del hombre a su servicio.1 Las megaestructuras, en diferentes latitudes geográfi cas y durante miles de años fueron signos de grandeza de los imperios y sus soberanos.En menos de tres siglos se convirtieron en uno de los símbolos de la modernidad, acompañando el proceso de cambio económico, socio-cultural, demográfi co y ambiental.Reforzaron el poder, fueron portadoras de nuevos valores, entre los cuales el sentido de dominación era uno de los más importantes: la civilización contra la barbarie, el hombre sobre la naturaleza.Desde el inicio de la conquista española, la suerte de América Central se vinculó a su localización geográfi ca y valor estratégico.Ideas como la construcción de un canal o corredor interoceánico se volvieron multiseculares, fi jas y persecutorias: Cabe resaltar que la idea de abrir un paso entre los dos océanos que encierran América es casi tan antigua como el descubrimiento europeo del océano Pacífi co -por Vasco Núñez de Balboa en 1513 -y del hecho de que las llamadas Indias Occidentales constituyen un continente que corta la ruta a la costa oriental de Asia.Ya se debate la oportunidad de abrir un paso entre ambos océanos en la corte de Felipe II. 2 Aunque no se concluyese en un principio, la idea regresó con las reformas borbónicas, luego en el pensamiento de Simón Bolívar, y fi nalmente se materializó al inicio del siglo XX.INTRODUCCIÓN redistributivo en términos de regalías, proyectos complementarios, empleo local y políticas de compras, y no reducirse a optimizar los gastos y ampliar el margen de ganancia.De tal manera, se trató de presentar la diversidad en el \"mundo\" de los megaproyectos que en ocasiones se componen de obras entrelazas e interdependientes.El texto final es de Ewelina Biczyńska quien utiliza, como fuente de información, varios periódicos centroamericanos para analizar el discurso y el debate sobre los megaproyectos mineros y energéticos en Nicaragua, Costa Rica y Panamá.Se enfoca en la percepción de las mismas obras y el cambio que provocan, así como el debate que generan sobre el desarrollo.El texto toma en consideración las anteriores contribuciones e incita a refl exionar sobre el poder del discurso político y los efectos que puede crear en la sociedad.",
+      "authors": [
+        "Xinia Carrillo Sánchez",
+        "Mirosława Czerny",
+        "Katarzyna Dembicz"
+      ],
+      "year": 2023,
+      "venue": "ReIn UW (University of Warsaw)",
+      "doi": "",
+      "keywords": [
+        "Central America",
+        "Guanacaste",
+        "interoceanic canal",
+        "megastructures",
+        "local employment",
+        "public-private partnerships"
+      ],
+      "url": "https://openalex.org/W7212335624",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "El desarrollo regional de América Central: Entre el pasado y el presente",
+      "abstract": "",
+      "authors": [
+        "Katarzyna Dembicz",
+        "Mirosława Czerny"
+      ],
+      "year": 2023,
+      "venue": "ReIn UW (University of Warsaw)",
+      "doi": "",
+      "keywords": [
+        "regional development",
+        "Central America",
+        "regional history",
+        "regional policy"
+      ],
+      "url": "https://openalex.org/W7212328426",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Association between digital screen time before bed and changes in sleep architecture in adolescents: A systematic review",
+      "abstract": "Introducción: el uso de pantallas digitales en adolescentes ha aumentado significativamente, generando preocupación por sus efectos sobre el sueño. La exposición a luz azul de dispositivos electrónicos puede suprimir la secreción de melatonina y alterar el ciclo circadiano, con potenciales consecuencias sobre el desarrollo neurobiológico adolescente. Objetivo: explorar la asociación entre el uso nocturno de pantallas digitales y la arquitectura del sueño en adolescentes de 12 a 17 años mediante una revisión sistemática. Metodología: revisión sistemática siguiendo directrices PRISMA 2020. Se consultaron SCOPUS, EMBASE, MEDLINE, LILACS y Google Scholar. Se evaluó la calidad metodológica mediante STROBE y el riesgo de sesgo mediante JBI. Se excluyeron estudios con riesgo de sesgo medio o alto. Resultados: fueron incluidos seis estudios empíricos con bajo riesgo de sesgo, abarcando 377,734 adolescentes de cuatro continentes. Se encontraron asociaciones significativas entre el uso de pantallas y: reducción de la duración del sueño (50% más probabilidad de dormir <7 horas con uso ≥5 horas/día), aumento de latencia del sueño (7 minutos adicionales por cada 10 minutos de uso de tablets), y alta prevalencia de somnolencia diurna (71%). Los smartphones, tablets y videojuegos mostraron mayores efectos que actividades pasivas. Conclusiones: existe evidencia consistente de asociación entre el uso de pantallas digitales y alteraciones del sueño en adolescentes. Los hallazgos tienen implicaciones para la práctica clínica en psiquiatría infantil y para políticas de salud pública orientadas a promover hábitos saludables de sueño.",
+      "authors": [
+        "Paula Sofia Moreno Castro"
+      ],
+      "year": 2026,
+      "venue": "Repositorio Institucional Universidad El Bosque",
+      "doi": "",
+      "keywords": [
+        "screen time",
+        "sleep architecture",
+        "adolescents",
+        "blue light exposure",
+        "melatonin suppression",
+        "circadian rhythm",
+        "sleep duration",
+        "sleep latency",
+        "daytime sleepiness",
+        "smartphones",
+        "tablets",
+        "video games",
+        "sleep habits"
+      ],
+      "url": "https://openalex.org/W7166402560",
+      "type": "review"
+    }
+  ]
+}

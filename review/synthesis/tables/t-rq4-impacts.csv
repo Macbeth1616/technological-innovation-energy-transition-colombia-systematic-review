@@ -1,0 +1,13 @@
+Domain,Impact,Studies,Positive,Negative,Mixed,Most frequent technologies
+environmental,Emissions and climate,73,53,27,1,system-level (17); bioenergy (14); solar (13)
+environmental,"Pollution, waste and health",42,19,27,2,bioenergy (12); system-level (11); solar (6)
+environmental,"Land, water and biodiversity",41,9,27,5,bioenergy (12); system-level (8); solar (4)
+environmental,Energy savings and fossil displacement,13,10,3,0,system-level (3); efficiency (3); bioenergy (2)
+social,Energy access and energy poverty,28,18,15,0,microgrids (8); solar (7); system-level (4)
+social,Conflicts and indigenous territories,23,3,20,1,system-level (7); bioenergy (3); wind (3)
+social,Energy justice and equity,22,5,16,3,solar (8); system-level (5); microgrids (3)
+social,Employment and local economy,20,14,6,2,system-level (7); bioenergy (5); microgrids (4)
+social,Acceptance and participation,20,5,9,7,bioenergy (6); system-level (4); microgrids (4)
+territorial,Cost and affordability,16,9,7,0,system-level (6); solar (4); microgrids (2)
+territorial,Rural development and non-interconnected zones,10,6,5,0,smart grids (2); bioenergy (2); microgrids (2)
+territorial,Energy security and reliability,7,2,5,0,system-level (3); solar (2); bioenergy (2)

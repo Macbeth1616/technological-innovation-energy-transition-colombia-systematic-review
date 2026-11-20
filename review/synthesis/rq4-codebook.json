@@ -1,0 +1,206 @@
+{
+ "impacts": [
+  {
+   "id": "emissions-climate",
+   "label": "Emissions and climate",
+   "domain": "environmental",
+   "definition": "GHG/CO2 emissions, avoided emissions, carbon footprint and climate-change effects or vulnerability linked to the technology.",
+   "inclusion": "Avoided/increased CO2 or GHG, mitigation potential, carbon credits, GWP, El Nino-climate effects.",
+   "exclusion": "Local air pollutants and health (pollution-waste-health); fossil fuel use without an emissions statement (energy-savings-fossil-displacement)."
+  },
+  {
+   "id": "land-water-biodiversity",
+   "label": "Land, water and biodiversity",
+   "domain": "environmental",
+   "definition": "Effects on land use, water resources, ecosystems, species, soils, landscape and agriculture.",
+   "inclusion": "Deforestation, habitat loss, water use/availability, bird and bat mortality, land requirements, landscape and noise, agricultural land competition.",
+   "exclusion": "Land conflicts and dispossession of communities (conflicts-indigenous-territories); contamination of water by waste (pollution-waste-health) only when pollution is the main point."
+  },
+  {
+   "id": "pollution-waste-health",
+   "label": "Pollution, waste and health",
+   "domain": "environmental",
+   "definition": "Local air, water and soil pollution, waste streams, safety risks and human-health effects.",
+   "inclusion": "Particulates, NOx/SOx, acidification, eutrophication, toxicity, e-waste, battery end-of-life, effluents, accidents, respiratory illness, indoor smoke.",
+   "exclusion": "GHG-only effects (emissions-climate); general ecosystem damage (land-water-biodiversity)."
+  },
+  {
+   "id": "energy-savings-fossil-displacement",
+   "label": "Energy savings and fossil displacement",
+   "domain": "environmental",
+   "definition": "Changes in energy consumption, efficiency gains, rebound effects and displacement of diesel, coal, gas or other fossil fuels.",
+   "inclusion": "Energy savings, peak flattening, rebound/backfire, reduced diesel or coal dependence, demand growth.",
+   "exclusion": "Reliability of supply (energy-security-reliability); bill savings framed as money (cost-affordability)."
+  },
+  {
+   "id": "energy-access-poverty",
+   "label": "Energy access and energy poverty",
+   "domain": "social",
+   "definition": "Availability, quality and use of electricity or clean energy services for households and communities lacking them.",
+   "inclusion": "Electrification, hours of service, firewood and cooking, unmet needs, quality of life, basic needs, education/health services enabled by power.",
+   "exclusion": "Distributional unfairness between groups (energy-justice-equity); remote-region development (rural-development-zni)."
+  },
+  {
+   "id": "employment-local-economy",
+   "label": "Employment and local economy",
+   "domain": "social",
+   "definition": "Effects on jobs, incomes, livelihoods, value chains, regional or national economic activity and fiscal revenue.",
+   "inclusion": "Job creation or losses (e.g. coal mining), income generation, local wealth, SMEs, tourism, royalties, GDP, market effects.",
+   "exclusion": "Consumer tariffs and bills (cost-affordability); distributive equity (energy-justice-equity)."
+  },
+  {
+   "id": "acceptance-participation",
+   "label": "Acceptance and participation",
+   "domain": "social",
+   "definition": "Social acceptance, perception, community engagement, ownership, capacity building and social capital around projects.",
+   "inclusion": "Community acceptance or rejection, NIMBY, trust, training, awareness, community energy, participation in decisions, cultural change.",
+   "exclusion": "Open conflict, opposition or dispossession involving indigenous or ethnic territories (conflicts-indigenous-territories)."
+  },
+  {
+   "id": "conflicts-indigenous-territories",
+   "label": "Conflicts and indigenous territories",
+   "domain": "social",
+   "definition": "Social conflict, dispossession, displacement and territorial disputes, especially involving Wayuu, indigenous, Afro-Colombian and peasant communities.",
+   "inclusion": "Wayuu/La Guajira wind-farm disputes, prior consultation failures, militarization, displacement by dams, land concentration, post-conflict territorial issues.",
+   "exclusion": "Mere low acceptance without conflict (acceptance-participation); generic land-use change (land-water-biodiversity)."
+  },
+  {
+   "id": "energy-justice-equity",
+   "label": "Energy justice and equity",
+   "domain": "social",
+   "definition": "Fairness in the distribution of benefits and burdens across income groups, strata, gender and vulnerable populations.",
+   "inclusion": "Regressive tariffs, cross-subsidies, non-adopter burden, gender effects, just-transition concerns, income inequality.",
+   "exclusion": "Absence of access as such (energy-access-poverty); jobs in general (employment-local-economy)."
+  },
+  {
+   "id": "cost-affordability",
+   "label": "Cost and affordability",
+   "domain": "territorial",
+   "definition": "Effects on energy prices, tariffs, bills, financial viability and fiscal cost for consumers, utilities and the state.",
+   "inclusion": "Lower or higher bills and tariffs, subsidy cost, payback, utility financial stress, priced externalities.",
+   "exclusion": "Equity of who pays (energy-justice-equity); jobs and income (employment-local-economy)."
+  },
+  {
+   "id": "energy-security-reliability",
+   "label": "Energy security and reliability",
+   "domain": "territorial",
+   "definition": "Effects on security, reliability, resilience and diversification of the energy supply system.",
+   "inclusion": "Outages, intermittent service, matrix diversification, drought-vulnerable hydropower, grid losses, storage and continuity of critical services.",
+   "exclusion": "Fossil displacement per se (energy-savings-fossil-displacement); access for unserved populations (energy-access-poverty)."
+  },
+  {
+   "id": "rural-development-zni",
+   "label": "Rural development and non-interconnected zones",
+   "domain": "territorial",
+   "definition": "Territorial development effects in rural, remote and non-interconnected zones (ZNI), islands and the regions where technologies are deployed.",
+   "inclusion": "Rural development, ZNI/NIZ conditions, infrastructure (roads), regional imbalances, development of remote communities, regional development policy outcomes.",
+   "exclusion": "Household electricity access (energy-access-poverty); local jobs (employment-local-economy)."
+  },
+  {
+   "id": "other",
+   "label": "Other / general",
+   "domain": "other",
+   "definition": "Impacts that fit no other code (e.g. generic SDG contribution statements).",
+   "inclusion": "Generic SDG alignment, unspecific sustainability remarks.",
+   "exclusion": "Anything that fits a substantive code."
+  }
+ ],
+ "gaps": [
+  {
+   "id": "empirical-validation-data",
+   "label": "Empirical validation and field data",
+   "domain": "methodological",
+   "definition": "Need for real-world data, pilots, field tests, validation of models or prototypes and better data quality.",
+   "inclusion": "Field validation, pilot studies, measurement campaigns, data scarcity or inaccessibility, calibration, larger real samples.",
+   "exclusion": "Resource mapping (resource-potential-assessment); model structure extensions (model-method-refinement)."
+  },
+  {
+   "id": "long-term-lifecycle",
+   "label": "Long-term and lifecycle assessment",
+   "domain": "methodological",
+   "definition": "Need for longitudinal studies, longer time horizons, lifecycle (LCA/LCSA) and durability or end-of-life analysis.",
+   "inclusion": "Long-term monitoring, LCA/LCSA, degradation, seasonality, time-series length, adoption curves over time.",
+   "exclusion": "Static environmental impact studies without a lifecycle or time angle (environmental-impact-assessment)."
+  },
+  {
+   "id": "social-community-dimension",
+   "label": "Social and community dimension",
+   "domain": "thematic",
+   "definition": "Need to study social, community, cultural, gender, justice and stakeholder aspects and perception or acceptance.",
+   "inclusion": "Community participation, ethnic and gender dimensions, perception surveys, justice, social conflicts, user behaviour, workforce and training.",
+   "exclusion": "Cost of social programmes (cost-financing); policy instruments (policy-regulatory-design)."
+  },
+  {
+   "id": "policy-regulatory-design",
+   "label": "Policy and regulatory design",
+   "domain": "thematic",
+   "definition": "Need for policy, regulatory, market-design and institutional research or reform.",
+   "inclusion": "Regulation of DG and prosumers, incentives and tariffs design, market rules, standards, governance, roadmaps, public programmes.",
+   "exclusion": "Financial instruments themselves (cost-financing)."
+  },
+  {
+   "id": "cost-financing",
+   "label": "Cost and financing",
+   "domain": "thematic",
+   "definition": "Need for economic, cost, financing, investment and business-model analysis.",
+   "inclusion": "Techno-economic analysis, CAPEX/OPEX, WACC, green bonds, funding mechanisms, willingness to pay, abatement cost, cost-benefit.",
+   "exclusion": "Policy design with no financial focus (policy-regulatory-design)."
+  },
+  {
+   "id": "system-integration",
+   "label": "System-level integration",
+   "domain": "thematic",
+   "definition": "Need to integrate technologies in power, mobility or energy systems: grid, storage, digitalization, sector coupling and operation.",
+   "inclusion": "Grid integration, storage, microgrids, smart-grid and cybersecurity, dispatch, charging, demand response, stability, interoperability.",
+   "exclusion": "Single-technology engineering development (technology-development-scale-up)."
+  },
+  {
+   "id": "technology-development-scale-up",
+   "label": "Technology development and scale-up",
+   "domain": "thematic",
+   "definition": "Need for R&D, process improvement, prototyping, scaling-up or deployment of a specific technology.",
+   "inclusion": "Efficiency improvement, reactor or process design, scale-up, new materials, feasibility of specific technologies, commercialization, logistics.",
+   "exclusion": "System-level integration (system-integration); validation with field data (empirical-validation-data)."
+  },
+  {
+   "id": "environmental-impact-assessment",
+   "label": "Environmental impact assessment",
+   "domain": "thematic",
+   "definition": "Need to quantify environmental effects, emissions, water, land and biodiversity impacts of technologies.",
+   "inclusion": "GHG and land-use change quantification, environmental risk and EIA, water impacts, waste management, biodiversity.",
+   "exclusion": "Lifecycle approach as method (long-term-lifecycle)."
+  },
+  {
+   "id": "resource-potential-assessment",
+   "label": "Resource and potential assessment",
+   "domain": "thematic",
+   "definition": "Need for better characterization of renewable resources, feedstocks, potentials and geospatial data.",
+   "inclusion": "Wind/solar resource measurement, biomass availability, geothermal exploration, waste characterization, spatial/GIS data and databases.",
+   "exclusion": "Validation of model results with real operation data (empirical-validation-data)."
+  },
+  {
+   "id": "model-method-refinement",
+   "label": "Model and method refinement",
+   "domain": "methodological",
+   "definition": "Need to extend or refine models, indicators, optimization, multi-criteria or scenario methods and sensitivity/uncertainty analysis.",
+   "inclusion": "Sensitivity and uncertainty analysis, additional variables or objectives, MCDM weights, algorithm comparison, scenario extension.",
+   "exclusion": "Data collection (empirical-validation-data); system components to add as technologies (system-integration)."
+  },
+  {
+   "id": "regional-replication",
+   "label": "Regional coverage and replication",
+   "domain": "territorial",
+   "definition": "Need to replicate, generalize or compare findings in other regions, countries, sectors or contexts.",
+   "inclusion": "Other regions or countries, broader samples, comparability, scaling of findings, national coverage.",
+   "exclusion": "Scale-up of a physical technology (technology-development-scale-up)."
+  },
+  {
+   "id": "other",
+   "label": "Other / unclassified",
+   "domain": "other",
+   "definition": "Gaps that fit no other code.",
+   "inclusion": "Rare, generic or unclear statements.",
+   "exclusion": "Anything that fits a substantive code."
+  }
+ ]
+}

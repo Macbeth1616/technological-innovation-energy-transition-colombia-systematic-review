@@ -1,0 +1,706 @@
+{
+  "generated_at": "2026-11-17T02:36:35Z",
+  "query": "energy efficiency Colombia",
+  "source": "openalex (type:review)",
+  "total": 3766,
+  "reviews": [
+    {
+      "source": "openalex",
+      "title": "Systematic review of techniques and tools for the simultaneous improvement of operational efficiency and innovation in the Colombian energy sector: Application in the company Celsia.",
+      "abstract": "Esta investigación aborda la tensión operativa no resuelta en el sector energético colombiano, definida por una contradicción sistémica: la exigencia de estandarización para la eficiencia de costos choca con la necesidad de flexibilidad para la innovación en la transición energética. Ante la gestión fragmentada de estas variables, el objetivo general fue identificar las técnicas implementadas en el país para resolver esta tensión y evaluar su aplicabilidad en Celsia S.A. E.S.P. La metodología siguió un enfoque mixto, integrando una Revisión Sistemática de Literatura (RSL) bajo protocolo PRISMA sobre un corpus de 923 documentos científicos (con filtrado por criterios de calidad) y un estudio de caso validado mediante el análisis de los reportes corporativos del periodo 2020-2025. Los resultados evidenciaron que, aunque la literatura global presenta una fragmentación teórica, la evidencia empírica en Celsia demostró que la digitalización profunda (RPA y Centro NOVA) generó ahorros operativos de 165.000 millones de COP. Estos recursos validaron un mecanismo de financiación cruzada donde la eficiencia operativa (PermaneC) sostiene la inversión en innovación (EnergizarC). Se concluye que la eficiencia opera como el habilitador financiero de la innovación, resolviendo la contradicción inicial mediante modelos de negocio servitizados y de rotación de activos fortaleciendo la competitividad, sostenibilidad y resiliencia organizacional",
+      "authors": [
+        "Jeily Camila Amorocho Carvajal"
+      ],
+      "year": 2026,
+      "venue": "Universidad Industrial de Santander",
+      "doi": "",
+      "keywords": [
+        "operational efficiency",
+        "innovation",
+        "Colombian energy sector",
+        "energy transition",
+        "digitalization",
+        "robotic process automation",
+        "cost standardization",
+        "innovation financing",
+        "organizational resilience"
+      ],
+      "url": "https://openalex.org/W7135000596",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Closing the Energy Efficiency Gap—A Systematic Review of Empirical Articles on Drivers to Energy Efficiency in Manufacturing Firms",
+      "abstract": "Research has identified an extensive potential for energy efficiency within the manufacturing sector, which is responsible for a substantial share of global energy consumption and greenhouse gas emissions. The purpose of this study is to enhance the knowledge of vital drivers for energy efficiency in this sector by providing a critical and systematic review of the empirical literature on drivers to energy efficiency in manufacturing firms at the firm level. The systematic literature review (SLR) is based on peer-reviewed articles published between 1998 and 2016. The findings reveal that organizational and economic drivers are, from the firms’ perspective, the most prominent stimulus for energy efficiency and that they consider policy instruments and market drivers to be less important. Secondly, firm size has a positive effect on the firms’ energy efficiency, while the literature is inconclusive considering sectorial impact. Third, the studies are mainly conducted in the US and Western European countries, despite the fact that future increase in energy demand is expected outside these regions. These findings imply a potential mismatch between energy policy-makers’ and firm mangers’ understanding of which factors are most important for achieving increased energy efficiency in manufacturing firms. Energy policies should target the stimulation of management, competence, and organizational structure in addition to the provision of economic incentives. Further understanding about which and how internal resources, organizational capabilities, and management practices impact energy efficiency in manufacturing firms is needed. Future energy efficiency scholars should advance our theoretical understanding of the relationship between energy efficiency improvements in firms, the related change processes, and the drivers that affect these processes.",
+      "authors": [
+        "Mette Talseth Solnørdal",
+        "Lene Foss"
+      ],
+      "year": 2018,
+      "venue": "Energies",
+      "doi": "10.3390/en11030518",
+      "keywords": [
+        "energy efficiency",
+        "manufacturing companies",
+        "organizational drivers",
+        "economic factors",
+        "policy instruments",
+        "market drivers",
+        "firm size",
+        "sectoral differences",
+        "energy policy",
+        "organizational capabilities",
+        "management practices"
+      ],
+      "url": "https://openalex.org/W2793290426",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Meta-analysis of Energy Efficiency in Educational Buildings",
+      "abstract": "With the high consumption of electrical energy due to the progressive increase in demand, in the residential, commercial and industrial sectors, the need arises to opt for strategies for energy saving, with university educational buildings being a case that requires analysis in Latin America . The purpose of the following work is to compile the alternative solutions or measures applied by university educational institutions in Latin America and indicate which are the main measures to adopt to achieve energy efficiency. The PRISMA methodology was used for a systematic review. The results indicate that energy efficiency is achieved through active strategies with the change in electrical equipment technology, especially lighting and air conditioning, as well as passive strategies through architectural design. It is concluded that it is necessary to identify the areas of greatest e nergy consumption through a system of measurements, energy indicators and an institutional energy policy. It is also verified that energy efficiency contributes to savings on electricity bills and reduces the carbon footprint. Likewise, the quality of lighting impacts the academic performance of students.",
+      "authors": [
+        "David Jacob Checa Cervantes",
+        "Hernán Oscar Cortez Guiterrez",
+        "Rubén Darío Mendoza Arenas",
+        "Milton Milciades Cortez Guiterrez",
+        "Marisol Paola Delgado Baltazar",
+        "Toño Jonatan Gutierrez Moreyra"
+      ],
+      "year": 2024,
+      "venue": "LACCEI International Multi-Conference for Engineering, Education and Technology (LACCEI)",
+      "doi": "10.18687/laccei2024.1.1.1550",
+      "keywords": [
+        "energy efficiency",
+        "educational buildings",
+        "university buildings",
+        "energy saving measures",
+        "lighting",
+        "air conditioning",
+        "passive design",
+        "active design strategies",
+        "energy consumption measurement",
+        "energy indicators",
+        "electricity cost reduction",
+        "carbon footprint",
+        "academic performance",
+        "Latin America"
+      ],
+      "url": "https://openalex.org/W4401582299",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Energy Efficiency in the Food Industry: A Systematic Literature Review",
+      "abstract": "Governments and private companies have increased efforts to identify effective actions for improving energy efficiency in manufacturing processes. The objective of this work is to improve the decision-making process by increasing the quality of information related to energy indicators in the food industry. This research involves developing a systematic literature review (SLR) to identify energy efficiency indicators in the food industry, which serve as inputs for a sectoral evaluation based on multicriteria techniques. The SLR identified six criteria evaluated by food industry experts, which form the proposed basis for evaluating the performance of related sectors. These criteria are: benchmarks, key performance indicators, framework, monitoring, ISO 50001, and information communication technologies (ICTs) in sectoral evaluations. The criteria were evaluated by experts using the Analytic Hierarchy Process (AHP), which prioritizes the most important food industry issues using an evaluation scale. Weights were attributed to each issue and positioned according to the Preference Ranking Organization Method for Enrichment Evaluations (PROMETHEE) to evaluate each sector by the identified criteria. The evaluated criteria are applicable to the three sectors surveyed, with emphasis on the beverage sector. Among the evaluated criteria, ICTs were highlighted by Industry 4.0 as a concern for the food sector.",
+      "authors": [
+        "Angela Morandini Pradella",
+        "Eduardo de Freitas Rocha Loures",
+        "Sérgio E. Gouvêa da Costa",
+        "Edson Pinheiro de Lima"
+      ],
+      "year": 2019,
+      "venue": "Brazilian Archives of Biology and Technology",
+      "doi": "10.1590/1678-4324-smart-2019190002",
+      "keywords": [
+        "energy efficiency",
+        "food industry",
+        "energy efficiency indicators",
+        "multi-criteria decision making",
+        "ISO 50001",
+        "energy benchmarking",
+        "key performance indicators",
+        "energy consumption monitoring",
+        "information and communication technologies",
+        "Industry 4.0",
+        "beverage industry"
+      ],
+      "url": "https://openalex.org/W2990222440",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Sustainability of Palm Biodiesel in Transportation: a Review on Biofuel Standard, Policy and International Collaboration Between Malaysia and Colombia",
+      "abstract": "Biodiesel is gaining prominence as a superior alternative source of energy to replace petroleum-based fuel in transportation. As of today, the biodiesel market continuous to rise up as the biofuel has been introduced to more than 60 countries worldwide. The aim of the present review is to highlight on the scenario of the biofuel implementation in transportation sector towards sustainable development in Colombia and Malaysia. Colombia serves as an ideal comparative case for Malaysia in terms of biodiesel development since the country is the main palm oil producer in Latin America region and the pioneer in bioethanol industry. The first section shows an overview on the biodiesel as an alternative fuel in transportation. The next section will focus on a comparative study between Malaysia and Colombia biodiesel sector in terms of energy supply, resource, production and consumption, standards, techno-economic cost and their biodiesel policies. A comprehensive review was studied to discuss on the sustainability of palm cultivation and biodiesel, impact of palm industry and biodiesel policy in transportation sector and potential international collaboration between Malaysia and Colombia to improve their existing policies, strategies and blueprints related to the palm biodiesel industry, thus overcoming the challenges when dealing with global energy issue.",
+      "authors": [
+        "Mohd Nur Ashraf Mohd Yusoff",
+        "Nurin Wahidah Mohd Zulkifli",
+        "Nazatul Liana Sukiman",
+        "Ong Hwai Chyuan",
+        "Masjuki Haji Hassan",
+        "Muhammad Harith Hasnul",
+        "Muhammad Syahir Amzar Zulkifli",
+        "Muhammad Abbas Mujtaba",
+        "Muhammad Zulfattah Zakaria"
+      ],
+      "year": 2020,
+      "venue": "BioEnergy Research",
+      "doi": "10.1007/s12155-020-10165-0",
+      "keywords": [
+        "palm oil biodiesel",
+        "palm oil",
+        "biofuel policy",
+        "biodiesel standards",
+        "transportation fuels",
+        "sustainable development",
+        "Malaysia",
+        "Colombia",
+        "bioethanol",
+        "international cooperation",
+        "energy security"
+      ],
+      "url": "https://openalex.org/W3045108515",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Energy and Human Health",
+      "abstract": "Energy use is central to human society and provides many health benefits. But each source of energy entails some health risks. This article reviews the health impacts of each major source of energy, focusing on those with major implications for the burden of disease globally. The biggest health impacts accrue to the harvesting and burning of solid fuels, coal and biomass, mainly in the form of occupational health risks and household and general ambient air pollution. Lack of access to clean fuels and electricity in the world's poor households is a particularly serious risk for health. Although energy efficiency brings many benefits, it also entails some health risks, as do renewable energy systems, if not managed carefully. We do not review health impacts of climate change itself, which are due mostly to climate-altering pollutants from energy systems, but do discuss the potential for achieving near-term health cobenefits by reducing certain climate-related emissions.",
+      "authors": [
+        "Kirk R. Smith",
+        "Howard Frumkin",
+        "Kalpana Balakrishnan",
+        "Colin David Butler",
+        "Zoë A. Chafe",
+        "Ian Fairlie",
+        "Patrick L. Kinney",
+        "Tord E Kjellstrom",
+        "Denise L. Mauzerall",
+        "Thomas E. McKone",
+        "Anthony John McMichael",
+        "Mycle Schneider"
+      ],
+      "year": 2013,
+      "venue": "Annual Review of Public Health",
+      "doi": "10.1146/annurev-publhealth-031912-114404",
+      "keywords": [
+        "energy and health",
+        "solid fuels",
+        "biomass burning",
+        "coal",
+        "occupational health",
+        "household air pollution",
+        "ambient air pollution",
+        "clean energy access",
+        "energy efficiency",
+        "renewable energy",
+        "health co-benefits",
+        "global burden of disease"
+      ],
+      "url": "https://openalex.org/W2129198907",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Energy, material, and resource efficiency for industrial decarbonization: A systematic review of sociotechnical systems, technological innovations, and policy options",
+      "abstract": "Efficiency stands out as one of the most important options for achieving industrial decarbonization. In addition to carbon emissions reductions, improving energy, material and resource efficiency can bring many desirable benefits, such as cost savings, increased energy and resource security, and higher productivity. However, despite these clear benefits being understood for decades, the adoption of efficiency practices still lags far behind its potential, and commercial liftoff remains a challenge. To understand these gaps, we conducted a comprehensive and systematic review through a socio-technical lens of more than 2.8 million references and 380 selected studies on industrial decarbonization. This research uses a socio-technical lens across the industrial supply chain and delves into the classes of raw materials and feedstocks, pre-processing, manufacturing, and waste and recycling. The paper also clarifies the barriers to decarbonization efforts, which include economic, organizational, and behavioral challenges, and highlights policy measures to address these barriers. It concludes by outlining areas for further research.",
+      "authors": [
+        "Jinsoo Kim",
+        "Benjamin Kenneth Sovacool",
+        "Morgan Bazilian",
+        "Steve Griffiths",
+        "Minyoung Yang"
+      ],
+      "year": 2024,
+      "venue": "Energy Research & Social Science",
+      "doi": "10.1016/j.erss.2024.103521",
+      "keywords": [
+        "industrial decarbonization",
+        "energy efficiency",
+        "material efficiency",
+        "resource efficiency",
+        "socio-technical systems",
+        "technological innovation",
+        "decarbonization policy",
+        "industrial supply chains",
+        "recycling",
+        "waste management",
+        "carbon emission reduction"
+      ],
+      "url": "https://openalex.org/W4393142154",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Overview of Mobile Communications in Colombia and Introduction to 5G",
+      "abstract": "The deployment of 5G around the world continues to progress at a rapid pace, especially in North America and Asia. Its advantages and efficiency as a data transmission network have been widely demonstrated in different fields such as agriculture, education, health, and surveillance. However, this process does not have the same dynamics in Latin America, specifically in Colombia. The country is currently implementing actions aimed at facilitating the deployment of this technology in the short term, including pilot tests for the use of the radio spectrum, spectrum auctions, the planning of future auctions, and the review of spectrum caps. The results of this review allow us to conclude that despite the forecasts and the intentions of the Colombian government and mobile communication service operators, 5G in standalone mode will not be commercially available in Colombia before the end of 2023. The main failures in its deployment are related to the lack of available spectrum to support the ultrahigh-reliability and low-latency, enhanced mobile broadband, and massive machine-type communications scenarios, as well as the delay in the auction processes for its assignment.",
+      "authors": [
+        "Alexis Barrios-Ulloa",
+        "Dora Cama-Pinto",
+        "Francisco Manuel Arrabal Campos",
+        "Juan Martínez-Lao",
+        "José Monsalvo-Amaris",
+        "Audomaro Hernández-López",
+        "Alejandro Cama-Pinto"
+      ],
+      "year": 2023,
+      "venue": "Sensors",
+      "doi": "10.3390/s23031126",
+      "keywords": [
+        "5G deployment",
+        "mobile communication",
+        "radio spectrum",
+        "spectrum auctions",
+        "spectrum allocation",
+        "Colombia",
+        "commercial availability",
+        "low-latency communication",
+        "enhanced mobile broadband",
+        "massive machine-type communications",
+        "Latin America"
+      ],
+      "url": "https://openalex.org/W4317398990",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Advancing Sustainable Development through the lens of Energy Efficiency: A Systematic Literature Review",
+      "abstract": "The global focus on Sustainable Development (SD) encompasses social, economic, and environmental concerns. Energy efficiency plays a crucial role in this transition, defined as efforts to reduce energy consumption by lowering service demand. It is widely recognized as one of the most cost-effective, tested, and accessible strategies to achieve SD, fostering economic growth, social progress, and carbon reduction. To understand the interplay between energy efficiency and SD, a comprehensive review is needed. This study examines previous research on SD through the lens of energy efficiency, utilizing the SCOPUS database to select 46 publications from 2006 to 2022. These studies are categorized by year, publishers, journals, country, sectors, citations, data analysis methods, and sustainable dimensions. The classification helps identify gaps, such as the lack of a unified research framework. Advanced nations conducted 30.43% of the studies, with most research focusing more on environmental aspects than economic or social ones. This study expands the literature by highlighting connections between energy efficiency and SD, aiding scholars and practitioners in promoting sustainable development alongside energy efficiency. Consequently, the literature review focused on empirical research.",
+      "authors": [
+        "Most. Asikha Aktar",
+        "Al-Amrani Khadeem Ali Dhahi",
+        "Usman Abdullahi"
+      ],
+      "year": 2024,
+      "venue": "International Journal of Energy Economics and Policy",
+      "doi": "10.32479/ijeep.16473",
+      "keywords": [
+        "energy efficiency",
+        "sustainable development",
+        "energy consumption reduction",
+        "carbon emission reduction",
+        "research gaps",
+        "sustainable development dimensions",
+        "energy efficiency policy"
+      ],
+      "url": "https://openalex.org/W4402335374",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Effectiveness of environmental impact statement methods: A Colombian case study",
+      "abstract": "The effectiveness of impact assessment (IA) methods has been a neglected topic in procedural effectiveness research, which has placed higher relevance on the quality of Environmental Impact Statements (EISs) and the environment impact assessment (EIA) process in general. This study analysed the effectiveness of methods used in IA in Colombia to demonstrate that they have been used in compliance with the Terms of Reference (ToR) but did not analyse their effectiveness. A total of 131 EIS were analysed using a revised version of the Effectiveness Index for Environmental Impact Assessment Methods (EIM) proposed by Caro and Toro (2016). It is concluded that, even if the environmental authority has accepted the EIS as a requirement for obtaining an environmental license, most of the methods that have been used in these technical documents, obtained a medium or low degree of effectiveness. The parameters regulated for the law have a higher percentage of compliance. The analysis suggests that the guidelines provided for the law, related to the design and implementation of the methods, should be improved to develop an effective EIA.",
+      "authors": [
+        "Ana L. Caro-Gonzalez",
+        "Javier Toro",
+        "Montserrat Zamorano"
+      ],
+      "year": 2021,
+      "venue": "Journal of Environmental Management",
+      "doi": "10.1016/j.jenvman.2021.113659",
+      "keywords": [
+        "environmental impact assessment",
+        "environmental impact statement",
+        "environmental licensing",
+        "environmental compliance",
+        "Colombia"
+      ],
+      "url": "https://openalex.org/W3200719453",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Hydrocarbon-degrading bacteria in Colombia: systematic review",
+      "abstract": "Petroleum industry activities worldwide have caused pollution and resulted in environmental degradation. Microorganisms with the potential to reduce pollutant levels by degradation processes have been reported, and bacteria are among such organisms. The first study on bacterial degradation in Colombia was published in 1996. The study isolated bacteria belonging to the Pseudomonas genus from hydrocarbon-polluted sediments. Since then, different reports on degrading bacteria have been published. The objective of this systematic review is to identify and analyze all the studies on hydrocarbon-degrading bacteria performed in Colombia. To accomplish this goal, a literature search was conducted. Inclusion and exclusion criteria were applied, and 37 relevant articles were obtained. We found that 2018 was the year with the largest number of publications in Colombia, and most frequently identified bacterial genera were Pseudomonas and Bacillus. Some studies showed that the degradation of hydrocarbons is more efficient when bacterial consortia are used rather than pure cultures. This study provides information about bacteria with the potential to degrade hydrocarbons in Colombia, which in turn will be a source of information for future studies in this field.",
+      "authors": [
+        "Diana Carolina Rache-Arce",
+        "Maryuris Machacado-Salas",
+        "Doris Rosero-García"
+      ],
+      "year": 2022,
+      "venue": "Biodegradation",
+      "doi": "10.1007/s10532-022-09976-z",
+      "keywords": [
+        "hydrocarbon-degrading bacteria",
+        "oil pollution",
+        "bioremediation",
+        "Pseudomonas",
+        "Bacillus",
+        "bacterial consortium",
+        "hydrocarbon degradation",
+        "petroleum-contaminated sediments",
+        "Colombia"
+      ],
+      "url": "https://openalex.org/W4214891065",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Combining Steam and Flue Gas as a Strategy to Support Energy Efficiency: A Comprehensive Review of the Associated Mechanisms",
+      "abstract": "Conventional steam injection projects have long been an iconic process in the development of heavy oil reserves; nevertheless, they face significant challenges in terms of energy efficiency, environmental compliance, and economic viability. Factors such as oil price fluctuations, the imperative for an energy transition, and the push to reduce carbon footprints are hindering new or ongoing implementations of traditional steam injection technologies. In response to these challenges, hybrid methods, such as the combination of steam and flue gas, are emerging as an opportunity to optimize thermal processes to improve oil recovery, energy efficiency, and environmental sustainability and extend reservoir productivity life. Steam injection enhances oil recovery by reducing the viscosity of crude oil, improving oil mobility and facilitating its extraction. The utilization of flue gas in steam injection processes has a significant impact on oil recovery and energy efficiency, leveraging industrial byproducts. This not only lowers operating costs but also reduces environmental emissions, aligned with energy transition trends. Incorporating the flue gas into a steam-based process in heavy oil reservoirs has emerged as a promising thermally enhanced oil recovery strategy. This work presents a comprehensive review based on experimental, numerical, and field studies of hybrid steam and flue gas technology as an EOR process. The main recovery mechanisms associated with the process are analyzed. In addition, the laboratory equipment required for experimental evaluations is presented, and reservoir modeling, kinetic and compositional effects on reservoir fluids, and the reduction in heat losses in the steam injection process are discussed. Furthermore, field implementations are reviewed to evaluate lessons learned and experiences on an operative scale. The combination of steam and flue gas represents an opportunity for carbon utilization and geological carbon sequestration. This dual functionality underscores its potential to enhance oil recovery and address carbon-related environmental concerns.",
+      "authors": [
+        "R. Pérez",
+        "Laura Osma",
+        "Hugo Alejandro García Duarte"
+      ],
+      "year": 2024,
+      "venue": "ACS Omega",
+      "doi": "10.1021/acsomega.3c09889",
+      "keywords": [
+        "enhanced oil recovery",
+        "heavy oil",
+        "energy efficiency",
+        "flue gas utilization",
+        "carbon utilization",
+        "CO2 geological storage",
+        "heat loss reduction",
+        "reservoir modeling",
+        "composition effects",
+        "recovery mechanisms",
+        "industrial by-product utilization"
+      ],
+      "url": "https://openalex.org/W4393221953",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Telemedicine and mHealth Applications for Health Monitoring in Rural Communities in Colombia: A Systematic Review",
+      "abstract": "INTRODUCTION: Telemedicine and mHealth applications constitute a central pillar in the digital transformation of healthcare.OBJECTIVE: To describe the efficacy, applicability, and impact of telemedicine and mHealth applications on the monitoring and improvement of health in rural communities in Colombia.METHODS: This research was carried out as a systematic review, a type of study that allows for a thorough and replicable evaluation of the existing literature in the databases PubMed, Scopus, Embase, Web of Science, Cochrane Library, CINAHL, and ERIC.RESULTS: A total of 14 studies were included, which encompassed different types of research designs: two case-control studies, two randomized trials, four cross-sectional studies, two qualitative investigations, one consensus study, one retrospective cohort study, and two reviews. The sample size varied significantly among the studies, from 16 participants in the consensus study to 313,897 patients in one of the cross-sectional studies.CONCLUSIONS: Telemedicine and mHealth applications are transforming the way medical care is delivered to rural communities in Colombia. These tools have proven to be valuable in improving the detection and management of chronic diseases such as cognitive decline and cardiovascular diseases. At the same time, the implementation of these technologies has shown to be effective in improving the quality of medical care, providing greater access to specialized medical services, and reducing the sense of isolation among health professionals in rural areas.",
+      "authors": [
+        "Verenice Sánchez Castillo",
+        "Carlos Alberto Gómez Cano",
+        "Javier González‐Argote"
+      ],
+      "year": 2023,
+      "venue": "EAI Endorsed Transactions on Pervasive Health and Technology",
+      "doi": "10.4108/eetpht.9.3400",
+      "keywords": [
+        "telemedicine",
+        "mobile health",
+        "health monitoring",
+        "rural health",
+        "digital health",
+        "chronic disease management",
+        "cognitive decline",
+        "cardiovascular disease",
+        "access to specialist care",
+        "quality of care",
+        "Colombia"
+      ],
+      "url": "https://openalex.org/W4378575447",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Energy-Efficient Wireless Sensor Networks for Precision Agriculture: A Review",
+      "abstract": "Wireless sensor networks (WSNs) can be used in agriculture to provide farmers with a large amount of information. Precision agriculture (PA) is a management strategy that employs information technology to improve quality and production. Utilizing wireless sensor technologies and management tools can lead to a highly effective, green agriculture. Based on PA management, the same routine to a crop regardless of site environments can be avoided. From several perspectives, field management can improve PA, including the provision of adequate nutrients for crops and the wastage of pesticides for the effective control of weeds, pests, and diseases. This review outlines the recent applications of WSNs in agriculture research as well as classifies and compares various wireless communication protocols, the taxonomy of energy-efficient and energy harvesting techniques for WSNs that can be used in agricultural monitoring systems, and comparison between early research works on agriculture-based WSNs. The challenges and limitations of WSNs in the agricultural domain are explored, and several power reduction and agricultural management techniques for long-term monitoring are highlighted. These approaches may also increase the number of opportunities for processing Internet of Things (IoT) data.",
+      "authors": [
+        "Haider Mahmood Jawad",
+        "Rosdiadee Nordin",
+        "Sadik Kamel Gharghan",
+        "Aqeel Mahmood Jawad",
+        "Mahamod B. Ismail"
+      ],
+      "year": 2017,
+      "venue": "Sensors",
+      "doi": "10.3390/s17081781",
+      "keywords": [
+        "wireless sensor networks",
+        "precision agriculture",
+        "energy efficiency",
+        "energy harvesting",
+        "wireless communication protocols",
+        "agricultural monitoring",
+        "Internet of Things",
+        "crop monitoring",
+        "pesticide reduction",
+        "long-term monitoring",
+        "green agriculture"
+      ],
+      "url": "https://openalex.org/W2742840809",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Systematic review of current academic production of the concepts of BIM, thermal performance, energy efficiency and sustainability",
+      "abstract": "This paper aims to discuss the current applications of Building Information Modelling along with Thermal Performance, Energy Efficiency, and Sustainability. It proposes one integrative matrix of concepts, containing information about the practical applications of high-impact papers within the academic knowledge, exposing the discussion to other stakeholders such as constructors, students, and managers. With the integrated matrix the study aims to present a state-of-the-art synthesis in terms of BIM applied, along with energy and thermal efficiency and sustainability, which may aid BIM practitioners in developing BIM applications in the context presented. This paper will perform a critical review of the existing literature, using the science web knowledge base, analysing works published between 2018 and 2021, with a higher impact factor. This research has a focus on works that perform practical applications of BIM tools to perform thermal performance and energy efficiency analysis, presenting the sustainability factor as a topic of discussion. After the systematic review, the works are selected to compound the integrated matrix will be analysed in order to clarify its practical applications. After selecting 29 (20% of the most relevant) high-impact academic papers, they will be schematized in an integrated matrix that summarizes the discussion about the applications of each paper. The paper provides qualitative data about the current applications of BIM, summarizing high-impact applications into an integrated matrix, allowing BIM practitioners and academics to use these results to find new applications, authors, discussions, and data more efficiently.",
+      "authors": [
+        "Matheus Pereira da Silva",
+        "Alyria Donegá",
+        "Michele Tereza Marques Carvalho"
+      ],
+      "year": 2023,
+      "venue": "Project Design and Management",
+      "doi": "10.35992/pdm.5vi1.1352",
+      "keywords": [
+        "building information modeling",
+        "thermal performance",
+        "energy efficiency",
+        "sustainability",
+        "BIM application",
+        "high-impact papers"
+      ],
+      "url": "https://openalex.org/W4380490090",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Dynamics and challenges of technology transfer in Colombia: a systematic literature review",
+      "abstract": "Introduction: Technology transfer in Colombia plays a critical role in promoting innovation and regional development. However, its implementation continues to face significant institutional, economic, and cultural challenges that hinder its effectiveness and sustainability. Methods: A systematic literature review was conducted in accordance with the PRISMA 2020 guidelines. The databases Scopus and Web of Science were used to identify peer-reviewed articles that addressed knowledge and technology transfer within the Colombian context. Results: The analysis revealed multiple barriers: institutional fragmentation, inadequate investment in R&D, lack of incentives for collaboration, and weak trust between academia and industry. Additionally, organizational rigidity and the limited adaptation of international transfer models to local contexts were identified as factors that reduce the effectiveness of these processes. Discussion: The findings highlight the need to acknowledge regional particularities, foster inclusive governance, and promote horizontal relationships among stakeholders. Effective international strategies, such as open innovation, co-creation models, and hybrid technology transfer offices, could be adapted to the Colombian context. Strengthening institutional capacities, increasing R&D funding, and aligning innovation with social and environmental objectives are imperative to build a more robust and inclusive innovation ecosystem.",
+      "authors": [
+        "Alejandro Valencia-Arías",
+        "Karla Cristina Bonilla Restrepo",
+        "Eliana María Villa Enciso",
+        "Jackeline Valencia",
+        "Juan Camilo Rua Hernandez",
+        "Diana Marleny Ramírez-Ramírez"
+      ],
+      "year": 2025,
+      "venue": "Frontiers in Research Metrics and Analytics",
+      "doi": "10.3389/frma.2025.1628141",
+      "keywords": [
+        "technology transfer",
+        "Colombia",
+        "barriers to technology transfer",
+        "institutional fragmentation",
+        "R&D investment",
+        "academia-industry collaboration",
+        "organizational rigidity",
+        "open innovation",
+        "co-creation",
+        "innovation ecosystems",
+        "regional development",
+        "inclusive governance"
+      ],
+      "url": "https://openalex.org/W4414103973",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Biological Metaphors in Project Management in Colombia: Systematic Review",
+      "abstract": "Colombia is a pioneer country in applying biological metaphors to organizational management, and the first study was published in 1982. Since that time, several publications have been released. Objective and methodology: A comprehensive literature search was carried out, and criteria for inclusion and exclusion were implemented, resulting in 75 investigations. Key findings: It was observed that 2015 had the highest number of publications in Colombia. Moreover, 86 biological metaphors applied to organizations were found. Conclusions: Biological metaphors in project management in Colombia have facilitated inter-business cooperation, the creation of organizational ecosystems, the development of new organizational forms, the promotion of social responsibility, and adaptation to a dynamic environment, thus contributing to the competitiveness and sustainability of small businesses.",
+      "authors": [
+        "Doris Rosero-García",
+        "Luz Alexandra Montoya Restrepo"
+      ],
+      "year": 2026,
+      "venue": "Revista Universidad y Empresa",
+      "doi": "10.12804/revistas.urosario.edu.co/empresa/a.15056",
+      "keywords": [
+        "biological metaphors",
+        "project management",
+        "organizational management",
+        "Colombia",
+        "organizational ecosystems",
+        "organizational forms",
+        "social responsibility",
+        "SME competitiveness",
+        "sustainability"
+      ],
+      "url": "https://openalex.org/W7127180110",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Current status and development of neutron radiation for biophysical applications in Colombia",
+      "abstract": "In Colombia, medical physics started formally about 3 decades ago. Two master's programs in medical physics initiated activities at two different universities. In particular, the master's program at the Pontificia Universidad Javeriana has been underway since 2012, and taking into account its projections, a team was established in 2015 in collaboration with the Universidad Distrital Francisco José de Caldas to conduct basic research on cancer treatment using neutron capture therapy (NCT). The primary goal of our initiative is to create the infrastructure required to adapt new technologies in our universities in the future. The long-term objective is to use neutron radiation to study not only NCT but also biomolecules, membranes, and materials. This will require the commissioning of an actual nuclear facility. Our group has been exclusively focused on carrying out calculations with GEANT4 because of its characteristics as open-source software, its accessibility, and its ample worldwide use and validation in the particle physics, nuclear physics, and medical physics communities. In this work, we present some results of our preliminary design for the ion accelerator column of a compact neutron generator. Also, we present the characterization of the kinematical and dose distributions of boron neutron capture processes using Geant4.",
+      "authors": [
+        "J. Alfonso Leyva",
+        "E. Munévar"
+      ],
+      "year": 2023,
+      "venue": "Biophysical Reviews",
+      "doi": "10.1007/s12551-023-01079-0",
+      "keywords": [
+        "neutron capture therapy",
+        "medical physics education",
+        "compact neutron generator",
+        "boron neutron capture",
+        "dose distribution",
+        "kinematic distributions",
+        "Geant4 simulation",
+        "cancer therapy",
+        "Colombia"
+      ],
+      "url": "https://openalex.org/W4385361619",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Energy-Sufficiency for a Just Transition: A Systematic Review",
+      "abstract": "Efforts to achieve an energy transition often neglect to account for the levelling of benefits realizable with higher levels of energy use, despite knowledge of a saturation effect and recognition of increasing harms of use. This research examines energy sufficiency as a maximum quantity of energy associated with improvements in human well-being to inform a recalibration of energy targets among high-energy societies. A systematic review of recent research was performed to identify the point at which increasing levels of energy use no longer correlate with meaningful increases in well-being. For selected studies (n = 18), energy sufficiency values range from 60–221 gigajoules per capita per year with a mean of 132 gigajoules per capita per year for associated measures of well-being. The review finds agreement in a pattern of saturation and provides a range of values for energy sufficiency maximums, suggesting that a relatively modest amount and a diverse quality of energy is needed to support high levels of human well-being. Beyond the conventional emphasis on energy efficiency and renewable energy, energy sufficiency therefore offers a necessary and complementary approach for supporting just and ecological energy transitions.",
+      "authors": [
+        "Matthew J. Burke"
+      ],
+      "year": 2020,
+      "venue": "Energies",
+      "doi": "10.3390/en13102444",
+      "keywords": [
+        "energy sufficiency",
+        "just transition",
+        "energy transition",
+        "human well-being",
+        "energy targets",
+        "energy efficiency",
+        "renewable energy",
+        "green transition"
+      ],
+      "url": "https://openalex.org/W3024538021",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "National energy system optimization modelling for decarbonization pathways analysis: A systematic literature review",
+      "abstract": "Energy planning is fundamental to ensure a sustainable, affordable, and reliable energy mix for the future. Energy system optimization models (ESOMs) are the accurate tools to guide decision-making in national energy planning. This article presents a systematic literature review covering the main ESOMs, the input and output data involved, the trends in scenario analysis for decarbonization pathways in national economies, and the challenges associated with energy system optimization modelling. The first part introduces the characterization of ESOMs, showing a trend in modelling focused on long-term, multisector, multiperiod, bottom-up, linear programming, and perfect foresight. Secondly, the analysis shows the intensive data requirements, including future demand profiles, fuel price projections, energy potentials, and techno-economic characteristics of technologies. This review also reveals that decarbonization pathways are the principal objective in energy system optimization modelling, including key drivers such as high-share renewable energy integration, energy efficiency increase, sector coupling, and sustainable transport. The last section presents ten challenges and their corresponding opportunities in research, highlighting the improvement of spatiotemporal resolution, transparency, the inclusion of social aspects, the representation of developing country features, and quality and availability data.",
+      "authors": [
+        "Fernando Antonio Plazas-Niño",
+        "Néstor Raúl Ortíz Pimiento",
+        "Erik Giovany Montes Páez"
+      ],
+      "year": 2022,
+      "venue": "Renewable and Sustainable Energy Reviews",
+      "doi": "10.1016/j.rser.2022.112406",
+      "keywords": [
+        "decarbonization pathways",
+        "national energy planning",
+        "scenario analysis",
+        "bottom-up modeling",
+        "perfect foresight",
+        "renewable energy integration",
+        "energy efficiency",
+        "sector coupling",
+        "sustainable transport",
+        "data requirements",
+        "spatiotemporal resolution",
+        "developing countries"
+      ],
+      "url": "https://openalex.org/W4223658157",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Clean Technology Transfer and Innovation in Social Housing Production in Brazil and Colombia. A Framework from a Systematic Review",
+      "abstract": "Over recent years in Brazil and Colombia, the social housing programs of these two countries have increasingly become directly related to the concept of green construction and seek to integrate with their respective laws. For example, a series of technological strategies allows bought countries to guarantee a reduction of the environmental impact of traditional construction technologies. Therefore, these actions try to answer the problems in the design of dwellings in Latin America. However, the construction sector reduced productivity and limited innovation in business. Some of the technological management processes in the social housing construction sector only consider the implementation of clean technologies tangentially. This situation is mainly because of general policies since they do not consider different local contexts. It is then worth asking: What impact do the processes of transfer of clean technologies have on social housing in Brazil and Colombia? This systematic review was carried out on scientific papers indexed by the science database from 2013 to 2019. The PRISMA method was applied to this review with an aim to propose a conceptual model for the transfer of clean technology in the production of social housing in Brazil and Colombia. Finally, we identify that the impact of clean technologies transfer on social housing is very low in these two countries.",
+      "authors": [
+        "Rolando González",
+        "Grace Tibério Cardoso"
+      ],
+      "year": 2020,
+      "venue": "Sustainability",
+      "doi": "10.3390/su12041335",
+      "keywords": [
+        "social housing",
+        "sustainable construction",
+        "construction innovation",
+        "environmental impact of construction",
+        "housing policy",
+        "Brazil",
+        "Colombia",
+        "conceptual model"
+      ],
+      "url": "https://openalex.org/W3005581009",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "A systematic bibliometric review of clean energy transition: Implications for low-carbon development",
+      "abstract": "More voices are calling for a quicker transition towards clean energy. The exploration and exploitation of clean energy such as wind energy and solar energy are effective means to optimise energy structure and improve energy efficiency. To provide in-depth understanding of clean energy transition, this paper utilises a combination of multiple bibliometric mapping techniques, including HistCite, CiteSpace and R Bibliometrix, to conduct a systematic review on 2,191 clean energy related articles obtained from Web of Science (WoS). We identify five current main research streams in the clean energy field, including Energy Transition, Clean Energy and Carbon Emission Policy, Impact of Oil Price on Alternative Energy Stocks, Clean Energy and Economics, and Venture Capital Investments in Clean Energy. Clearly, the effectiveness of policy-driven and market-driven energy transition is an important ongoing debate. Emerging research topics are also discussed and classified into six areas: Clean Energy Conversion Technology and Biomass Energy Utilisation, Optimisation of Energy Generation Technology, Policy-Making in Clean Energy Transition, Impact of Clean Energy Use and Economic Development on Carbon Emissions, Household Use of Clean Energy, and Clean Energy Stock Markets. Accordingly, more and more research attention has been paid to how to improve energy efficiency through advanced clean energy technology, and how to make targeted policies for clean energy transition and energy market development. This article moves beyond the traditional literature review methods and delineates a systematic research agenda for clean energy research, providing research directions for achieving low-carbon development through the clean energy transition.",
+      "authors": [
+        "Wei Zhang",
+        "Binshuai Li",
+        "Rui Xue",
+        "Chengcheng Wang",
+        "Wei Cao"
+      ],
+      "year": 2021,
+      "venue": "PLoS ONE",
+      "doi": "10.1371/journal.pone.0261091",
+      "keywords": [
+        "clean energy transition",
+        "low-carbon development",
+        "carbon emission policy",
+        "wind energy",
+        "solar energy",
+        "energy efficiency",
+        "biomass energy",
+        "research agenda"
+      ],
+      "url": "https://openalex.org/W3214920434",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Public Policies for Fluoride Use in Colombia and Brazil before and during the Adoption of the Right to Health",
+      "abstract": "The use of fluorides is essential in the prevention of dental caries, considered to be the main dental public health problem. The formulation and implementation of public health policies can vary from country to country, depending on multiple factors. This study aims to analyze the interaction model between the knowledge produced about the use of fluorides and its implementation through public policies in two South American countries until the period of constitutional reform in each country. A narrative review was conducted with a systematic search of scientific articles and normative devices regarding the use of fluorides in public health in each country during the period prior to the implementation of the right to health in the Constitution. In both countries, there was an intense interaction among governmental organizations, researchers, academic and professional leaders, and companies involved in sanitation and salt production. Fluoride use strategies in Brazil and Colombia after an initial stage of similar characteristics began to differ in terms of public policy options for systemic fluoride use. In Brazil, the option was to adjust the concentration of fluoride in the water, while in Colombia, the addition of fluoride to table salt was consolidated as a public policy.",
+      "authors": [
+        "Laura Jackeline García Rincón",
+        "Paulo Frazão"
+      ],
+      "year": 2023,
+      "venue": "International Journal of Environmental Research and Public Health",
+      "doi": "10.3390/ijerph20032058",
+      "keywords": [
+        "fluoride",
+        "public health policy",
+        "right to health",
+        "dental caries prevention",
+        "water fluoridation",
+        "salt fluoridation",
+        "constitutional reform",
+        "Colombia",
+        "Brazil"
+      ],
+      "url": "https://openalex.org/W4317733725",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Novel Artificial Intelligence Applications in Energy: A Systematic Review",
+      "abstract": "This systematic review examines state-of-the-art artificial intelligence applications in energy systems, assessing their performance, real-world deployments and transformative potential. Guided by PRISMA 2020, we searched Web of Science, IEEE Xplore, ScienceDirect, SpringerLink, and Google Scholar for English-language studies published between January 2015 and January 2025 that reported novel AI uses in energy, empirical results, or significant theoretical advances and passed peer review. After title–abstract screening and full-text assessment, it was determined that 129 of 3000 records met the inclusion criteria. The methodological quality, reproducibility and real-world validation were appraised, and the findings were synthesised narratively around four critical themes: reinforcement learning (35 studies), multi-agent systems (28), planning under uncertainty (25), and AI for resilience (22), with a further 19 studies covering other areas. Notable outcomes include DeepMind-based reinforcement learning cutting data centre cooling energy by 40%, multi-agent control boosting virtual power plant revenue by 28%, AI-enhanced planning slashing the computation time by 87% without sacrificing solution quality, battery management AI raising efficiency by 30%, and machine learning accelerating hydrogen catalyst discovery 200,000-fold. Across domains, AI consistently outperformed traditional techniques. The review is limited by its English-only scope, potential under-representation of proprietary industrial work, and the inevitable lag between rapid AI advances and peer-reviewed publication. Overall, the evidence positions AI as a pivotal enabler of cleaner, more reliable, and efficient energy systems, though progress will depend on data quality, computational resources, legacy system integration, equity considerations, and interdisciplinary collaboration. No formal review protocol was registered because this study is a comprehensive state-of-the-art assessment rather than a clinical intervention analysis.",
+      "authors": [
+        "Tai Zhang",
+        "Goran Štrbac"
+      ],
+      "year": 2025,
+      "venue": "Energies",
+      "doi": "10.3390/en18143747",
+      "keywords": [
+        "artificial intelligence in energy",
+        "energy systems",
+        "reinforcement learning",
+        "multi-agent systems",
+        "planning under uncertainty",
+        "virtual power plants",
+        "battery management",
+        "data center cooling",
+        "energy efficiency"
+      ],
+      "url": "https://openalex.org/W4412451554",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Assessment of thermal comfort and its potential for energy efficiency in low-income tropical buildings: a review",
+      "abstract": "Buildings contribute approximately 40% of global energy consumption and 15% of direct CO2 emissions from end-use sectors, primarily due to heating and cooling needs, typically met by grid electricity. This study assessed the thermal comfort and its role in enhancing energy efficiency in tropical buildings. This review examines thermal comfort parameters, building materials, and design strategies suited for tropical environments, focusing on factors like air circulation, thermal mass, and sustainable materials. It identifies critical gaps in current building codes and emphasizes the need for integrated approaches that align energy efficiency with occupant comfort. Passive design strategies and renewable energy technologies are explored as innovative solutions to achieve substantial energy savings and improved indoor environments, particularly in low-income housing. The study also addresses socioeconomic barriers to energy-efficient solutions in low-income settings and proposes stakeholder engagement strategies involving government bodies, NGOs, and local communities. This research highlights the critical role of optimizing thermal comfort in achieving energy efficiency in low-income tropical buildings. By focusing on occupant well-being and energy performance, the study provides a pathway for policymakers, architects, and urban planners to advance sustainable, economically viable, and environmentally friendly built environments in tropical regions. The study aligns with SDGs 3, 7, 9, 11, 12, 13, and 17, contributing to environmental sustainability and climate resilience. It promotes health, well-being, and economic benefits for vulnerable populations by integrating technological innovations, sustainable design practices, and effective policy measures, fostering a comprehensive approach to energy efficiency and thermal comfort in low-income tropical buildings.",
+      "authors": [
+        "Derrick Kajjoba",
+        "Racheal Wesonga",
+        "Joseph Ddumba Lwanyaga",
+        "Hillary Kasedde",
+        "Peter Wilberforce Olupot",
+        "John Baptist Kirabira"
+      ],
+      "year": 2025,
+      "venue": "Sustainable Energy Research",
+      "doi": "10.1186/s40807-025-00169-9",
+      "keywords": [
+        "thermal comfort",
+        "building energy efficiency",
+        "low-income housing",
+        "tropical buildings",
+        "passive design",
+        "thermal mass",
+        "building materials",
+        "air circulation",
+        "renewable energy in buildings",
+        "building regulations",
+        "socioeconomic barriers",
+        "stakeholder engagement",
+        "sustainable building design",
+        "indoor environment"
+      ],
+      "url": "https://openalex.org/W4410493472",
+      "type": "review"
+    }
+  ]
+}

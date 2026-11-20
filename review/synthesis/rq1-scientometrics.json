@@ -1,0 +1,419 @@
+{
+ "basis": "included studies matched in OpenAlex by DOI",
+ "included": 157,
+ "matched": 153,
+ "unmatched": [
+  "R0045",
+  "R0087",
+  "R0116",
+  "R0332"
+ ],
+ "international_collaboration_share": 0.542,
+ "citations_total": 4661,
+ "top_cited": [
+  {
+   "record_id": "R0094",
+   "cited_by": 222
+  },
+  {
+   "record_id": "R0023",
+   "cited_by": 186
+  },
+  {
+   "record_id": "R0382",
+   "cited_by": 150
+  },
+  {
+   "record_id": "R0378",
+   "cited_by": 124
+  },
+  {
+   "record_id": "R0367",
+   "cited_by": 124
+  },
+  {
+   "record_id": "R0034",
+   "cited_by": 124
+  },
+  {
+   "record_id": "R0505",
+   "cited_by": 121
+  },
+  {
+   "record_id": "R0517",
+   "cited_by": 105
+  },
+  {
+   "record_id": "R0519",
+   "cited_by": 104
+  },
+  {
+   "record_id": "R0464",
+   "cited_by": 99
+  },
+  {
+   "record_id": "R0434",
+   "cited_by": 97
+  },
+  {
+   "record_id": "R0167",
+   "cited_by": 96
+  },
+  {
+   "record_id": "R0258",
+   "cited_by": 91
+  },
+  {
+   "record_id": "R0154",
+   "cited_by": 86
+  },
+  {
+   "record_id": "R0043",
+   "cited_by": 85
+  }
+ ],
+ "top_institutions": [
+  {
+   "name": "Universidad Nacional de Colombia",
+   "studies": 24
+  },
+  {
+   "name": "Universidad de Bogotá Jorge Tadeo Lozano",
+   "studies": 18
+  },
+  {
+   "name": "Universidad del Valle",
+   "studies": 13
+  },
+  {
+   "name": "Universidad Pontificia Bolivariana",
+   "studies": 13
+  },
+  {
+   "name": "Universidad de la Costa",
+   "studies": 9
+  },
+  {
+   "name": "Aalborg University",
+   "studies": 7
+  },
+  {
+   "name": "Universidad de Los Andes",
+   "studies": 7
+  },
+  {
+   "name": "Universidad de Antioquia",
+   "studies": 7
+  },
+  {
+   "name": "Institución Universitaria ITM",
+   "studies": 6
+  },
+  {
+   "name": "Universidad Industrial de Santander",
+   "studies": 5
+  },
+  {
+   "name": "Universidad Tecnológica de Pereira",
+   "studies": 5
+  },
+  {
+   "name": "Universidad de Medellín",
+   "studies": 5
+  },
+  {
+   "name": "Universidad del Norte",
+   "studies": 4
+  },
+  {
+   "name": "Universidad Cooperativa de Colombia",
+   "studies": 4
+  },
+  {
+   "name": "Karlsruhe Institute of Technology",
+   "studies": 4
+  },
+  {
+   "name": "Netherlands Organisation for Applied Scientific Research",
+   "studies": 4
+  },
+  {
+   "name": "Delft University of Technology",
+   "studies": 4
+  },
+  {
+   "name": "Universidad Autónoma de Occidente",
+   "studies": 4
+  },
+  {
+   "name": "Pontificia Universidad Javeriana",
+   "studies": 4
+  },
+  {
+   "name": "Universidad de Córdoba",
+   "studies": 4
+  },
+  {
+   "name": "Institución Universitaria Pascual Bravo",
+   "studies": 4
+  },
+  {
+   "name": "Universidad Icesi",
+   "studies": 3
+  },
+  {
+   "name": "Universidad Distrital Francisco José de Caldas",
+   "studies": 3
+  },
+  {
+   "name": "Universidad Militar Nueva Granada",
+   "studies": 3
+  },
+  {
+   "name": "Universidad Tecnológica de Bolívar",
+   "studies": 3
+  }
+ ],
+ "countries": {
+  "CO": 130,
+  "ES": 19,
+  "GB": 11,
+  "DE": 9,
+  "MX": 9,
+  "US": 8,
+  "DK": 8,
+  "NL": 8,
+  "CL": 7,
+  "FR": 7,
+  "IT": 7,
+  "PL": 5,
+  "BR": 4,
+  "CH": 4,
+  "CA": 3,
+  "SE": 2,
+  "NO": 2,
+  "PH": 2,
+  "CR": 1,
+  "GR": 1,
+  "EC": 1,
+  "AU": 1,
+  "AR": 1,
+  "UY": 1,
+  "PE": 1,
+  "EE": 1,
+  "AE": 1,
+  "BE": 1,
+  "IS": 1,
+  "MY": 1,
+  "TH": 1,
+  "LT": 1
+ },
+ "top_institution_pairs": [
+  {
+   "a": "Aalborg University",
+   "b": "Universidad del Valle",
+   "studies": 6
+  },
+  {
+   "a": "Universidad de Bogotá Jorge Tadeo Lozano",
+   "b": "Universidad Nacional de Colombia",
+   "studies": 6
+  },
+  {
+   "a": "Universidad de Bogotá Jorge Tadeo Lozano",
+   "b": "Universidad Icesi",
+   "studies": 3
+  },
+  {
+   "a": "Universidad Nacional de Colombia",
+   "b": "Institución Universitaria ITM",
+   "studies": 3
+  },
+  {
+   "a": "Universidad Cooperativa de Colombia",
+   "b": "Institute of Physical Chemistry",
+   "studies": 3
+  },
+  {
+   "a": "Universidad Cooperativa de Colombia",
+   "b": "Polish Academy of Sciences",
+   "studies": 3
+  },
+  {
+   "a": "Institute of Physical Chemistry",
+   "b": "Polish Academy of Sciences",
+   "studies": 3
+  },
+  {
+   "a": "Universidad de Medellín",
+   "b": "Institución Universitaria ITM",
+   "studies": 3
+  },
+  {
+   "a": "Universidad de Córdoba",
+   "b": "Universidad de la Costa",
+   "studies": 3
+  },
+  {
+   "a": "Universidad de Antioquia",
+   "b": "Institución Universitaria Pascual Bravo",
+   "studies": 3
+  },
+  {
+   "a": "Universidad de Zaragoza",
+   "b": "Universidad de San Buenaventura, Bogota",
+   "studies": 2
+  },
+  {
+   "a": "Universidade de Santiago de Compostela",
+   "b": "Universidad de la Costa",
+   "studies": 2
+  },
+  {
+   "a": "Science and Technology Corporation for Naval, Maritime and Riverine Industry Development",
+   "b": "Fundación Universitaria CEIPA",
+   "studies": 2
+  },
+  {
+   "a": "Universidad de Bogotá Jorge Tadeo Lozano",
+   "b": "Universidad EIA",
+   "studies": 2
+  },
+  {
+   "a": "Universidad de Bogotá Jorge Tadeo Lozano",
+   "b": "Universidad del Rosario",
+   "studies": 2
+  },
+  {
+   "a": "Karlsruhe Institute of Technology",
+   "b": "University of Ferrara",
+   "studies": 2
+  },
+  {
+   "a": "Karlsruhe Institute of Technology",
+   "b": "Kempten University of Applied Sciences",
+   "studies": 2
+  },
+  {
+   "a": "University of Ferrara",
+   "b": "Kempten University of Applied Sciences",
+   "studies": 2
+  },
+  {
+   "a": "Universidad Autónoma de Bucaramanga",
+   "b": "Universidad de la Costa",
+   "studies": 2
+  },
+  {
+   "a": "Universidad Pontificia Bolivariana",
+   "b": "Universidad de Bogotá Jorge Tadeo Lozano",
+   "studies": 2
+  }
+ ],
+ "top_subfields": {
+  "Renewable Energy, Sustainability and the Environment": 41,
+  "Electrical and Electronic Engineering": 36,
+  "Energy Engineering and Power Technology": 16,
+  "Management Science and Operations Research": 10,
+  "Control and Systems Engineering": 8,
+  "Environmental Engineering": 6,
+  "Sociology and Political Science": 5,
+  "Economics and Econometrics": 5,
+  "Pollution": 5,
+  "General Agricultural and Biological Sciences": 4,
+  "Mechanical Engineering": 3,
+  "Building and Construction": 3
+ },
+ "top_topics": {
+  "Integrated Energy Systems Optimization": 15,
+  "Hybrid Renewable Energy Systems": 13,
+  "Microgrid Control and Optimization": 8,
+  "Photovoltaic Systems and Sustainability": 8,
+  "Renewable energy and sustainable power systems": 7,
+  "Multi-Criteria Decision Making": 6,
+  "Wind Energy Research and Development": 6,
+  "Smart Grid Energy Management": 5,
+  "Electric Vehicles and Infrastructure": 5,
+  "Anaerobic Digestion and Biogas Production": 5,
+  "Energy and Environment Impacts": 5,
+  "Energy, Environment, and Transportation Policies": 4,
+  "Social Acceptance of Renewable Energy": 4,
+  "Environmental Impact and Sustainability": 4,
+  "Bioeconomy and Sustainability Development": 4
+ },
+ "per_year": {
+  "2015": 3,
+  "2016": 5,
+  "2017": 4,
+  "2018": 3,
+  "2019": 12,
+  "2020": 13,
+  "2021": 9,
+  "2022": 24,
+  "2023": 23,
+  "2024": 21,
+  "2025": 40
+ },
+ "top_venues": [
+  {
+   "venue": "Energies",
+   "count": 23
+  },
+  {
+   "venue": "Sustainability (Switzerland)",
+   "count": 16
+  },
+  {
+   "venue": "Renewable and Sustainable Energy Reviews",
+   "count": 8
+  },
+  {
+   "venue": "Renewable Energy",
+   "count": 6
+  },
+  {
+   "venue": "Journal of Cleaner Production",
+   "count": 5
+  },
+  {
+   "venue": "Energy Reports",
+   "count": 5
+  },
+  {
+   "venue": "Energy Strategy Reviews",
+   "count": 4
+  },
+  {
+   "venue": "Energy Policy",
+   "count": 4
+  },
+  {
+   "venue": "Energy Research and Social Science",
+   "count": 3
+  },
+  {
+   "venue": "Energy",
+   "count": 3
+  },
+  {
+   "venue": "Chemical Engineering Transactions",
+   "count": 3
+  },
+  {
+   "venue": "Applied Energy",
+   "count": 3
+  },
+  {
+   "venue": "Buildings",
+   "count": 3
+  },
+  {
+   "venue": "Renewable and Sustainable Energy Transition",
+   "count": 2
+  },
+  {
+   "venue": "Smart Energy",
+   "count": 2
+  }
+ ]
+}

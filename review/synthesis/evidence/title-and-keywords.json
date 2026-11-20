@@ -1,0 +1,85 @@
+[
+ {
+  "id": "protocol-title",
+  "regime": "none",
+  "source": "review/protocol.json",
+  "content": {
+   "title": "Technological innovation for an effective energy transition in Colombia: a systematic review and scientometric analysis",
+   "review_type": "systematic review",
+   "date_range": {
+    "from": "2015-01-01",
+    "to": "2025-12-31"
+   },
+   "objective": "To map and synthesize the peer-reviewed evidence (2015-2025) on how technological advances and innovation contribute to, or are constrained in, Colombia's energy transition, combining a scientometric analysis of the field with a comparative thematic synthesis of technologies, outcomes, barriers and enablers.",
+   "manuscript_title": "Technological innovation for the energy transition in Colombia, 2015–2025: a systematic review and scientometric analysis",
+   "manuscript_title_note": "Operator decision (2026-11-19): protocol title shortened by dropping the evaluative word \"effective\" and adding the review period 2015-2025 (date_range)."
+  }
+ },
+ {
+  "id": "keyword-themes",
+  "regime": "none",
+  "source": "review/synthesis/evidence/results.json (rq2-g1..g6, keywords); paper declarations keyword-bounds",
+  "content": {
+   "keyword_bounds": "5-7 (operator); contract 4-6",
+   "review_type_keyword": "PRISMA (PRISMA 2020 guideline)",
+   "themes": [
+    "Theme (technology group 1) for RQ2: Renewable generation (solar, wind, hydropower, geothermal and ocean energy). It holds 134 included reports, split into 7 sub-themes: Grid-connected PV: performance ",
+    "Theme (technology group 2) for RQ2: Bioenergy. It holds 77 included reports, split into 7 sub-themes: Biogas and anaerobic digestion of agricultural, livestock and organic residues (17); Municipal sol",
+    "Theme (technology group 3) for RQ2: Smart grids, microgrids and energy storage. It holds 100 included reports, split into 7 sub-themes: Off-grid hybrid microgrid sizing and techno-economics for non-in",
+    "Theme (technology group 4) for RQ2: Demand-side technologies (energy efficiency and electromobility). It holds 58 included reports, split into 7 sub-themes: Electric-vehicle fleet transition, life-cyc",
+    "Theme (technology group 5) for RQ2: Low-carbon fuels (hydrogen, carbon capture and nuclear). It holds 33 included reports, split into 7 sub-themes: Green hydrogen production costs and supply chains (e",
+    "Theme (technology group 6) for RQ2: System-level planning, policy and other. It holds 119 included reports, split into 7 sub-themes: National power-system expansion and decarbonisation pathways (SIN a"
+   ],
+   "top_author_keywords": [
+    {
+     "keyword": "colombia",
+     "count": 196
+    },
+    {
+     "keyword": "renewable energy",
+     "count": 99
+    },
+    {
+     "keyword": "renewable energies",
+     "count": 67
+    },
+    {
+     "keyword": "energy efficiency",
+     "count": 50
+    },
+    {
+     "keyword": "energy transition",
+     "count": 42
+    },
+    {
+     "keyword": "energy policy",
+     "count": 41
+    },
+    {
+     "keyword": "solar energy",
+     "count": 41
+    },
+    {
+     "keyword": "sustainable development",
+     "count": 36
+    },
+    {
+     "keyword": "alternative energy",
+     "count": 34
+    },
+    {
+     "keyword": "solar power generation",
+     "count": 30
+    },
+    {
+     "keyword": "investments",
+     "count": 30
+    },
+    {
+     "keyword": "wind energy",
+     "count": 29
+    }
+   ]
+  }
+ }
+]

@@ -1,0 +1,4840 @@
+{
+  "floor": 100,
+  "cap": 200,
+  "other_references": 43,
+  "budget": 157,
+  "included": 521,
+  "terms": [
+    "acceptance",
+    "acces",
+    "acros",
+    "actor",
+    "adoption",
+    "advance",
+    "against",
+    "alternative",
+    "american",
+    "applicable",
+    "area",
+    "assessment",
+    "associated",
+    "author",
+    "barrier",
+    "been",
+    "bioenerg",
+    "biomas",
+    "building",
+    "cluster",
+    "co-occurrence",
+    "collaboration",
+    "colombia",
+    "colombian",
+    "communitie",
+    "conflict",
+    "conventional",
+    "cost",
+    "countrie",
+    "decarboni",
+    "demand",
+    "deployment",
+    "design",
+    "doctype",
+    "economic",
+    "effect",
+    "efficien",
+    "efficiency",
+    "eficiencia",
+    "electricity",
+    "emission",
+    "enabler",
+    "energ",
+    "energy",
+    "energy-transition",
+    "english",
+    "environmental",
+    "evolved",
+    "finance",
+    "financing",
+    "fossil-based",
+    "framework",
+    "fuel",
+    "government",
+    "green",
+    "grid",
+    "guajira",
+    "hosting",
+    "hydrogen",
+    "identify",
+    "impact",
+    "implementation",
+    "including",
+    "incumbent",
+    "industry",
+    "innovation",
+    "innovation-system",
+    "institution",
+    "instrument",
+    "interconnected",
+    "justice",
+    "keyword",
+    "language",
+    "latin",
+    "limit-to",
+    "low-carbon",
+    "mechanism",
+    "method",
+    "microgrid",
+    "modelling",
+    "national",
+    "network",
+    "non-conventional",
+    "non-interconnected",
+    "other",
+    "outcome",
+    "peer-reviewed",
+    "performance",
+    "photovoltaic",
+    "policy",
+    "power",
+    "project",
+    "publication",
+    "pubyear",
+    "reduction",
+    "regulation",
+    "regulator",
+    "regulatory",
+    "reliability",
+    "renewable",
+    "renovable",
+    "report",
+    "reported",
+    "research",
+    "scope",
+    "sector",
+    "served",
+    "smart",
+    "social",
+    "socio-environmental",
+    "solar",
+    "spanish",
+    "storage",
+    "studied",
+    "supply",
+    "system",
+    "technical",
+    "technolog",
+    "technological",
+    "technologie",
+    "territorial",
+    "territorie",
+    "thematic",
+    "tica",
+    "time",
+    "title-abs-key",
+    "transici",
+    "transition",
+    "transport",
+    "trend",
+    "under-explored",
+    "utilitie",
+    "venue",
+    "volume",
+    "wind",
+    "zone"
+  ],
+  "sjr": "skills/journal-finder/data/scimagojr-2025.csv.gz",
+  "keep": [
+    {
+      "id": "R0286",
+      "title": "An Overview of the Socio-Economic, Technological, and Environmental Opportunities and Challenges for Renewable Energy Generation from Residual Biomass: A Case Study of Biogas Production in Colombia",
+      "venue": "Energies",
+      "year": 2023,
+      "quartile": "Q1",
+      "relation": 0.2279,
+      "score": 1.0
+    },
+    {
+      "id": "R0319",
+      "title": "A systematic approach for modeling and planning a sustainable electricity system in Colombia",
+      "venue": "Energy Strategy Reviews",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.2132,
+      "score": 0.9355
+    },
+    {
+      "id": "R0436",
+      "title": "Identifying the determinants of the energy transition in departments in Colombia: an analysis with spatial econometrics",
+      "venue": "Global Sustainability",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.2132,
+      "score": 0.9355
+    },
+    {
+      "id": "R0455",
+      "title": "Differences in the perception of drivers and barriers to the adoption of decentralised renewable energy technologies: a comparison between Spain and Colombia",
+      "venue": "Clean Technologies and Environmental Policy",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.2059,
+      "score": 0.9035
+    },
+    {
+      "id": "R0087",
+      "title": "The significance of clean energy, education, and environmental management in fostering a sustainable future",
+      "venue": "Global Journal of Environmental Science and Management",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1985,
+      "score": 0.871
+    },
+    {
+      "id": "R0488",
+      "title": "The Energy Transition in Colombia: Government Projections and Realistic Scenarios",
+      "venue": "Clean Technologies",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1985,
+      "score": 0.871
+    },
+    {
+      "id": "R0363",
+      "title": "Enhancing DC distribution network efficiency through optimal power coordination in lithium-ion batteries: A sparse nonlinear optimization approach",
+      "venue": "Journal of Energy Storage",
+      "year": 2024,
+      "quartile": "Q1",
+      "relation": 0.1985,
+      "score": 0.871
+    },
+    {
+      "id": "R0245",
+      "title": "Transition process from fossil energy to photovoltaic energy power of ethnic communities belonging to the natural parks in the Colombian Pacific: A diagnostic study",
+      "venue": "Journal of Environmental Studies and Sciences",
+      "year": 2023,
+      "quartile": "Q2",
+      "relation": 0.2206,
+      "score": 0.847
+    },
+    {
+      "id": "R0029",
+      "title": "Active demand-side management strategies focused on the residential sector",
+      "venue": "Electricity Journal",
+      "year": 2020,
+      "quartile": "Q1",
+      "relation": 0.1912,
+      "score": 0.839
+    },
+    {
+      "id": "R0623",
+      "title": "Performance evaluation of external fired hybrid solar gas-turbine power plant in Colombia using energy and exergy methods",
+      "venue": "Thermal Science and Engineering Progress",
+      "year": 2020,
+      "quartile": "Q1",
+      "relation": 0.1912,
+      "score": 0.839
+    },
+    {
+      "id": "R0042",
+      "title": "New Microgrid Architectures for Telecommunication Base Stations in Non-Interconnected Zones: A Colombian Case Study",
+      "venue": "Energies",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1838,
+      "score": 0.8065
+    },
+    {
+      "id": "R0083",
+      "title": "Scenarios for wind capacity deployment in Colombia by 2050: A perspective from system dynamics modeling",
+      "venue": "Renewable and Sustainable Energy Transition",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1838,
+      "score": 0.8065
+    },
+    {
+      "id": "R0419",
+      "title": "A Metaheuristic Framework for Cost-Effective Renewable Energy Planning: Integrating Green Bonds and Fiscal Incentives",
+      "venue": "Energies",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1838,
+      "score": 0.8065
+    },
+    {
+      "id": "R0108",
+      "title": "Techno economic model to analyze the prospects of hydrogen production in Colombia",
+      "venue": "International Journal of Thermofluids",
+      "year": 2024,
+      "quartile": "Q1",
+      "relation": 0.1838,
+      "score": 0.8065
+    },
+    {
+      "id": "R0367",
+      "title": "Renewables energies in Colombia and the opportunity for the offshore wind technology",
+      "venue": "Journal of Cleaner Production",
+      "year": 2019,
+      "quartile": "Q1",
+      "relation": 0.1838,
+      "score": 0.8065
+    },
+    {
+      "id": "R0517",
+      "title": "Diffusion of renewable energy technologies: The need for policy in Colombia",
+      "venue": "Energy",
+      "year": 2016,
+      "quartile": "Q1",
+      "relation": 0.1838,
+      "score": 0.8065
+    },
+    {
+      "id": "R0333",
+      "title": "Design of an Integral Simulation Model for Solar-Powered Seawater Desalination in Coastal Communities: A Case Study in Manaure, La Guajira, Colombia",
+      "venue": "Sustainability (Switzerland)",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1765,
+      "score": 0.7745
+    },
+    {
+      "id": "R0935",
+      "title": "Dynamic Modelling of the Natural Gas Market in Colombia in the Framework of a Sustainable Energy Transition",
+      "venue": "Energies",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1765,
+      "score": 0.7745
+    },
+    {
+      "id": "R0004",
+      "title": "Environmental rebound effect of wind and solar technologies in the Colombian household sector",
+      "venue": "Journal of Industrial Ecology",
+      "year": 2022,
+      "quartile": "Q1",
+      "relation": 0.1765,
+      "score": 0.7745
+    },
+    {
+      "id": "R0285",
+      "title": "Optimising the insertion of renewables in the Colombian power sector",
+      "venue": "Renewable Energy",
+      "year": 2019,
+      "quartile": "Q1",
+      "relation": 0.1765,
+      "score": 0.7745
+    },
+    {
+      "id": "R0206",
+      "title": "Evaluating the socio-economic drivers of household adoption of biodigester systems for domestic energy in rural Colombia",
+      "venue": "Sustainable Energy Technologies and Assessments",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1691,
+      "score": 0.742
+    },
+    {
+      "id": "R0408",
+      "title": "Evaluating decarbonization technologies and optimizing pathways in ceramic tile production through life cycle assessment in Latin America",
+      "venue": "Journal of Cleaner Production",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1691,
+      "score": 0.742
+    },
+    {
+      "id": "R0193",
+      "title": "Methodology for the comparative evaluation of vehicle technologies in intermediate cities considering electric vehicles",
+      "venue": "Transportation Research Interdisciplinary Perspectives",
+      "year": 2024,
+      "quartile": "Q1",
+      "relation": 0.1691,
+      "score": 0.742
+    },
+    {
+      "id": "R0387",
+      "title": "Strengths, Weaknesses, Opportunities, and Threats Analysis for the Strengthening of Solar Thermal Energy in Colombia",
+      "venue": "Resources",
+      "year": 2024,
+      "quartile": "Q1",
+      "relation": 0.1691,
+      "score": 0.742
+    },
+    {
+      "id": "R0668",
+      "title": "Multi-objective optimisation of hybrid renewable energy systems for Colombian non-interconnected zones",
+      "venue": "Thermal Science and Engineering Progress",
+      "year": 2024,
+      "quartile": "Q1",
+      "relation": 0.1691,
+      "score": 0.742
+    },
+    {
+      "id": "R0008",
+      "title": "What makes Colombia's indigenous peoples adopt microgrids? Social acceptance and financial constraints in renewable energy diffusion",
+      "venue": "Energy Research and Social Science",
+      "year": 2023,
+      "quartile": "Q1",
+      "relation": 0.1691,
+      "score": 0.742
+    },
+    {
+      "id": "R0209",
+      "title": "Refining wind and solar potential maps through spatial multicriteria assessment. Case study: Colombia",
+      "venue": "Energy for Sustainable Development",
+      "year": 2023,
+      "quartile": "Q1",
+      "relation": 0.1691,
+      "score": 0.742
+    },
+    {
+      "id": "R0435",
+      "title": "Experimental and Numerical Evaluation of an HCCI Engine Fueled with Biogas for Power Generation under Sub-Atmospheric Conditions",
+      "venue": "Energies",
+      "year": 2023,
+      "quartile": "Q1",
+      "relation": 0.1691,
+      "score": 0.742
+    },
+    {
+      "id": "R0034",
+      "title": "Solar PV generation in Colombia - A qualitative and quantitative approach to analyze the potential of solar energy market",
+      "venue": "Renewable Energy",
+      "year": 2020,
+      "quartile": "Q1",
+      "relation": 0.1691,
+      "score": 0.742
+    },
+    {
+      "id": "R0167",
+      "title": "Climate impacts on hydropower in Colombia: A multi-model assessment of power sector adaptation pathways",
+      "venue": "Energy Policy",
+      "year": 2019,
+      "quartile": "Q1",
+      "relation": 0.1691,
+      "score": 0.742
+    },
+    {
+      "id": "R0464",
+      "title": "Photovoltaic energy in Colombia: Current status, inventory, policies and future prospects",
+      "venue": "Renewable and Sustainable Energy Reviews",
+      "year": 2018,
+      "quartile": "Q1",
+      "relation": 0.1691,
+      "score": 0.742
+    },
+    {
+      "id": "R0127",
+      "title": "Clean Energy Transition in Insular Communities: Wind Resource Evaluation and VAWT Design Using CFD and Statistics",
+      "venue": "Sustainability (Switzerland)",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1618,
+      "score": 0.71
+    },
+    {
+      "id": "R0376",
+      "title": "Technical and Economic Feasibility Analysis to Implement a Solid-State Transformer in Local Distribution Systems in Colombia",
+      "venue": "Energies",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1618,
+      "score": 0.71
+    },
+    {
+      "id": "R1813",
+      "title": "Electrification of passenger road transport to support renewable energy integration: A case study of Colombia",
+      "venue": "Smart Energy",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1618,
+      "score": 0.71
+    },
+    {
+      "id": "R0190",
+      "title": "A Review of Offshore Renewable Energy in South America: Current Status and Future Perspectives",
+      "venue": "Sustainability (Switzerland)",
+      "year": 2023,
+      "quartile": "Q1",
+      "relation": 0.1618,
+      "score": 0.71
+    },
+    {
+      "id": "R0094",
+      "title": "Mapping the sustainability of bioenergy to maximise benefits, mitigate risks and drive progress toward the Sustainable Development Goals",
+      "venue": "Renewable Energy",
+      "year": 2022,
+      "quartile": "Q1",
+      "relation": 0.1618,
+      "score": 0.71
+    },
+    {
+      "id": "R0237",
+      "title": "A Review of Economic Incentives to Promote Decarbonization Alternatives in Maritime and Inland Waterway Transport Modes",
+      "venue": "Sustainability (Switzerland)",
+      "year": 2022,
+      "quartile": "Q1",
+      "relation": 0.1618,
+      "score": 0.71
+    },
+    {
+      "id": "R0312",
+      "title": "An Intraday Market Design for Colombia's Energy Transition",
+      "venue": "IEEE Access",
+      "year": 2022,
+      "quartile": "Q1",
+      "relation": 0.1618,
+      "score": 0.71
+    },
+    {
+      "id": "R0350",
+      "title": "Environmental impacts associated with hydrogen production in la Guajira, Colombia",
+      "venue": "Environmental Research Communications",
+      "year": 2022,
+      "quartile": "Q1",
+      "relation": 0.1618,
+      "score": 0.71
+    },
+    {
+      "id": "R0400",
+      "title": "Energy Management System for the Optimal Operation of PV Generators in Distribution Systems Using the Antlion Optimizer: A Colombian Urban and Rural Case Study",
+      "venue": "Sustainability (Switzerland)",
+      "year": 2022,
+      "quartile": "Q1",
+      "relation": 0.1618,
+      "score": 0.71
+    },
+    {
+      "id": "R0324",
+      "title": "Climate change impacts and adaptation strategies for a hydro-dominated power system via stochastic optimization",
+      "venue": "Applied Energy",
+      "year": 2019,
+      "quartile": "Q1",
+      "relation": 0.1618,
+      "score": 0.71
+    },
+    {
+      "id": "R1456",
+      "title": "Enhancing Energy Microgrid Sizing: A Multiyear Optimization Approach with Uncertainty Considerations for Optimal Design",
+      "venue": "Algorithms",
+      "year": 2025,
+      "quartile": "Q2",
+      "relation": 0.1838,
+      "score": 0.7057
+    },
+    {
+      "id": "R0267",
+      "title": "Achieving a 100% renewable electricity supply in Colombia by 2030: Dream or feasible possibility?",
+      "venue": "Sustainable Futures",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1544,
+      "score": 0.6775
+    },
+    {
+      "id": "R0323",
+      "title": "Energy potential of agricultural residual biomass in municipalities of the highlands of the Santurbán Páramo, Colombia",
+      "venue": "Frontiers in Sustainable Food Systems",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1544,
+      "score": 0.6775
+    },
+    {
+      "id": "R0145",
+      "title": "Analysis of IoT technologies suitable for remote areas in Colombia: Conceptual design of an IoT system for monitoring and managing distributed energy systems",
+      "venue": "Cleaner Engineering and Technology",
+      "year": 2024,
+      "quartile": "Q1",
+      "relation": 0.1544,
+      "score": 0.6775
+    },
+    {
+      "id": "R0314",
+      "title": "Geospatial analysis of hydrogen production from biogas derived from residual biomass in the dairy cattle and porcine subsectors in Antioquia, Colombia",
+      "venue": "Renewable Energy Focus",
+      "year": 2024,
+      "quartile": "Q1",
+      "relation": 0.1544,
+      "score": 0.6775
+    },
+    {
+      "id": "R0369",
+      "title": "Assessing the impacts of low-carbon intensity hydrogen integration in oil refineries",
+      "venue": "Cleaner Energy Systems",
+      "year": 2024,
+      "quartile": "Q1",
+      "relation": 0.1544,
+      "score": 0.6775
+    },
+    {
+      "id": "R0203",
+      "title": "Role of low carbon emission H2 in the energy transition of Colombia: Environmental assessment of H2 production pathways for a certification scheme",
+      "venue": "Energy Conversion and Management: X",
+      "year": 2022,
+      "quartile": "Q1",
+      "relation": 0.1544,
+      "score": 0.6775
+    },
+    {
+      "id": "R0246",
+      "title": "Fully integrated CO2 mitigation strategy for an existing refinery: A case study in Colombia",
+      "venue": "Applied Energy",
+      "year": 2022,
+      "quartile": "Q1",
+      "relation": 0.1544,
+      "score": 0.6775
+    },
+    {
+      "id": "R0002",
+      "title": "Optimization of isolated hybrid microgrids with renewable energy based on different battery models and technologies",
+      "venue": "Energies",
+      "year": 2020,
+      "quartile": "Q1",
+      "relation": 0.1544,
+      "score": 0.6775
+    },
+    {
+      "id": "R0452",
+      "title": "The cities and the sun: The grid parity of electricity generation with photovoltaic systems in Colombian households",
+      "venue": "Architecture, City and Environment",
+      "year": 2020,
+      "quartile": "Q1",
+      "relation": 0.1544,
+      "score": 0.6775
+    },
+    {
+      "id": "R0491",
+      "title": "Renewables in the optimal expansion of colombian power considering the Hidroituango crisis",
+      "venue": "Renewable Energy",
+      "year": 2020,
+      "quartile": "Q1",
+      "relation": 0.1544,
+      "score": 0.6775
+    },
+    {
+      "id": "R0010",
+      "title": "Optimizing the insertion of renewable energy in the off-grid regions of Colombia",
+      "venue": "Journal of Cleaner Production",
+      "year": 2019,
+      "quartile": "Q1",
+      "relation": 0.1544,
+      "score": 0.6775
+    },
+    {
+      "id": "R0527",
+      "title": "Assessing emissions-mitigation energy policy under integrated supply and demand analysis: The Colombian case",
+      "venue": "Journal of Cleaner Production",
+      "year": 2016,
+      "quartile": "Q1",
+      "relation": 0.1544,
+      "score": 0.6775
+    },
+    {
+      "id": "R0544",
+      "title": "The political ecology of hydropower: Social justice and conflict in Colombian hydroelectricity development",
+      "venue": "Energy Research and Social Science",
+      "year": 2016,
+      "quartile": "Q1",
+      "relation": 0.1544,
+      "score": 0.6775
+    },
+    {
+      "id": "R0050",
+      "title": "Evaluating demand response through the time of use model in off-grid regions",
+      "venue": "Renewable and Sustainable Energy Transition",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1471,
+      "score": 0.6455
+    },
+    {
+      "id": "R0413",
+      "title": "Evolution of Real-Time Dynamics Monitoring of Colombian Power Grid Using Wide-Area Monitoring System and High-Speed Big Data Analytics",
+      "venue": "Sustainability (Switzerland)",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1471,
+      "score": 0.6455
+    },
+    {
+      "id": "R0953",
+      "title": "Innovative Microgrid Services and Applications in Electric Grids: Enhancing Energy Management and Grid Integration",
+      "venue": "Energies",
+      "year": 2024,
+      "quartile": "Q1",
+      "relation": 0.1471,
+      "score": 0.6455
+    },
+    {
+      "id": "R0051",
+      "title": "Prioritization of Waste-to-Energy Technologies Associated with the Utilization of Food Waste",
+      "venue": "Sustainability (Switzerland)",
+      "year": 2023,
+      "quartile": "Q1",
+      "relation": 0.1471,
+      "score": 0.6455
+    },
+    {
+      "id": "R0223",
+      "title": "Innovative Technology Strategies for the Sustainable Development of Self-Produced Energy in the Colombian Industry",
+      "venue": "Sustainability (Switzerland)",
+      "year": 2023,
+      "quartile": "Q1",
+      "relation": 0.1471,
+      "score": 0.6455
+    },
+    {
+      "id": "R0407",
+      "title": "A Data-Driven Architecture for Smart Renewable Energy Microgrids in Non-Interconnected Zones: A Colombian Case Study",
+      "venue": "Energies",
+      "year": 2023,
+      "quartile": "Q1",
+      "relation": 0.1471,
+      "score": 0.6455
+    },
+    {
+      "id": "R0089",
+      "title": "Micro Pumped Hydro Energy Storage: Sketching a Sustainable Hybrid Solution for Colombian Off-Grid Communities",
+      "venue": "Sustainability (Switzerland)",
+      "year": 2022,
+      "quartile": "Q1",
+      "relation": 0.1471,
+      "score": 0.6455
+    },
+    {
+      "id": "R0252",
+      "title": "Making use of the complementarity of hydropower and variable renewable energy in Latin America: A probabilistic analysis",
+      "venue": "Energy Strategy Reviews",
+      "year": 2022,
+      "quartile": "Q1",
+      "relation": 0.1471,
+      "score": 0.6455
+    },
+    {
+      "id": "R0480",
+      "title": "Decarbonization of the Colombian Building Sector: Social Network Analysis of Enabling Stakeholders",
+      "venue": "Buildings",
+      "year": 2022,
+      "quartile": "Q1",
+      "relation": 0.1471,
+      "score": 0.6455
+    },
+    {
+      "id": "R0104",
+      "title": "Evaluating the effect of technology transformation on the electricity utility industry",
+      "venue": "Renewable and Sustainable Energy Reviews",
+      "year": 2017,
+      "quartile": "Q1",
+      "relation": 0.1471,
+      "score": 0.6455
+    },
+    {
+      "id": "R0152",
+      "title": "Combining an accelerated deployment of bioenergy and land use strategies: Review and insights for a post-conflict scenario in Colombia",
+      "venue": "Renewable and Sustainable Energy Reviews",
+      "year": 2017,
+      "quartile": "Q1",
+      "relation": 0.1471,
+      "score": 0.6455
+    },
+    {
+      "id": "R0130",
+      "title": "Hybrid Electric Vehicles as a Strategy for Reducing Fuel Consumption and Emissions in Latin America",
+      "venue": "World Electric Vehicle Journal",
+      "year": 2025,
+      "quartile": "Q2",
+      "relation": 0.1618,
+      "score": 0.6212
+    },
+    {
+      "id": "R0054",
+      "title": "How to cool a warming world? – The potential of photovoltaic green cooling with natural refrigerants in sunbelt countries",
+      "venue": "Solar Energy Advances",
+      "year": 2024,
+      "quartile": "Q2",
+      "relation": 0.1618,
+      "score": 0.6212
+    },
+    {
+      "id": "R0116",
+      "title": "Technical-economic evaluation of a portable solar machine of potential use in pumping systems and water purification, through the use of photovoltaic solar technology for non-interconnected areas in Colombia",
+      "venue": "Periodicals of Engineering and Natural Sciences",
+      "year": 2023,
+      "quartile": "Q2",
+      "relation": 0.1618,
+      "score": 0.6212
+    },
+    {
+      "id": "R0124",
+      "title": "A Framework for Evaluating Renewable Energy for Decision-Making Integrating a Hybrid FAHP-TOPSIS Approach: A Case Study in Valle del Cauca, Colombia",
+      "venue": "Data",
+      "year": 2023,
+      "quartile": "Q2",
+      "relation": 0.1618,
+      "score": 0.6212
+    },
+    {
+      "id": "R0038",
+      "title": "The rebound effect on Latin American economies: evidence from the Colombian residential sector",
+      "venue": "Energy Efficiency",
+      "year": 2022,
+      "quartile": "Q2",
+      "relation": 0.1618,
+      "score": 0.6212
+    },
+    {
+      "id": "R0160",
+      "title": "Chemical Process for the Production of Methanol with Carbon Capture (CO2) Integrating the Concept of Electrification by Heat Pump and Use of Renewable Energy",
+      "venue": "Energies",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1397,
+      "score": 0.613
+    },
+    {
+      "id": "R0168",
+      "title": "Modeling the road to decarbonization: A high-performance computing approach to electric mobility scenarios in Colombian cities",
+      "venue": "Sustainable Cities and Society",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1397,
+      "score": 0.613
+    },
+    {
+      "id": "R0218",
+      "title": "Sustainability Assessment of Rural Biogas Production and Use Through a Multi-Criteria Approach: A Case Study in Colombia",
+      "venue": "Sustainability (Switzerland)",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1397,
+      "score": 0.613
+    },
+    {
+      "id": "R0418",
+      "title": "Assessment of Hybrid Renewable Energy System: A Particle Swarm Optimization Approach to Power Demand Profile and Generation Management",
+      "venue": "Energies",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1397,
+      "score": 0.613
+    },
+    {
+      "id": "R0430",
+      "title": "Driving the Energy Transition in Colombia for Off-Grid Regions: Microgrids and Non-Conventional Renewable Energy Sources",
+      "venue": "Energies",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1397,
+      "score": 0.613
+    },
+    {
+      "id": "R0066",
+      "title": "Review of Financing Mechanisms to Promote Decarbonization Alternatives in Rail and Inland Waterway Transport",
+      "venue": "Sustainability (Switzerland)",
+      "year": 2023,
+      "quartile": "Q1",
+      "relation": 0.1397,
+      "score": 0.613
+    },
+    {
+      "id": "R0290",
+      "title": "A Comprehensive Evaluation of Off-Grid Photovoltaic Experiences in Non-Interconnected Zones of Colombia: Integrating a Sustainable Perspective",
+      "venue": "Energies",
+      "year": 2023,
+      "quartile": "Q1",
+      "relation": 0.1397,
+      "score": 0.613
+    },
+    {
+      "id": "R0095",
+      "title": "Procedure for the practical and economic integration of solar PV energy in the city of Bogotá",
+      "venue": "Energy Reports",
+      "year": 2021,
+      "quartile": "Q1",
+      "relation": 0.1397,
+      "score": 0.613
+    },
+    {
+      "id": "R0235",
+      "title": "Industrial decarbonization by a new energy-baseline methodology. Case study",
+      "venue": "Sustainability (Switzerland)",
+      "year": 2020,
+      "quartile": "Q1",
+      "relation": 0.1397,
+      "score": 0.613
+    },
+    {
+      "id": "R0848",
+      "title": "Techno-Economic Feasibility Analysis through Optimization Strategies and Load Shifting in Isolated Hybrid Microgrids with Renewable Energy for the Non-Interconnected Zone (NIZ) of Colombia",
+      "venue": "Energies",
+      "year": 2020,
+      "quartile": "Q1",
+      "relation": 0.1397,
+      "score": 0.613
+    },
+    {
+      "id": "R0023",
+      "title": "Energy demand and greenhouse gas emissions analysis in Colombia: A LEAP model application",
+      "venue": "Energy",
+      "year": 2019,
+      "quartile": "Q1",
+      "relation": 0.1397,
+      "score": 0.613
+    },
+    {
+      "id": "R0258",
+      "title": "Understanding dynamics and policy for renewable energy diffusion in Colombia",
+      "venue": "Renewable Energy",
+      "year": 2019,
+      "quartile": "Q1",
+      "relation": 0.1397,
+      "score": 0.613
+    },
+    {
+      "id": "R0520",
+      "title": "A general modeling framework to evaluate energy, economy, land-use and GHG emissions nexus for bioenergy exploitation",
+      "venue": "Applied Energy",
+      "year": 2016,
+      "quartile": "Q1",
+      "relation": 0.1397,
+      "score": 0.613
+    },
+    {
+      "id": "R0519",
+      "title": "A comparison of energy use, water use and carbon footprint of cassava starch production in Thailand, Vietnam and Colombia",
+      "venue": "Resources, Conservation and Recycling",
+      "year": 2015,
+      "quartile": "Q1",
+      "relation": 0.1397,
+      "score": 0.613
+    },
+    {
+      "id": "R0044",
+      "title": "A Novel Technical Framework for Colombia’s Distribution System Operator with Distributed Energy Resources Integration",
+      "venue": "Energies",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1324,
+      "score": 0.581
+    },
+    {
+      "id": "R0121",
+      "title": "Assessing the Impact of Thermal Coating Paints on Indoor Temperature and Energy Efficiency in Colombian Caribbean Homes",
+      "venue": "Sensors",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1324,
+      "score": 0.581
+    },
+    {
+      "id": "R0228",
+      "title": "A redesign method for rural electrification projects, case study in Yutaho, Colombia",
+      "venue": "Sustainable Energy Technologies and Assessments",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1324,
+      "score": 0.581
+    },
+    {
+      "id": "R0043",
+      "title": "Techno-economic analysis and uncertainty assessment of green hydrogen production in future exporting countries",
+      "venue": "Renewable and Sustainable Energy Reviews",
+      "year": 2024,
+      "quartile": "Q1",
+      "relation": 0.1324,
+      "score": 0.581
+    },
+    {
+      "id": "R0424",
+      "title": "Hydrokinetic resource assessment in Colombia's Non-Interconnected Zones: Case study",
+      "venue": "International Journal of Thermofluids",
+      "year": 2024,
+      "quartile": "Q1",
+      "relation": 0.1324,
+      "score": 0.581
+    },
+    {
+      "id": "R0446",
+      "title": "Potential of livestock manure and agricultural wastes to mitigate the use of firewood for cooking in rural areas. The case of the department of Cordoba (Colombia)",
+      "venue": "Development Engineering",
+      "year": 2022,
+      "quartile": "Q1",
+      "relation": 0.1324,
+      "score": 0.581
+    },
+    {
+      "id": "R0071",
+      "title": "The role of energy storage and cross-border interconnections for increasing the flexibility of future power systems: The case of Colombia",
+      "venue": "Smart Energy",
+      "year": 2021,
+      "quartile": "Q1",
+      "relation": 0.1324,
+      "score": 0.581
+    },
+    {
+      "id": "R0280",
+      "title": "Retail pricing in Colombia to support the efficient deployment of distributed generation and electric stoves",
+      "venue": "Journal of Environmental Economics and Management",
+      "year": 2021,
+      "quartile": "Q1",
+      "relation": 0.1324,
+      "score": 0.581
+    },
+    {
+      "id": "R0296",
+      "title": "An online survey to explore the awareness and acceptance of geothermal energy among an educated segment of the population in five European and American countries",
+      "venue": "Geothermal Energy",
+      "year": 2021,
+      "quartile": "Q1",
+      "relation": 0.1324,
+      "score": 0.581
+    },
+    {
+      "id": "R1760",
+      "title": "Digital Transformation of Energy Companies: A Colombian Case Study",
+      "venue": "Energies",
+      "year": 2021,
+      "quartile": "Q1",
+      "relation": 0.1324,
+      "score": 0.581
+    },
+    {
+      "id": "R0185",
+      "title": "Freeing land from biofuel production through microalgal cultivation in the Neotropical region",
+      "venue": "Environmental Research Letters",
+      "year": 2020,
+      "quartile": "Q1",
+      "relation": 0.1324,
+      "score": 0.581
+    },
+    {
+      "id": "R0476",
+      "title": "Techno-economic benefits of grid-scale energy storage in future energy systems",
+      "venue": "Energy Reports",
+      "year": 2020,
+      "quartile": "Q1",
+      "relation": 0.1324,
+      "score": 0.581
+    },
+    {
+      "id": "R0115",
+      "title": "Assessing the effect of incentive policies on residential PV investments in Colombia",
+      "venue": "Energies",
+      "year": 2018,
+      "quartile": "Q1",
+      "relation": 0.1324,
+      "score": 0.581
+    },
+    {
+      "id": "R1612",
+      "title": "Scenario analysis for strategy design: A case study of the Colombian electricity industry",
+      "venue": "Energy Strategy Reviews",
+      "year": 2018,
+      "quartile": "Q1",
+      "relation": 0.1324,
+      "score": 0.581
+    },
+    {
+      "id": "R0382",
+      "title": "Myths and facts of the utility death spiral",
+      "venue": "Energy Policy",
+      "year": 2017,
+      "quartile": "Q1",
+      "relation": 0.1324,
+      "score": 0.581
+    },
+    {
+      "id": "R0332",
+      "title": "Financial Analysis of Low-Temperature Solar Thermal Energy Storage Systems to Supply Hot Water and Heating for Rural Colombian Households",
+      "venue": "Chemical Engineering Transactions",
+      "year": 2023,
+      "quartile": "Q3",
+      "relation": 0.1765,
+      "score": 0.5808
+    },
+    {
+      "id": "R0240",
+      "title": "Modeling the transition from coal to SMRs in Colombia: emissions avoidance under deterministic and probabilistic frameworks",
+      "venue": "Frontiers in Energy Research",
+      "year": 2025,
+      "quartile": "Q2",
+      "relation": 0.1471,
+      "score": 0.5648
+    },
+    {
+      "id": "R0148",
+      "title": "Analysis of the Availability Curve of the 15 kW Wind–Solar Hybrid Microplant Associated with the Demand of the Power-to-Gas (PtG) Pilot Plant Located at University of La Guajira",
+      "venue": "Processes",
+      "year": 2024,
+      "quartile": "Q2",
+      "relation": 0.1471,
+      "score": 0.5648
+    },
+    {
+      "id": "R0335",
+      "title": "PV energy performance in a sustainable campus",
+      "venue": "Electronics (Switzerland)",
+      "year": 2020,
+      "quartile": "Q2",
+      "relation": 0.1471,
+      "score": 0.5648
+    },
+    {
+      "id": "R0855",
+      "title": "A Comprehensive Method for Designing Containerized Microgids in Non-Interconnected Zones",
+      "venue": "Transactions on Energy Systems and Engineering Applications",
+      "year": 2024,
+      "quartile": "Q3",
+      "relation": 0.1691,
+      "score": 0.5565
+    },
+    {
+      "id": "R0655",
+      "title": "Demand Response Program Implementation Methodology: A Colombian Study Case",
+      "venue": "Transactions on Energy Systems and Engineering Applications",
+      "year": 2022,
+      "quartile": "Q3",
+      "relation": 0.1691,
+      "score": 0.5565
+    },
+    {
+      "id": "R0192",
+      "title": "Evaluation of energy efficiency strategies in electric power generation in Colombia",
+      "venue": "Results in Engineering",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.125,
+      "score": 0.5485
+    },
+    {
+      "id": "R0315",
+      "title": "CO2 transport and storage potential in the Caribbean Sea, Colombia",
+      "venue": "International Journal of Greenhouse Gas Control",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.125,
+      "score": 0.5485
+    },
+    {
+      "id": "R0256",
+      "title": "Financial Evaluation of Alternatives for Industrial Methanol Production Using Renewable Energy with Heat Pump Technology",
+      "venue": "Energies",
+      "year": 2024,
+      "quartile": "Q1",
+      "relation": 0.125,
+      "score": 0.5485
+    },
+    {
+      "id": "R0272",
+      "title": "Biofuel production in Latin America: A review for Argentina, Brazil, Mexico, Chile, Costa Rica and Colombia",
+      "venue": "Energy Reports",
+      "year": 2024,
+      "quartile": "Q1",
+      "relation": 0.125,
+      "score": 0.5485
+    },
+    {
+      "id": "R0409",
+      "title": "Renewable Energy Use for Buildings Decarbonization Causes Inequity in Consumers? Comparative Analysis of Spain, Mexico, and Colombia",
+      "venue": "Buildings",
+      "year": 2024,
+      "quartile": "Q1",
+      "relation": 0.125,
+      "score": 0.5485
+    },
+    {
+      "id": "R0434",
+      "title": "The influences of renewable energy, globalization, technological innovations, and forests on emission reduction in Colombia",
+      "venue": "Innovation and Green Development",
+      "year": 2023,
+      "quartile": "Q1",
+      "relation": 0.125,
+      "score": 0.5485
+    },
+    {
+      "id": "R0114",
+      "title": "Review of the impact of socio-economic conditions on the development and implementation of biorefineries",
+      "venue": "Fuel",
+      "year": 2022,
+      "quartile": "Q1",
+      "relation": 0.125,
+      "score": 0.5485
+    },
+    {
+      "id": "R0348",
+      "title": "Feasibility analysis for the integration of solar photovoltaic technology to the Colombian residential sector through system dynamics modeling",
+      "venue": "Energy Reports",
+      "year": 2022,
+      "quartile": "Q1",
+      "relation": 0.125,
+      "score": 0.5485
+    },
+    {
+      "id": "R0398",
+      "title": "Renewables for supporting supply adequacy in Colombia",
+      "venue": "Energy",
+      "year": 2022,
+      "quartile": "Q1",
+      "relation": 0.125,
+      "score": 0.5485
+    },
+    {
+      "id": "R0100",
+      "title": "Planning stand-alone electricity generation systems, a multiple objective optimization and fuzzy decision making approach",
+      "venue": "Heliyon",
+      "year": 2020,
+      "quartile": "Q1",
+      "relation": 0.125,
+      "score": 0.5485
+    },
+    {
+      "id": "R0128",
+      "title": "A novel hybrid approach based on fuzzy multi-criteria decision-making tools for assessing sustainable alternatives of power generation in San Andrés Island",
+      "venue": "Renewable and Sustainable Energy Reviews",
+      "year": 2019,
+      "quartile": "Q1",
+      "relation": 0.125,
+      "score": 0.5485
+    },
+    {
+      "id": "R0250",
+      "title": "Challenges in greenhouse gas mitigation in developing countries: A case study of the Colombian transport sector",
+      "venue": "Energy Policy",
+      "year": 2019,
+      "quartile": "Q1",
+      "relation": 0.125,
+      "score": 0.5485
+    },
+    {
+      "id": "R0505",
+      "title": "Renewable energy technology diffusion: An analysis of photovoltaic-system support schemes in Medellín, Colombia",
+      "venue": "Journal of Cleaner Production",
+      "year": 2015,
+      "quartile": "Q1",
+      "relation": 0.125,
+      "score": 0.5485
+    },
+    {
+      "id": "R0006",
+      "title": "Evaluation of renewable energy technologies in Colombia: comparative evaluation using TOPSIS and TOPSIS fuzzy metaheuristic models",
+      "venue": "Energy Informatics",
+      "year": 2024,
+      "quartile": "Q2",
+      "relation": 0.1397,
+      "score": 0.5364
+    },
+    {
+      "id": "R0024",
+      "title": "A techno-economic assessment for fuel cells hybrid systems in stationary applications",
+      "venue": "International Journal of Sustainable Energy",
+      "year": 2023,
+      "quartile": "Q2",
+      "relation": 0.1397,
+      "score": 0.5364
+    },
+    {
+      "id": "R0445",
+      "title": "Multifactorial Analysis to Determine the Applicability of Wind Power Technologies in Favorable Areas of the Colombian Territory",
+      "venue": "Wind",
+      "year": 2022,
+      "quartile": "Q2",
+      "relation": 0.1397,
+      "score": 0.5364
+    },
+    {
+      "id": "R1450",
+      "title": "Technical and Environmental Feasibility Study of the Co-Production of Crude Oil and Electrical Energy from Geothermal Resources: First Field Trial in Colombia",
+      "venue": "Processes",
+      "year": 2022,
+      "quartile": "Q2",
+      "relation": 0.1397,
+      "score": 0.5364
+    },
+    {
+      "id": "R0045",
+      "title": "A Multi-Objective Optimization Model for Integrating Renewable Energy in Distribution System Expansion: a Case Study of Pamplona, Colombia",
+      "venue": "Chemical Engineering Transactions",
+      "year": 2025,
+      "quartile": "Q3",
+      "relation": 0.1618,
+      "score": 0.5325
+    },
+    {
+      "id": "R0338",
+      "title": "A Methodological Framework for Technology Selection and Regional Implementation of Residual Bioenergy in Colombia",
+      "venue": "Sustainability (Switzerland)",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1176,
+      "score": 0.516
+    },
+    {
+      "id": "R0354",
+      "title": "A simulation-based analysis for the road freight transport decarbonization: A case study of Colombia",
+      "venue": "Energy and Climate Change",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1176,
+      "score": 0.516
+    },
+    {
+      "id": "R0381",
+      "title": "Fueling the transition: A comprehensive analysis of hydrogen roadmaps in Chile, Brazil and Colombia",
+      "venue": "Renewable and Sustainable Energy Reviews",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1176,
+      "score": 0.516
+    },
+    {
+      "id": "R0421",
+      "title": "Life-cycle Environmental Impacts of Passenger and Freight Transport: a Comparison between the Global North and South",
+      "venue": "Circular Economy and Sustainability",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1176,
+      "score": 0.516
+    },
+    {
+      "id": "R0428",
+      "title": "Predicting Energy Consumption and Time of Use of Home Appliances in an HEMS Using LSTM Networks and Smart Meters: A Case Study in Sincelejo, Colombia",
+      "venue": "Sustainability (Switzerland)",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1176,
+      "score": 0.516
+    },
+    {
+      "id": "R0484",
+      "title": "Multi-criteria evaluation and multi-method analysis for appropriately selecting renewable energy sources in Colombia",
+      "venue": "MethodsX",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1176,
+      "score": 0.516
+    },
+    {
+      "id": "R0384",
+      "title": "Power generation mix in Colombia including wind power: Markowitz portfolio efficient frontier analysis with machine learning",
+      "venue": "Journal of Open Innovation: Technology, Market, and Complexity",
+      "year": 2024,
+      "quartile": "Q1",
+      "relation": 0.1176,
+      "score": 0.516
+    },
+    {
+      "id": "R0154",
+      "title": "Current understanding and perspectives on anaerobic digestion in developing countries: Colombia case study",
+      "venue": "Renewable and Sustainable Energy Reviews",
+      "year": 2023,
+      "quartile": "Q1",
+      "relation": 0.1176,
+      "score": 0.516
+    },
+    {
+      "id": "R0431",
+      "title": "Design of an energy vulnerability index — spatial and temporal analysis: case of study Colombia",
+      "venue": "Environmental Science and Pollution Research",
+      "year": 2023,
+      "quartile": "Q1",
+      "relation": 0.1176,
+      "score": 0.516
+    },
+    {
+      "id": "R0451",
+      "title": "Thermo-economical performance analysis of a direct-expansion solar heat-pump water heater driven by a photovoltaic array and the electrical grid in Medellín Colombia",
+      "venue": "Applied Thermal Engineering",
+      "year": 2023,
+      "quartile": "Q1",
+      "relation": 0.1176,
+      "score": 0.516
+    },
+    {
+      "id": "R1780",
+      "title": "Feasibility Study for the Implementation of Photovoltaic Panels in Public Transportation in Barranquilla",
+      "venue": "Energies",
+      "year": 2023,
+      "quartile": "Q1",
+      "relation": 0.1176,
+      "score": 0.516
+    },
+    {
+      "id": "R0017",
+      "title": "Microgrids through the Energy-Water-Food Security Nexus in La Guajira, Colombia: Increasing water and food security or jeopardizing groundwater levels?",
+      "venue": "Energy Research and Social Science",
+      "year": 2022,
+      "quartile": "Q1",
+      "relation": 0.1176,
+      "score": 0.516
+    },
+    {
+      "id": "R0200",
+      "title": "Assessing the speed, extent, and impact of the diffusion of solar PV",
+      "venue": "Energy Reports",
+      "year": 2022,
+      "quartile": "Q1",
+      "relation": 0.1176,
+      "score": 0.516
+    },
+    {
+      "id": "R0645",
+      "title": "Cost Functions for Generation Dispatching in Microgrids for Non-Interconnected Zones in Colombia",
+      "venue": "Energies",
+      "year": 2022,
+      "quartile": "Q1",
+      "relation": 0.1176,
+      "score": 0.516
+    },
+    {
+      "id": "R0336",
+      "title": "Effect of climate variability events over the Colombian caribbean offshore wind resource",
+      "venue": "Water (Switzerland)",
+      "year": 2021,
+      "quartile": "Q1",
+      "relation": 0.1176,
+      "score": 0.516
+    },
+    {
+      "id": "R0079",
+      "title": "Clean and secure power supply: A system dynamics based appraisal",
+      "venue": "Energy Policy",
+      "year": 2019,
+      "quartile": "Q1",
+      "relation": 0.1176,
+      "score": 0.516
+    },
+    {
+      "id": "R0378",
+      "title": "Identifying barriers to wind energy diffusion in Colombia: A function analysis of the technological innovation system and the wider context",
+      "venue": "Technology in Society",
+      "year": 2017,
+      "quartile": "Q1",
+      "relation": 0.1176,
+      "score": 0.516
+    },
+    {
+      "id": "R0507",
+      "title": "How capacity mechanisms drive technology choice in power generation: The case of Colombia",
+      "venue": "Renewable and Sustainable Energy Reviews",
+      "year": 2016,
+      "quartile": "Q1",
+      "relation": 0.1176,
+      "score": 0.516
+    },
+    {
+      "id": "R0230",
+      "title": "Photovoltaic solar energy in Colombia",
+      "venue": "International Journal of System Assurance Engineering and Management",
+      "year": 2022,
+      "quartile": "Q2",
+      "relation": 0.1324,
+      "score": 0.5083
+    },
+    {
+      "id": "R0281",
+      "title": "Framework to design water-energy solutions based on community perceptions: Case study from a Caribbean coast community in Colombia",
+      "venue": "Cogent Engineering",
+      "year": 2021,
+      "quartile": "Q2",
+      "relation": 0.1324,
+      "score": 0.5083
+    },
+    {
+      "id": "R0374",
+      "title": "System analysis of the bio-based economy in Colombia: A bottom-up energy system model and scenario analysis",
+      "venue": "Biofuels, Bioproducts and Biorefining",
+      "year": 2021,
+      "quartile": "Q2",
+      "relation": 0.1324,
+      "score": 0.5083
+    },
+    {
+      "id": "R0495",
+      "title": "Alternatives of municipal solid wastes to energy for sustainable development. The case of Barranquilla (Colombia)",
+      "venue": "International Journal of Sustainable Engineering",
+      "year": 2021,
+      "quartile": "Q2",
+      "relation": 0.1324,
+      "score": 0.5083
+    },
+    {
+      "id": "R0537",
+      "title": "Analysis on the economic feasibility of power generation from renewable energy systems in non-interconnected zones of Colombia, study of cases",
+      "venue": "Chemical Engineering Transactions",
+      "year": 2015,
+      "quartile": "Q3",
+      "relation": 0.1471,
+      "score": 0.4841
+    },
+    {
+      "id": "R0646",
+      "title": "Quantifying the 2050 scenarios for Colombia's electricity sector transition",
+      "venue": "Renewable Energy",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1103,
+      "score": 0.484
+    },
+    {
+      "id": "R0012",
+      "title": "The effect of transportation choices for mitigating climate-related impacts: The case of solid biofuels exported to Europe produced by Latin American countries",
+      "venue": "Sustainable Production and Consumption",
+      "year": 2024,
+      "quartile": "Q1",
+      "relation": 0.1103,
+      "score": 0.484
+    },
+    {
+      "id": "R0271",
+      "title": "Energy Performance of a University Building for Different Air Conditioning (AC) Technologies: A Case Study",
+      "venue": "Buildings",
+      "year": 2024,
+      "quartile": "Q1",
+      "relation": 0.1103,
+      "score": 0.484
+    },
+    {
+      "id": "R0074",
+      "title": "Informing sustainable energy policy in developing countries: An assessment of decarbonization pathways in Colombia using open energy system optimization modelling",
+      "venue": "Energy Strategy Reviews",
+      "year": 2023,
+      "quartile": "Q1",
+      "relation": 0.1103,
+      "score": 0.484
+    },
+    {
+      "id": "R0352",
+      "title": "Selection of environmental criteria for multi-criteria evaluation of energy supply alternatives in Non-Interconnected Zones of Colombia",
+      "venue": "2023 Advances in Science and Engineering Technology International Conferences, ASET 2023",
+      "year": 2023,
+      "quartile": null,
+      "relation": 0.2206,
+      "score": 0.484
+    },
+    {
+      "id": "R0475",
+      "title": "Digitalisation and Modernisation of Hydropower Operating Facilities to Support the Colombian Energy Mix Flexibility",
+      "venue": "Energies",
+      "year": 2023,
+      "quartile": "Q1",
+      "relation": 0.1103,
+      "score": 0.484
+    },
+    {
+      "id": "R0454",
+      "title": "Optimal Structuring of Investments in Electricity Generation Projects in Colombia with Non-Conventional Energy Sources",
+      "venue": "Sustainability (Switzerland)",
+      "year": 2022,
+      "quartile": "Q1",
+      "relation": 0.1103,
+      "score": 0.484
+    },
+    {
+      "id": "R1558",
+      "title": "Hybrid Energy Systems Sizing for the Colombian Context: A Genetic Algorithm and Particle Swarm Optimization Approach",
+      "venue": "Energies",
+      "year": 2020,
+      "quartile": "Q1",
+      "relation": 0.1103,
+      "score": 0.484
+    },
+    {
+      "id": "R0211",
+      "title": "A sustainability assessment of bioethanol (EtOH) production: The case of cassava in Colombia",
+      "venue": "Sustainability (Switzerland)",
+      "year": 2019,
+      "quartile": "Q1",
+      "relation": 0.1103,
+      "score": 0.484
+    },
+    {
+      "id": "R0617",
+      "title": "A BESS Sizing Strategy for Primary Frequency Regulation Support of Solar Photovoltaic Plants",
+      "venue": "Energies",
+      "year": 2019,
+      "quartile": "Q1",
+      "relation": 0.1103,
+      "score": 0.484
+    }
+  ],
+  "drop": [
+    {
+      "id": "R0334",
+      "title": "Evaluation of potential of energetic development in isolated zones with wide biodiversity: NIZ Chocó-Colombia case study",
+      "venue": "Thermal Science and Engineering Progress",
+      "year": 2018,
+      "quartile": "Q1",
+      "relation": 0.1103,
+      "score": 0.484
+    },
+    {
+      "id": "R0199",
+      "title": "Assessing the combined effect of the diffusion of solar rooftop generation, energy conservation and efficient appliances in households",
+      "venue": "Journal of Cleaner Production",
+      "year": 2017,
+      "quartile": "Q1",
+      "relation": 0.1103,
+      "score": 0.484
+    },
+    {
+      "id": "R0155",
+      "title": "Performance evaluation of solar thermal collectors in Colombian thermal floors by dynamic simulation",
+      "venue": "Sustainable Engineering and Innovation",
+      "year": 2024,
+      "quartile": "Q2",
+      "relation": 0.125,
+      "score": 0.4799
+    },
+    {
+      "id": "R0339",
+      "title": "Electricity Pricing for Renewable Markets-A Simulation Approach for the Colombian Case",
+      "venue": "IEEE Latin America Transactions",
+      "year": 2021,
+      "quartile": "Q2",
+      "relation": 0.125,
+      "score": 0.4799
+    },
+    {
+      "id": "R0402",
+      "title": "Knowledge management strategies to improve competitiveness by incorporating renewable energy into small companies called “mipymes” in Colombia",
+      "venue": "Communications in Computer and Information Science",
+      "year": 2018,
+      "quartile": "Q4",
+      "relation": 0.1691,
+      "score": 0.4637
+    },
+    {
+      "id": "R0098",
+      "title": "Assessment of the energetic potential of different fast-Growing species in the bogotá river basin",
+      "venue": "Chemical Engineering Transactions",
+      "year": 2018,
+      "quartile": "Q3",
+      "relation": 0.1397,
+      "score": 0.4597
+    },
+    {
+      "id": "R0070",
+      "title": "Study on the applicability of sustainable development policies in electricity generation systems in Colombia",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2019,
+      "quartile": null,
+      "relation": 0.2059,
+      "score": 0.4517
+    },
+    {
+      "id": "R0157",
+      "title": "Designing a hydrogen supply chain from biomass, solar, and wind energy integrated with carbon dioxide enhanced oil recovery operations",
+      "venue": "International Journal of Hydrogen Energy",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1029,
+      "score": 0.4515
+    },
+    {
+      "id": "R0386",
+      "title": "The Energy Potential of Agricultural Biomass Residues for Household Use in Rural Areas in the Department La Guajira (Colombia)",
+      "venue": "Sustainability (Switzerland)",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1029,
+      "score": 0.4515
+    },
+    {
+      "id": "R1543",
+      "title": "Balancing Resource Potential and Investment Costs in Offshore Wind Projects: Evidence from Northern Colombia",
+      "venue": "Energies",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.1029,
+      "score": 0.4515
+    },
+    {
+      "id": "R0328",
+      "title": "Biomass-based energy potential from the oil palm agroindustry in Colombia: A path to low carbon energy transition",
+      "venue": "Journal of Cleaner Production",
+      "year": 2024,
+      "quartile": "Q1",
+      "relation": 0.1029,
+      "score": 0.4515
+    },
+    {
+      "id": "R0423",
+      "title": "Environmental impact assessment of the installation, operation and dismantling of a photovoltaic park in the Colombian Guajira IV SEGIB-AECID Secondary Award in Research on Sustainable Development in Ibero-America",
+      "venue": "Iberoamerican Journal of Development Studies",
+      "year": 2024,
+      "quartile": "Q2",
+      "relation": 0.1176,
+      "score": 0.4515
+    },
+    {
+      "id": "R0260",
+      "title": "Is switching propulsion technologies the path to sustainable land transport? decarbonizing Bogotá",
+      "venue": "Transportation Research Part D: Transport and Environment",
+      "year": 2023,
+      "quartile": "Q1",
+      "relation": 0.1029,
+      "score": 0.4515
+    },
+    {
+      "id": "R1749",
+      "title": "Analysis of the Impact of Integrating Variable Renewable Energy into the Power System in the Colombian Caribbean Region",
+      "venue": "Energies",
+      "year": 2023,
+      "quartile": "Q1",
+      "relation": 0.1029,
+      "score": 0.4515
+    },
+    {
+      "id": "R0135",
+      "title": "Development of a low-cost IoT system based on LoRaWAN for monitoring variables related to electrical energy consumption in low voltage networks",
+      "venue": "HardwareX",
+      "year": 2022,
+      "quartile": "Q2",
+      "relation": 0.1176,
+      "score": 0.4515
+    },
+    {
+      "id": "R0327",
+      "title": "Salinity gradient power by reverse electrodialysis: A multidisciplinary assessment in the Colombian context",
+      "venue": "Desalination",
+      "year": 2021,
+      "quartile": "Q1",
+      "relation": 0.1029,
+      "score": 0.4515
+    },
+    {
+      "id": "R1397",
+      "title": "Pre-feasibility assessment for identifying locations of new offshore wind projects in the Colombian Caribbean.",
+      "venue": "International Journal of Sustainable Energy Planning and Management",
+      "year": 2021,
+      "quartile": "Q1",
+      "relation": 0.1029,
+      "score": 0.4515
+    },
+    {
+      "id": "R1534",
+      "title": "Regionalized cost supply potential of bioenergy crops and residues in Colombia: A hybrid statistical balance and land suitability allocation scenario analysis",
+      "venue": "Biomass and Bioenergy",
+      "year": 2021,
+      "quartile": "Q1",
+      "relation": 0.1029,
+      "score": 0.4515
+    },
+    {
+      "id": "R1672",
+      "title": "Potential Applicability of Earth to Air Heat Exchanger for Cooling in a Colombian Tropical Weather",
+      "venue": "Buildings",
+      "year": 2021,
+      "quartile": "Q1",
+      "relation": 0.1029,
+      "score": 0.4515
+    },
+    {
+      "id": "R0020",
+      "title": "Improving anaerobic co-digestion of different residual biomass sources readily available in Colombia by process parameters optimization",
+      "venue": "Biomass and Bioenergy",
+      "year": 2020,
+      "quartile": "Q1",
+      "relation": 0.1029,
+      "score": 0.4515
+    },
+    {
+      "id": "R0144",
+      "title": "The energy potential of agriculture, agroindustrial, livestock, and slaughterhouse biomass wastes through direct combustion and anaerobic digestion. The case of Colombia",
+      "venue": "Journal of Cleaner Production",
+      "year": 2020,
+      "quartile": "Q1",
+      "relation": 0.1029,
+      "score": 0.4515
+    },
+    {
+      "id": "R0261",
+      "title": "Synthesis and Sustainability Evaluation of a Lignocellulosic Multifeedstock Biorefinery Considering Technical Performance Indicators",
+      "venue": "ACS Omega",
+      "year": 2020,
+      "quartile": "Q1",
+      "relation": 0.1029,
+      "score": 0.4515
+    },
+    {
+      "id": "R0242",
+      "title": "Energy diagnosis and structuring an energy saving proposal for the metal casting industry: An experience in Colombia",
+      "venue": "Applied Thermal Engineering",
+      "year": 2018,
+      "quartile": "Q1",
+      "relation": 0.1029,
+      "score": 0.4515
+    },
+    {
+      "id": "R1125",
+      "title": "Assessing the obstacles to the participation of renewable energy sources in the electricity market of Colombia",
+      "venue": "Renewable and Sustainable Energy Reviews",
+      "year": 2018,
+      "quartile": "Q1",
+      "relation": 0.1029,
+      "score": 0.4515
+    },
+    {
+      "id": "R0330",
+      "title": "Use of thermal energy and analysis of barriers to the implementation of thermal efficiency measures in cement production: Exploratory study in Colombia",
+      "venue": "Energy",
+      "year": 2017,
+      "quartile": "Q1",
+      "relation": 0.1029,
+      "score": 0.4515
+    },
+    {
+      "id": "R0504",
+      "title": "Development of a technology roadmap for bioenergy exploitation including biofuels, waste-to-energy and power generation & CHP",
+      "venue": "Applied Energy",
+      "year": 2016,
+      "quartile": "Q1",
+      "relation": 0.1029,
+      "score": 0.4515
+    },
+    {
+      "id": "R0509",
+      "title": "Beyond electricity: The potential of ocean thermal energy and ocean technology ecoparks in small tropical islands",
+      "venue": "Energy Policy",
+      "year": 2016,
+      "quartile": "Q1",
+      "relation": 0.1029,
+      "score": 0.4515
+    },
+    {
+      "id": "R0111",
+      "title": "Development of riverine hydrokinetic energy systems in colombia and other world regions: A review of case studies",
+      "venue": "DYNA (Colombia)",
+      "year": 2021,
+      "quartile": "Q4",
+      "relation": 0.1618,
+      "score": 0.4437
+    },
+    {
+      "id": "R1437",
+      "title": "Cost-Benefit Evaluation of the Implementation of a Photovoltaic Solar Generation System in the Archipelago of San Andrés, Providencia, and Santa Catalina",
+      "venue": "International Journal of Electrical and Electronics Research",
+      "year": 2024,
+      "quartile": "Q3",
+      "relation": 0.1324,
+      "score": 0.4357
+    },
+    {
+      "id": "R0920",
+      "title": "Technical and Financial Analysis for the Implementation of Small-scale Self-generation Projects, based on Grid-Tied Photovoltaic Solar Energy, for Residential Users under Colombian Regulations",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.1985,
+      "score": 0.4355
+    },
+    {
+      "id": "R0379",
+      "title": "The Role of Renewable Energy Policy and R&D in Renewables Diffusion",
+      "venue": "Electricity",
+      "year": 2024,
+      "quartile": "Q2",
+      "relation": 0.1103,
+      "score": 0.4235
+    },
+    {
+      "id": "R0283",
+      "title": "Renewable energy smart sensing system monitoring for off-grid vulnerable community in Colombia",
+      "venue": "Cogent Engineering",
+      "year": 2021,
+      "quartile": "Q2",
+      "relation": 0.1103,
+      "score": 0.4235
+    },
+    {
+      "id": "R0141",
+      "title": "Energy storage in deep salt formations: Geological and geomechanical conditions and potentials with a focus on Latin America",
+      "venue": "Boletin Geologico",
+      "year": 2024,
+      "quartile": "Q4",
+      "relation": 0.1544,
+      "score": 0.4234
+    },
+    {
+      "id": "R0238",
+      "title": "Assessment of Renewable Energy Technologies Based on Multicriteria Decision Making Methods (MCDM): Ocean Energy Case",
+      "venue": "Lecture Notes of the Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering, LNICST",
+      "year": 2021,
+      "quartile": "Q4",
+      "relation": 0.1544,
+      "score": 0.4234
+    },
+    {
+      "id": "R0493",
+      "title": "Innovation in clean energy from man-made wind and small-wind generation",
+      "venue": "Scientific Reports",
+      "year": 2024,
+      "quartile": "Q1",
+      "relation": 0.0956,
+      "score": 0.4195
+    },
+    {
+      "id": "R0110",
+      "title": "Technology of detachment: The promise of renewable energy and its contentious reality in the south of Colombia",
+      "venue": "Environment and Planning C: Politics and Space",
+      "year": 2023,
+      "quartile": "Q1",
+      "relation": 0.0956,
+      "score": 0.4195
+    },
+    {
+      "id": "R0195",
+      "title": "Feasibility of implementation of solar thermal energy in steam-assisted gravity drainage (SAGD) in extra-heavy oil field in Colombia",
+      "venue": "Geoenergy Science and Engineering",
+      "year": 2023,
+      "quartile": "Q1",
+      "relation": 0.0956,
+      "score": 0.4195
+    },
+    {
+      "id": "R0383",
+      "title": "Energy conversion and beach protection: Numerical assessment of a dual-purpose WEC farm",
+      "venue": "Renewable Energy",
+      "year": 2023,
+      "quartile": "Q1",
+      "relation": 0.0956,
+      "score": 0.4195
+    },
+    {
+      "id": "R1262",
+      "title": "A Review of the Progress and Potential of Energy Generation from Renewable Sources in Latin America",
+      "venue": "Latin American Research Review",
+      "year": 2023,
+      "quartile": "Q1",
+      "relation": 0.0956,
+      "score": 0.4195
+    },
+    {
+      "id": "R0046",
+      "title": "Harnessing Residual Biomass as a Renewable Energy Source in Colombia: A Potential Gasification Scenario",
+      "venue": "Sustainability (Switzerland)",
+      "year": 2022,
+      "quartile": "Q1",
+      "relation": 0.0956,
+      "score": 0.4195
+    },
+    {
+      "id": "R0119",
+      "title": "Technical, Environmental, and Process Safety Assessment of Acetone-Butanol-Ethanol Fermentation of Cassava Residues",
+      "venue": "Sustainability (Switzerland)",
+      "year": 2022,
+      "quartile": "Q1",
+      "relation": 0.0956,
+      "score": 0.4195
+    },
+    {
+      "id": "R0841",
+      "title": "Scrutinizing the Intermittency of Renewable Energy in a Long-Term Planning Model via Combining Direct Integration and Soft-Linking Methods for Colombia’s Power System",
+      "venue": "Energies",
+      "year": 2022,
+      "quartile": "Q1",
+      "relation": 0.0956,
+      "score": 0.4195
+    },
+    {
+      "id": "R1570",
+      "title": "Green and Blue Hydrogen Production: An Overview in Colombia",
+      "venue": "Energies",
+      "year": 2022,
+      "quartile": "Q1",
+      "relation": 0.0956,
+      "score": 0.4195
+    },
+    {
+      "id": "R0415",
+      "title": "Wind and solar resource assessment and prediction using Artificial Neural Network and semi-empirical model: case study of the Colombian Caribbean region",
+      "venue": "Heliyon",
+      "year": 2021,
+      "quartile": "Q1",
+      "relation": 0.0956,
+      "score": 0.4195
+    },
+    {
+      "id": "R0538",
+      "title": "Regional analysis across Colombian departments: A non-parametric study of energy use",
+      "venue": "Journal of Cleaner Production",
+      "year": 2016,
+      "quartile": "Q1",
+      "relation": 0.0956,
+      "score": 0.4195
+    },
+    {
+      "id": "R0541",
+      "title": "Impacts of Regulation in the Development of Distributed Generation",
+      "venue": "Electricity Journal",
+      "year": 2015,
+      "quartile": "Q1",
+      "relation": 0.0956,
+      "score": 0.4195
+    },
+    {
+      "id": "R0031",
+      "title": "Assessment of the emissions of a low draught ship powered by batteries for river passenger transport, using a life cycle methodology",
+      "venue": "International Journal of Environmental Studies",
+      "year": 2025,
+      "quartile": "Q3",
+      "relation": 0.125,
+      "score": 0.4114
+    },
+    {
+      "id": "R0535",
+      "title": "Environmental sustainability analysis of technologies for electricity generation of renewable energy sources in non-interconnected areas from Colombia through the use of fuzzy logic",
+      "venue": "Chemical Engineering Transactions",
+      "year": 2015,
+      "quartile": "Q3",
+      "relation": 0.125,
+      "score": 0.4114
+    },
+    {
+      "id": "R0140",
+      "title": "Overview of policies for the generation from renewable energy focused in central tower concentrating solar power",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2020,
+      "quartile": null,
+      "relation": 0.1838,
+      "score": 0.4032
+    },
+    {
+      "id": "R0263",
+      "title": "Design and Implementation of a Monitoring System for Decision Support in a Micro-Business Based on Solar Energy Microgrid in Rural Colombia",
+      "venue": "GHTC 2018 - IEEE Global Humanitarian Technology Conference, Proceedings",
+      "year": 2018,
+      "quartile": null,
+      "relation": 0.1838,
+      "score": 0.4032
+    },
+    {
+      "id": "R0231",
+      "title": "Energy and economic analysis of waste-to-energy plants with government incentives in Colombia",
+      "venue": "Heritage and Sustainable Development",
+      "year": 2025,
+      "quartile": "Q2",
+      "relation": 0.1029,
+      "score": 0.3951
+    },
+    {
+      "id": "R1772",
+      "title": "Optimal Placement and Sizing of Modular Series Static Synchronous Compensators (M-SSSCs) for Enhanced Transmission Line Loadability, Loss Reduction, and Stability Improvement",
+      "venue": "Processes",
+      "year": 2024,
+      "quartile": "Q2",
+      "relation": 0.1029,
+      "score": 0.3951
+    },
+    {
+      "id": "R0156",
+      "title": "The Impact of Solar Radiation at Different Colombian Thermal Floors on an Adsorption Refrigeration Cycle",
+      "venue": "Processes",
+      "year": 2023,
+      "quartile": "Q2",
+      "relation": 0.1029,
+      "score": 0.3951
+    },
+    {
+      "id": "R1407",
+      "title": "Prospective Analysis of Massive Integration of Electric Vehicle Chargers and Their Impact on Power Quality in Distribution Networks",
+      "venue": "World Electric Vehicle Journal",
+      "year": 2023,
+      "quartile": "Q2",
+      "relation": 0.1029,
+      "score": 0.3951
+    },
+    {
+      "id": "R0142",
+      "title": "Global evaluation of economics of microalgae-based biofuel supply chain using GIS-based framework",
+      "venue": "Korean Journal of Chemical Engineering",
+      "year": 2022,
+      "quartile": "Q2",
+      "relation": 0.1029,
+      "score": 0.3951
+    },
+    {
+      "id": "R0234",
+      "title": "Smart Transformers in Distribution Grids: Opportunities and Challenges for Deployment in Latin America.",
+      "venue": "Proceedings of 2025 IEEE Central America and Panama Student Conference, CONESCAPAN 2025",
+      "year": 2025,
+      "quartile": null,
+      "relation": 0.1765,
+      "score": 0.3872
+    },
+    {
+      "id": "R0063",
+      "title": "Implementation of the Hierarchical Analytical Process in the Selection of the Best Source of Renewable Energy in the Colombian Caribbean Region",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2022,
+      "quartile": null,
+      "relation": 0.1765,
+      "score": 0.3872
+    },
+    {
+      "id": "R0268",
+      "title": "Evaluation of Energy Alternatives through FAHP for the Energization of Colombian Insular Areas",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2022,
+      "quartile": null,
+      "relation": 0.1765,
+      "score": 0.3872
+    },
+    {
+      "id": "R0118",
+      "title": "Transmission Expansion Planning Considering Storage, Flexible AC Transmission System, Losses, and Contingencies to Integrate Wind Power",
+      "venue": "Energies",
+      "year": 2024,
+      "quartile": "Q1",
+      "relation": 0.0882,
+      "score": 0.387
+    },
+    {
+      "id": "R0052",
+      "title": "Infrastructuring environmental (in)justice: green hydrogen, Indigenous sovereignty and the political geographies of energy technologies",
+      "venue": "Geographica Helvetica",
+      "year": 2023,
+      "quartile": "Q1",
+      "relation": 0.0882,
+      "score": 0.387
+    },
+    {
+      "id": "R0448",
+      "title": "Economic Evaluation and Technoeconomic Resilience Analysis of Two Routes for Hydrogen Production via Indirect Gasification in North Colombia",
+      "venue": "Sustainability (Switzerland)",
+      "year": 2023,
+      "quartile": "Q1",
+      "relation": 0.0882,
+      "score": 0.387
+    },
+    {
+      "id": "R1419",
+      "title": "Safeguarding Biodiversity and Promoting Sustainable Development: Assessing the Energy–Water Nexus of San Andrés Island, Colombia",
+      "venue": "Energies",
+      "year": 2023,
+      "quartile": "Q1",
+      "relation": 0.0882,
+      "score": 0.387
+    },
+    {
+      "id": "R0067",
+      "title": "Energy evaluation and energy savings analysis with the 2 selection of ac systems in an educational building",
+      "venue": "Sustainability (Switzerland)",
+      "year": 2021,
+      "quartile": "Q1",
+      "relation": 0.0882,
+      "score": 0.387
+    },
+    {
+      "id": "R0226",
+      "title": "Soft computing tool for aiding the integration of hybrid sustainable renewable energy systems, case of Putumayo, Colombia",
+      "venue": "Renewable Energy",
+      "year": 2021,
+      "quartile": "Q1",
+      "relation": 0.0882,
+      "score": 0.387
+    },
+    {
+      "id": "R0676",
+      "title": "Economic viability and optimization of solar microgrids with hybrid storage in a non-interconnected zone in Colombia",
+      "venue": "Environment Development and Sustainability",
+      "year": 2021,
+      "quartile": "Q1",
+      "relation": 0.0882,
+      "score": 0.387
+    },
+    {
+      "id": "R1621",
+      "title": "Use of Multi-Criteria TOPSIS Analysis to Define a Decarbonization Path in Colombia",
+      "venue": "Environmental and Climate Technologies",
+      "year": 2019,
+      "quartile": "Q3",
+      "relation": 0.1176,
+      "score": 0.387
+    },
+    {
+      "id": "R0055",
+      "title": "Unravelling the potential of energy efficiency in the Colombian oil industry",
+      "venue": "Journal of Cleaner Production",
+      "year": 2018,
+      "quartile": "Q1",
+      "relation": 0.0882,
+      "score": 0.387
+    },
+    {
+      "id": "R0395",
+      "title": "Analysis of barriers to the implementation of energy efficiency actions in the production of ceramics in Colombia",
+      "venue": "Energy",
+      "year": 2018,
+      "quartile": "Q1",
+      "relation": 0.0882,
+      "score": 0.387
+    },
+    {
+      "id": "R0278",
+      "title": "Installed capacity of photovoltaic solar energy in Colombia: An analysis of economic incentives",
+      "venue": "Lecturas de Economia",
+      "year": 2020,
+      "quartile": "Q4",
+      "relation": 0.1397,
+      "score": 0.3831
+    },
+    {
+      "id": "R0165",
+      "title": "Technical and financial assessment of photovoltaic solar systems for residential complexes considering three different commercial technologies and Colombia’s energy policy",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2021,
+      "quartile": null,
+      "relation": 0.1691,
+      "score": 0.371
+    },
+    {
+      "id": "R0898",
+      "title": "Application of cogeneration and trigeneration systems",
+      "venue": "Revista Boletín Redipe",
+      "year": 2021,
+      "quartile": null,
+      "relation": 0.1691,
+      "score": 0.371
+    },
+    {
+      "id": "R0222",
+      "title": "Economic Analysis of Red Tilapia (Oreochromis sp.) Production Under Different Solar Energy Alternatives in a Commercial Biofloc System in Colombia †",
+      "venue": "Fishes",
+      "year": 2024,
+      "quartile": "Q2",
+      "relation": 0.0956,
+      "score": 0.367
+    },
+    {
+      "id": "R0298",
+      "title": "Technologies to embrace the sun: solarpunk-based project as an exploration for a just energy transition",
+      "venue": "Iberoamerican Journal of Development Studies",
+      "year": 2024,
+      "quartile": "Q2",
+      "relation": 0.0956,
+      "score": 0.367
+    },
+    {
+      "id": "R0353",
+      "title": "Techno-Economic and Environmental Analysis of Biogas Production from Plantain Pseudostem Waste in Colombia",
+      "venue": "Waste and Biomass Valorization",
+      "year": 2020,
+      "quartile": "Q2",
+      "relation": 0.0956,
+      "score": 0.367
+    },
+    {
+      "id": "R0007",
+      "title": "Implementation of a pumping system using a hydraulic turbine without electric power consumption",
+      "venue": "Tecnologia y Ciencias del Agua",
+      "year": 2025,
+      "quartile": "Q4",
+      "relation": 0.1324,
+      "score": 0.3631
+    },
+    {
+      "id": "R0404",
+      "title": "Multicriteria hybrid method - ROA, for the choice of generation of renewable sources: Case study in shopping centers",
+      "venue": "Ingeniare",
+      "year": 2017,
+      "quartile": "Q4",
+      "relation": 0.1324,
+      "score": 0.3631
+    },
+    {
+      "id": "R0530",
+      "title": "Anaerobic co-digestion of organic residues from different productive sectors in Colombia: Biomethanation potential assessment",
+      "venue": "Chemical Engineering Transactions",
+      "year": 2016,
+      "quartile": "Q3",
+      "relation": 0.1103,
+      "score": 0.363
+    },
+    {
+      "id": "R0512",
+      "title": "Generation of electricity by plant biomass in villages of the Colombian provinces: Chocó, Meta and Putumayo",
+      "venue": "Chemical Engineering Transactions",
+      "year": 2015,
+      "quartile": "Q3",
+      "relation": 0.1103,
+      "score": 0.363
+    },
+    {
+      "id": "R1320",
+      "title": "Optimized Selection of Renewable Energy Sources Based on Regional Potentials in Colombia: A Comparative Analysis of AHP and FAHP for Sustainable Development",
+      "venue": "International Journal of Energy Research",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.0809,
+      "score": 0.355
+    },
+    {
+      "id": "R1797",
+      "title": "Assessment of the Potential for Biogas Production in Post-Conflict Rural Areas in Colombia Using Cocoa Residues",
+      "venue": "Energies",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.0809,
+      "score": 0.355
+    },
+    {
+      "id": "R0126",
+      "title": "Evaluating Sustainable Alternatives for Cocoa Waste Utilization Using the Analytic Hierarchy Process",
+      "venue": "Sustainability (Switzerland)",
+      "year": 2024,
+      "quartile": "Q1",
+      "relation": 0.0809,
+      "score": 0.355
+    },
+    {
+      "id": "R0394",
+      "title": "Process Sustainability Analysis of Biorefineries to Produce Biofertilizers and Bioenergy from Biodegradable Residues",
+      "venue": "Fermentation",
+      "year": 2023,
+      "quartile": "Q1",
+      "relation": 0.0809,
+      "score": 0.355
+    },
+    {
+      "id": "R0853",
+      "title": "Sustainability assessment of the solar energy supply chain in Colombia",
+      "venue": "Energy",
+      "year": 2023,
+      "quartile": "Q1",
+      "relation": 0.0809,
+      "score": 0.355
+    },
+    {
+      "id": "R0397",
+      "title": "Natural Gas, a Mean to Reduce Emissions and Energy Consumption of HDV? A Case Study of Colombia Based on Vehicle Technology Criteria",
+      "venue": "Energies",
+      "year": 2022,
+      "quartile": "Q1",
+      "relation": 0.0809,
+      "score": 0.355
+    },
+    {
+      "id": "R0680",
+      "title": "Data-Driven Load Modeling to Analyze the Frequency of System Including Demand Response: A Colombian Study Case",
+      "venue": "IEEE Access",
+      "year": 2021,
+      "quartile": "Q1",
+      "relation": 0.0809,
+      "score": 0.355
+    },
+    {
+      "id": "R0123",
+      "title": "Technological innovation system and the wider context: A framework for developing countries",
+      "venue": "Technology in Society",
+      "year": 2019,
+      "quartile": "Q1",
+      "relation": 0.0809,
+      "score": 0.355
+    },
+    {
+      "id": "R0139",
+      "title": "Municipal solid waste as a source of electric power generation in Colombia: A techno-economic evaluation under different scenarios",
+      "venue": "Resources",
+      "year": 2019,
+      "quartile": "Q1",
+      "relation": 0.0809,
+      "score": 0.355
+    },
+    {
+      "id": "R1595",
+      "title": "Optimal Design of a Diesel-PV-Wind-Battery-Hydro Pumped POWER system with the Integration of ELECTRIC vehicles in a Colombian Community",
+      "venue": "Energies",
+      "year": 2019,
+      "quartile": "Q1",
+      "relation": 0.0809,
+      "score": 0.355
+    },
+    {
+      "id": "R0649",
+      "title": "Exergoeconomic study of the performance of a generation system in a non-interconnected zone in Colombia using syngas in an internal combustion engine with energy accumulation",
+      "venue": "International Conference on Renewable Energy Research and Applications (ICRERA)",
+      "year": 2018,
+      "quartile": null,
+      "relation": 0.1618,
+      "score": 0.355
+    },
+    {
+      "id": "R0282",
+      "title": "Renewable energies and emerging labor dynamics: challenges for socioeconomic transformation in Colombia",
+      "venue": "Revista Venezolana de Gerencia",
+      "year": 2023,
+      "quartile": "Q4",
+      "relation": 0.125,
+      "score": 0.3428
+    },
+    {
+      "id": "R0816",
+      "title": "Analysis of geothermal technology development in the Colombian energy transition to 2050 using system dynamics",
+      "venue": "International Journal of Power Electronics and Drive Systems/International Journal of Electrical and Computer Engineering",
+      "year": 2025,
+      "quartile": null,
+      "relation": 0.1544,
+      "score": 0.3387
+    },
+    {
+      "id": "R1168",
+      "title": "Real Options-Based Methodology for Valuing Photovoltaic Systems in the Colombian Health Sector",
+      "venue": "Latin American Developments in Energy Engineering",
+      "year": 2025,
+      "quartile": null,
+      "relation": 0.1544,
+      "score": 0.3387
+    },
+    {
+      "id": "R1231",
+      "title": "Driving the development of energy communities in Colombia: challenges and opportunities for a decentralized energy transition",
+      "venue": "Revista Hábitat Sustentable",
+      "year": 2025,
+      "quartile": null,
+      "relation": 0.1544,
+      "score": 0.3387
+    },
+    {
+      "id": "R1289",
+      "title": "Multi-Objective Optimization and Analytical Hierarchical Process for Sustainable Power Generation Alternatives in the High Mountain Region of Santurb�n: case of Pamplona, Colombia",
+      "venue": "Systems and Control Transactions",
+      "year": 2025,
+      "quartile": null,
+      "relation": 0.1544,
+      "score": 0.3387
+    },
+    {
+      "id": "R0429",
+      "title": "Evaluation and Ranking of Energy Alternatives for Implementation in Different Geographic Scenarios using Decision Methods: Case Study of Colombia",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.1544,
+      "score": 0.3387
+    },
+    {
+      "id": "R0882",
+      "title": "The Role of Battery Energy Storage in Colombia’s Sustainable Energy Transition: A Socio-Ecological and Economic Perspective",
+      "venue": "Journal of Ecohumanism",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.1544,
+      "score": 0.3387
+    },
+    {
+      "id": "R0259",
+      "title": "A Diffuse Analysis Based on Analytical Processes to Prioritize Barriers in the Development of Renewable Energy Technologies in Alignment with the United Nations Sustainable Development Goals: Evidence from Guajira/Colombia",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2023,
+      "quartile": null,
+      "relation": 0.1544,
+      "score": 0.3387
+    },
+    {
+      "id": "R1084",
+      "title": "A Comprehensive Review of Sustainability in Isolated Colombian Microgrids",
+      "venue": "Tecnura",
+      "year": 2021,
+      "quartile": null,
+      "relation": 0.1544,
+      "score": 0.3387
+    },
+    {
+      "id": "R0425",
+      "title": "Formulation and simulation of a hybrid solar PV-wind generation system with photovoltaic concentration for non-interconnected areas to the energy grid",
+      "venue": "E3S Web of Conferences",
+      "year": 2020,
+      "quartile": null,
+      "relation": 0.1544,
+      "score": 0.3387
+    },
+    {
+      "id": "R1495",
+      "title": "Simulation of a microgrid for a non-interconnected zone that integrates renewable energies",
+      "venue": "International Journal of Power Electronics and Drive Systems/International Journal of Electrical and Computer Engineering",
+      "year": 2020,
+      "quartile": null,
+      "relation": 0.1544,
+      "score": 0.3387
+    },
+    {
+      "id": "R0311",
+      "title": "Analysis of the use of renewable energies in Colombia and the potential application of thermoelectric devices for energy recovery",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2019,
+      "quartile": null,
+      "relation": 0.1544,
+      "score": 0.3387
+    },
+    {
+      "id": "R0364",
+      "title": "Demand side management through LAB+i platform: Case study",
+      "venue": "2016 IEEE PES Transmission and Distribution Conference and Exposition-Latin America, PES T and D-LA 2016",
+      "year": 2017,
+      "quartile": null,
+      "relation": 0.1544,
+      "score": 0.3387
+    },
+    {
+      "id": "R0030",
+      "title": "Harnessing biodigestion for sustainable energy: agricultural residues utilization in Malambo, Colombia",
+      "venue": "Biofuels",
+      "year": 2025,
+      "quartile": "Q3",
+      "relation": 0.1029,
+      "score": 0.3386
+    },
+    {
+      "id": "R0062",
+      "title": "Thermal analysis of bifacial photovoltaic modules with single-axis trackers in a large power plant: Modeling by symbolic equations in tropical climates",
+      "venue": "International Journal of Renewable Energy Development",
+      "year": 2025,
+      "quartile": "Q2",
+      "relation": 0.0882,
+      "score": 0.3386
+    },
+    {
+      "id": "R0082",
+      "title": "Cocoa Process in Montes de María, Colombia: Contribution to its Technification",
+      "venue": "Chemical Engineering Transactions",
+      "year": 2025,
+      "quartile": "Q3",
+      "relation": 0.1029,
+      "score": 0.3386
+    },
+    {
+      "id": "R0232",
+      "title": "Techno-Economic Comparison of CO2 Valorization Through Chemical and Biotechnological Conversion",
+      "venue": "Waste and Biomass Valorization",
+      "year": 2025,
+      "quartile": "Q2",
+      "relation": 0.0882,
+      "score": 0.3386
+    },
+    {
+      "id": "R1497",
+      "title": "Effect of Sea Level Rise and Access Channel Deepening on Future Tidal Power Plants in Buenaventura Colombia",
+      "venue": "Infrastructures",
+      "year": 2023,
+      "quartile": "Q2",
+      "relation": 0.0882,
+      "score": 0.3386
+    },
+    {
+      "id": "R0725",
+      "title": "Rational and efficient energy use programs in Non-Interconnected Zones in Colombia: a system dynamics analysis",
+      "venue": "Energy Efficiency",
+      "year": 2021,
+      "quartile": "Q2",
+      "relation": 0.0882,
+      "score": 0.3386
+    },
+    {
+      "id": "R0463",
+      "title": "Fiscal incentives impact for RETs investments in Colombia",
+      "venue": "Energy Sources, Part B: Economics, Planning and Policy",
+      "year": 2017,
+      "quartile": "Q2",
+      "relation": 0.0882,
+      "score": 0.3386
+    },
+    {
+      "id": "R1415",
+      "title": "Green extractivism in Colombia: A scoping review on indigenous rights and livelihood impacts, and policy and social movement responses",
+      "venue": "The Extractive Industries and Society",
+      "year": 2025,
+      "quartile": null,
+      "relation": 0.1471,
+      "score": 0.3227
+    },
+    {
+      "id": "R0759",
+      "title": "Optimization of Photovoltaic and Wind Energy Sources Sizing for Home Requirements in Non-interconnected Zones: A Colombian Case Study",
+      "venue": "International Journal of Smart Grid and Clean Energy",
+      "year": 2023,
+      "quartile": null,
+      "relation": 0.1471,
+      "score": 0.3227
+    },
+    {
+      "id": "R1117",
+      "title": "Methodological Proposal: First Steps for the Implementation of Demand Management Programs in Colombia",
+      "venue": "Revista UIS Ingenierías",
+      "year": 2023,
+      "quartile": null,
+      "relation": 0.1471,
+      "score": 0.3227
+    },
+    {
+      "id": "R1387",
+      "title": "Tidal Energy Potential in the Center Zone of the Colombian Pacific Coast",
+      "venue": "Inge CUC",
+      "year": 2021,
+      "quartile": null,
+      "relation": 0.1471,
+      "score": 0.3227
+    },
+    {
+      "id": "R1581",
+      "title": "Study of potential application of alternative power cycles in Colombia",
+      "venue": "Revista Boletín Redipe",
+      "year": 2021,
+      "quartile": null,
+      "relation": 0.1471,
+      "score": 0.3227
+    },
+    {
+      "id": "R1664",
+      "title": "Business Model Proposal for Energy Transition towards Operational and Economic Sustainability for Rural Electrification: Colombian Case",
+      "venue": "Sustainability",
+      "year": 2021,
+      "quartile": null,
+      "relation": 0.1471,
+      "score": 0.3227
+    },
+    {
+      "id": "R0340",
+      "title": "Colombian agroindustrial crop residues: Thermochemical characterization and evaluation of their energy potential",
+      "venue": "Energy Reports",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.0735,
+      "score": 0.3225
+    },
+    {
+      "id": "R0494",
+      "title": "Selection of HVAC technology for buildings in the tropical climate case study",
+      "venue": "Alexandria Engineering Journal",
+      "year": 2023,
+      "quartile": "Q1",
+      "relation": 0.0735,
+      "score": 0.3225
+    },
+    {
+      "id": "R1686",
+      "title": "Energy characterization of residential and office buildings in a tropical location",
+      "venue": "Heliyon",
+      "year": 2023,
+      "quartile": "Q1",
+      "relation": 0.0735,
+      "score": 0.3225
+    },
+    {
+      "id": "R0171",
+      "title": "Data Acquisition with LoraWAN IoT Technology to Monitor Bio-Inspired Wind Turbines in Rural Areas of Cundinamarca",
+      "venue": "Ingenieria (Colombia)",
+      "year": 2022,
+      "quartile": "Q4",
+      "relation": 0.1176,
+      "score": 0.3225
+    },
+    {
+      "id": "R1794",
+      "title": "Methodology to Evaluate the Impact of Electric Vehicles on Electrical Networks Using Monte Carlo",
+      "venue": "Energies",
+      "year": 2021,
+      "quartile": "Q1",
+      "relation": 0.0735,
+      "score": 0.3225
+    },
+    {
+      "id": "R0389",
+      "title": "Options for Colombia's mid-century deep decarbonization strategy",
+      "venue": "Energy Strategy Reviews",
+      "year": 2020,
+      "quartile": "Q1",
+      "relation": 0.0735,
+      "score": 0.3225
+    },
+    {
+      "id": "R0861",
+      "title": "Assessment of solar and wind energy potential in La Guajira, Colombia: Current status, and future prospects",
+      "venue": "Sustainable Energy Technologies and Assessments",
+      "year": 2019,
+      "quartile": "Q1",
+      "relation": 0.0735,
+      "score": 0.3225
+    },
+    {
+      "id": "R0117",
+      "title": "Environmental assessment of hydrogen production based on Pinus patula plantations in Colombia",
+      "venue": "Energy",
+      "year": 2017,
+      "quartile": "Q1",
+      "relation": 0.0735,
+      "score": 0.3225
+    },
+    {
+      "id": "R0372",
+      "title": "Sustainable Aviation Fuel Production Optimization in Colombia: an In-depth Sensitivity Analysis",
+      "venue": "Chemical Engineering Transactions",
+      "year": 2024,
+      "quartile": "Q3",
+      "relation": 0.0956,
+      "score": 0.3146
+    },
+    {
+      "id": "R0197",
+      "title": "Impacts of the Inclusion of Distributed Generation on Congestion of Distribution Networks and in the Islanding Operation Capability",
+      "venue": "Transactions on Energy Systems and Engineering Applications",
+      "year": 2021,
+      "quartile": "Q3",
+      "relation": 0.0956,
+      "score": 0.3146
+    },
+    {
+      "id": "R0716",
+      "title": "Assessment of the Energy Potential of Agricultural Residues in Non-Interconnected Zones of Colombia: Case Study of Chocó and Putumayo",
+      "venue": "Chemical engineering transactions",
+      "year": 2016,
+      "quartile": "Q3",
+      "relation": 0.0956,
+      "score": 0.3146
+    },
+    {
+      "id": "R0072",
+      "title": "Renewable energy and rural development: an analysis of technological appropriation and its effects on productivity and well-being",
+      "venue": "Encuentros (Maracaibo)",
+      "year": 2025,
+      "quartile": "Q2",
+      "relation": 0.0809,
+      "score": 0.3106
+    },
+    {
+      "id": "R0274",
+      "title": "Enhancing environmental sustainability in a Circular Waste Bioeconomy: A hierarchical framework driven by operational efficiency and agro-energy management",
+      "venue": "Cleaner and Circular Bioeconomy",
+      "year": 2024,
+      "quartile": "Q2",
+      "relation": 0.0809,
+      "score": 0.3106
+    },
+    {
+      "id": "R1525",
+      "title": "Designing inclusive energy transitions: Insights from Latin America’s electricity sector",
+      "venue": "Societal Impacts",
+      "year": 2025,
+      "quartile": null,
+      "relation": 0.1397,
+      "score": 0.3065
+    },
+    {
+      "id": "R1748",
+      "title": "Reference Framework Based on a Two-Stage Strategy for Sizing and Operational Management in Electrical Microgrid Planning",
+      "venue": "Sustainability",
+      "year": 2023,
+      "quartile": null,
+      "relation": 0.1397,
+      "score": 0.3065
+    },
+    {
+      "id": "R1761",
+      "title": "Proposing Dynamic Pricing as an Alternative to Improve Technical and Economic Conditions in Rural Electrification: A Case Study from Colombia",
+      "venue": "Sustainability",
+      "year": 2023,
+      "quartile": null,
+      "relation": 0.1397,
+      "score": 0.3065
+    },
+    {
+      "id": "R0885",
+      "title": "Study of the application of energy generation systems with mini hydroelectric",
+      "venue": "Revista Boletín Redipe",
+      "year": 2021,
+      "quartile": null,
+      "relation": 0.1397,
+      "score": 0.3065
+    },
+    {
+      "id": "R0307",
+      "title": "Challenges and opportunities of smart grids implementation: A case of Colombia electricity sector",
+      "venue": "2019 FISE-IEEE/CIGRE Conference - Living the Energy Transition, FISE/CIGRE 2019",
+      "year": 2019,
+      "quartile": null,
+      "relation": 0.1397,
+      "score": 0.3065
+    },
+    {
+      "id": "R0486",
+      "title": "Smart grid review: Reality in Colombia and expectations",
+      "venue": "Journal of Physics: Conference Series",
+      "year": 2019,
+      "quartile": null,
+      "relation": 0.1397,
+      "score": 0.3065
+    },
+    {
+      "id": "R0099",
+      "title": "Photovoltaic system for the treatment of surface water polluted with polycyclic aromatic hydrocarbons in Colombia",
+      "venue": "Renewable Energy and Power Quality Journal",
+      "year": 2018,
+      "quartile": null,
+      "relation": 0.1397,
+      "score": 0.3065
+    },
+    {
+      "id": "R0196",
+      "title": "Joint strategies of Fintech and ESCOs for sustainable development.",
+      "venue": "Aibi, Revista de Investigacion Administracion e Ingenierias",
+      "year": 2025,
+      "quartile": "Q4",
+      "relation": 0.1103,
+      "score": 0.3025
+    },
+    {
+      "id": "R1687",
+      "title": "Analysis of a Sustainable Hybrid Microgrid Based on Solar Energy, Biomass, and Storage for Rural Electrification in Isolated Communities",
+      "venue": "Applied Sciences",
+      "year": 2025,
+      "quartile": "Q4",
+      "relation": 0.1103,
+      "score": 0.3025
+    },
+    {
+      "id": "R0021",
+      "title": "Planning Framework for Distribution System Investments Under Energy Transition Uncertainty: A Multi-Scenario Approach",
+      "venue": "Proceedings of the 2025 IEEE PES Innovative Smart Grid Technologies Conference - Latin America, ISGT LA 2025",
+      "year": 2025,
+      "quartile": null,
+      "relation": 0.1324,
+      "score": 0.2905
+    },
+    {
+      "id": "R0011",
+      "title": "Hydrothermal Carbonization of Green Harvesting Residues (GHRs) from Sugar Cane: Effect of Temperature and Water/GHR Ratio on Mass and Energy Yield",
+      "venue": "ACS Omega",
+      "year": 2024,
+      "quartile": "Q1",
+      "relation": 0.0662,
+      "score": 0.2905
+    },
+    {
+      "id": "R0254",
+      "title": "Quantification of the benefits of Smart Grids to decarbonize the Colombian electricity system",
+      "venue": "1st IEEE Colombian Caribbean Conference, C3 2023",
+      "year": 2023,
+      "quartile": null,
+      "relation": 0.1324,
+      "score": 0.2905
+    },
+    {
+      "id": "R1468",
+      "title": "Gravitational water vortex hydraulic turbine implementation in Colombia: hydropower potential and prospects",
+      "venue": "Revista UIS Ingenierías",
+      "year": 2023,
+      "quartile": null,
+      "relation": 0.1324,
+      "score": 0.2905
+    },
+    {
+      "id": "R1814",
+      "title": "Suitable municipalities for biomass energy use in Colombia based on a multicriteria analysis from a sustainable development perspective",
+      "venue": "Heliyon",
+      "year": 2023,
+      "quartile": "Q1",
+      "relation": 0.0662,
+      "score": 0.2905
+    },
+    {
+      "id": "R0462",
+      "title": "Challenges and perspectives of the use of photovoltaic solar energy in Colombia",
+      "venue": "International Journal of Electrical and Computer Engineering",
+      "year": 2022,
+      "quartile": null,
+      "relation": 0.1324,
+      "score": 0.2905
+    },
+    {
+      "id": "R1310",
+      "title": "Evaluation, Hierarchy and Selection of the best Source of Energy by using AHP, as a Proposed Solution to an Energy and Socio-economic Problem, in the case of Colombia’s Pacific Zone",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2022,
+      "quartile": null,
+      "relation": 0.1324,
+      "score": 0.2905
+    },
+    {
+      "id": "R1351",
+      "title": "Land-use in the Electric Colombian System: Hidden Impacts and Risks of Large-scale Renewable Projects",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2022,
+      "quartile": null,
+      "relation": 0.1324,
+      "score": 0.2905
+    },
+    {
+      "id": "R1455",
+      "title": "Scenario Analysis of an Electric Power System in Colombia Considering the El Niño Phenomenon and the Inclusion of Renewable Energies",
+      "venue": "Energies",
+      "year": 2022,
+      "quartile": "Q1",
+      "relation": 0.0662,
+      "score": 0.2905
+    },
+    {
+      "id": "R0393",
+      "title": "CaCO3 and air/steam effect on the gasification and biohydrogen performance of corn cob as received: Application in the Colombian Caribbean region",
+      "venue": "Biomass and Bioenergy",
+      "year": 2021,
+      "quartile": "Q1",
+      "relation": 0.0662,
+      "score": 0.2905
+    },
+    {
+      "id": "R0481",
+      "title": "A hybrid energy solution for the sustainable electricity supply of an irrigation system in a rural area of zona bananera, colombia",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2021,
+      "quartile": null,
+      "relation": 0.1324,
+      "score": 0.2905
+    },
+    {
+      "id": "R1206",
+      "title": "THE COLOMBIAN ENERGY POLICY CHALLENGES IN FRONT OF CLIMATE CHANGE",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2021,
+      "quartile": null,
+      "relation": 0.1324,
+      "score": 0.2905
+    },
+    {
+      "id": "R0453",
+      "title": "Assessing wind and solar resources. Case study: Department of Norte de Santander, Colombia, stage 1",
+      "venue": "Journal of Physics: Conference Series",
+      "year": 2020,
+      "quartile": null,
+      "relation": 0.1324,
+      "score": 0.2905
+    },
+    {
+      "id": "R0650",
+      "title": "Landscape matters: Insights from the impact of mega-droughts on Colombia's energy transition",
+      "venue": "Environmental Innovation and Societal Transitions",
+      "year": 2020,
+      "quartile": "Q1",
+      "relation": 0.0662,
+      "score": 0.2905
+    },
+    {
+      "id": "R1631",
+      "title": "FINANCING OF RESIDENTIAL ROOFTOP PHOTOVOLTAIC PROJECTS UNDER A NET METERING POLICY FRAMEWORK: THE CASE OF THE COLOMBIAN CARIBBEAN REGION",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2020,
+      "quartile": null,
+      "relation": 0.1324,
+      "score": 0.2905
+    },
+    {
+      "id": "R0057",
+      "title": "Incentives for the development of photovoltaic energy in a developing country, case study",
+      "venue": "2019 International Energy and Sustainability Conference, IESC 2019",
+      "year": 2019,
+      "quartile": null,
+      "relation": 0.1324,
+      "score": 0.2905
+    },
+    {
+      "id": "R0174",
+      "title": "Potential and analysis of an osmotic power plant in the Magdalena River using experimental field-data",
+      "venue": "Energy",
+      "year": 2019,
+      "quartile": "Q1",
+      "relation": 0.0662,
+      "score": 0.2905
+    },
+    {
+      "id": "R0183",
+      "title": "A study case of energy efficiency, energy profile, and technological gap of combustion systems in the Colombian lime industry",
+      "venue": "Applied Thermal Engineering",
+      "year": 2018,
+      "quartile": "Q1",
+      "relation": 0.0662,
+      "score": 0.2905
+    },
+    {
+      "id": "R0401",
+      "title": "Energetic and environmental assessment of thermochemical and biochemical ways for producing energy from agricultural solid residues: Coffee Cut-Stems case",
+      "venue": "Journal of Environmental Management",
+      "year": 2018,
+      "quartile": "Q1",
+      "relation": 0.0662,
+      "score": 0.2905
+    },
+    {
+      "id": "R0273",
+      "title": "Methodology for smart energy performance in rural zones of Colombia",
+      "venue": "2017 Smart Cities Symposium Prague, SCSP 2017 - IEEE Proceedings",
+      "year": 2017,
+      "quartile": null,
+      "relation": 0.1324,
+      "score": 0.2905
+    },
+    {
+      "id": "R0473",
+      "title": "DEVELOPMENT AND EVALUATION OF AN INTELLIGENT IOT-BASED MONITORING SYSTEM FOR ENERGY MANAGEMENT IN A COMMERCIAL REFRIGERATION SYSTEM IN THE COLOMBIAN CARIBBEAN COAST",
+      "venue": "EUREKA, Physics and Engineering",
+      "year": 2025,
+      "quartile": "Q3",
+      "relation": 0.0882,
+      "score": 0.2903
+    },
+    {
+      "id": "R0460",
+      "title": "Energy saving in industrial process based on the equivalent production method to calculate energy performance indicators",
+      "venue": "Chemical Engineering Transactions",
+      "year": 2017,
+      "quartile": "Q3",
+      "relation": 0.0882,
+      "score": 0.2903
+    },
+    {
+      "id": "R0299",
+      "title": "Energy Production and Process Costing for Biomass Obtained from Underutilized Plant Species in México and Colombia",
+      "venue": "Processes",
+      "year": 2025,
+      "quartile": "Q2",
+      "relation": 0.0735,
+      "score": 0.2822
+    },
+    {
+      "id": "R1507",
+      "title": "Three-Dimensional Hydrodynamic and CFD Modeling of a Tidal Barrage Power Plant without Sluicing in Buenaventura, Colombia",
+      "venue": "Infrastructures",
+      "year": 2024,
+      "quartile": "Q2",
+      "relation": 0.0735,
+      "score": 0.2822
+    },
+    {
+      "id": "R0614",
+      "title": "Assessing the Complementarities of Colombia’s Renewable Power Plants",
+      "venue": "Frontiers in Energy Research",
+      "year": 2020,
+      "quartile": "Q2",
+      "relation": 0.0735,
+      "score": 0.2822
+    },
+    {
+      "id": "R0112",
+      "title": "Economic Assessment of the Potential for Renewable Based Microgrids Generation Systems: An Application in a University Building",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2025,
+      "quartile": null,
+      "relation": 0.125,
+      "score": 0.2742
+    },
+    {
+      "id": "R1597",
+      "title": "Nuclear Energy: A Keystone in Colombia's Sustainable Energy Transition",
+      "venue": "Revista Facultad de Ingeniería",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.125,
+      "score": 0.2742
+    },
+    {
+      "id": "R0578",
+      "title": "Beneficios económicos de la energía renovable en Colombia",
+      "venue": "Administración & Desarrollo",
+      "year": 2022,
+      "quartile": null,
+      "relation": 0.125,
+      "score": 0.2742
+    },
+    {
+      "id": "R0762",
+      "title": "Stability Analysis in a Colombian Non-Interconnected Zone with BESS and PV Systems in Different Locations of a Recloser as Main Protection",
+      "venue": "",
+      "year": 2022,
+      "quartile": null,
+      "relation": 0.125,
+      "score": 0.2742
+    },
+    {
+      "id": "R0905",
+      "title": "On the Potential of Blue Hydrogen Production in Colombia: A Fossil Resource-Based Assessment for Low-Emission Hydrogen",
+      "venue": "Sustainability",
+      "year": 2022,
+      "quartile": null,
+      "relation": 0.125,
+      "score": 0.2742
+    },
+    {
+      "id": "R0990",
+      "title": "Assessment of the Wind Power Potential in the Gulf of Urabá, Department of Antioquia",
+      "venue": "Ingeniería e Investigación",
+      "year": 2022,
+      "quartile": null,
+      "relation": 0.125,
+      "score": 0.2742
+    },
+    {
+      "id": "R1633",
+      "title": "Technoeconomic Comparison of Scenarios for the Configuration of the Renewable Hydrogen Supply Chain in Colombia",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2022,
+      "quartile": null,
+      "relation": 0.125,
+      "score": 0.2742
+    },
+    {
+      "id": "R1787",
+      "title": "A System Dynamics Model for the Analysis of CO2 Emissions Derived from the Inclusion of Hydrogen Obtained from Coal in the Energy Matrix in Colombia",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2022,
+      "quartile": null,
+      "relation": 0.125,
+      "score": 0.2742
+    },
+    {
+      "id": "R0487",
+      "title": "Analysis of the level of implementation of programs for the efficient use of energy and unconventional sources: Case study Colombia",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2020,
+      "quartile": null,
+      "relation": 0.125,
+      "score": 0.2742
+    },
+    {
+      "id": "R0490",
+      "title": "Drivers of Biomass Power Generation Technologies: Adoption in Colombia",
+      "venue": "IOP Conference Series: Materials Science and Engineering",
+      "year": 2020,
+      "quartile": null,
+      "relation": 0.125,
+      "score": 0.2742
+    },
+    {
+      "id": "R0396",
+      "title": "Methodology for defining the functionality of advanced measurement infraestructure in Colombia",
+      "venue": "2017 IEEE PES Innovative Smart Grid Technologies Conference - Latin America, ISGT Latin America 2017",
+      "year": 2017,
+      "quartile": null,
+      "relation": 0.125,
+      "score": 0.2742
+    },
+    {
+      "id": "R0443",
+      "title": "Assessing the impact of wind variability on the long-term operation of a hydro-dominated system",
+      "venue": "2017 IEEE PES Innovative Smart Grid Technologies Conference Europe, ISGT-Europe 2017 - Proceedings",
+      "year": 2017,
+      "quartile": null,
+      "relation": 0.125,
+      "score": 0.2742
+    },
+    {
+      "id": "R0767",
+      "title": "Potential Assessment of Renewable Energy Sources in Non-interconnected Zones of Colombia, using Geographic Information System - ArcGIS: Study of Cases",
+      "venue": "DOAJ (DOAJ: Directory of Open Access Journals)",
+      "year": 2017,
+      "quartile": null,
+      "relation": 0.125,
+      "score": 0.2742
+    },
+    {
+      "id": "R0321",
+      "title": "Energy Performance Clustering and Data Visualization for Solar-Wind Hybrid Energy Systems",
+      "venue": "Communications in Computer and Information Science",
+      "year": 2022,
+      "quartile": "Q4",
+      "relation": 0.0956,
+      "score": 0.2622
+    },
+    {
+      "id": "R1219",
+      "title": "ECONOMIC IMPACT OF WIND GENERATION PENETRATION IN THE COLOMBIAN ELECTRICITY MARKET",
+      "venue": "IET conference proceedings.",
+      "year": 2021,
+      "quartile": "Q4",
+      "relation": 0.0956,
+      "score": 0.2622
+    },
+    {
+      "id": "R0390",
+      "title": "Smart grid analysis and management in colombia towards ETAP real time solution",
+      "venue": "Ingeniare",
+      "year": 2018,
+      "quartile": "Q4",
+      "relation": 0.0956,
+      "score": 0.2622
+    },
+    {
+      "id": "R0236",
+      "title": "Leveraging Energy Storage for Primary Frequency Control: A Practical Implementation in Colombia's National Interconnected System",
+      "venue": "TEMSCON LATAM 2025 - Technology and Engineering Management Society Conference",
+      "year": 2025,
+      "quartile": null,
+      "relation": 0.1176,
+      "score": 0.258
+    },
+    {
+      "id": "R0961",
+      "title": "Energía solar fotovoltaica: perspectivas y oportunidades en el marco de la política energética en las zonas no interconectadas (ZNI) en Colombia",
+      "venue": "Encuentro Internacional de Educación en Ingeniería",
+      "year": 2025,
+      "quartile": null,
+      "relation": 0.1176,
+      "score": 0.258
+    },
+    {
+      "id": "R1839",
+      "title": "Modeling Infrastructure Delays and Congestion for Large-Scale Power Systems",
+      "venue": "Energies",
+      "year": 2025,
+      "quartile": "Q1",
+      "relation": 0.0588,
+      "score": 0.258
+    },
+    {
+      "id": "R0085",
+      "title": "Evolution, Challenges, and Perspective in the Implementation of Projects with Renewable Energy Sources: Colombia Case",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2022,
+      "quartile": null,
+      "relation": 0.1176,
+      "score": 0.258
+    },
+    {
+      "id": "R0880",
+      "title": "Economy, financial, and regulatory method for the integration of electrical energy storage in a power network",
+      "venue": "Journal of Energy Storage",
+      "year": 2022,
+      "quartile": "Q1",
+      "relation": 0.0588,
+      "score": 0.258
+    },
+    {
+      "id": "R1252",
+      "title": "Power System Oscillations with Different Prevalence of Grid-Following and Grid-Forming Converters",
+      "venue": "Energies",
+      "year": 2022,
+      "quartile": "Q1",
+      "relation": 0.0588,
+      "score": 0.258
+    },
+    {
+      "id": "R1025",
+      "title": "Energy correlation between global solar radiation and wind speed in the Colombian Caribbean",
+      "venue": "Inge CUC",
+      "year": 2021,
+      "quartile": null,
+      "relation": 0.1176,
+      "score": 0.258
+    },
+    {
+      "id": "R0040",
+      "title": "Diagnosis of a battery energy storage system based on principal component analysis",
+      "venue": "Renewable Energy",
+      "year": 2020,
+      "quartile": "Q1",
+      "relation": 0.0588,
+      "score": 0.258
+    },
+    {
+      "id": "R0103",
+      "title": "A look to the biogas generation from organic wastes in Colombia",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2020,
+      "quartile": null,
+      "relation": 0.1176,
+      "score": 0.258
+    },
+    {
+      "id": "R1498",
+      "title": "OVERVIEW OF POTENTIAL USE OF HYDROXYL AND HYDROGEN AS AN ALTERNATIVE FUEL IN COLOMBIA",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2019,
+      "quartile": null,
+      "relation": 0.1176,
+      "score": 0.258
+    },
+    {
+      "id": "R0133",
+      "title": "Study of the Implementation of Synthetic Inertia in Wind Turbines and its Impact in the Colombian",
+      "venue": "Proceedings of the 2018 IEEE PES Transmission and Distribution Conference and Exhibition - Latin America, T and D-LA 2018",
+      "year": 2018,
+      "quartile": null,
+      "relation": 0.1176,
+      "score": 0.258
+    },
+    {
+      "id": "R0308",
+      "title": "Proposal for Advanced Metering Infrastructure in Distribution Systems with Generation Distributed in Low Voltage Electrical Networks",
+      "venue": "2018 IEEE ANDESCON, ANDESCON 2018 - Conference Proceedings",
+      "year": 2018,
+      "quartile": null,
+      "relation": 0.1176,
+      "score": 0.258
+    },
+    {
+      "id": "R1089",
+      "title": "A review of key international biomass and bioenergy sustainability frameworks and certification systems and their application and implications in Colombia",
+      "venue": "Renewable and Sustainable Energy Reviews",
+      "year": 2018,
+      "quartile": "Q1",
+      "relation": 0.0588,
+      "score": 0.258
+    },
+    {
+      "id": "R1113",
+      "title": "Integration of distributed energy resources in isolated microgrids: the Colombian paradigm",
+      "venue": "TecnoLógicas",
+      "year": 2018,
+      "quartile": null,
+      "relation": 0.1176,
+      "score": 0.258
+    },
+    {
+      "id": "R0163",
+      "title": "Techno-economic and energetic assessment of hydrogen production through gasification in the Colombian context: Coffee Cut-Stems case",
+      "venue": "International Journal of Hydrogen Energy",
+      "year": 2017,
+      "quartile": "Q1",
+      "relation": 0.0588,
+      "score": 0.258
+    },
+    {
+      "id": "R0529",
+      "title": "Smart Grids and their Applicability for the Development of the Electricity Sector for Colombia in the year 2050",
+      "venue": "IOP Conference Series: Materials Science and Engineering",
+      "year": 2016,
+      "quartile": null,
+      "relation": 0.1176,
+      "score": 0.258
+    },
+    {
+      "id": "R0812",
+      "title": "Impact of including dynamic line rating model on colombian power system",
+      "venue": "IEEE International Conference on Smart Energy Grid Engineering (SEGE)",
+      "year": 2016,
+      "quartile": null,
+      "relation": 0.1176,
+      "score": 0.258
+    },
+    {
+      "id": "R1513",
+      "title": "A Novel Neuro-Probabilistic Framework for Energy Demand Forecasting in Electric Vehicle Integration",
+      "venue": "World Electric Vehicle Journal",
+      "year": 2024,
+      "quartile": "Q2",
+      "relation": 0.0662,
+      "score": 0.2542
+    },
+    {
+      "id": "R0849",
+      "title": "Just energy transition: challenges and opportunities in rural communities",
+      "venue": "Institutional Repository of the National University Open and Distance UNAD (Universidad Nacional Abierta y a Distancia)",
+      "year": 2025,
+      "quartile": null,
+      "relation": 0.1103,
+      "score": 0.242
+    },
+    {
+      "id": "R1606",
+      "title": "Estimation of Levelized Cost of Energy for Small Modular Reactors in Colombia: A Monte Carlo Simulation Approach",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2025,
+      "quartile": null,
+      "relation": 0.1103,
+      "score": 0.242
+    },
+    {
+      "id": "R1812",
+      "title": "Complementarity in Action: Modeling Incentives to Enhance Renewable Electricity Integration",
+      "venue": "Sustainability",
+      "year": 2025,
+      "quartile": null,
+      "relation": 0.1103,
+      "score": 0.242
+    },
+    {
+      "id": "R0032",
+      "title": "Design of an automated flat plate solar collector system to improve energy efficiency: Villavicencio-Colombian Case",
+      "venue": "Proceedings - 2024 9th International Conference on Mathematics and Computers in Sciences and Industry, MCSI 2024",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.1103,
+      "score": 0.242
+    },
+    {
+      "id": "R1584",
+      "title": "Optimizing Renewable Energy Systems for Water Security: A Comparative Study of Reanalysis Models",
+      "venue": "Sustainability",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.1103,
+      "score": 0.242
+    },
+    {
+      "id": "R0557",
+      "title": "Quantifying power system flexibility for the energy transition in Colombia",
+      "venue": "International Journal of Electrical Power & Energy Systems",
+      "year": 2023,
+      "quartile": null,
+      "relation": 0.1103,
+      "score": 0.242
+    },
+    {
+      "id": "R0653",
+      "title": "Design of a Containerized Microgrid for Electricity Supply in Colombian Non-Interconnected Zones",
+      "venue": "IEEE Colombian Caribbean Conference (C3)",
+      "year": 2023,
+      "quartile": null,
+      "relation": 0.1103,
+      "score": 0.242
+    },
+    {
+      "id": "R1500",
+      "title": "Feasibility Analysis of Offshore Wind Power Projects in the Caribbean Region of Colombia: A Case Study Using FAHP–GIS",
+      "venue": "Sustainability",
+      "year": 2023,
+      "quartile": null,
+      "relation": 0.1103,
+      "score": 0.242
+    },
+    {
+      "id": "R0440",
+      "title": "Technological Architecture Design for Energy Communities: The Colombian Case",
+      "venue": "2022 IEEE PES Generation, Transmission and Distribution Conference and Exposition - Latin America, IEEE PES GTD Latin America 2022",
+      "year": 2022,
+      "quartile": null,
+      "relation": 0.1103,
+      "score": 0.242
+    },
+    {
+      "id": "R1800",
+      "title": "Users, Vehicles Electrics, and Energy Markets in Colombia",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2022,
+      "quartile": null,
+      "relation": 0.1103,
+      "score": 0.242
+    },
+    {
+      "id": "R0255",
+      "title": "The first auction of non-conventional renewable energy in colombia: Results and perspectives",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2021,
+      "quartile": null,
+      "relation": 0.1103,
+      "score": 0.242
+    },
+    {
+      "id": "R0469",
+      "title": "Standardization for the connection of electric vehicles: Colombian case",
+      "venue": "2021 2nd Sustainable Cities Latin America Conference, SCLA 2021",
+      "year": 2021,
+      "quartile": null,
+      "relation": 0.1103,
+      "score": 0.242
+    },
+    {
+      "id": "R0310",
+      "title": "Virtual tool for the promotion of anaerobic conversion technologies of residual biomass in Colombian rural areas.",
+      "venue": "Iberian Conference on Information Systems and Technologies, CISTI",
+      "year": 2020,
+      "quartile": null,
+      "relation": 0.1103,
+      "score": 0.242
+    },
+    {
+      "id": "R0092",
+      "title": "Energy storage development using hydrogen and its potential application in Colombia",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2019,
+      "quartile": null,
+      "relation": 0.1103,
+      "score": 0.242
+    },
+    {
+      "id": "R0457",
+      "title": "Comparative thermal analysis of extruded ceramic products between multi perforated brick and modified bricks in cells distribution",
+      "venue": "Journal of Physics: Conference Series",
+      "year": 2019,
+      "quartile": null,
+      "relation": 0.1103,
+      "score": 0.242
+    },
+    {
+      "id": "R0470",
+      "title": "Applications and Validation of WECC Model for Type 4 Wind Generator Controller for the Colombian Power System",
+      "venue": "Proceedings of the 2018 IEEE PES Transmission and Distribution Conference and Exhibition - Latin America, T and D-LA 2018",
+      "year": 2018,
+      "quartile": null,
+      "relation": 0.1103,
+      "score": 0.242
+    },
+    {
+      "id": "R0035",
+      "title": "Urban sets innovation: Design of a solar tree PV system for charging mobile devices in Medellin - Colombia",
+      "venue": "2017 6th International Conference on Renewable Energy Research and Applications, ICRERA 2017",
+      "year": 2017,
+      "quartile": null,
+      "relation": 0.1103,
+      "score": 0.242
+    },
+    {
+      "id": "R0039",
+      "title": "Smart grid voltage control for electrical power distribution system operation optimization",
+      "venue": "Proceedings of the 2016 IEEE ANDESCON, ANDESCON 2016",
+      "year": 2017,
+      "quartile": null,
+      "relation": 0.1103,
+      "score": 0.242
+    },
+    {
+      "id": "R0513",
+      "title": "Optimal microgrid management in the Colombian energy market with demand response and energy storage",
+      "venue": "IEEE Power and Energy Society General Meeting",
+      "year": 2016,
+      "quartile": null,
+      "relation": 0.1103,
+      "score": 0.242
+    },
+    {
+      "id": "R0534",
+      "title": "Performance evaluation of future AMI applications in Smart Grid Neighborhood Area Networks",
+      "venue": "2015 IEEE Colombian Conference on Communications and Computing, COLCOM 2015 - Conference Proceedings",
+      "year": 2015,
+      "quartile": null,
+      "relation": 0.1103,
+      "score": 0.242
+    },
+    {
+      "id": "R0591",
+      "title": "Integration of wind power plants into the Colombian power system",
+      "venue": "IEEE PES Innovative Smart Grid Technologies Conference - Latin America (ISGT Latin America)",
+      "year": 2015,
+      "quartile": null,
+      "relation": 0.1103,
+      "score": 0.242
+    },
+    {
+      "id": "R1401",
+      "title": "Potential of Photovoltaic Generation in the Putumayo Department of Colombia",
+      "venue": "Applied Sciences",
+      "year": 2021,
+      "quartile": "Q4",
+      "relation": 0.0882,
+      "score": 0.2419
+    },
+    {
+      "id": "R0366",
+      "title": "Statistical study of wind speed and direction in the departments of Atlántico and Bolivar in Colombia",
+      "venue": "Ingeniare",
+      "year": 2018,
+      "quartile": "Q4",
+      "relation": 0.0882,
+      "score": 0.2419
+    },
+    {
+      "id": "R0069",
+      "title": "Lignocellulosic biomass from fast-growing species in Colombia and their use as bioresources for biofuel production",
+      "venue": "Chemical Engineering Transactions",
+      "year": 2017,
+      "quartile": "Q3",
+      "relation": 0.0735,
+      "score": 0.2419
+    },
+    {
+      "id": "R0598",
+      "title": "Análisis desde el marco normativo para el aprovechamiento de las Fuentes No Convencionales de Energía Renovable – FNCER. Avances y desafíos en la implementación de la transición energética en Colombia",
+      "venue": "Gestión y Ambiente",
+      "year": 2025,
+      "quartile": null,
+      "relation": 0.1029,
+      "score": 0.2258
+    },
+    {
+      "id": "R0288",
+      "title": "Implementation and feasibility of green hydrogen in Colombian kitchens: an analysis of innovation and sustainability",
+      "venue": "Indonesian Journal of Electrical Engineering and Computer Science",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.1029,
+      "score": 0.2258
+    },
+    {
+      "id": "R0343",
+      "title": "Ancillary Services market design for Colombia's Energy Transition",
+      "venue": "2024 IEEE Technology and Engineering Management Society, TEMSCON LATAM 2024",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.1029,
+      "score": 0.2258
+    },
+    {
+      "id": "R1442",
+      "title": "Methodology for Generating a Reference Wind Year for Offshore Wind Energy: A Case Study in La Guajira, Colombia",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.1029,
+      "score": 0.2258
+    },
+    {
+      "id": "R0013",
+      "title": "Technical and Financial Assessment of Photovoltaic Solar Systems with Bifacial Technology Comparing Four Scenarios with Different Albedos with Respect to the Base Scenario with Monofacial Technology, in a Tropical Location in Colombia",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2023,
+      "quartile": null,
+      "relation": 0.1029,
+      "score": 0.2258
+    },
+    {
+      "id": "R1196",
+      "title": "Análisis de Políticas Públicas para la adopción de Energías Renovables No Convencionales en Colombia",
+      "venue": "Cuadernos Latinoamericanos de Administración",
+      "year": 2023,
+      "quartile": null,
+      "relation": 0.1029,
+      "score": 0.2258
+    },
+    {
+      "id": "R1473",
+      "title": "An Analytic Hierarchy Process Based Approach for Evaluating Feasibility of Offshore Wind Farm on the Colombian Caribbean Coast",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2023,
+      "quartile": null,
+      "relation": 0.1029,
+      "score": 0.2258
+    },
+    {
+      "id": "R0143",
+      "title": "Experimental analysis of approaches to improve the energy performance of a grid tied PV system in Colombia",
+      "venue": "International Conference on Electrical, Computer, Communications and Mechatronics Engineering, ICECCME 2021",
+      "year": 2021,
+      "quartile": null,
+      "relation": 0.1029,
+      "score": 0.2258
+    },
+    {
+      "id": "R0329",
+      "title": "Equity and renewable energy: An analysis in residential users in the department of atlántico-colombia",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2021,
+      "quartile": null,
+      "relation": 0.1029,
+      "score": 0.2258
+    },
+    {
+      "id": "R1309",
+      "title": "System for performance assessment of solar home systems",
+      "venue": "Ingenieria Solidaria",
+      "year": 2021,
+      "quartile": null,
+      "relation": 0.1029,
+      "score": 0.2258
+    },
+    {
+      "id": "R1439",
+      "title": "Characterization of photovoltaic solar energy systems in a Colombian region",
+      "venue": "Investigación e Innovación en Ingenierías",
+      "year": 2021,
+      "quartile": null,
+      "relation": 0.1029,
+      "score": 0.2258
+    },
+    {
+      "id": "R0406",
+      "title": "Optimization and feasibility of standalone hybrid diesel-pv-battery microgrid considering battery technologies",
+      "venue": "2020 IEEE ANDESCON, ANDESCON 2020",
+      "year": 2020,
+      "quartile": null,
+      "relation": 0.1029,
+      "score": 0.2258
+    },
+    {
+      "id": "R1530",
+      "title": "Prospective towards implementation of electric vehicles in Colombia",
+      "venue": "IOP Conference Series Materials Science and Engineering",
+      "year": 2020,
+      "quartile": null,
+      "relation": 0.1029,
+      "score": 0.2258
+    },
+    {
+      "id": "R0265",
+      "title": "PEST analysis of wind energy in the world: From the worldwide boom to the emergent in Colombia",
+      "venue": "Journal of Physics: Conference Series",
+      "year": 2018,
+      "quartile": null,
+      "relation": 0.1029,
+      "score": 0.2258
+    },
+    {
+      "id": "R0531",
+      "title": "Comparison between the energy generated from three types of c-Si photovoltaic modules and the temperature and irradiance of the city of Pasto, Colombia",
+      "venue": "2015 IEEE PES Innovative Smart Grid Technologies Latin America, ISGT LATAM 2015",
+      "year": 2016,
+      "quartile": null,
+      "relation": 0.1029,
+      "score": 0.2258
+    },
+    {
+      "id": "R0542",
+      "title": "Estimating and analyzing energy efficiency in German and Colombian manufacturing industries using dea and data panel analysis. Part I: Energy-intensive sectors",
+      "venue": "Energy Sources, Part B: Economics, Planning and Policy",
+      "year": 2015,
+      "quartile": "Q2",
+      "relation": 0.0588,
+      "score": 0.2258
+    },
+    {
+      "id": "R0647",
+      "title": "Rol de las Fuentes No Convencionales de Energía en el sector eléctrico colombiano",
+      "venue": "Prospectiva",
+      "year": 2015,
+      "quartile": null,
+      "relation": 0.1029,
+      "score": 0.2258
+    },
+    {
+      "id": "R0863",
+      "title": "How to promote distributed resource supply in a Colombian microgrid with economic mechanism?: System dynamics approach",
+      "venue": "DYNA",
+      "year": 2015,
+      "quartile": null,
+      "relation": 0.1029,
+      "score": 0.2258
+    },
+    {
+      "id": "R1036",
+      "title": "Design and Development of a Management System for Energy Microgrids Using Linear Programming",
+      "venue": "Applied Sciences",
+      "year": 2022,
+      "quartile": "Q4",
+      "relation": 0.0809,
+      "score": 0.2219
+    },
+    {
+      "id": "R0109",
+      "title": "Conceptual model for technical microgrids conception: A case study in colombia",
+      "venue": "Ingeniare",
+      "year": 2021,
+      "quartile": "Q4",
+      "relation": 0.0809,
+      "score": 0.2219
+    },
+    {
+      "id": "R0829",
+      "title": "Guidelines to Define a Regulatory Proposal in the Transition and Inclusion of Non-conventional Renewable Energies in Colombia and Its Role in the Development of Smart Cities",
+      "venue": "Smart innovation, systems and technologies",
+      "year": 2021,
+      "quartile": "Q4",
+      "relation": 0.0809,
+      "score": 0.2219
+    },
+    {
+      "id": "R0262",
+      "title": "Selection of Fields for the Implementation of Solar EOR as a Thermal Process of Improved Recovery in Colombia",
+      "venue": "Fuentes el Reventon Energetico",
+      "year": 2019,
+      "quartile": "Q4",
+      "relation": 0.0809,
+      "score": 0.2219
+    },
+    {
+      "id": "R0151",
+      "title": "Farmers’ preferences and willingness to adopt anaerobic digestion technologies: a case study in rural areas in Colombia",
+      "venue": "Biofuels",
+      "year": 2023,
+      "quartile": "Q3",
+      "relation": 0.0662,
+      "score": 0.2179
+    },
+    {
+      "id": "R0177",
+      "title": "Adiabatic Fixed-Bed Gasification of Colombian Coffee Husk Using Air-Steam Blends for Partial Oxidation",
+      "venue": "Journal of Combustion",
+      "year": 2017,
+      "quartile": "Q3",
+      "relation": 0.0662,
+      "score": 0.2179
+    },
+    {
+      "id": "R0639",
+      "title": "Grid-scale Battery Energy Storage Systems for Fast Frequency Regulation: The Colombian Case",
+      "venue": "IEEE PowerTech Conference",
+      "year": 2025,
+      "quartile": null,
+      "relation": 0.0956,
+      "score": 0.2097
+    },
+    {
+      "id": "R0994",
+      "title": "Transición eléctrica inclusiva para Colombia 2050: un enfoque de sistémica aumentada",
+      "venue": "Encuentro Internacional de Educación en Ingeniería",
+      "year": 2025,
+      "quartile": null,
+      "relation": 0.0956,
+      "score": 0.2097
+    },
+    {
+      "id": "R1230",
+      "title": "Energy Transition for rural development: A preliminar case study in Colombia for improving artisanal fishing",
+      "venue": "Scientia et technica",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.0956,
+      "score": 0.2097
+    },
+    {
+      "id": "R1286",
+      "title": "Methodology for selecting rural energy alternatives applied to the Colombian context.",
+      "venue": "LACCEI International Multi-Conference for Engineering, Education and Technology (LACCEI)",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.0956,
+      "score": 0.2097
+    },
+    {
+      "id": "R1400",
+      "title": "Energy efficiency of hydrogen production via gasification from lignocellulosic residual biomass blend",
+      "venue": "Brazilian Journal of Animal and Environmental Research",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.0956,
+      "score": 0.2097
+    },
+    {
+      "id": "R0295",
+      "title": "Actions for the implementation of local flexibility services in the Colombian power sector",
+      "venue": "1st IEEE Colombian Caribbean Conference, C3 2023",
+      "year": 2023,
+      "quartile": null,
+      "relation": 0.0956,
+      "score": 0.2097
+    },
+    {
+      "id": "R1668",
+      "title": "Biogas utilization from municipal solid waste in developing countries towards the transition to sustainable development – The Colombian case",
+      "venue": "DYNA",
+      "year": 2023,
+      "quartile": null,
+      "relation": 0.0956,
+      "score": 0.2097
+    },
+    {
+      "id": "R0027",
+      "title": "An Overview of the Colombian Power System",
+      "venue": "2022 IEEE International Conference on Automation/25th Congress of the Chilean Association of Automatic Control: For the Development of Sustainable Agricultural Systems, ICA-ACCA 2022",
+      "year": 2022,
+      "quartile": null,
+      "relation": 0.0956,
+      "score": 0.2097
+    },
+    {
+      "id": "R1542",
+      "title": "A Model for Quantifying Expected Effects of Demand-Side Management Strategies",
+      "venue": "TecnoLógicas",
+      "year": 2022,
+      "quartile": null,
+      "relation": 0.0956,
+      "score": 0.2097
+    },
+    {
+      "id": "R0472",
+      "title": "Cost estimation of Colombian electric power distribution by considering distributed photovoltaic generation",
+      "venue": "Informacion Tecnologica",
+      "year": 2021,
+      "quartile": null,
+      "relation": 0.0956,
+      "score": 0.2097
+    },
+    {
+      "id": "R0170",
+      "title": "Analysis of levelized costs of electricity of cogeneration plants using forest biomass at the antioquia department, Colombia",
+      "venue": "Informacion Tecnologica",
+      "year": 2019,
+      "quartile": null,
+      "relation": 0.0956,
+      "score": 0.2097
+    },
+    {
+      "id": "R0833",
+      "title": "Un análisis de las implicaciones de la falta de cobertura de energía renovable no convencional en Colombia",
+      "venue": "Revista Inventum",
+      "year": 2018,
+      "quartile": null,
+      "relation": 0.0956,
+      "score": 0.2097
+    },
+    {
+      "id": "R1051",
+      "title": "Análisis de factibilidad técnico-económico de microrredes que integran celdas de combustible en zonas no interconectadas de Colombia",
+      "venue": "TecnoLógicas",
+      "year": 2018,
+      "quartile": null,
+      "relation": 0.0956,
+      "score": 0.2097
+    },
+    {
+      "id": "R1192",
+      "title": "Computer Tool for Sizing and Economic Assessment of Grid Connected Photovoltaic System",
+      "venue": "Journal of Sustainable Development",
+      "year": 2018,
+      "quartile": null,
+      "relation": 0.0956,
+      "score": 0.2097
+    },
+    {
+      "id": "R0514",
+      "title": "Colombian regulations for the implementation of cognitive radio in smart grids",
+      "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+      "year": 2016,
+      "quartile": null,
+      "relation": 0.0956,
+      "score": 0.2097
+    },
+    {
+      "id": "R0306",
+      "title": "Demand-side management strategies based on energy key performance indicators in real-time: Case study",
+      "venue": "CTyF - Ciencia, Tecnologia y Futuro",
+      "year": 2020,
+      "quartile": "Q4",
+      "relation": 0.0735,
+      "score": 0.2016
+    },
+    {
+      "id": "R1793",
+      "title": "Bioenergy and Biorefinery Potential of Residues: A Representative Case of the Sucre Region in Colombia",
+      "venue": "Waste and Biomass Valorization",
+      "year": 2024,
+      "quartile": "Q2",
+      "relation": 0.0515,
+      "score": 0.1977
+    },
+    {
+      "id": "R0360",
+      "title": "Enzymatic transesterification ofwaste frying oil from local restaurants in east colombia using a combined lipase system",
+      "venue": "Applied Sciences (Switzerland)",
+      "year": 2020,
+      "quartile": "Q2",
+      "relation": 0.0515,
+      "score": 0.1977
+    },
+    {
+      "id": "R0266",
+      "title": "Methodology to determine control frequency parameters in power systems with high penetration of inverter-based resources",
+      "venue": "International Conference on Artificial Intelligence, Computer, Data Sciences, and Applications, ACDSA 2025",
+      "year": 2025,
+      "quartile": null,
+      "relation": 0.0882,
+      "score": 0.1935
+    },
+    {
+      "id": "R0065",
+      "title": "Operational comparative study between two energy communities in the context of the Colombian Caribbean",
+      "venue": "2024 IEEE Technology and Engineering Management Society, TEMSCON LATAM 2024",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.0882,
+      "score": 0.1935
+    },
+    {
+      "id": "R0187",
+      "title": "Evaluating the Impact of V2G on Frequency Regulation in the Colombian Electricity Grid",
+      "venue": "2024 IEEE Technology and Engineering Management Society, TEMSCON LATAM 2024",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.0882,
+      "score": 0.1935
+    },
+    {
+      "id": "R0292",
+      "title": "Challenges for the implementation of Hydrogen's storage and transportation in Colombia",
+      "venue": "2024 IEEE Technology and Engineering Management Society, TEMSCON LATAM 2024",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.0882,
+      "score": 0.1935
+    },
+    {
+      "id": "R0477",
+      "title": "Towards a Standardized LCOE Calculation for Informed Decision-Making in Energy Policy and Investment: Application to the Colombian Context",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.0882,
+      "score": 0.1935
+    },
+    {
+      "id": "R0757",
+      "title": "Energy Transition in Colombia: An Implementation Proposal for SMEs",
+      "venue": "Sustainability",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.0882,
+      "score": 0.1935
+    },
+    {
+      "id": "R1445",
+      "title": "Long-term energy demand forecasting using LEAP software in the Santurbán paramo: The case of Berlín Santander after Covid-19",
+      "venue": "II INTERNATIONAL SEVEN MULTIDISCIPLINARY CONGRESS",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.0882,
+      "score": 0.1935
+    },
+    {
+      "id": "R1088",
+      "title": "Retos para instaurar un Green New Deal en Colombia",
+      "venue": "Revista de Economía Institucional",
+      "year": 2023,
+      "quartile": null,
+      "relation": 0.0882,
+      "score": 0.1935
+    },
+    {
+      "id": "R1321",
+      "title": "Hosting capacity and optimal sizing: a Colombian case of study",
+      "venue": "Revista UIS Ingenierías",
+      "year": 2023,
+      "quartile": null,
+      "relation": 0.0882,
+      "score": 0.1935
+    },
+    {
+      "id": "R1537",
+      "title": "Technical-economic Analysis of Power Generation with Steam Cycles Fed with Residual Biomass from Rice and Corn",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2023,
+      "quartile": null,
+      "relation": 0.0882,
+      "score": 0.1935
+    },
+    {
+      "id": "R1553",
+      "title": "New business models in the Colombian energy market: Energy arbitration through storage systems",
+      "venue": "Revista UIS Ingenierías",
+      "year": 2023,
+      "quartile": null,
+      "relation": 0.0882,
+      "score": 0.1935
+    },
+    {
+      "id": "R0915",
+      "title": "Estimation of the impact of energy efficiency measures recommended by Colombian legislation on the performance of low- and middle-income housing buildings",
+      "venue": "Journal of Building Engineering",
+      "year": 2022,
+      "quartile": "Q1",
+      "relation": 0.0441,
+      "score": 0.1935
+    },
+    {
+      "id": "R0326",
+      "title": "Analysis of the intake locations of salinity gradient plants using hydrodynamic and membrane models",
+      "venue": "Water (Switzerland)",
+      "year": 2021,
+      "quartile": "Q1",
+      "relation": 0.0441,
+      "score": 0.1935
+    },
+    {
+      "id": "R0399",
+      "title": "The available waste-to-energy potential from agricultural wastes in the department of Córdoba, Colombia",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2021,
+      "quartile": null,
+      "relation": 0.0882,
+      "score": 0.1935
+    },
+    {
+      "id": "R1408",
+      "title": "Effect of the Colombian Renewable Energy Law on the Levelized Cost of a Substitute Gaseous Fuel Produced from MSW Gasification",
+      "venue": "Ingeniería e Investigación",
+      "year": 2021,
+      "quartile": null,
+      "relation": 0.0882,
+      "score": 0.1935
+    },
+    {
+      "id": "R1840",
+      "title": "Measuring Financial Impacts of the Renewable Energy Based Fiscal Policy in Colombia under Electricity Price Uncertainty",
+      "venue": "Sustainability",
+      "year": 2021,
+      "quartile": null,
+      "relation": 0.0882,
+      "score": 0.1935
+    },
+    {
+      "id": "R1276",
+      "title": "REGIONALIZED DISCOUNT RATE TO EVALUATE RENEWABLE ENERGY PROJECTS IN COLOMBIA",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2020,
+      "quartile": null,
+      "relation": 0.0882,
+      "score": 0.1935
+    },
+    {
+      "id": "R0188",
+      "title": "Methodology for the optimal implementation of solar generation systems for the integral and sustainable development of rural areas in Colombia",
+      "venue": "2019 FISE-IEEE/CIGRE Conference - Living the Energy Transition, FISE/CIGRE 2019",
+      "year": 2019,
+      "quartile": null,
+      "relation": 0.0882,
+      "score": 0.1935
+    },
+    {
+      "id": "R0217",
+      "title": "Urban energy innovation index for latin american cities",
+      "venue": "5th IEEE International Smart Cities Conference, ISC2 2019",
+      "year": 2019,
+      "quartile": null,
+      "relation": 0.0882,
+      "score": 0.1935
+    },
+    {
+      "id": "R0173",
+      "title": "Economic Viability of Hydrogen Generators in Transportation Vehicles",
+      "venue": "2018 ICAI Workshops, ICAIW 2018 - Joint Proceedings of the Workshop on Data Engineering and Analytics, WDEA 2018, Workshop on Smart Sustainable Cities, WSSC 2018, Workshop on Intelligent Transportation Systems, WITS 2018 and Workshop on Empirical Experiences on Software Reuse, WEESR 2018",
+      "year": 2018,
+      "quartile": null,
+      "relation": 0.0882,
+      "score": 0.1935
+    },
+    {
+      "id": "R1654",
+      "title": "Assessment of Government Incentives for Energy from Waste in Colombia",
+      "venue": "Sustainability",
+      "year": 2018,
+      "quartile": null,
+      "relation": 0.0882,
+      "score": 0.1935
+    },
+    {
+      "id": "R0641",
+      "title": "Photovoltaic projects developed in Non-Interconnected Zones in Colombia",
+      "venue": "Conference record of the IEEE Photovoltaic Specialists Conference",
+      "year": 2015,
+      "quartile": null,
+      "relation": 0.0882,
+      "score": 0.1935
+    },
+    {
+      "id": "R0502",
+      "title": "Experiences of waste utilization for the generation of biodiesel in Colombia and Mexico",
+      "venue": "Revista Internacional de Contaminacion Ambiental",
+      "year": 2016,
+      "quartile": "Q4",
+      "relation": 0.0662,
+      "score": 0.1815
+    },
+    {
+      "id": "R0049",
+      "title": "Technology Roadmapping: Developing a Practical Approach for Linking the Use of Photovoltaic Energy and the Sustainability Strategy of Companies",
+      "venue": "Procedia Computer Science",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.0809,
+      "score": 0.1775
+    },
+    {
+      "id": "R0229",
+      "title": "Electricity Generation under the Climate Change Situation in Latin America: Trends and Challenges",
+      "venue": "International Journal of Energy Economics and Policy",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.0809,
+      "score": 0.1775
+    },
+    {
+      "id": "R0442",
+      "title": "The Contribution of ICTs and Digitalization to the Energy Transition: Realities and Opportunities for Project Management in Colombia",
+      "venue": "2023 IEEE Colombian Conference on Communications and Computing, COLCOM 2023 - Proceedings",
+      "year": 2023,
+      "quartile": null,
+      "relation": 0.0809,
+      "score": 0.1775
+    },
+    {
+      "id": "R0869",
+      "title": "How Energy Auctions Can Support Energy Transition: A Proposition to Colombian Power Market Design",
+      "venue": "IEEE Colombian Caribbean Conference (C3)",
+      "year": 2023,
+      "quartile": null,
+      "relation": 0.0809,
+      "score": 0.1775
+    },
+    {
+      "id": "R1183",
+      "title": "Análisis sobre las barreras sociales y jurídicas que limitan la consolidación de las fuentes de energía no convencionales en La Guajira (Colombia)",
+      "venue": "Revista iberoamericana de estudios de desarrollo = Iberoamerican journal of development studies",
+      "year": 2023,
+      "quartile": null,
+      "relation": 0.0809,
+      "score": 0.1775
+    },
+    {
+      "id": "R0225",
+      "title": "Incentives for renewable energies in colombia",
+      "venue": "Renewable Energy and Power Quality Journal",
+      "year": 2021,
+      "quartile": null,
+      "relation": 0.0809,
+      "score": 0.1775
+    },
+    {
+      "id": "R0249",
+      "title": "Outdoor Performance of crystalline silicon PV modules in Bogotá-Colombia",
+      "venue": "2021 IEEE Texas Power and Energy Conference, TPEC 2021",
+      "year": 2021,
+      "quartile": null,
+      "relation": 0.0809,
+      "score": 0.1775
+    },
+    {
+      "id": "R0479",
+      "title": "Power Quality Analysis of Colombian Local Distribution Systems with Photovoltaic Systems as Distributed Generation. Study Case: IEEE 13 Nodes System",
+      "venue": "2021 IEEE PES Innovative Smart Grid Technologies - Asia, ISGT Asia 2021",
+      "year": 2021,
+      "quartile": null,
+      "relation": 0.0809,
+      "score": 0.1775
+    },
+    {
+      "id": "R0132",
+      "title": "Risk management in the implementation of photovoltaic systems in gold extraction projects in Colombia from the hierarchy analysis process (AHP)",
+      "venue": "Informacion Tecnologica",
+      "year": 2019,
+      "quartile": null,
+      "relation": 0.0809,
+      "score": 0.1775
+    },
+    {
+      "id": "R1673",
+      "title": "Forgotten spaces: How reliability, affordability and engagement shape the outcomes of last-mile electrification in Chocó, Colombia",
+      "venue": "Energy Research & Social Science",
+      "year": 2019,
+      "quartile": null,
+      "relation": 0.0809,
+      "score": 0.1775
+    },
+    {
+      "id": "R0627",
+      "title": "Despacho de energía óptimo en múltiples periodos considerando la incertidumbre de la generación a partir de fuentes renovables en un modelo reducido del sistema de potencia colombiano",
+      "venue": "Avances Investigación en Ingeniería",
+      "year": 2018,
+      "quartile": null,
+      "relation": 0.0809,
+      "score": 0.1775
+    },
+    {
+      "id": "R1060",
+      "title": "Escenario de Desarrollo Energético Sostenible en Colombia 2017-2030",
+      "venue": "Avances Investigación en Ingeniería",
+      "year": 2018,
+      "quartile": null,
+      "relation": 0.0809,
+      "score": 0.1775
+    },
+    {
+      "id": "R0524",
+      "title": "Narrowband power line communications evaluation in complex distribution networks",
+      "venue": "2014 IEEE International Conference on Smart Grid Communications, SmartGridComm 2014",
+      "year": 2015,
+      "quartile": null,
+      "relation": 0.0809,
+      "score": 0.1775
+    },
+    {
+      "id": "R0543",
+      "title": "Prediction of solar global radiation in bogotá Colombia based on mathematical models",
+      "venue": "International Journal of Smart Home",
+      "year": 2015,
+      "quartile": null,
+      "relation": 0.0809,
+      "score": 0.1775
+    },
+    {
+      "id": "R0659",
+      "title": "Transformación de la matriz energética en Colombia: hacia una transición sostenible y responsable",
+      "venue": "Cuadernos de Derecho Regulatorio",
+      "year": 2025,
+      "quartile": null,
+      "relation": 0.0735,
+      "score": 0.1613
+    },
+    {
+      "id": "R1223",
+      "title": "Dimensionamiento de una instalación solar fotovoltaica que permita satisfacer la demanda de energía eléctrica de una vivienda residencial de estrato medio en la ciudad de Bogotá",
+      "venue": "Avances Investigación en Ingeniería",
+      "year": 2025,
+      "quartile": null,
+      "relation": 0.0735,
+      "score": 0.1613
+    },
+    {
+      "id": "R0129",
+      "title": "Hydro and wind power generation valuation of projects in Colombia using a compound real option",
+      "venue": "European Public and Social Innovation Review",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.0735,
+      "score": 0.1613
+    },
+    {
+      "id": "R0975",
+      "title": "Diagnóstico y propuesta de modernización de la energía en Zonas No Interconectadas: Caso Isla Fuerte, Bolívar",
+      "venue": "Simposio Internacional sobre la Calidad de la Energía Eléctrica - SICEL",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.0735,
+      "score": 0.1613
+    },
+    {
+      "id": "R0995",
+      "title": "Desafíos técnicos y regulatorios en la implementación de respuesta de la demanda en Colombia",
+      "venue": "Encuentro Internacional de Educación en Ingeniería",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.0735,
+      "score": 0.1613
+    },
+    {
+      "id": "R1078",
+      "title": "Efecto de la entrada en operación de la central hidroeléctrica más grande y de las energías renovables no convencionales en Colombia sobre el precio de bolsa",
+      "venue": "Cuadernos de Economía",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.0735,
+      "score": 0.1613
+    },
+    {
+      "id": "R1624",
+      "title": "Electrificación Rural Sostenible a Partir de Potenciales Energéticos Locales – una Mirada a las Zonas No Interconectadas Colombianas",
+      "venue": "Simposio Internacional sobre la Calidad de la Energía Eléctrica - SICEL",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.0735,
+      "score": 0.1613
+    },
+    {
+      "id": "R1487",
+      "title": "Assessing elements of energy justice in Colombia: A case study on transmission infrastructure in La Guajira",
+      "venue": "Energy Research & Social Science",
+      "year": 2022,
+      "quartile": null,
+      "relation": 0.0735,
+      "score": 0.1613
+    },
+    {
+      "id": "R1623",
+      "title": "Total Variation-Based Metrics for Assessing Complementarity in Energy Resources Time Series",
+      "venue": "Sustainability",
+      "year": 2022,
+      "quartile": null,
+      "relation": 0.0735,
+      "score": 0.1613
+    },
+    {
+      "id": "R1402",
+      "title": "CFD-FEM Modeling of a Floating Foundation under Extreme Hydrodynamic Forces Generated by Low Sea States",
+      "venue": "Mathematical Modelling and Engineering Problems",
+      "year": 2021,
+      "quartile": null,
+      "relation": 0.0735,
+      "score": 0.1613
+    },
+    {
+      "id": "R1790",
+      "title": "Challenges and recommendations for the massification of energy management systems in Colombian industry",
+      "venue": "Scientia et technica",
+      "year": 2021,
+      "quartile": null,
+      "relation": 0.0735,
+      "score": 0.1613
+    },
+    {
+      "id": "R0342",
+      "title": "Rice husk incidence on the physical, thermal and mechanical properties of H10 block from San José de Cúcuta, Colombia",
+      "venue": "Journal of Physics: Conference Series",
+      "year": 2020,
+      "quartile": null,
+      "relation": 0.0735,
+      "score": 0.1613
+    },
+    {
+      "id": "R0204",
+      "title": "Analysis of the biomass produced in the furniture factories of the municipality of Ocaña",
+      "venue": "Journal of Physics: Conference Series",
+      "year": 2019,
+      "quartile": null,
+      "relation": 0.0735,
+      "score": 0.1613
+    },
+    {
+      "id": "R0213",
+      "title": "Kinetic analysis of Wood residues and Gorse (Ulex europaeus) pyrolysis under non-isothermal conditions: A case of study in Bogotá, Colombia",
+      "venue": "E3S Web of Conferences",
+      "year": 2019,
+      "quartile": null,
+      "relation": 0.0735,
+      "score": 0.1613
+    },
+    {
+      "id": "R1336",
+      "title": "Design of a wave energy converter system for the Colombian Pacific Ocean",
+      "venue": "Revista Facultad de Ingeniería Universidad de Antioquia",
+      "year": 2019,
+      "quartile": null,
+      "relation": 0.0735,
+      "score": 0.1613
+    },
+    {
+      "id": "R1345",
+      "title": "Spatial and geographic analysis of eolic potential in Colombia: Análisis espacial y geográfico del potencial eólico en Colombia",
+      "venue": "Noria Investigación Educativa",
+      "year": 2019,
+      "quartile": null,
+      "relation": 0.0735,
+      "score": 0.1613
+    },
+    {
+      "id": "R0787",
+      "title": "Regulating the integration of renewable energy in Colombia: Implications of Law 1715 of 2014",
+      "venue": "Conference record of the IEEE Photovoltaic Specialists Conference",
+      "year": 2016,
+      "quartile": null,
+      "relation": 0.0735,
+      "score": 0.1613
+    },
+    {
+      "id": "R1548",
+      "title": "Energetic improvement of tanned leather solid wastes by thermal treatment",
+      "venue": "Ingeniería y Desarrollo",
+      "year": 2015,
+      "quartile": null,
+      "relation": 0.0735,
+      "score": 0.1613
+    },
+    {
+      "id": "R1201",
+      "title": "Evaluación del Potencial Eólico para la Generación de Energía en Barrios Unidos, Bogotá D.C.: Análisis Estadístico, Predictivo y de Distribución",
+      "venue": "Apuntes de Ciencia e Ingeniería",
+      "year": 2025,
+      "quartile": null,
+      "relation": 0.0662,
+      "score": 0.1452
+    },
+    {
+      "id": "R0077",
+      "title": "Analysis of Renewable Energy Implementation on Rural Women Inequalities Reduction in Colombia",
+      "venue": "2024 IEEE Technology and Engineering Management Society, TEMSCON LATAM 2024",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.0662,
+      "score": 0.1452
+    },
+    {
+      "id": "R0911",
+      "title": "Conflict and resistance: Unveiling the hidden costs of small hydropower in an armed conflict-affected region of Antioquia, Colombia",
+      "venue": "Energy Research & Social Science",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.0662,
+      "score": 0.1452
+    },
+    {
+      "id": "R0993",
+      "title": "Hacia una matriz energética sostenible en Colombia. Una revisión sistemática de la literatura",
+      "venue": "Información tecnológica",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.0662,
+      "score": 0.1452
+    },
+    {
+      "id": "R1083",
+      "title": "Sostenibilidad de comunidades energéticas: Propuestas de gestión y evaluación de proyectos comunitarios de energías renovables para Isla Fuerte, Bolívar.",
+      "venue": "Simposio Internacional sobre la Calidad de la Energía Eléctrica - SICEL",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.0662,
+      "score": 0.1452
+    },
+    {
+      "id": "R1799",
+      "title": "Potencial económico, social y ambiental de tecnologías de bioenergía con captura de CO2 en biorrefinerías",
+      "venue": "Ingeniería y Competitividad",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.0662,
+      "score": 0.1452
+    },
+    {
+      "id": "R1547",
+      "title": "Hydrokinetic Energy and Transient Accelerations of Marine Currents in Colombian Nearshore Waters",
+      "venue": "Water",
+      "year": 2023,
+      "quartile": null,
+      "relation": 0.0662,
+      "score": 0.1452
+    },
+    {
+      "id": "R1103",
+      "title": "Metodologías para la estructuración de inversiones en proyectos de energía renovable",
+      "venue": "Información tecnológica",
+      "year": 2022,
+      "quartile": null,
+      "relation": 0.0662,
+      "score": 0.1452
+    },
+    {
+      "id": "R0966",
+      "title": "Opportunities for crossfertilisation between the shipbuilding industry and the emergent offshore wind energy sector in Colombia: An overview of floating platformtechnologies",
+      "venue": "Ingenieria Solidaria",
+      "year": 2021,
+      "quartile": null,
+      "relation": 0.0662,
+      "score": 0.1452
+    },
+    {
+      "id": "R1054",
+      "title": "Energía eólica, una alternativa ambientalmente sostenible desde el Ejército Nacional de Colombia",
+      "venue": "Brújula Semilleros de Investigación",
+      "year": 2021,
+      "quartile": null,
+      "relation": 0.0662,
+      "score": 0.1452
+    },
+    {
+      "id": "R1396",
+      "title": "Lessons from last mile electrification in Colombia: Examining the policy framework and outcomes for sustainability",
+      "venue": "Energy Research & Social Science",
+      "year": 2021,
+      "quartile": null,
+      "relation": 0.0662,
+      "score": 0.1452
+    },
+    {
+      "id": "R0697",
+      "title": "Redes inteligentes y mecanismo de respuesta de la demanda: el caso del sector eléctrico colombiano",
+      "venue": "Revista de Economía del Caribe",
+      "year": 2020,
+      "quartile": null,
+      "relation": 0.0662,
+      "score": 0.1452
+    },
+    {
+      "id": "R1198",
+      "title": "Characterization of the current electric energy needs in subsidized residential users",
+      "venue": "IOP Conference Series Materials Science and Engineering",
+      "year": 2020,
+      "quartile": null,
+      "relation": 0.0662,
+      "score": 0.1452
+    },
+    {
+      "id": "R0565",
+      "title": "De los hidrocarburos a las energías renovables en Colombia.",
+      "venue": "Cultura Latinoamericana Revista de estudios interculturales",
+      "year": 2019,
+      "quartile": null,
+      "relation": 0.0662,
+      "score": 0.1452
+    },
+    {
+      "id": "R0410",
+      "title": "Use of organic waste biomass for the design of an electric station",
+      "venue": "Journal of Physics: Conference Series",
+      "year": 2018,
+      "quartile": null,
+      "relation": 0.0662,
+      "score": 0.1452
+    },
+    {
+      "id": "R0811",
+      "title": "LAS ENERGÍAS ALTERNATIVAS ¿UNA OPORTUNIDAD PARA COLOMBIA?",
+      "venue": "PUNTO DE VISTA",
+      "year": 2018,
+      "quartile": null,
+      "relation": 0.0662,
+      "score": 0.1452
+    },
+    {
+      "id": "R0792",
+      "title": "Colombia: Territorio de inversión en fuentes no convencionales de energía renovable para la generación eléctrica",
+      "venue": "Ingeniería Investigación y Desarrollo",
+      "year": 2017,
+      "quartile": null,
+      "relation": 0.0662,
+      "score": 0.1452
+    },
+    {
+      "id": "R0313",
+      "title": "Cultivation of Chlorella sp. For biodiesel production using two farming wastewaters in eastern Colombia",
+      "venue": "Journal of Water and Land Development",
+      "year": 2021,
+      "quartile": "Q2",
+      "relation": 0.0368,
+      "score": 0.1413
+    },
+    {
+      "id": "R0896",
+      "title": "Technological Alternatives for Sustainable River Mobility in Colombia",
+      "venue": "Springer series on naval architecture, marine engineering, shipbuilding and shipping/Springer series on naval architecture, marine engineering, shipbuildung and shipping",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.0588,
+      "score": 0.129
+    },
+    {
+      "id": "R1832",
+      "title": "Operación de microrredes hidro +solar: estado del arte contextualizado al departamento del Chocó.",
+      "venue": "Simposio Internacional sobre la Calidad de la Energía Eléctrica - SICEL",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.0588,
+      "score": 0.129
+    },
+    {
+      "id": "R0799",
+      "title": "Generación de energía limpia con un innovador nano aerogenerador con alternador de automóvil de baja potencia",
+      "venue": "Encuentro Internacional de Educación en Ingeniería",
+      "year": 2023,
+      "quartile": null,
+      "relation": 0.0588,
+      "score": 0.129
+    },
+    {
+      "id": "R0978",
+      "title": "Energías comunitarias para la transición justa",
+      "venue": "Gestión y Ambiente",
+      "year": 2022,
+      "quartile": null,
+      "relation": 0.0588,
+      "score": 0.129
+    },
+    {
+      "id": "R1026",
+      "title": "Gestión Energética en el Sector Salud en Colombia: Un Caso de Desarrollo Limpio y Sostenible",
+      "venue": "Información tecnológica",
+      "year": 2019,
+      "quartile": null,
+      "relation": 0.0588,
+      "score": 0.129
+    },
+    {
+      "id": "R0772",
+      "title": "Metodología para la determinación de características del viento y evaluación del potencial de energía eólica en Túquerres-Nariño",
+      "venue": "Revista Científica",
+      "year": 2018,
+      "quartile": null,
+      "relation": 0.0588,
+      "score": 0.129
+    },
+    {
+      "id": "R0068",
+      "title": "Performance and economical comparison between micro-inverter and string inverter in a 5, 1 kWp residential PV-system in Colombia",
+      "venue": "2017 3rd IEEE Workshop on Power Electronics and Power Quality Applications, PEPQA 2017 - Proceedings",
+      "year": 2017,
+      "quartile": null,
+      "relation": 0.0588,
+      "score": 0.129
+    },
+    {
+      "id": "R0710",
+      "title": "Hydrothermal coordination considering wind and pumping storage unit in the Colombian smart grid",
+      "venue": "IEEE PES Innovative Smart Grid Technologies Conference - Latin America (ISGT Latin America)",
+      "year": 2015,
+      "quartile": null,
+      "relation": 0.0588,
+      "score": 0.129
+    },
+    {
+      "id": "R1574",
+      "title": "Energy efficiency of an innovative vertical axial rotary kiln for pottery production",
+      "venue": "Tecnura",
+      "year": 2015,
+      "quartile": null,
+      "relation": 0.0588,
+      "score": 0.129
+    },
+    {
+      "id": "R0325",
+      "title": "Case Study: Simulation of Synthetic Natural Gas Production Plant from Empty Fruit Bunches",
+      "venue": "Chemical Engineering Transactions",
+      "year": 2024,
+      "quartile": "Q3",
+      "relation": 0.0368,
+      "score": 0.1211
+    },
+    {
+      "id": "R1141",
+      "title": "VIABILIDAD ECONÓMICA DE LOS SISTEMAS AGRIVOLTAICOS EN COLOMBIA",
+      "venue": "Semestre Económico",
+      "year": 2024,
+      "quartile": null,
+      "relation": 0.0515,
+      "score": 0.113
+    },
+    {
+      "id": "R1561",
+      "title": "Simulación numérica de una columna de agua oscilante para las condiciones de ola del océano Pacífico colombiano",
+      "venue": "TecnoLógicas",
+      "year": 2023,
+      "quartile": null,
+      "relation": 0.0515,
+      "score": 0.113
+    },
+    {
+      "id": "R0992",
+      "title": "Evaluation for the Production of Bio-Carbon and Bio-Oil through a Combined Process of Gasification and Slow Pyrolysis of the Organic Waste Fraction",
+      "venue": "Journal of Southwest Jiaotong University",
+      "year": 2021,
+      "quartile": null,
+      "relation": 0.0515,
+      "score": 0.113
+    },
+    {
+      "id": "R0022",
+      "title": "Physical-thermal isolation strategies for the design of sustainable ceramic building units",
+      "venue": "Journal of Physics: Conference Series",
+      "year": 2020,
+      "quartile": null,
+      "relation": 0.0515,
+      "score": 0.113
+    },
+    {
+      "id": "R1241",
+      "title": "Metodología para el aprovechamiento energético de desechos pecuarios - APRENDYSAGE",
+      "venue": "Visión electrónica",
+      "year": 2018,
+      "quartile": null,
+      "relation": 0.0515,
+      "score": 0.113
+    },
+    {
+      "id": "R1194",
+      "title": "Hydrodynamic behavior of resonant chamber of an oscillating column of water for Pacific Ocean conditions",
+      "venue": "Revista Facultad de Ingeniería Universidad de Antioquia",
+      "year": 2023,
+      "quartile": null,
+      "relation": 0.0441,
+      "score": 0.0968
+    },
+    {
+      "id": "R0718",
+      "title": "Herramienta para el Planeamiento e Integración de Sistemas de Almacenamiento -HEPISA",
+      "venue": "IEEE Biennial Congress of Argentina (ARGENCON)",
+      "year": 2022,
+      "quartile": null,
+      "relation": 0.0441,
+      "score": 0.0968
+    },
+    {
+      "id": "R0815",
+      "title": "Algoritmo basado en Python-Pyomo para el proceso de adjudicación de subastas de renovables en Colombia",
+      "venue": "Scientia et technica",
+      "year": 2022,
+      "quartile": null,
+      "relation": 0.0441,
+      "score": 0.0968
+    },
+    {
+      "id": "R1341",
+      "title": "Introduction of Aggregators to Colombian Electricity Distribution Networks Through a Business Vision",
+      "venue": "TecnoLógicas",
+      "year": 2022,
+      "quartile": null,
+      "relation": 0.0441,
+      "score": 0.0968
+    },
+    {
+      "id": "R1121",
+      "title": "Diagnóstico del consumo de energía eléctrica en la planificación de un sistema de gestión y norma técnica de calidad ISO 50001:2011",
+      "venue": "Información tecnológica",
+      "year": 2021,
+      "quartile": null,
+      "relation": 0.0441,
+      "score": 0.0968
+    },
+    {
+      "id": "R1535",
+      "title": "EVALUACIÓN DEL DETERIORO POR CORROSIÓN-EROSIÓN EN PERFILES DE UNA TURBINA EÓLICA DE EJE VERTICAL",
+      "venue": "Encuentro Internacional de Educación en Ingeniería",
+      "year": 2020,
+      "quartile": null,
+      "relation": 0.0441,
+      "score": 0.0968
+    },
+    {
+      "id": "R0989",
+      "title": "Solar Decathlon Latin America and Caribbean: Comfort and the Balance between Passive and Active Design",
+      "venue": "Sustainability",
+      "year": 2019,
+      "quartile": null,
+      "relation": 0.0441,
+      "score": 0.0968
+    },
+    {
+      "id": "R0602",
+      "title": "Impact assessment of demand response and distributed generation in the colombian power system chargeability",
+      "venue": "IEEE PES Innovative Smart Grid Technologies Conference - Latin America (ISGT Latin America)",
+      "year": 2017,
+      "quartile": null,
+      "relation": 0.0441,
+      "score": 0.0968
+    },
+    {
+      "id": "R1070",
+      "title": "Transformaciones radicales ambientales frente a la destrucción renovada y verde, La Guajira, Colombia",
+      "venue": "Revista de geografía Norte Grande",
+      "year": 2021,
+      "quartile": null,
+      "relation": 0.0368,
+      "score": 0.0807
+    },
+    {
+      "id": "R1161",
+      "title": "Analysis of Offshore Wind Energy in Colombia: Current Status and Future Opportunities",
+      "venue": "International Journal of Engineering Research and",
+      "year": 2020,
+      "quartile": null,
+      "relation": 0.0368,
+      "score": 0.0807
+    },
+    {
+      "id": "R1776",
+      "title": "Levelized avoided cost of electricity model based on power system operation",
+      "venue": "DYNA",
+      "year": 2018,
+      "quartile": null,
+      "relation": 0.0368,
+      "score": 0.0807
+    },
+    {
+      "id": "R1837",
+      "title": "Métodos de exploración y sistemas geotérmicos en Colombia con énfasis en el volcán Nevado del Ruiz, proyecto geotérmico Valle de Nereidas",
+      "venue": "Boletín de Geología",
+      "year": 2025,
+      "quartile": null,
+      "relation": 0.0294,
+      "score": 0.0645
+    },
+    {
+      "id": "R1197",
+      "title": "Análisis de ciclo de vida para una biorefinería derivada de residuos agrícolas de palma aceitera (Elaeis guineeeensis)",
+      "venue": "Publicaciones e Investigación",
+      "year": 2017,
+      "quartile": null,
+      "relation": 0.0294,
+      "score": 0.0645
+    },
+    {
+      "id": "R1045",
+      "title": "Desarrollo sostenible e incentivos fiscales en la producción de biocombustibles: análisis crítico desde el marco de los Objetivos de Desarrollo Sostenible-ODS",
+      "venue": "Contaduría Universidad de Antioquia",
+      "year": 2016,
+      "quartile": null,
+      "relation": 0.0147,
+      "score": 0.0323
+    }
+  ],
+  "at": "2026-11-19T16:42:59Z"
+}

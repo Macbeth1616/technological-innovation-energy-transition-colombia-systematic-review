@@ -1,0 +1,475 @@
+[
+ {
+  "id": "protocol-overview",
+  "regime": "none",
+  "source": "review/protocol.json",
+  "content": {
+   "title": "Technological innovation for an effective energy transition in Colombia: a systematic review and scientometric analysis",
+   "research_questions": [
+    {
+     "id": "RQ1",
+     "question": "How has peer-reviewed research on technological innovation for the energy transition in Colombia evolved between 2015 and 2025 in volume, venues, institutions, collaboration networks and thematic clusters?"
+    },
+    {
+     "id": "RQ2",
+     "question": "Which energy-transition technologies (non-conventional renewables, energy efficiency, storage, smart grids, microgrids, low-carbon fuels and hydrogen) have been studied for Colombia, by what methods, and what technical, economic and environmental outcomes do the studies report?"
+    },
+    {
+     "id": "RQ3",
+     "question": "What barriers and enablers, including policy, regulation, finance and institutions, do the studies identify for the adoption of technological innovation in Colombia's energy transition?"
+    },
+    {
+     "id": "RQ4",
+     "question": "What social, environmental and territorial impacts and conflicts are associated with the implementation of energy-transition technologies in Colombia?"
+    }
+   ],
+   "date_range": {
+    "from": "2015-01-01",
+    "to": "2025-12-31"
+   },
+   "languages": [
+    "English",
+    "Spanish"
+   ],
+   "publication_types": [
+    "journal article",
+    "review article",
+    "conference paper"
+   ],
+   "approved_by": "review operator",
+   "approved_at": "2026-11-17"
+  }
+ },
+ {
+  "id": "protocol-amendments",
+  "regime": "none",
+  "source": "review/protocol.json; review/protocol.lock.json",
+  "content": [
+   {
+    "date": "2026-11-18",
+    "section": "extraction",
+    "change": "Added study_group and extraction_tier fields, a two-tier extraction scheme, and a rule for multiple reports of one study.",
+    "reason": "Full-text screening included 524 reports, which made uniform in-depth extraction impractical. Tiering keeps every included study in the scientometric and technology mapping and limits in-depth extraction to the RQ3/RQ4 fields, without excluding any study. Companion reports (e.g., R0006 and R0484) are linked rather than excluded as E5.",
+    "decided_after": "full-text screening; no study was excluded by this amendment"
+   },
+   {
+    "date": "2026-11-18",
+    "section": "extraction",
+    "change": "Added technology options ocean-energy, nuclear and carbon-capture-storage, and sector option buildings-commercial-institutional.",
+    "reason": "During extraction, 25 studies could only be coded technology 'other' (tidal, wave, marine-current and salinity-gradient energy; small modular reactors; CO2 capture and storage), and studies of universities, schools, hospitals and shopping centres had no matching sector option. Only studies coded 'other', 'buildings-residential' or 'multi-sector' were re-examined; no study was added or removed.",
+    "decided_after": "data extraction"
+   },
+   {
+    "date": "2026-11-18",
+    "section": "criteria",
+    "change": "Added exclusion criterion E7 (unverifiable bibliographic record) and applied it to R0739, R0986 and R1661.",
+    "reason": "While building the reference list, four included reports had missing authorship or venue in OpenAlex (R0739, R0762, R0986, R1661). The operator verified R0762 at its publisher (IEEE Xplore document 10037784) and kept it; the other three were excluded because their records could not be confirmed with confidence.",
+    "decided_after": "data extraction and synthesis tables; 3 studies removed, 521 remain"
+   },
+   {
+    "date": "2026-11-19",
+    "section": "criteria",
+    "change": "Added exclusion criterion E8 (reference budget) and applied it at full text to the 364 included studies ranked past the budget of 157 (review/prioritization.json).",
+    "reason": "The review line of the writing framework (papersmith 0.80.0) limits a review to 100-200 cited references and 45 single-column Elsevier pages; with 43 references cited outside the included studies, 157 included studies fit the cap of 200. Studies were ranked by topical relation to the protocol weighted by the best SJR 2025 journal quartile, not by their findings.",
+    "decided_after": "data extraction and synthesis; 364 studies removed, 157 remain"
+   }
+  ]
+ },
+ {
+  "id": "protocol-phases",
+  "regime": "none",
+  "source": "review/",
+  "content": [
+   {
+    "phase": "Planning",
+    "what": "research questions RQ1-RQ4, eligibility criteria (inclusion I1-I5 and exclusion E1-E8), sources, appraisal checklist and extraction fields defined and approved by the operator; four amendments (the last, E8, adds the reference budget); the protocol flow is drawn in the diagram paper/Figures/protocol-flow",
+    "record": "review/protocol.json, review/protocol.lock.json, paper/Figures/protocol-flow"
+   },
+   {
+    "phase": "Search",
+    "what": "Scopus searched on 2026-11-16 and OpenAlex on 2026-11-17; 1878 records identified, 95 duplicates removed",
+    "record": "review/searches.jsonl, review/records.jsonl"
+   },
+   {
+    "phase": "Selection",
+    "what": "title-abstract and full-text screening by two independent language-model screeners (Cohen kappa 0.9269 and 0.9097), conflicts settled by a language-model adjudicator; 521 reports passed the eligibility criteria E1-E7 and the reference budget (E8) then excluded 364 of them at full text, so 157 reports (156 studies) are included",
+    "record": "review/screening.jsonl, review/prioritization.json, review/prisma.json"
+   },
+   {
+    "phase": "Extraction",
+    "what": "quality appraisal (QA1-QA5) and two-tier data extraction with a verbatim quote per value, done before the reference budget was applied",
+    "record": "review/appraisal.jsonl, review/extraction.jsonl"
+   },
+   {
+    "phase": "Synthesis",
+    "what": "scientometric indicators, technology-group comparison tables and coding of barriers, enablers, impacts and research gaps",
+    "record": "review/synthesis/"
+   }
+  ]
+ },
+ {
+  "id": "eligibility-criteria",
+  "regime": "none",
+  "source": "review/protocol.json",
+  "content": {
+   "inclusion": [
+    {
+     "id": "I1",
+     "text": "Colombia is the study area, or one of the cases with separately reported results",
+     "reason": "The review has national scope; multi-country studies are useful only when Colombian evidence can be isolated"
+    },
+    {
+     "id": "I2",
+     "text": "The study addresses a technology, technological innovation or innovation-system aspect (including policy or finance for technology deployment) related to the energy transition: non-conventional renewables, hydropower modernization, energy efficiency, storage, grids and microgrids, electrification, low-carbon fuels or hydrogen",
+     "reason": "Defines the intervention of RQ2-RQ4"
+    },
+    {
+     "id": "I3",
+     "text": "Peer-reviewed journal article, review article or peer-reviewed conference paper",
+     "reason": "The review targets strictly peer-reviewed evidence"
+    },
+    {
+     "id": "I4",
+     "text": "Published between 2015-01-01 and 2025-12-31",
+     "reason": "Covers the period after Law 1715 of 2014 and the Paris Agreement (2015) up to the last complete year"
+    },
+    {
+     "id": "I5",
+     "text": "Full text written in English or Spanish",
+     "reason": "Languages the review team can read and appraise"
+    }
+   ],
+   "exclusion": [
+    {
+     "id": "E1",
+     "text": "Colombia is not studied, or appears only incidentally (e.g., in a list of countries or the affiliation only)",
+     "reason": "Outside the geographic scope (fails I1)"
+    },
+    {
+     "id": "E2",
+     "text": "No energy-transition technology or innovation is addressed (e.g., fossil-fuel exploration or production without a decarbonization or efficiency aim, or energy mentioned only as background)",
+     "reason": "Outside the intervention (fails I2)"
+    },
+    {
+     "id": "E3",
+     "text": "Not peer-reviewed: theses, preprints, books or chapters, technical reports, editorials, letters, conference abstracts without a full paper",
+     "reason": "Outside the publication types (fails I3)"
+    },
+    {
+     "id": "E4",
+     "text": "Published outside 2015-2025, or the full text is in a language other than English or Spanish",
+     "reason": "Fails I4 or I5"
+    },
+    {
+     "id": "E5",
+     "text": "Duplicate or redundant publication of a study already included (the most complete version is kept)",
+     "reason": "Avoids double counting of the same evidence"
+    },
+    {
+     "id": "E6",
+     "text": "Insufficient methodological or result information to extract the data items (e.g., opinion piece with no analysis)",
+     "reason": "Cannot contribute evidence to the synthesis"
+    },
+    {
+     "id": "E7",
+     "text": "The bibliographic record cannot be verified: authorship or venue is missing from the indexed record and cannot be confirmed, so attribution and peer-review status are uncertain",
+     "reason": "Every included study must be citable and attributable with confidence"
+    },
+    {
+     "id": "E8",
+     "text": "The study falls outside the reference budget of the review: after ranking all included studies by topical relation to the protocol (query, research-question and PICOC terms in title, abstract and keywords) weighted by the best SJR 2025 quartile of the journal, studies ranked past the budget of 157 included studies (200 references in total, 43 of them cited outside the included studies) are excluded",
+     "reason": "The manuscript must cite 100 to 200 references and fit 45 single-column Elsevier pages; the ranking is reproducible with review_cli.py prioritize"
+    }
+   ]
+  }
+ },
+ {
+  "id": "eligibility-ordering",
+  "regime": "none",
+  "source": "review/protocol.json; screening brief",
+  "content": "At full text, the exclusion reason recorded is the first failing criterion in the order E4, E3, E1, E2, E5, E6; E7 was added by amendment 3 and applied by the operator after extraction; E8 was added by amendment 4 and applied last, by the operator, to the studies that met every other criterion."
+ },
+ {
+  "id": "reference-budget",
+  "regime": "none",
+  "source": "review/protocol.json (E8, amendment 4); review/prioritization.json; review/screening.jsonl; skills/systematic-review/SKILL.md",
+  "content": {
+   "rule": "The manuscript must cite 100 to 200 references (floor 100, cap 200). With 43 references cited outside the included studies, the budget is 157 included studies (200 - 43).",
+   "ranking": "The 521 studies that met criteria E1-E7 were ranked by topical relation to the protocol, weighted by the best SJR 2025 quartile of the journal. Relation is the share of the 136 protocol terms (stemmed words from the search queries, research questions and PICOC elements) found in the title, abstract and keywords of the study. Score = relation / maximum relation x (0.5 + 0.5 x quartile weight / 4), with quartile weights Q1 4, Q2 3, Q3 2, Q4 1 and an unranked venue weighing as half of a Q1.",
+   "application": "Studies ranked past the budget were excluded under E8 at full text: 364 studies, leaving 157. The operator reviewed and applied the exclusions with review_cli.py prioritize --apply --criterion E8, recorded in review/screening.jsonl as final full-text decisions and counted in the PRISMA flow. Studies were ranked by topical relation and journal quartile, not by their findings or appraisal scores.",
+   "numbers": {
+    "floor": 100,
+    "cap": 200,
+    "other_references": 43,
+    "budget": 157,
+    "ranked": 521,
+    "excluded_E8": 364,
+    "included": 157,
+    "terms": 136
+   }
+  }
+ },
+ {
+  "id": "multiple-reports",
+  "regime": "none",
+  "source": "review/protocol.json; review/extraction.jsonl",
+  "content": "Reports of the same study (same data, cases and scenarios) are all included and share one study_group; the study is counted once in the synthesis, and PRISMA reports both the number of reports and the number of studies. One study (R0006 and R0484) has two reports, so 157 reports correspond to 156 studies."
+ },
+ {
+  "id": "searches",
+  "regime": "none",
+  "source": "review/searches.jsonl",
+  "content": [
+   {
+    "id": "S1",
+    "source": "Scopus",
+    "query_as_run": "TITLE-ABS-KEY ( ( \"energy transition\" OR \"renewable energ*\" OR \"non-conventional renewable*\" OR \"energy efficien*\" OR \"solar energy\" OR photovoltaic* OR \"wind energy\" OR \"wind power\" OR biomass OR bioenerg* OR \"energy storage\" OR \"smart grid*\" OR microgrid* OR \"non-interconnected zone*\" OR \"green hydrogen\" OR decarboni* OR \"low-carbon\" ) AND ( innovation OR technolog* ) AND ( colombia OR colombian ) ) AND PUBYEAR AFT 2014 AND PUBYEAR BEF 2026 AND ( LIMIT-TO ( DOCTYPE , \"ar\" ) OR LIMIT-TO ( DOCTYPE , \"re\" ) OR LIMIT-TO ( DOCTYPE , \"cp\" ) ) AND ( LIMIT-TO ( LANGUAGE , \"English\" ) OR LIMIT-TO ( LANGUAGE , \"Spanish\" ) )",
+    "method": "run by the operator in the Scopus web interface and exported as RIS",
+    "last_searched": "2026-11-16",
+    "records_retrieved": 545,
+    "total_hits": 545
+   },
+   {
+    "id": "S2",
+    "source": "OpenAlex",
+    "query_as_run": "\"energy transition in Colombia\" OR \"Colombian energy transition\" OR \"renewable energy in Colombia\" OR \"energy efficiency in Colombia\" OR \"Colombian electricity sector\" OR \"Colombian power system\" OR \"non-interconnected zones of Colombia\" OR \"Colombian non-interconnected zones\" OR \"transición energética en Colombia\" OR \"energías renovables en Colombia\" OR \"eficiencia energética en Colombia\"",
+    "method": "run through the OpenAlex API by the review CLI",
+    "last_searched": "2026-11-17",
+    "records_retrieved": 1333,
+    "total_hits": 1333
+   }
+  ]
+ },
+ {
+  "id": "search-limits",
+  "regime": "none",
+  "source": "review/protocol.json; review/searches.jsonl",
+  "content": "Both searches were bounded to publication years 2015-2025. The Scopus query limited document types to articles, reviews and conference papers and languages to English and Spanish; OpenAlex results were filtered for language and publication type at screening through the eligibility criteria. No citation chasing (backward or forward snowballing) and no contact with authors were performed."
+ },
+ {
+  "id": "prisma-counts",
+  "regime": "none",
+  "source": "review/prisma.json",
+  "content": {
+   "generated_at": "2026-11-19T16:42:59Z",
+   "identification": {
+    "databases": {
+     "openalex": 1333,
+     "scopus": 545
+    },
+    "records": 1878,
+    "duplicates_removed": 95
+   },
+   "screening": {
+    "records_screened": 1783,
+    "records_excluded": 1013,
+    "records_pending": 0,
+    "reports_sought": 770,
+    "reports_not_retrieved": 165,
+    "reports_assessed": 605,
+    "reports_excluded": {
+     "E1": 30,
+     "E2": 43,
+     "E3": 5,
+     "E6": 3,
+     "E7": 3,
+     "E8": 364
+    },
+    "reports_pending": 0
+   },
+   "included": {
+    "studies": 157
+   }
+  }
+ },
+ {
+  "id": "screening-process",
+  "regime": "none",
+  "source": "review/screening.jsonl",
+  "content": {
+   "stages": [
+    "title and abstract",
+    "full text"
+   ],
+   "screeners": "two independent language-model screeners (Claude Sonnet agents, Anthropic), each blinded to the other screener's decisions and working from the protocol criteria only",
+   "conflict_resolution": "disagreements were settled by a third language-model adjudicator (a Claude agent) that read both decisions and the record; the operator did not screen records",
+   "ta_adjudicated": {
+    "conflicts": 64,
+    "included": 28,
+    "excluded": 36
+   },
+   "ft_adjudicated": {
+    "conflicts": 15,
+    "included": 9,
+    "excluded": 6
+   },
+   "full_text_input": "each full-text decision was made on a digest of the full text: metadata, opening 1600 words, up to 10 Colombia-related sentences and closing 450 words before the references",
+   "operator_decisions": "the operator stopped full-text retrieval for 165 reports that could not be obtained after open-access and institutional (Scopus/Universidad Nacional de Colombia) attempts, excluded 3 reports under E7, and applied the reference budget (E8) to 364 eligible studies"
+  }
+ },
+ {
+  "id": "kappa",
+  "regime": "none",
+  "source": "review_cli.py kappa --stage ta|ft",
+  "content": {
+   "title_abstract": {
+    "records": 1783,
+    "raw_agreement": 0.9641,
+    "cohen_kappa": 0.9269
+   },
+   "full_text": {
+    "records": 605,
+    "raw_agreement": 0.9785,
+    "cohen_kappa": 0.9097
+   },
+   "between": "the two language-model screeners"
+  }
+ },
+ {
+  "id": "full-text-retrieval",
+  "regime": "none",
+  "source": "review/screening.jsonl; review/prisma.json",
+  "content": "Of 770 reports sought, full texts were obtained by open-access download and by the operator through institutional access; 165 reports were not retrieved, and the operator decided to stop retrieval for them. 605 reports were assessed in full text: 84 were excluded under E1, E2, E3, E6 and E7, 364 eligible reports were excluded under E8 (reference budget), and 157 reports were included."
+ },
+ {
+  "id": "data-extraction",
+  "regime": "none",
+  "source": "review/extraction.jsonl; review/protocol.json",
+  "content": {
+   "fields": [
+    "study_group",
+    "extraction_tier",
+    "technology",
+    "theme",
+    "study_type",
+    "sector",
+    "region",
+    "method",
+    "outcomes",
+    "barriers",
+    "enablers",
+    "social_environmental_impacts",
+    "research_gaps"
+   ],
+   "tiers": {
+    "tier-1": "every included study: study_group, extraction_tier, technology, theme, study_type, sector, region, method, outcomes",
+    "tier-2": "tier-1 fields plus barriers, enablers, social_environmental_impacts and research_gaps, for studies informing RQ3 or RQ4 or found at extraction to report barriers, enablers or impacts"
+   },
+   "tier_counts_included": {
+    "tier-1": 30,
+    "tier-2": 127
+   },
+   "who": "one language-model extractor (Claude Sonnet agents) per study, reading the complete full text (references removed) in chunks",
+   "verification": "every extracted value carries a verbatim quote of at most 40 words from the full text supporting it; values were not double-extracted by a second extractor",
+   "corrections": "across the 524 reports extracted before amendment 3 and the reference budget: 31 studies were re-extracted from the complete full text after a preprocessing defect had removed their final sections; 38 studies were re-examined and reclassified after amendment 2 added category options",
+   "outcomes_item": "main results with numbers and units as reported (at most 80 words)",
+   "scope_note": "extraction was completed for all 524 reports retrieved at full text before E7 and E8 were applied; only the 157 included reports enter the synthesis"
+  }
+ },
+ {
+  "id": "appraisal",
+  "regime": "none",
+  "source": "review/protocol.json; review/appraisal.jsonl",
+  "content": {
+   "tool": "Kitchenham and Charters quality checklist (adapted)",
+   "questions": [
+    {
+     "id": "QA1",
+     "text": "Are the aims of the study clearly stated?"
+    },
+    {
+     "id": "QA2",
+     "text": "Is the Colombian context (region, sector, system) clearly defined?"
+    },
+    {
+     "id": "QA3",
+     "text": "Is the method (data, model, case or analysis) described in enough detail to be reproduced or assessed?"
+    },
+    {
+     "id": "QA4",
+     "text": "Are the results clearly reported and supported by the data or analysis?"
+    },
+    {
+     "id": "QA5",
+     "text": "Are the limitations of the study discussed?"
+    }
+   ],
+   "scale": "yes = 1, partly = 0.5, no = 0; score 0-5",
+   "threshold": "none: no study was excluded on its score",
+   "who": "the extracting language-model agent appraised each study while reading its full text, with a short appraisal note; one appraiser per study"
+  }
+ },
+ {
+  "id": "synthesis-taxonomy",
+  "regime": "none",
+  "source": "review/synthesis/rq2/*.json; review/synthesis/build_tables.py",
+  "content": {
+   "technology_groups": {
+    "Renewable generation": "solar, wind, hydropower, geothermal, ocean energy",
+    "Bioenergy": "biomass and bioenergy",
+    "Grids, microgrids and storage": "smart grids and digitalization, microgrids and off-grid systems, energy storage",
+    "Demand side": "energy efficiency, electromobility",
+    "Low-carbon fuels": "hydrogen and low-carbon fuels, carbon capture and storage, nuclear",
+    "System-level planning": "multiple technologies or system level, other"
+   },
+   "assignment": "each study has one technology value and therefore belongs to exactly one group",
+   "subthemes": "within each group, a language-model agent split the studies into sub-themes by application or technology variant (23 in all, 3 to 5 per group) and compared them along methods, settings, and technical, economic and environmental outcomes, copying values from the extracted outcomes; the operator approved the taxonomy",
+   "comparison_tables": "one comparison table per technology group (RQ2), plus tables of barriers and enablers (RQ3), impacts (RQ4) and research gaps"
+  }
+ },
+ {
+  "id": "synthesis-coding",
+  "regime": "none",
+  "source": "review/synthesis/rq3-coded.jsonl; rq4-coded.jsonl; rq3-rq4-summary.json",
+  "content": {
+   "rq3_codebook": "12 codes in 8 domains for barriers and enablers",
+   "rq4_codebook": "13 impact codes, each impact also coded for direction (positive, negative, mixed), and 12 research-gap codes",
+   "procedure": "language-model agents (6 for RQ3, 3 for RQ4) assigned codes item by item by reading each extracted barrier, enabler, impact and gap in the context of its study; an earlier keyword-rule pass was rejected and not used",
+   "check": "a random sample checked by the orchestrating model found 28 of 30 RQ3 items and 21 of 25 RQ4 items coded acceptably; no independent double coding was performed",
+   "counting": "counts are numbers of studies, and one study can report several barriers, enablers, impacts or gaps, so category counts do not add up to the number of included studies"
+  }
+ },
+ {
+  "id": "synthesis-scientometrics",
+  "regime": "none",
+  "source": "review/synthesis/rq1-scientometrics.json; regions-norm.jsonl; review/biblio.json",
+  "content": {
+   "source": "OpenAlex records matched by DOI, 153 of 157 included reports",
+   "indicators": "publications per year, venues, institutions, countries, international collaboration, citations",
+   "geography": "regions extracted from each study were normalized to Colombian departments and macro-regions and a national, regional, local or unspecified scope"
+  }
+ },
+ {
+  "id": "no-meta-analysis",
+  "regime": "none",
+  "source": "review/synthesis",
+  "content": "No meta-analysis was performed: the outcomes are heterogeneous in design, metric and unit, so the synthesis is narrative and tabular; values reported with different units are never merged. No sensitivity analysis was performed."
+ },
+ {
+  "id": "certainty",
+  "regime": "none",
+  "source": "review/synthesis/values-to-verify.md",
+  "content": "Reporting bias and certainty of evidence (GRADE) were not formally assessed; the appraisal scores are reported alongside the synthesis, and values that look inconsistent within a source are flagged in the results rather than corrected."
+ },
+ {
+  "id": "cite:page2021prisma",
+  "regime": "resolution",
+  "source": "paper/methods.bib",
+  "content": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews (Page et al., BMJ 2021). Cite as \\cite{page2021prisma}.",
+  "cite_key": "page2021prisma"
+ },
+ {
+  "id": "cite:priem2022openalex",
+  "regime": "resolution",
+  "source": "paper/methods.bib",
+  "content": "OpenAlex: a fully-open index of scholarly works, authors, venues, institutions, and concepts (Priem et al., 2022). Cite as \\cite{priem2022openalex}.",
+  "cite_key": "priem2022openalex"
+ },
+ {
+  "id": "cite:cohen1960kappa",
+  "regime": "resolution",
+  "source": "paper/methods.bib",
+  "content": "A coefficient of agreement for nominal scales (Cohen, 1960), the kappa statistic. Cite as \\cite{cohen1960kappa}.",
+  "cite_key": "cohen1960kappa"
+ }
+]

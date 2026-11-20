@@ -1,0 +1,714 @@
+{
+  "generated_at": "2026-11-17T02:36:34Z",
+  "query": "renewable energy Colombia",
+  "source": "openalex (type:review)",
+  "total": 1355,
+  "reviews": [
+    {
+      "source": "openalex",
+      "title": "Barriers to social acceptance of renewable energy systems in Colombia",
+      "abstract": "",
+      "authors": [
+        "A.M. Rosso-Cerón",
+        "Viatcheslav V. Kafarov"
+      ],
+      "year": 2015,
+      "venue": "Current Opinion in Chemical Engineering",
+      "doi": "10.1016/j.coche.2015.08.003",
+      "keywords": [
+        "renewable energy",
+        "social acceptance",
+        "barriers to renewable energy adoption",
+        "market acceptance",
+        "community acceptance",
+        "stakeholders",
+        "solar energy",
+        "wind energy",
+        "biomass energy",
+        "small hydropower",
+        "geothermal energy",
+        "wave and tidal energy",
+        "Colombia"
+      ],
+      "url": "https://openalex.org/W2292847304",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Renewable Energy in the Sustainable Development of Electrical Power Sector: A Review",
+      "abstract": "The electrical power sector plays an important role in the economic growth and development of every country around the world. Total global demand for electric energy is growing both in developed and developing economies. The commitment to the decarbonization of economies, which would mean replacing fossil fuels with renewable energy sources (RES) as well as the electrification of transport and heating as a means to tackle global warming and dangerous climate change, would lead to a surge in electricity consumption worldwide. Hence, it appears reasonable that the electric power sector should embed the principles of sustainable development into its functioning and operation. In addition, events such as the recent European gas crisis that have emerged as a result of the massive deployment of renewables need to be studied and prevented. This review aims at assessing the role of the renewable energy in the sustainable development of the electrical power sector, focusing on the energy providers and consumers represented both by businesses and households that are gradually becoming prosumers on the market of electric energy. Furthermore, it also focuses on the impact of renewables on the utility side and their benefits for the grid. In addition, it identifies the major factors of the sustainable development of the electrical power sector.",
+      "authors": [
+        "Wadim Striełkowski",
+        "Lubomír Civín",
+        "Елена Александровна Тарханова",
+        "Manuela Tvaronavičienė",
+        "Yelena S. Petrenko"
+      ],
+      "year": 2021,
+      "venue": "Energies",
+      "doi": "10.3390/en14248240",
+      "keywords": [
+        "renewable energy",
+        "sustainable development",
+        "decarbonization",
+        "prosumers",
+        "energy consumers",
+        "electricity demand growth",
+        "climate change mitigation"
+      ],
+      "url": "https://openalex.org/W4200337841",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Latin America towards Sustainability through Renewable Energies: A Systematic Review",
+      "abstract": "Nowadays, the increase in global energy demand is notorious, a situation that, in turn, impacts the environment through the generation of pollutants that are harmful to the planet. In this sense, an energy transition towards clean energy sources, also known as renewable sources, is essential, as well as better energy management and a responsible use of available natural resources. In this context, the objective of this systematic review was to analyze the use of renewable energy sources in Latin America, in addition to the guidelines established for their use, and the consequences of the use of non-renewable sources. Therefore, the PRISMA method was applied, and 60 publications were selected, from which the existing interest in this region in combatting the increase in energy demand and the use of fossil fuels through renewable energies is evidenced. Finally, it is concluded that there is still a need for greater dissemination in the region regarding this problem, as well as greater actions on the part of industries and governments to make proper use of this type of energy source.",
+      "authors": [
+        "Renzo Antonio Seminario Córdova"
+      ],
+      "year": 2023,
+      "venue": "Energies",
+      "doi": "10.3390/en16217422",
+      "keywords": [
+        "renewable energy",
+        "energy transition",
+        "sustainability",
+        "Latin America",
+        "energy demand",
+        "fossil fuels",
+        "non-renewable energy",
+        "energy management",
+        "clean energy",
+        "environmental pollution"
+      ],
+      "url": "https://openalex.org/W4388288740",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "A Systematic Review on Investment Risks in Hydropower to Developing Sustainable Renewable Energy Systems",
+      "abstract": "Hydropower is regarded as one of the most important renewable energy sources for the present and the future. However, hydropower projects are exposed to various risks and uncertainties, including economic, environmental, social, geological, regulatory, political, technological, financial, climate, natural, and safety concerns. Thus, to know the existing risks in the hydropower sector, a systematic literature review is conducted to find all peer-reviewed articles in English published between 2018 and 2022 that dealt with investment risks and uncertainties associated with hydropower. This systematic review paper considers 'Hydropower Investment Risk' critical to developing sustainable renewable energy systems. The keywords selected for the search are tailored to identify all the relevant articles related to 'Investment Risk in Hydropower,' where hydropower is referred to as mini, micro, and large hydropower. In addition, the keywords that correspond to investment risk in the hydropower sector are chosen. Two crucial databases 'Scopus' and 'Google Scholar' search yielded 6689 and 123,000 articles, respectively. Among 34 full texts, 31 primary source articles and 3 secondary source articles are reviewed. The many investment risks pertaining to hydropower investments obtained from the extensive review are: 1. risks related to climate change and hydrology 2. Risks related to environment and anthropogenic 3. Market risks related to credit, capital, and other financial risks 4. Risks related to substitution from renewable energy to fossil fuels 5. Risks related to socio-political and technological changes 6. Risks related to institution, policy, legality, and regulatory 7. Risks related to human capital development, and 8. Impact of climate change on hydropower's revenue generation.",
+      "authors": [
+        "Sagar Adhikari",
+        "Sopin Jirakiattikul",
+        "Kuaanan Techato",
+        "Bibek Kumar Mudbhari"
+      ],
+      "year": 2023,
+      "venue": "International Journal of Energy Economics and Policy",
+      "doi": "10.32479/ijeep.14003",
+      "keywords": [
+        "hydropower",
+        "investment risk",
+        "renewable energy",
+        "climate change impacts",
+        "hydrology",
+        "financial risk",
+        "credit risk",
+        "regulatory risk",
+        "socio-political risk",
+        "technological risk",
+        "human capital development",
+        "fossil fuel substitution",
+        "sustainable energy systems"
+      ],
+      "url": "https://openalex.org/W4360856006",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "On-Farm Renewable Energy Systems: A Systematic Review",
+      "abstract": "Over the years, energy is becoming an essential factor with an impact on social, economic, and environmental aspects. More than 2.5 billion people are connected to agriculture worldwide, so the importance of agricultural energy production has become increasingly important. This study provides a comprehensive review of renewable energy, environment, and farm publication trends. Two hundred articles from 1988 to 2022 were analyzed, with special attention devoted to the last three extreme years, using the Scopus database and the Bibliometrix tool for analysis and visualization. Research on this topic experienced significant developments after 2008, with many fluctuations being revealed. Historically, China and the USA were the most productive countries in agricultural energy production advancements. However, in the last three years, the research center’s respective contributions have undergone major changes. China maintained its dominance, but the importance of the USA fell sharply, and new centers (India, Poland) appeared. Biogas is the most popular method which is used and searched in this area between 1988–2022 since it includes both sustainability and locality. However, between 2020–2022, the importance of the circular economy has been highlighted in the literature. Complex energy systems, dual use of land, and energy storage might be the most important challenges for future research.",
+      "authors": [
+        "Albiona Pestisha",
+        "Zoltán Gabnai",
+        "Aidana Chalgynbayeva",
+        "Péter Lengyel",
+        "Attila Bai"
+      ],
+      "year": 2023,
+      "venue": "Energies",
+      "doi": "10.3390/en16020862",
+      "keywords": [
+        "agricultural energy production",
+        "biogas",
+        "circular economy",
+        "energy storage",
+        "complex energy systems",
+        "research trends",
+        "publication trends"
+      ],
+      "url": "https://openalex.org/W4315786468",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Optimisation of island integrated energy system based on marine renewable energy",
+      "abstract": "Integrating marine renewable energy (MRE) with conventional energy sources and logically constructing island energy systems is crucial for alleviating island energy supply challenges and helping coastal energy systems achieve a sustainable, low-carbon transition. In this study, the status of marine energy utilisation technologies is reviewed, with a focus on advancements in energy conversion equipment, grid integration, and energy storage. The economic feasibility and environmental sustainability of marine energy systems are comparatively analysed to enhance the development and utilisation of marine energy technology while reducing the economic cost of power generation. Suitable equipment is highlighted for islands, with efficient energy generation strategies proposed to achieve cleaner, localised, and cost-effective island integrated energy system (IIES) design. Island energy facilities vary, and integrated development is crucial for building new energy systems. Based on the types and resources of island energy, IIESs are constructed for hierarchical energy utilisation and multi-energy coupling, coordinating resources to achieve source-grid-load-storage integration. The optimisation of IIESs is reviewed, with a focus on modelling methods, intelligent algorithm development, and system simulation. This study differs from previous research as it considers the integration of marine energy into existing systems to achieve comprehensive integration of multiple energy sources. Additionally, optimisation and solution methods for IIES models are summarised. To integrate complex, multivariable energy systems and create stable and predictable outputs, marine energy and load forecasting methods are explored. Overall, this study supports the advancement of marine energy utilisation, focusing on its progressive integration into island energy systems as the efficiency of marine energy improves. This work aims to inspire the development of new functions and modules based on existing system optimisation and forecasting techniques.",
+      "authors": [
+        "Wenhua Zhao",
+        "Bohong Wang",
+        "Ting Pan",
+        "Yujie Chen",
+        "Hengcong Tao",
+        "Baoying Guo",
+        "Petar Sabev Varbanov",
+        "Jinshu Lu"
+      ],
+      "year": 2024,
+      "venue": "Fundamental Research",
+      "doi": "10.1016/j.fmre.2024.11.022",
+      "keywords": [
+        "marine renewable energy",
+        "energy system optimization",
+        "multi-energy coupling",
+        "energy storage",
+        "grid integration",
+        "load forecasting",
+        "economic feasibility",
+        "low-carbon transition",
+        "island energy supply"
+      ],
+      "url": "https://openalex.org/W4405414315",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Renewable energy sources in digital agriculture: A systematic review of applications, synergies and adoption barriers",
+      "abstract": "ABSTRACT The integration of renewable energy into digital agriculture is essential for sustainable food production; however, systematic evidence on specific renewable energy sources for powering digital agriculture devices remains scarce. Following the PRISMA 2020 statement, a systematic review was conducted in which 69 documents in English, Portuguese, and Spanish were identified from Scopus, Web of Science, Google Scholar, and SciELO. Solar energy was the predominant source, as it featured in over 36% of the documents, and was described as powering IoT sensors, automated irrigation, greenhouse climate control, and drone charging stations. Wind energy was described mainly in hybrid solar-wind configurations, developed to address the problem of intermittency. Biomass, biogas, and thermal energy were less frequent, and were typically linked to on-farm waste-to-energy and post-harvest processing. Biopotential energy remains experimental, and is currently limited to ultra-low-power sensors. The synergy between renewable energy and digital agriculture creates a positive feedback loop: renewable energy enables off-grid automation, while digital agriculture optimizes energy use and resource efficiency. However, there are three interrelated barriers to adoption: high capital expenditures, lack of technical skills in rural areas, and insufficient supportive policies. Hybrid systems (e.g., solar-wind, solar-biomass) are emerging as solutions for reliability but require further research. It was concluded that although solar energy is currently most common, diversified projects such as biomass and hybrid configurations are essential. Addressing economic, educational, and policy gaps is as important as technological development in terms of achieving sustainable digital agriculture.",
+      "authors": [
+        "Jhonatan Paolo Tovar Soto",
+        "Oscar Leonardo García-Navarrete",
+        "Robinson Osorio Hernández"
+      ],
+      "year": 2026,
+      "venue": "Revista Brasileira de Engenharia Agrícola e Ambiental",
+      "doi": "10.1590/1807-1929/agriambi.v30n11e304984",
+      "keywords": [
+        "renewable energy",
+        "digital agriculture",
+        "solar energy",
+        "wind energy",
+        "hybrid renewable energy systems",
+        "IoT sensors",
+        "irrigation automation",
+        "greenhouse climate control",
+        "barriers to adoption",
+        "biomass energy",
+        "biogas",
+        "rural electrification",
+        "sustainable food production"
+      ],
+      "url": "https://openalex.org/W7226012054",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Energy and Human Health",
+      "abstract": "Energy use is central to human society and provides many health benefits. But each source of energy entails some health risks. This article reviews the health impacts of each major source of energy, focusing on those with major implications for the burden of disease globally. The biggest health impacts accrue to the harvesting and burning of solid fuels, coal and biomass, mainly in the form of occupational health risks and household and general ambient air pollution. Lack of access to clean fuels and electricity in the world's poor households is a particularly serious risk for health. Although energy efficiency brings many benefits, it also entails some health risks, as do renewable energy systems, if not managed carefully. We do not review health impacts of climate change itself, which are due mostly to climate-altering pollutants from energy systems, but do discuss the potential for achieving near-term health cobenefits by reducing certain climate-related emissions.",
+      "authors": [
+        "Kirk R. Smith",
+        "Howard Frumkin",
+        "Kalpana Balakrishnan",
+        "Colin David Butler",
+        "Zoë A. Chafe",
+        "Ian Fairlie",
+        "Patrick L. Kinney",
+        "Tord E Kjellstrom",
+        "Denise L. Mauzerall",
+        "Thomas E. McKone",
+        "Anthony John McMichael",
+        "Mycle Schneider"
+      ],
+      "year": 2013,
+      "venue": "Annual Review of Public Health",
+      "doi": "10.1146/annurev-publhealth-031912-114404",
+      "keywords": [
+        "energy and health",
+        "solid fuels",
+        "biomass burning",
+        "coal",
+        "occupational health",
+        "household air pollution",
+        "ambient air pollution",
+        "clean energy access",
+        "energy efficiency",
+        "renewable energy",
+        "health co-benefits",
+        "global burden of disease"
+      ],
+      "url": "https://openalex.org/W2129198907",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Sustainability of Palm Biodiesel in Transportation: a Review on Biofuel Standard, Policy and International Collaboration Between Malaysia and Colombia",
+      "abstract": "Biodiesel is gaining prominence as a superior alternative source of energy to replace petroleum-based fuel in transportation. As of today, the biodiesel market continuous to rise up as the biofuel has been introduced to more than 60 countries worldwide. The aim of the present review is to highlight on the scenario of the biofuel implementation in transportation sector towards sustainable development in Colombia and Malaysia. Colombia serves as an ideal comparative case for Malaysia in terms of biodiesel development since the country is the main palm oil producer in Latin America region and the pioneer in bioethanol industry. The first section shows an overview on the biodiesel as an alternative fuel in transportation. The next section will focus on a comparative study between Malaysia and Colombia biodiesel sector in terms of energy supply, resource, production and consumption, standards, techno-economic cost and their biodiesel policies. A comprehensive review was studied to discuss on the sustainability of palm cultivation and biodiesel, impact of palm industry and biodiesel policy in transportation sector and potential international collaboration between Malaysia and Colombia to improve their existing policies, strategies and blueprints related to the palm biodiesel industry, thus overcoming the challenges when dealing with global energy issue.",
+      "authors": [
+        "Mohd Nur Ashraf Mohd Yusoff",
+        "Nurin Wahidah Mohd Zulkifli",
+        "Nazatul Liana Sukiman",
+        "Ong Hwai Chyuan",
+        "Masjuki Haji Hassan",
+        "Muhammad Harith Hasnul",
+        "Muhammad Syahir Amzar Zulkifli",
+        "Muhammad Abbas Mujtaba",
+        "Muhammad Zulfattah Zakaria"
+      ],
+      "year": 2020,
+      "venue": "BioEnergy Research",
+      "doi": "10.1007/s12155-020-10165-0",
+      "keywords": [
+        "palm oil biodiesel",
+        "palm oil",
+        "biofuel policy",
+        "biodiesel standards",
+        "transportation fuels",
+        "sustainable development",
+        "Malaysia",
+        "Colombia",
+        "bioethanol",
+        "international cooperation",
+        "energy security"
+      ],
+      "url": "https://openalex.org/W3045108515",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Integrating renewable energy into building energy systems: a systematic review of strategies, barriers, and policy interfaces",
+      "abstract": "Abstract Buildings contribute significantly to global energy consumption, positioning them as pivotal to achieving global sustainability and climate goals. Although renewable energy technologies hold significant transformative potential, their integration into building systems is hindered by fragmented technological, economic, policy, and social dimensions. This systematic review addresses the existing lack of holistic synthesis by examining peer-reviewed studies published from 2019 to the second quarter (Q2) of 2025. Methodologically, the study adheres to the PRISMA 2020 framework to ensure transparency and replicability and employs bibliometric analysis to map thematic clusters across disciplines. Five major themes emerged from the synthesis: photovoltaic integration, retrofitting strategies, governance frameworks, smart grid applications, and stakeholder acceptance. Analysis highlights notable regional disparities, with Western Europe and East Asia demonstrating higher integration rates due to robust policy structures and established financial incentives. Conversely, regions like Sub-Saharan Africa and Latin America continue to experience significant barriers linked to financing constraints, regulatory fragmentation, and infrastructural limitations. Community-led microgrid initiatives in Kenya and Brazil emerge as exemplars of successful context-sensitive, low-cost renewable integration, emphasizing the value of inclusive governance and localized solutions. The review reconceptualizes buildings as active socio-technical nodes within decentralized energy networks rather than passive energy infrastructures. For renewable energy integration to progress effectively, coordinated systemic efforts spanning technical innovation, adaptive governance, and behavior-sensitive policy design are imperative. These insights carry substantial implications, offering actionable guidance for policymakers, engineers, and urban planners seeking equitable, contextually appropriate, and scalable renewable energy transitions within the built environment.",
+      "authors": [
+        "Suqi Wang",
+        "Yanbo Li",
+        "Yunpeng Cui",
+        "Junyi Yu",
+        "Chao Zhou",
+        "Divine Senanu Ametefe",
+        "Dah John",
+        "Tumani Darboe"
+      ],
+      "year": 2025,
+      "venue": "Discover Sustainability",
+      "doi": "10.1007/s43621-025-01966-4",
+      "keywords": [
+        "renewable energy integration",
+        "building energy systems",
+        "photovoltaic integration",
+        "building retrofit",
+        "energy governance",
+        "smart grid",
+        "stakeholder acceptance",
+        "community microgrids",
+        "decentralized energy networks",
+        "energy policy",
+        "socio-technical systems",
+        "regional disparities"
+      ],
+      "url": "https://openalex.org/W4415379659",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Multi-criteria decision making for renewable energy assessment and development: A systematic literature review",
+      "abstract": "Renewable energy (RE) decision-making has become increasingly complex due to growing climate pressures, energy security concerns, and sustainability goals. Multi-criteria decision making (MCDM) methods are widely used to support RE decisions. Nevertheless, evidence remains dispersed across methods, technologies, countries, criteria structures, and application areas. This study provides a decadal systematic review of MCDM applications in RE assessment and development during 2016–2025. A systematic review procedure was adopted to identify 129 peer-reviewed studies from Web of Science, Scopus, and Google Scholar. The selected studies were examined through descriptive classification, thematic synthesis, and bibliometric mapping to reveal methodological patterns, application trends, criteria dimensions, geographical distribution, and emerging research directions. The findings show expansion of RE-MCDM research after 2020, with the highest publication activity in 2023. Turkey appears as the most frequently studied country, followed by Iran, Saudi Arabia, and India. Geographic Information System (GIS)-integrated studies form the largest application group, followed by RE sources selection, solar energy site selection, barriers assessment, wind energy site selection, and policy evaluation. Methodologically, Analytical Hierarchy Process (AHP)-based approaches remain dominant, while fuzzy, hybrid, and spatially integrated MCDM methods are increasingly adopted to address uncertainty in complex decision problems. Environmental/ecological, economic/financial, social, and technical criteria remain central, whereas spatial, resource, policy, and risk-related criteria are gaining importance. The review shows that RE-MCDM research has moved beyond technology ranking toward broader decision support for sustainability assessment, policy planning, and RE transition pathways. This study provides an integrated understanding of methodological evolution, application diversity, and future research directions in RE decision-support studies.",
+      "authors": [
+        "Rakan Alyamani",
+        "Yasir Ahmed Solangi"
+      ],
+      "year": 2026,
+      "venue": "Energy Nexus",
+      "doi": "10.1016/j.nexus.2026.100892",
+      "keywords": [
+        "renewable energy",
+        "multi-criteria decision making",
+        "renewable energy assessment",
+        "renewable energy development",
+        "analytic hierarchy process",
+        "wind energy site selection",
+        "fuzzy multi-criteria decision making",
+        "sustainability assessment",
+        "energy transition"
+      ],
+      "url": "https://openalex.org/W7225172828",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Beyond the public in controversies: A systematic review on social opposition and renewable energy actors",
+      "abstract": "Research attention for renewable energy controversies has been growing steadily. In studying such controversies, researchers have a tendency to focus on opponents, the public and local communities. There have been calls for some years now to broaden the scope of social science to include renewable energy technology (RET) actors such as project developers, governments or other actors involved in supporting or implementing renewable energy developments. Attention for RET actors is still limited and it is unclear where this area of research currently stands. Therefore, we present a systematic review of literature about RET actors in relation to controversies surrounding renewable energy technologies and infrastructure. The review of 89 publications shows two categories, consisting of eleven themes in total. The first category concerns RET actors' perceptions of the nature, impact and causes of public opposition, including specific groups of people and processes of engagement and decision-making. The second category describes different responses and strategies of RET actors to public opposition. Based on these findings, we present three observations about the current state of knowledge on RET actors and discuss implications for the broader field of renewable energy controversies. Future research should be directed at unravelling the diverse range of RET actors and their practices. This contributes to constructing a finer-grained understanding of the (development of) conflict dynamics between the actors engaged in controversies and action perspectives for the involved actors.",
+      "authors": [
+        "Elisabeth van de Grift",
+        "Eefje H.W.J. Cuppen"
+      ],
+      "year": 2022,
+      "venue": "Energy Research & Social Science",
+      "doi": "10.1016/j.erss.2022.102749",
+      "keywords": [
+        "public opposition",
+        "project developers",
+        "stakeholder engagement",
+        "conflict dynamics",
+        "renewable energy infrastructure",
+        "local communities"
+      ],
+      "url": "https://openalex.org/W4289260114",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Assessment of Indonesia’s Future Renewable Energy Plan: A Meta-Analysis of Biofuel Energy Return on Investment (EROI)",
+      "abstract": "In early 2020, Indonesia implemented the biodiesel 30 (B30) program as an initiative to reduce Indonesia’s dependency on fossil fuels and to protect Indonesia’s palm oil market. However, palm oil has received international criticism due to its association with harmful environmental externalities. This paper analysed whether an investment in palm oil-based biofuel (POBB) provides Indonesia with the ability to achieve its environmental and financial goals. In this research, we performed a meta-analysis on biofuel energy return on investment (EROI) by examining 44 biofuel projects using ten types of biofuel feedstocks from 13 countries between 1995 and 2016. Results showed an average EROI of 3.92 and 3.22 for POBB and other biomass-based biofuels (OBBB), respectively. This shows that if only energy inputs and outputs are considered, biofuels provide a positive energy return. However, biofuels, including those from palm oil, produce externalities especially during land preparation and land restoration. We also compared these EROI biofuel results with other renewable energy sources and further analysed the implications for renewable energies to meet society’s energy demands in the future. Results showed that biofuel gives the lowest EROI compared to other renewable energy sources. Its EROI of 3.92, while positive, has been categorised as “not feasible for development”. If Indonesia plans to continue with its biofuel program, some major improvements will be necessary.",
+      "authors": [
+        "Wiraditma Prananta",
+        "Ida Kubiszewski A"
+      ],
+      "year": 2021,
+      "venue": "Energies",
+      "doi": "10.3390/en14102803",
+      "keywords": [
+        "energy return on investment",
+        "biofuels",
+        "renewable energy comparison",
+        "fossil fuel dependence",
+        "palm oil market"
+      ],
+      "url": "https://openalex.org/W3160146189",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Real Option Analysis for Renewable Energy: A Systematic Review",
+      "abstract": "Renewable energy projects suffer from deep uncertainties associated with volatile market conditions, unstable policy regimes and changing technological landscapes. Traditional valuation tools like Net Present Value (NPV) are increasingly being accepted as insufficient to capture the managerial flexibility needed to deal with this complex environment. As a result, a powerful alternative investment framework, Real Options Analysis (ROA), has been proposed, in which the possibility of strategic adaptability under uncertainty is valued explicitly for renewable energy investment. This paper reports a systematic review between 2000-2025 of research works on ROA application in the renewable energy sector. Using the Preferred Reporting Items for Systematic Reviews and Meta-Analysis (PRISMA) framework, 288 peer-reviewed studies were identified from twelve major academic databases (Scopus, IEEE Xplore, and Wiley Online Library). Each study was reviewed in terms of key dimensions: renewable technology type, real option category, modelling technique, dominant sources of uncertainty and geographical focus. The results show the dominance of the decision to defer (timing option) as the most important strategic flexibility for all technologies, emphasising the key problem of optimal investment timing. Methodologically, the field has transitioned from basic analytical models to complex simulation-based models, with binomial lattices and Monte Carlo models dominating the scene, followed by a significant move to hybrid, fuzzy, and AI-enhanced models after 2015. The analysis also reveals clear regional patterns in the types of uncertainties modelled with European studies focusing on market and policy risks, Asian studies on resource availability and work in the Americas taking into account technical risks. However, a serious underrepresentation in Africa, especially in Nigeria, is also revealed, which constitutes a major gap in the research. This review concludes that while the methodological foundations of ROA are well established, its practical application remains limited, particularly outside developed countries. Expanding the use of ROA could better support the global energy transition, but achieving this requires addressing barriers such as computational complexity, limited modeling expertise, and regulatory reliance on deterministic valuation methods. Greater integration of these flexible decision-making tools into policy design and project appraisal, especially in high-risk and underrepresented regions, is therefore necessary.",
+      "authors": [
+        "Jethro Olorunfemi Idowu",
+        "Ini Adinya"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Applied Mathematics and Theoretical Physics",
+      "doi": "10.11648/j.ijamtp.20261201.11",
+      "keywords": [
+        "real options",
+        "renewable energy investment",
+        "investment under uncertainty",
+        "strategic flexibility",
+        "timing options",
+        "deferral option",
+        "Monte Carlo simulation",
+        "fuzzy modeling",
+        "energy transition",
+        "project evaluation"
+      ],
+      "url": "https://openalex.org/W7124705582",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Cheese Whey as a Potential Feedstock for Producing Renewable Biofuels: A Review",
+      "abstract": "Agro-industrial residues such as bagasse, pomace, municipal residues, vinasse and cheese whey are an environmental problem around the world, mainly due to the huge volumes that are generated because of the food production to satisfy the nutritional needs of the growing world population. Among the above residues, cheese whey has gained special attention because of its high production with a worldwide production of 160 million tons per year. Most of it is discarded in water bodies and land causing damage to the environment due to the high biological oxygen demand caused by its organic matter load. The environmental regulations in developing countries have motivated the development of new processes to treat transform cheese whey into added-value products such as food supplements, cattle feed and food additives. In addition, during the last decade, several processes and technologies have been developed to produce bioenergy through the biotechnological process using cheese whey as a potential feedstock. This review discusses the production of bioethanol, biohydrogen, biomethane and microbial lipid-biodiesel production using cheese whey as a potential substrate.",
+      "authors": [
+        "Carlos S. Osorio‐González",
+        "Natali Gómez-Falcon",
+        "Satinder Kaur Brar",
+        "Antonio Avalos Ramírez"
+      ],
+      "year": 2022,
+      "venue": "Energies",
+      "doi": "10.3390/en15186828",
+      "keywords": [
+        "whey",
+        "biofuels",
+        "agro-industrial waste",
+        "bioethanol",
+        "biohydrogen",
+        "biomethane",
+        "renewable energy",
+        "waste valorization"
+      ],
+      "url": "https://openalex.org/W4296306927",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "A Systematic Literature Review on Intelligent Methods for Renewable Energy Forecasting and Sustainable Energy Management",
+      "abstract": "As the world accelerates transition towards renewable energy sources, accurate multi-source energy forecasting, and sustainable energy management have become important areas of focus in today's power system studies. In this paper, we have conducted a systematic literature review (SLR) of 109 peer-reviewed papers selected from top IEEE, MDPI, CSEE and interdisciplinary journals and analyzed the state of the art of data-driven, machine learning and deep learning techniques in renewable energy prediction, smart grid, energy optimization and sustainable computing. The studies reviewed have a wide range of topics on solar PV prediction, wind power prediction, HRES optimization, missing data prediction, Explainability in energy AI, decision focused learning, green computing and spatio-temporal emission modeling. The review pin-points 8 key areas that are open to research which are not covered by existing literature. That is, most of the developed forecasting models are trained and validated in a single geographical point or on a specified climatic region and hence have limited geographical applicability in different renewable energy contexts. Secondly, a combined deep learning approach for forecasting multiple energy systems (solar, wind and hydro) in real time is not available in any one single framework. Finally, there is no or insufficient evaluation and validation of the Explainability mechanisms in renewable energy forecasting architectures to the extent they are included. Fourth, only forecasting techniques that consider the missing data have been developed for single energy sources and traditional benchmark data sets, but not for cross-source generalization. Finally, the Predict Optimize paradigm set forth in and expanded by prescriptive trees has not been tested in conjunction with hybrid multi-source renewables for scheduling problems. Sixth, there is still no study comparing the models for renewable energy forecasting with the uniformized Green AI metrics CO₂ equivalent emissions or FLOPs per prediction. Context-aware adaptive forecasting frameworks which are able to adapt dynamically to changes of the environment state of multi-source systems are completely lacking. Eighth, none of the forecasting models analyzed incorporate in their training or evaluation pipeline sustainability-oriented evaluation metrics, such as renewable utilization rate improvement or even carbon emission reduction or energy conservation potential. In summary, all these gaps create research motivation, and the vision to build an optimised deep learning framework for multi-source renewable energy forecasting and sustainable energy management that incorporates an integrated architecture to Explainability, robustness towards missing data, Green AI efficiency benchmarking, and sustainability-oriented evaluation into a single model.",
+      "authors": [
+        "G. Vijaya Sahitha"
+      ],
+      "year": 2026,
+      "venue": "Journal of Intelligent Decision Making and Information Science",
+      "doi": "10.17762/jidmis.v3.4029",
+      "keywords": [
+        "renewable energy forecasting",
+        "sustainable energy management",
+        "wind power forecasting",
+        "hybrid renewable energy systems",
+        "explainable AI",
+        "missing data prediction",
+        "green AI",
+        "CO2 emissions",
+        "energy optimization",
+        "adaptive prediction"
+      ],
+      "url": "https://openalex.org/W7224105114",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "ENERGY MANAGEMENT AND GLOBAL HEALTH",
+      "abstract": "▪ Abstract Energy and energy technologies have a central role in social and economic development at all scales, from household and community to regional and national. Among its welfare effects, energy is closely linked with public health both positively and negatively, the latter through environmental pollution and degradation. We review the current research on how energy use and energy technologies influence public health, emphasizing the risks associated with indoor and ambient air pollution from energy use, and the links between the local and global environmental health impacts of energy use. This review illustrates that, despite their large public health implications, most energy policies and programs in the developing world are fundamentally treated as components of overall economic development, without explicit assessment of their health benefits or hazards. Closer integration of health in energy management can facilitate the development of policies and programs that increase welfare and minimize negative health outcomes. Renewable energy technologies are used as an example of how an integrated energy-health approach can be used in policy analysis and formulation.",
+      "authors": [
+        "Majid Ezzati",
+        "Rob Bailis",
+        "Daniel M. Kammen",
+        "Tracey Holloway",
+        "Lynn Price",
+        "Luis Abdon Cifuentes",
+        "Brendon R. Barnes",
+        "Akanksha Chaurey",
+        "Kiran N. Dhanapala"
+      ],
+      "year": 2004,
+      "venue": "Annual Review of Environment and Resources",
+      "doi": "10.1146/annurev.energy.29.062103.121246",
+      "keywords": [
+        "energy management",
+        "energy consumption",
+        "energy technology",
+        "indoor air pollution",
+        "ambient air pollution",
+        "environmental health",
+        "energy policy",
+        "developing countries",
+        "renewable energy"
+      ],
+      "url": "https://openalex.org/W2167225929",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Review of challenges and key enablers in energy systems towards net zero target: Renewables, storage, buildings, & grid technologies",
+      "abstract": "Carbon emissions are increasing due to continued urban developments and the growth of the human population, leading to environmental issues such as global warming. Moving towards the future, projected population growth will cause an increase in energy demand. Without the transition to cleaner energy generation, a high dependency on electricity generation by fossil fuels will emit more harmful gases, worsening the impacts of global warming. Therefore, the energy industry is moving towards cleaner alternatives through renewable energy (RE) technologies. However, in the future power grid, more technological development and implementation of cutting-edge research methods will be required to upsurge the percentage of clean electricity generation to attain net zero. Renewables, energy storage systems (ESS), grid technologies, and building energy management systems (BEMS) are key technologies emerging to aid green electrification in the electricity, industry, commercial and transportation sectors. This review discusses the technical challenges and solutions that contribute towards achieving net-zero energy systems. A systematic review was conducted on research methods related to the optimal planning of renewable energy systems, ESS, power system devices, and BEMS which are research areas that are moving towards being optimally integrated in the future energy system. Based on the review, we propose new gaps to be addressed in the development of energy system modelling tools. These tools should seamlessly integrate methods for energy storage related to voltage support, microgrid dispatch strategies, optimal reactive power flow in electrical networks, and energy management in buildings. This integration will enhance the capability of these tools to incorporate detailed analyses into broader energy balance simulations for large geographical regions. This review paper aims to guide researchers in identifying and addressing specific gaps in future research directions within these research areas, thereby advancing the knowledge base and informing subsequent studies.",
+      "authors": [
+        "Malcolm Isaac Fernandez",
+        "Yun Ii Go",
+        "M. L. Dennis Wong",
+        "Wolf‐Gerrit Früh"
+      ],
+      "year": 2024,
+      "venue": "Heliyon",
+      "doi": "10.1016/j.heliyon.2024.e40691",
+      "keywords": [
+        "net-zero energy systems",
+        "renewable energy integration",
+        "energy storage systems",
+        "building energy management systems",
+        "power grid technology",
+        "microgrid dispatch",
+        "reactive power flow",
+        "voltage support",
+        "energy demand growth",
+        "CO2 emissions"
+      ],
+      "url": "https://openalex.org/W4404733125",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Densification of agro-residues for sustainable energy generation: an overview",
+      "abstract": "The global demand for sustainable energy is increasing due to urbanization, industrialization, population, and developmental growth. Transforming the large quantities of biomass resources such as agro-residues/wastes could raise the energy supply and promote energy mix. Residues of biomass instituted in the rural and industrial centers are enormous, and poor management of these residues results in several indescribable environmental threats. The energy potential of these residues can provide job opportunities and income for nations. The generation and utilization of dissimilar biomass as feedstock for energy production via densification could advance the diversity of energy crops. An increase in renewable and clean energy demand will likely increase the request for biomass residues for renewable energy generation via densification. This will reduce the environmental challenges associated with burning and dumping of these residues in an open field. Densification is the process of compacting particles together through the application of pressure to form solid fuels. Marketable densification is usually carried out using conventional pressure-driven processes such as extrusion, screw press, piston type, hydraulic piston press, roller press, and pallet press (ring and flat die). Based on compaction, densification methods can be categorized into high-pressure, medium-pressure, and low-pressure compactions. The common densification processes are briquetting, pelletizing, bailing, and cubing. They manufacture solid fuel with desirable fuel characteristics-physical, mechanical, chemical, thermal, and combustion characteristics. Fuel briquettes and pellets have numerous advantages and applications both in domestic and industrial settings. However, for biomass to be rationally and efficiently utilized as solid fuel, it must be characterized to determine its fuel properties. Herein, an overview of the densification of biomass residues as a source of sustainable energy is presented.",
+      "authors": [
+        "Segun Emmanuel Ibitoye",
+        "Tien‐Chien Jen",
+        "Rasheedat M. Mahamood",
+        "Esther T. Akinlabi"
+      ],
+      "year": 2021,
+      "venue": "Bioresources and Bioprocessing",
+      "doi": "10.1186/s40643-021-00427-w",
+      "keywords": [
+        "biomass densification",
+        "agro-residues",
+        "biomass waste",
+        "solid biofuels",
+        "fuel briquettes",
+        "pelletization",
+        "bailing",
+        "cubing",
+        "extrusion",
+        "screw press",
+        "roller press",
+        "fuel properties",
+        "renewable energy",
+        "waste management"
+      ],
+      "url": "https://openalex.org/W3195754866",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Energy-Sufficiency for a Just Transition: A Systematic Review",
+      "abstract": "Efforts to achieve an energy transition often neglect to account for the levelling of benefits realizable with higher levels of energy use, despite knowledge of a saturation effect and recognition of increasing harms of use. This research examines energy sufficiency as a maximum quantity of energy associated with improvements in human well-being to inform a recalibration of energy targets among high-energy societies. A systematic review of recent research was performed to identify the point at which increasing levels of energy use no longer correlate with meaningful increases in well-being. For selected studies (n = 18), energy sufficiency values range from 60–221 gigajoules per capita per year with a mean of 132 gigajoules per capita per year for associated measures of well-being. The review finds agreement in a pattern of saturation and provides a range of values for energy sufficiency maximums, suggesting that a relatively modest amount and a diverse quality of energy is needed to support high levels of human well-being. Beyond the conventional emphasis on energy efficiency and renewable energy, energy sufficiency therefore offers a necessary and complementary approach for supporting just and ecological energy transitions.",
+      "authors": [
+        "Matthew J. Burke"
+      ],
+      "year": 2020,
+      "venue": "Energies",
+      "doi": "10.3390/en13102444",
+      "keywords": [
+        "energy sufficiency",
+        "just transition",
+        "energy transition",
+        "human well-being",
+        "energy targets",
+        "energy efficiency",
+        "renewable energy",
+        "green transition"
+      ],
+      "url": "https://openalex.org/W3024538021",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "The Role of Nuclear Energy in Reducing Greenhouse Gas (GHG) Emissions and Energy Security: A Systematic Review",
+      "abstract": "The energy sector accounts for about two-thirds of all human-related greenhouse gas (GHG) emissions due to the reliance on fossil-based fuels. This is a significant concern as it can have dire consequences on the survival of humankind and disrupt other natural processes. The research indicated that some mitigation measures to curb GHG emissions are to increase energy from low-carbon sources such as nuclear. However, due to the continuous adverse climate change impact, a comprehensive systematic review of research in this area must be conducted to inform policy practice and future studies. This study attempts to address this gap by mapping the global reflections on the potential of nuclear technology to mitigate GHG through a bibliometric review process. A total of 741 studies were retrieved from the Scopus database and a few from Google Scholar, spanning from 1962 to 2022, and analyzed using a science mapping tool—VOSviewer. The study confirmed that fossil fuels are a significant source of greenhouse gas emissions and contributor to greenhouse emissions. Those authors concluded that promoting clean and alternative energy sources to fossil fuels would help reduce carbon emissions. Although renewable energy has proven to be very efficient among pollution and climate change mitigation sources, nuclear energy is the most dependable option for meeting national and regional CO2 emission targets while meeting energy supply needs. The bibliometric analysis with VOSviewer suggested that only five African countries, including Ghana, have contributed to the research area with limited collaboration. As a result, it calls for stakeholders to make informed decisions to invest resources in research to address the challenge on the continent. The MESSAGE planning model is recommended for the study.",
+      "authors": [
+        "Emmanuel Kusi Addo",
+        "Amos  Tiereyangn Kabo-bah",
+        "Felix Amankwah Diawuo",
+        "Seth Kofi Debrah"
+      ],
+      "year": 2023,
+      "venue": "International Journal of Energy Research",
+      "doi": "10.1155/2023/8823507",
+      "keywords": [
+        "nuclear energy",
+        "greenhouse gas emissions",
+        "energy security",
+        "climate change mitigation",
+        "CO2 emission targets",
+        "fossil fuels",
+        "low-carbon energy sources",
+        "renewable energy",
+        "research collaboration",
+        "Africa",
+        "MESSAGE model"
+      ],
+      "url": "https://openalex.org/W4389323224",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Dynamics and challenges of technology transfer in Colombia: a systematic literature review",
+      "abstract": "Introduction: Technology transfer in Colombia plays a critical role in promoting innovation and regional development. However, its implementation continues to face significant institutional, economic, and cultural challenges that hinder its effectiveness and sustainability. Methods: A systematic literature review was conducted in accordance with the PRISMA 2020 guidelines. The databases Scopus and Web of Science were used to identify peer-reviewed articles that addressed knowledge and technology transfer within the Colombian context. Results: The analysis revealed multiple barriers: institutional fragmentation, inadequate investment in R&D, lack of incentives for collaboration, and weak trust between academia and industry. Additionally, organizational rigidity and the limited adaptation of international transfer models to local contexts were identified as factors that reduce the effectiveness of these processes. Discussion: The findings highlight the need to acknowledge regional particularities, foster inclusive governance, and promote horizontal relationships among stakeholders. Effective international strategies, such as open innovation, co-creation models, and hybrid technology transfer offices, could be adapted to the Colombian context. Strengthening institutional capacities, increasing R&D funding, and aligning innovation with social and environmental objectives are imperative to build a more robust and inclusive innovation ecosystem.",
+      "authors": [
+        "Alejandro Valencia-Arías",
+        "Karla Cristina Bonilla Restrepo",
+        "Eliana María Villa Enciso",
+        "Jackeline Valencia",
+        "Juan Camilo Rua Hernandez",
+        "Diana Marleny Ramírez-Ramírez"
+      ],
+      "year": 2025,
+      "venue": "Frontiers in Research Metrics and Analytics",
+      "doi": "10.3389/frma.2025.1628141",
+      "keywords": [
+        "technology transfer",
+        "Colombia",
+        "barriers to technology transfer",
+        "institutional fragmentation",
+        "R&D investment",
+        "academia-industry collaboration",
+        "organizational rigidity",
+        "open innovation",
+        "co-creation",
+        "innovation ecosystems",
+        "regional development",
+        "inclusive governance"
+      ],
+      "url": "https://openalex.org/W4414103973",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Life Cycle Assessment of Ocean Energy Technologies: A Systematic Review",
+      "abstract": "The increase of greenhouse gases (GHG) generated by the burning of fossil fuels has been recognized as one of the main causes of climate change (CC). Different countries of the world have developed new policies on national energy security directed to the use of renewable energies mainly, ocean energy being one of them. The implementation of ocean energy is increasing worldwide. However, the use of these technologies is not exempt from the generation of potential environmental impacts throughout their life cycle. In this context, life cycle assessment (LCA) is a holistic approach used to evaluate the environmental impacts of a product or system throughout its entire life cycle. LCA studies need to be conducted to foster the development of ocean energy technologies (OET) in sustainable management. In this paper, a systematic review was conducted and 18 LCA studies of OET were analyzed. Most of the LCA studies are focused on wave and tidal energy. CC is the most relevant impact category evaluated, which is generated mostly by raw material extraction, manufacturing stage and shipping operations. Finally, the critical stages of the systems evaluated were identified, together with, the opportunity areas to promote an environmental management for ocean energy developers.",
+      "authors": [
+        "María Paredes",
+        "Alejandro Padilla‐Rivera",
+        "Leonor Patricia Güereca"
+      ],
+      "year": 2019,
+      "venue": "Journal of Marine Science and Engineering",
+      "doi": "10.3390/jmse7090322",
+      "keywords": [
+        "life cycle assessment",
+        "wave energy",
+        "tidal energy",
+        "greenhouse gas emissions",
+        "environmental impact",
+        "raw material extraction",
+        "manufacturing stage",
+        "shipping activity",
+        "climate change mitigation",
+        "renewable energy",
+        "environmental management"
+      ],
+      "url": "https://openalex.org/W2974362009",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Hybrid energy irrigation system compared to conventional energy a systematic review",
+      "abstract": "This research is a systematic review of the irrigation system with hybrid energy compared to conventional energy, between 2015 and 2022. The main objective is to evaluate the effects of the irrigation system activated with hybrid photovoltaic -wind energy compared to conventional energy for water supply in agricultural areas, explained on energy saving, CO2 reduction, and irrigation of agricultural areas. The methodology used is based on thePrisma 2020 Declaration, Scopus, Google Scholar, and Redalyc databases were used, finding 20 articles; the results demonstrate the importance of the use of new emerging technologies such as IoT, Artificial Intelligence, among others, optimizing the proper use of water resources in irrigation for agricultural areas, however, renewable energies, such as hybrids, must be incorporated; which applies in countries such as India, China, Italy, Hungary, Colombia, Brazil among others.It concludes with the benefits of hybrid energies compared to conventional ones since it does not pollute the environment, apply emerging technologies, and rationally use water for irrigation systems and food production.",
+      "authors": [
+        "Miguel Benites-Gutierrez",
+        "Jorge Contreras-Cossio",
+        "Robert Contreras-Rivera",
+        "Luis Cornejo-Olivares",
+        "Fernando Mendoza Apaza",
+        "Constantino Nieves-Barreto",
+        "Carlos Segura-Villarreal"
+      ],
+      "year": 2023,
+      "venue": "LACCEI International Multiconference on Entrepreneurship, Innovation and Regional Development (LEIRD)",
+      "doi": "10.18687/leird2023.1.1.567",
+      "keywords": [
+        "hybrid renewable energy systems",
+        "photovoltaic-wind hybrid system",
+        "irrigation systems",
+        "agricultural water supply",
+        "energy conservation",
+        "CO2 emission reduction",
+        "water resources management",
+        "food production"
+      ],
+      "url": "https://openalex.org/W4389885832",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Clean Technology Transfer and Innovation in Social Housing Production in Brazil and Colombia. A Framework from a Systematic Review",
+      "abstract": "Over recent years in Brazil and Colombia, the social housing programs of these two countries have increasingly become directly related to the concept of green construction and seek to integrate with their respective laws. For example, a series of technological strategies allows bought countries to guarantee a reduction of the environmental impact of traditional construction technologies. Therefore, these actions try to answer the problems in the design of dwellings in Latin America. However, the construction sector reduced productivity and limited innovation in business. Some of the technological management processes in the social housing construction sector only consider the implementation of clean technologies tangentially. This situation is mainly because of general policies since they do not consider different local contexts. It is then worth asking: What impact do the processes of transfer of clean technologies have on social housing in Brazil and Colombia? This systematic review was carried out on scientific papers indexed by the science database from 2013 to 2019. The PRISMA method was applied to this review with an aim to propose a conceptual model for the transfer of clean technology in the production of social housing in Brazil and Colombia. Finally, we identify that the impact of clean technologies transfer on social housing is very low in these two countries.",
+      "authors": [
+        "Rolando González",
+        "Grace Tibério Cardoso"
+      ],
+      "year": 2020,
+      "venue": "Sustainability",
+      "doi": "10.3390/su12041335",
+      "keywords": [
+        "social housing",
+        "sustainable construction",
+        "construction innovation",
+        "environmental impact of construction",
+        "housing policy",
+        "Brazil",
+        "Colombia",
+        "conceptual model"
+      ],
+      "url": "https://openalex.org/W3005581009",
+      "type": "review"
+    }
+  ]
+}

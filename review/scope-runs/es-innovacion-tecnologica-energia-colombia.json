@@ -1,0 +1,673 @@
+{
+  "generated_at": "2026-11-17T02:39:35Z",
+  "query": "innovación tecnológica energía Colombia",
+  "source": "openalex (type:review)",
+  "total": 67,
+  "reviews": [
+    {
+      "source": "openalex",
+      "title": "Systematic review of school factors that constitute barriers to entry, permanence and graduation in higher education in Colombia",
+      "abstract": "Los recientes desarrollos en el campo de la educación han prestado atención y llevado a identificar con mayor claridad problemáticas que enfrentan los jóvenes en contextos de educación superior y el impacto que estos tienen en el aumento del ausentismo y la deserción escolar; siendo este tema de gran importancia para entes gubernamentales y organizaciones no gubernamentales que trabajan por mejorar los indicadores de acceso y permanencia en los sistemas educativos. Sin embargo, estos estudios han estado focalizados en los niveles educativos de básica y media; no así, en el contexto de educación superior. Es por ello que en el marco de la Especialización en Docencia Universitaria de la Universidad El Bosque surge la necesidad de buscar referentes e identificar los avances en la conceptualización y análisis de las problemáticas que enfrentan los estudiantes en el ámbito de la educación superior y los cuales influyen negativamente en el ingreso, permanencia y graduación de éstos de programas de pregrado e incluso posgrado.",
+      "authors": [
+        "Valeria Parra Ruíz"
+      ],
+      "year": 2021,
+      "venue": "Repositorio Institucional Universidad El Bosque",
+      "doi": "",
+      "keywords": [
+        "higher education",
+        "school dropout",
+        "school absenteeism",
+        "barriers to entry",
+        "student retention",
+        "graduation",
+        "higher education access",
+        "university students",
+        "undergraduate programs",
+        "graduate programs",
+        "Colombia"
+      ],
+      "url": "https://openalex.org/W7133068283",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Systematic review and web analysis on funding sources for social impact projects in the energy sector",
+      "abstract": "En Colombia, la universalización del suministro de energía eléctrica a zonas no interconectadas ha sido fundamental para el desarrollo económico y social de las diversas regiones que no cuentan con este servicio. Por tal motivo, en el gobierno existen entidades que recaudan y destinan recursos a proyectos que tienen por objeto la construcción de redes de distribución en zonas no interconectadas del país, con el fin de expandir la cobertura del servicio y por ende mejorar la calidad de vida de las comunidades más alejadas. Este documento contiene la documentación requerida por los fondos de apoyo financiero y describe brevemente el proceso a llevar a cabo; esto se logra mediante el análisis de artículos académicos y documentos relevantes identificados en el análisis de contenido web.",
+      "authors": [
+        "María Yulieth Maldonado Orduz"
+      ],
+      "year": 2024,
+      "venue": "Universidad Industrial de Santander",
+      "doi": "",
+      "keywords": [
+        "energy sector",
+        "social impact projects",
+        "funding sources",
+        "off-grid electrification",
+        "distribution network construction",
+        "energy access",
+        "remote communities",
+        "Colombia"
+      ],
+      "url": "https://openalex.org/W7133453298",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Co-creation and open innovation: Systematic literature review",
+      "abstract": "Open science, as a common good, opens possibilities for the development of nations, through innovations and collaborative constructions, which help to democratize knowledge. Advances in this area are still emerging, and the open science, cocreation of knowledge and open innovation triangle, is presented as an opportunity to generate an original contribution from research to open educational theory and practices. The study analyzed the articles that addressed this triangle, in order to identify the contexts and challenges that arise in open innovation and the cocreation of knowledge to promote open science. The method was a systematic literature review (SLR) of 168 articles published in open access format, from January 2014 to May 2017 in the Web of Science and Scopus databases. In the validation process, the York University criteria were used: inclusion and exclusion, relevance of the pertinent studies, evaluation of the quality / validity of included studies and description of data / basic studies. The findings showed that the mostwidely publicized contexts were in the United States and Brazil, in the business and academic sectors (closely followed by the social sector), and the challenges were open to innovation, opening and research. The research concludes that the context and practices of collaboration are substantial elements for innovation and open science. La ciencia abierta, como bien común, abre posibilidades para el desarrollo de las naciones a través de innovaciones y construcciones colaborativas que ayudan a democratizar el conocimiento. Los avances en la materia aún son incipientes y el triángulo ciencia abierta, cocreación del conocimiento e innovación abierta se presenta como una oportunidad de generar un aporte original, desde la investigación, para la teoría y las prácticas educativas abiertas. En el estudio se analizaron los artículos que abordan este triángulo, con el fin de identificar los contextos y retos que se presentan en la innovación y en la cocreación de conocimiento para impulsar la ciencia abierta. El método fue una revisión sistemática de literatura (SLR) de 168 artículos publicados en acceso abierto, de enero 2014 a mayo 2017, en las bases de datos Web of Science y Scopus. La validación se dio con los criterios de la Universidad de York: inclusión y exclusión, pertinencia, evaluación de calidad / validez de los estudios y descripción de datos. Los hallazgos reflejan que los contextos de mayor publicación sobre el tema son los de Estados Unidos y Brasil, en los sectores empresariales y académicos (seguido de cerca por el sector social) y los retos se abren en las posibilidades de innovación, apertura e investigación. Se concluye que el contexto y las prácticas de colaboración son elementos sustanciales para la innovación y la ciencia abierta.",
+      "authors": [
+        "María Soledad",
+        "Francisco José García‐Peñalvo"
+      ],
+      "year": 2017,
+      "venue": "Comunicar",
+      "doi": "10.3916/c54-2018-01",
+      "keywords": [
+        "open science",
+        "open innovation",
+        "knowledge co-creation",
+        "open educational resources",
+        "democratization of knowledge",
+        "open access publishing"
+      ],
+      "url": "https://openalex.org/W2796143430",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Systematic literature review and web analysis of innovation trends in industrial engineering",
+      "abstract": "Las transformaciones sociales y tecnológicas que ha traído consigo la cuarta revolución industrial demanda que las universidades y escuelan enfoquen sus metodologías y estructuras hacia una visión basada en la innovación, dotando a los futuros profesionales de las habilidades necesarias para ser competentes en un mundo laboral y un mercado cada vez más dinámico y acelerado. En el marco del plan de innovación de la Escuela de Estudios Industriales y Empresariales de la Universidad Industrial de Santander, este trabajo busca contribuir con la identificación y caracterización de las principales tendencias de innovación en la ingeniería industrial, a través de una revisión sistemática de literatura, consultando información de los últimos seis años de las bases de datos Scopus y Web Of Science, y complementando el trabajo investigativo con un análisis web utilizando Twitter como motor de búsqueda. Se dividió el trabajo en dos vertientes: las tendencias de innovación en la industria y en la educación de ingeniería. Los resultados muestran un enfoque de la industria en sistemas ciberfísicos y aprendizaje automático basados en tecnologías clave, mientras que la educación se está moviendo hacia un aprendizaje basado en proyectos, colaborativo y multidisciplinario, con una relación cada vez más estrecha entre las universidades y la industria. La documentación de la metodología utilizada y los resultados se presentan en detalle en este documento.",
+      "authors": [
+        "José Luis Sepúlveda Ortiz"
+      ],
+      "year": 2021,
+      "venue": "Universidad Industrial de Santander",
+      "doi": "",
+      "keywords": [
+        "innovation trends",
+        "industrial engineering",
+        "Fourth Industrial Revolution",
+        "engineering education",
+        "cyber-physical systems",
+        "machine learning",
+        "project-based learning",
+        "university-industry collaboration",
+        "multidisciplinary education",
+        "cooperative learning"
+      ],
+      "url": "https://openalex.org/W7133412972",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Systematic literature review on emerging technologies applied to technology intelligence in a industrial environments",
+      "abstract": "La transformación digital de la industria 4.0 y su evolución hacia la industria 5.0 ha impulsado la invención acelerada de tecnologías como la inteligencia artificial (IA), internet de las cosas (IoT), entre otras; sin embargo, el creciente volumen de publicaciones científicas y documentos de patentes genera dificultades para la identificación sistemática de tendencias emergentes y oportunidades tecnológicas con valor estratégico para los sectores productivos. En este contexto, el objetivo de la presente investigación es analizar las tendencias tecnológicas en el uso de tecnologías emergentes para la vigilancia tecnológica en entornos industriales, mediante la identificación de metodologías, herramientas y enfoques prevalentes en la literatura científica reciente, mediante una revisión de literatura apoyada en técnicas de análisis bibliométrico. La metodología se desarrolla bajo un enfoque de una revisión estructurada que contempla: La definición de estrategias, la aplicación de dichas estrategias y la selección de estudios y por último el análisis comparativo y temático de la evidencia. Como resultado se consolida un panorama de tecnologías y metodológicas predominantes para la detección de tendencias, destacando enfoques basados en IA, análisis bibliométricos, analítica predictiva y minería de texto. Finalmente, se discuten brechas y oportunidades de investigación a fortalecer procesos de vigilancia tecnológica. Los hallazgos evidencian que las tecnologías basadas en inteligencia artificial, minería de texto y analítica predictiva presentan el mayor potencial para transformar los procesos de vigilancia tecnológica, al permitir la automatización del análisis y la detección temprana de oportunidades de innovación. No obstante, su implementación enfrenta barreras relacionadas con la disponibilidad de infraestructura tecnológica, la capacidad institucional y el rezago temporal propio de las fuentes de información utilizadas.",
+      "authors": [
+        "Vladimir Andrés Muñoz Gómez"
+      ],
+      "year": 2026,
+      "venue": "Universidad Industrial de Santander",
+      "doi": "",
+      "keywords": [
+        "technology intelligence",
+        "technological surveillance",
+        "emerging technologies",
+        "Industry 4.0",
+        "Industry 5.0",
+        "artificial intelligence",
+        "Internet of Things",
+        "patent analysis",
+        "bibliometric analysis",
+        "text mining",
+        "predictive analytics",
+        "innovation opportunities",
+        "industrial innovation",
+        "research gaps"
+      ],
+      "url": "https://openalex.org/W7164703164",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Relationship Between Green Supply Chain Management and the Organizational Performance of Agribusiness Companies: Systematic Review",
+      "abstract": "El documento explora esa relación que tiene la gestión para su cadena de suministro verde (GCV) y el desempeño organizacional en empresas agroindustriales. Se hizo la revisión de manera sistemática en la literatura, utilizando el enfoque PRISMA, así se pudo calcular el impacto en su GCV viendo su competitividad, reputación, innovación tecnológica y desempeño financiero de estas empresas. Se identifican diversas estrategias de GCV, como la optimización de procesos, el uso de tecnologías sostenibles, la gestión de los que proveen de manera responsable, tratar de cumplir las normas empresariales y su innovación en productos, además de los embalajes. El estudio destaca que la GCV no solo reduce el impacto en el ambiente, sino que también genera ventajas que son económicas a largo plazo, mejora la imagen corporativa y fortalece el duelo en el mercado en el mundo cada vez más consciente en su sostenibilidad. Sin embargo, la implementación de la GCV presenta desafíos como la necesidad de inversiones iniciales, la coordinación con proveedores y estas capacitaciones del personal. Se recomienda que las corporaciones agroindustriales consideren cuidadosamente los beneficios, desafíos y recomendaciones derivadas de estudios y mejores prácticas para implementar la GCV de una manera útil.",
+      "authors": [
+        "Alejandro Román Campos Gamarra",
+        "Daily Ashley Cordova Urbina",
+        "Kevin Eduardo Gálvez Carrillo",
+        "Francisco Gerardo Huamanchumo Trujillo",
+        "Edson Alexis Ugaz Julián"
+      ],
+      "year": 2024,
+      "venue": "Gestión de Operaciones Industriales",
+      "doi": "10.17268/goi4.0.2024.02",
+      "keywords": [
+        "green supply chain management",
+        "organizational performance",
+        "agri-food companies",
+        "agroindustry",
+        "competitiveness",
+        "corporate reputation",
+        "technological innovation",
+        "financial performance",
+        "environmental technology",
+        "packaging innovation",
+        "supplier management",
+        "environmental impact reduction",
+        "implementation barriers"
+      ],
+      "url": "https://openalex.org/W4402439902",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Innovation, Social, Smart Cities, Technologies, Systematic Review.",
+      "abstract": "El presente documento refleja los avances más relevantes obtenidos a nivel nacional y mundial en cuanto al desarrollo e implementación de tecnologías enfocadas en la innovación social en el marco de las ciudades inteligentes. Para la ejecución del proyecto, primero se diseñó un protocolo que permitió realizar una revisión sistemática, en donde mediante un análisis bibliométrico, se identificaron los estudios preliminares que servirían de insumo para la investigación. Esto se hizo, gracias al diseño de una ecuación de búsqueda, aplicada a la base de datos Scopus. Una vez corroborada la existencia de suficiente documentación relacionada con el tema de investigación, se procedió al análisis de su abstract o resumen, con la finalidad de establecer que tan relacionados se encontraban los documentos con el tema a trabajar. Aquellos que estaban directamente relacionados con la temática de estudio, se analizaron a mayor profundidad, y según su relevancia fueron incluidos en el documento final de la investigación. Adicionalmente se utilizaron otras fuentes de información, tales como páginas web de innovación tecnológica, emprendimiento colaborativo y crowdfunding o financiamiento colectivo, así como aquellas de contenido científico o periodístico. Igualmente y siguiendo la línea temática establecida en el proyecto, para el análisis, la presentación e interpretación de los resultados, se realizó la descripción de las características y particularidades de cada uno de los estudios analizados. Por último, se redactó el artículo científico, el cual contiene las conclusiones finales de la investigación. Los ejemplos de innovación social gestados gracias a la utilización de diversos recursos tecnológicos, como los mostrados en el presente proyecto, servirán de base para un futuro análisis y desarrollo en el país (para aquellos desarrollados por fuera de este), o para el fomento y apoyo de los que fueron concebidos por entusiastas emprendedores colombianos.",
+      "authors": [
+        "Elda P. Duran"
+      ],
+      "year": 2016,
+      "venue": "Universidad Industrial de Santander",
+      "doi": "",
+      "keywords": [
+        "social innovation",
+        "smart cities",
+        "urban technology",
+        "collaborative entrepreneurship",
+        "crowdfunding",
+        "collective financing",
+        "Colombian entrepreneurs",
+        "bibliometric analysis"
+      ],
+      "url": "https://openalex.org/W7133401657",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Systematic Review of the Open Innovation Construct in the Last Decade",
+      "abstract": "La innovación abierta es un constructo relativamente nuevo, el cual implementa la diversificación del conocimiento, ideas, procesos y actividades para lograr el desarrollo de productos o servicios exitosos en el mercado y así tener un valor agregado para los clientes, el IA es reconocida hoy en día como una herramienta fundamental en el desarrollo de la economía de las empresas ayudando a incrementar las ventas, pero a su vez encuentra obstáculos en su implementación. El presente trabajo de investigación se desarrolla con el objetivo de identificar mediante la revisión sistemática las fases, herramientas, y avances que incentivan a las organizaciones para la implementación de Open Innovación, enmarcando un análisis teórico de las ventajas y desventajas de su implementación. La consecución del objetivo general es el resultado de la suma de esfuerzos dirigidos a alcanzar metas específicas, en primera instancia se realizó una revisión bibliométrica de la incursión del Constructo Open Innovation en los últimos diez años. Seguido de la caracterización de las fases, herramientas, procesos y factores de éxito para la implementación del Constructo Open Innovation. Por otra parte, se realizó el análisis de casos empresariales que implementaron esta herramienta, de igual manera, se describió la motivación y resultados obtenidos en cada caso. Finalmente, se mencionaron las ventajas y las barreras que se presentan en la implementación de los procesos de la Innovación Abierta (IA).",
+      "authors": [
+        "Julian Felipe Santiago Guerrero"
+      ],
+      "year": 2024,
+      "venue": "Universidad Industrial de Santander",
+      "doi": "",
+      "keywords": [
+        "open innovation",
+        "implementation barriers",
+        "implementation success factors",
+        "company case study",
+        "knowledge diversification",
+        "value creation"
+      ],
+      "url": "https://openalex.org/W7133391298",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Systematic review and web analysis of the innovation ecosystem construct: Success factors for developing high-performance innovation ecosystems",
+      "abstract": "Esta investigación se centra en una revisión exhaustiva de la literatura científica sobre el constructo de ecosistemas de innovación y la identificación de factores críticos para su desarrollo exitoso. A través de una revisión sistemática, se analiza la evolución del concepto de ecosistemas de innovación, evaluando su complejidad y dinámicas emergentes. Se lleva a cabo un análisis del contenido web para identificar elementos y circunstancias que faciliten la creación de ecosistemas de alto rendimiento, destacando la importancia de la colaboración, las políticas públicas y la cultura de innovación. Además, se estudia el caso de Israel como un ejemplo destacado de un ecosistema de innovación de alto impacto, identificando los factores de éxito que contribuyen a su eficacia. El trabajo culmina en la elaboración de un artículo que sintetiza el concepto de ecosistemas de innovación, los factores identificados y proporciona recomendaciones para construir ecosistemas de innovación exitosos.",
+      "authors": [
+        "Leydi Carolina Machado Güiza",
+        "Juan Carlos Jaimes Rueda"
+      ],
+      "year": 2024,
+      "venue": "Universidad Industrial de Santander",
+      "doi": "",
+      "keywords": [
+        "innovation ecosystems",
+        "success factors",
+        "collaboration",
+        "public policy",
+        "innovation culture",
+        "ecosystem development"
+      ],
+      "url": "https://openalex.org/W7133459207",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Innovation in peace teaching: A systematic review",
+      "abstract": "El artículo presenta una revisión sistemática con el objetivo de analizar las características innovadoras en las estrategias implementadas en la cátedra para la paz, en instituciones educativas de Colombia mediante publicaciones de los últimos (5) años (2019 - 2024), con ello, se busca comprender la efectividad de la cátedra para la paz, creada tras el acuerdo de paz con las FARC en el 2016, y su incorporación en el currículo nacional, en donde se establece mediante la Ley 1732 de 2014 La cátedra de la paz como materia obligatoria en las instituciones educativas colombianas y su regulación es validada a través del Decreto 1038 del 2015, cuyo propósito es, promover una cultura de paz, además de ser una asignatura transversal que deberá adaptarse a diversas áreas de conocimiento, buscando fomentar la apropiación de conocimientos sobre el territorio, cultura, desarrollo sostenible, resolución pacífica de los conflictos, memoria histórica etc. En ese sentido el proceso de innovación educativo es presentado como un enfoque necesario para mejorar la calidad de enseñanza sobre la paz, considerando el contexto social y las experiencias vividas, a partir de nuevas miradas y prácticas que conduzcan a una mayor visibilización de sus aprendizajes. Dicho lo anterior, para la respectiva investigación se recogieron los datos a analizar por medio de motores de búsqueda y bases de datos hemerográficas académicas que contienen revistas indizadas y repositorios de instituciones de educación superior en Colombia. En los hallazgos, se destacó que las innovaciones en la cátedra de paz abren un abanico de posibilidades, como el uso de videojuegos y recursos digitales, permitiendo una enseñanza más dinámica. Un ejemplo es el videojuego \"Sven\", que aborda parte de la historia reciente de Colombia, mostrando que existen iniciativas que promueven la interactividad y el diálogo sobre temas de violencia y paz. Sin embargo, las pesquisas también muestran limitaciones en algunas prácticas educativas, que no logran el impacto esperado porque mencionan las prácticas como actividades que carecen de planeación y propósito. Dicho lo anterior es importante mencionar que en los desafíos que presenta la cátedra de la paz se resalta la reflexión sobre lo vital de la enseñanza enfocada y sensible de la cátedra para la paz, que a su vez, conlleva al fomento de nuevas prácticas educativas en pro de la transformación de la educación para la paz en Colombia. Por consiguiente esta investigación hace alusión, a que la innovación radical y excepcional no sea la meta distante y ambigua, sino por el contrario, se generen mejoras simples y significativas que propicien un cambio importante y valioso para la enseñanza, la práctica y la comprensión de la paz.",
+      "authors": [
+        "Juan Manuel Mora Ramírez",
+        "Jacqueline Olaya Rondón"
+      ],
+      "year": 2024,
+      "venue": "Repositorio Institucional Universidad El Bosque",
+      "doi": "",
+      "keywords": [
+        "peace studies",
+        "peace education",
+        "educational innovation",
+        "FARC peace agreement",
+        "culture of peace",
+        "digital learning resources",
+        "conflict resolution",
+        "Colombian higher education",
+        "teaching practice",
+        "post-conflict education",
+        "transversal themes",
+        "historical memory"
+      ],
+      "url": "https://openalex.org/W7132928294",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Systematic review and web analysis of tools to develop creative capacity",
+      "abstract": "Para las empresas del sector salud innovar en sus procesos es fundamental, ya que su principal objetivo es brindar una atención de calidad a sus pacientes; teniendo esto en mente buscan innovar de acuerdo a los avances tecnológicos que se van presentando, el uso de herramientas como el big data, machine learning e inteligencia artificial son simplemente algunos de los términos que investigan y estudian para el mejoramiento de sus procesos internos. Las innovaciones tecnológicas representan un punto de inicio para la transformación digital del sector salud, por lo cual en el presente proyecto de investigación se exponen aquellas innovaciones tecnológicas que se encuentran a la vanguardia y aquellas utilizadas por tres organizaciones prestadoras de salud principalmente, conociendo sus usos y beneficios para el sector por medio de una revisión de la literatura y un análisis de contenido web.",
+      "authors": [
+        "Sheila Paola Rueda Torres"
+      ],
+      "year": 2023,
+      "venue": "Universidad Industrial de Santander",
+      "doi": "",
+      "keywords": [
+        "creative potential",
+        "healthcare innovation",
+        "technological innovation",
+        "digital transformation",
+        "healthcare workers",
+        "big data",
+        "machine learning",
+        "artificial intelligence"
+      ],
+      "url": "https://openalex.org/W7133410971",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Transformational leadership and innovation: a systematic review of the literature",
+      "abstract": "El liderazgo transformacional (LT) se ha destacado como un estilo de liderazgo que influye significativamente en la innovación organizacional al promover comportamientos laborales innovadores y fomentar una cultura de innovación. A través de una revisión sistemática de literatura basada en el protocolo PRISMA, este estudio evaluó la asociación entre el liderazgo transformacional y la innovación en organizaciones de diversos contextos. El proceso de cribado seleccionó un total de 20 artículos. Los resultados indican que los líderes transformacionales, mediante estrategias como la motivación inspiradora y la estimulación intelectual, potencian la creatividad y el desempeño innovador en los equipos de trabajo. Sin embargo, se identificaron inconsistencias en contextos organizacionales rígidos y culturas conformistas, donde la influencia del LT sobre la innovación fue menos significativa. Este análisis subraya la importancia de diseñar intervenciones prácticas y políticas organizacionales que prioricen el LT como eje para la innovación y el desarrollo organizacional sostenible.",
+      "authors": [
+        "Katherine Castañeda Galindo",
+        "Jully Katterine Leal Vanegas",
+        "Marvi Andrea Tafur Barbosa"
+      ],
+      "year": 2025,
+      "venue": "Repositorio Institucional Universidad El Bosque",
+      "doi": "",
+      "keywords": [
+        "transformational leadership",
+        "organizational innovation",
+        "innovation culture",
+        "inspirational motivation",
+        "intellectual stimulation",
+        "employee creativity",
+        "innovation performance",
+        "organizational culture",
+        "organizational interventions"
+      ],
+      "url": "https://openalex.org/W7137790212",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Impact of the Implementation of Environmental Management Systems in Agribusiness Worldwide. A Systematic Review",
+      "abstract": "The main objective of this research was to determine the most relevant impact on the implementation of Environmental Management Systems (EMS) in agribusiness worldwide according to the most recent research work published. For this, the methodology of systematic review of the literature was used, considering IOP SCIENCE, PROQUEST and SCOPUS DATABASES, and information search strategies under inclusion and exclusion criteria.The results obtained were 38 articles, in which the impacts derived from the application of environmental management systems in agroindustrial activity were evidenced, identifying economic, environmental, and social impacts and research published by country, among which Indonesia, Brazil, Colombia and Greece stand out.It is concluded that the most relevant impact in the environmental field was the reduction and control of emissions, effluents, waste, as well as the reduction of the use of agrochemicals including pesticides and fertilizers.In the economic field, the increase in revenues was reported due to the opening of global markets and increase in product sales prices, reducing energy consumption and reducing losses due to waste, improving productivity, as well as reducing expenses for the application of sanctions due to environmental accidents and waste treatment.In the social sphere, it is reported that recycling practices are adopted, awareness is raised and the knowledge and capacities of stakeholders for environmental care and protection are improved.",
+      "authors": [
+        "Nilson Deonil Campos Vasquez",
+        "Viviano Paulino Ninaquispe Zare",
+        "Gregorio Mayer Ascon-Dionicio",
+        "Elita Luzmila Cueva Espinoza",
+        "Denilson Yoel Chuquimango Paisg"
+      ],
+      "year": 2023,
+      "venue": "LACCEI International Multi-Conference for Engineering, Education and Technology (LACCEI)",
+      "doi": "10.18687/laccei2023.1.1.980",
+      "keywords": [
+        "environmental management systems",
+        "agribusiness",
+        "agroindustry",
+        "economic impact",
+        "environmental impact",
+        "social impact",
+        "emission reduction",
+        "agrochemical reduction",
+        "energy consumption",
+        "recycling",
+        "stakeholder awareness",
+        "environmental compliance"
+      ],
+      "url": "https://openalex.org/W4385864469",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Systematic Review and Web Content Analysis of Blockchain Technology: Applicability in the Supply Chain for the Improvement of the Agricultural Sector",
+      "abstract": "Desde su llegada, la tecnología blockchain ha llamado la atención por la seguridad con que almacena información para diferentes fines, así como por la forma en la que permite realizar transacciones de manera eficaz y confiable. Esto ha despertado el interés de académicos, empresas y gobiernos para investigar nuevas aplicaciones de este recurso y su implementación en diferentes sectores económicos. Hoy en día, la trazabilidad es una de sus aplicaciones más llamativas para todo tipo de organizaciones; esto gracias a la posibilidad de registrar todos los movimientos de un producto o proceso a lo largo de la cadena de suministro, en tiempo real. Teniendo en cuenta lo anterior, el presente proyecto de investigación procura analizar los beneficios que esta tecnología puede proporcionar en el contexto agropecuario de Colombia; considerando la pérdida de valor que los productos agrícolas presentan a causa del poco control en su cadena de suministro. El siguiente estudio se aborda por medio de una revisión sistemática y un análisis de contenido web, metodologías designadas para cumplir el objetivo propuesto. Como resultado, se presenta un análisis bibliométrico y se identifican cinco ventajas principales de la aplicación del Blockchain en la cadena de suministro del sector agropecuario de Colombia; así mismo se consolidan los resultados de la investigación en una guía informativa. Se concluye sobre los hallazgos y se proponen recomendaciones para investigaciones futuras. Finalmente, se propone la difusión de este trabajo mediante un artículo de carácter publicable.",
+      "authors": [
+        "Valentina Gómez Lindarte",
+        "Laura Sofía Ortega Arias"
+      ],
+      "year": 2022,
+      "venue": "Universidad Industrial de Santander",
+      "doi": "",
+      "keywords": [
+        "blockchain",
+        "supply chain traceability",
+        "agricultural supply chain",
+        "agricultural sector",
+        "Colombian agriculture",
+        "blockchain applications",
+        "website content analysis"
+      ],
+      "url": "https://openalex.org/W7133467852",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Systematic review of the state of the art on the applications of biochars and bio-oils produced by pyrolysis of lignocellulosic waste",
+      "abstract": "El desarrollo agroindustrial promueve el crecimiento económico y tecnológico, pero trae consigo la generación de residuos que deben tratarse o de lo contrario, se convierten en una problemática ambiental, económica y logística para las organizaciones. En Colombia se generan residuos principalmente del sector agrícola debido a su alta actividad económica, por lo cual el cultivo de café, caña de azúcar, caña panelera, maíz, arroz, banano y palma de aceite generan residuos de aproximadamente 72 millones de toneladas por año que en la mayoría de los casos son incinerados o depositados en rellenos sanitarios (Peñaranda Gonzalez et al., 2017). El presente trabajo es una revisión sistemática del estado del arte sobre la producción y aplicación de biocarbones y bioaceites por medio de pirólisis de residuos lignocelulósicos, especialmente aquellos derivados de la cadena de cacao. Se realizó una búsqueda y selección de información, principalmente de artículos científicos por medio de la base de datos Scopus. En el proceso, se seleccionaron parámetros como el título, el resumen y el contenido, abordándose una cantidad total de 49 artículos. Se concluyó que la pirólisis es actualmente la tecnología más estudiada y con mayor aplicación en el aprovechamiento de los residuos lignocelulósicos. Las variables de mayor influencia son la temperatura, el tipo de pirólisis, la biomasa y el tipo de reactor. Finalmente se realizó una descripción de la pirólisis en residuos lignocelulósicos provenientes de la cadena de cacao, y se encontró que con una pirólisis lenta con temperaturas entre 400°C y 650°C de este residuo lignocelulósico se obtienen rendimientos para biocarbón de 31,1%, para bioaceite de 37,4% y para biogas de 31,5% en peso; los cuales pueden ser usados para generación de energía, enmienda del suelo y producción de biocarbón (Milian-Luperón et al., 2020). Se concluye que se requieren estudios posteriores que permitan identificar cómo afecta la cinética a las reacciones pirolíticas, el escalamiento y la proyección industrial de la conversión de estos residuos en productos de valor agregado.",
+      "authors": [
+        "Angie Paola Díaz Mesa",
+        "Julieth Natalia Díaz Quintero"
+      ],
+      "year": 2022,
+      "venue": "Universidad Industrial de Santander",
+      "doi": "",
+      "keywords": [
+        "biochar",
+        "bio-oil",
+        "pyrolysis",
+        "lignocellulosic waste",
+        "cocoa pod husk",
+        "slow pyrolysis",
+        "fast pyrolysis",
+        "pyrolysis temperature",
+        "pyrolysis kinetics",
+        "bio-oil upgrading"
+      ],
+      "url": "https://openalex.org/W7133420725",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Determinants of Cattle Production: A Comparative Systematic Review",
+      "abstract": "La eficiencia y sostenibilidad de la producción ganadera bovina en Latinoamérica y demás territorios dependen de la interacción activa de determinantes que varían según el contexto geográfico y las condiciones edafoclimáticas de la región; ello apuntó a plantear como objetivo analizar los factores que determinan la producción ganadera bovina en diversos contextos geográficos bajo una revisión sistemática de la literatura científica (2020 - 2026) con enfoque epistemológico racionalista-deductivo, tipo de investigación analítica con diseño documental. Se seleccionaron estudios empíricos de Perú, Venezuela, Paraguay, Colombia, Panamá, Brasil, México, Uruguay, Honduras y África por su pertinencia con el objeto de estudio. Los hallazgos revelan que los determinantes de mayor incidencia son las condiciones ambientales, manejo productivo, genética, escala productiva y acceso a mercados; las restricciones estructurales identificadas son la baja adopción tecnológica, ausencia de registros y organización deficiente. Las diferencias geográficas evidencian determinantes específicos como género del productor (Panamá), valores culturales (África), interacción agricultura-desforestación (Brasil) e infraestructura (Bostwana). Se concluye que la producción ganadera bovina constituye un sistema complejo y multidisciplinario, cuyas prácticas de eficiencia están alineadas con la interacción de una multiplicidad de determinantes de su proceso productivo; con alta relevancia socioeconómica en Latinoamérica y demás territorios al constituir el principal proveedor de empleo, seguridad alimentaria y diversificación de ingresos, bajo un enfoque sistémico de interconexión entre ciencia, academia, políticas públicas y organización productiva, en pro de mejorar la eficiencia biológica, productiva, económica y financiera de los sistemas ganaderos, garantizando la conservación de los recursos naturales y la resiliencia del sector primario.",
+      "authors": [
+        "Marbelis Nava Rosillón",
+        "Alí Javier Suárez-Brito"
+      ],
+      "year": 2026,
+      "venue": "Ciencia y Tecnología Agropecuaria.",
+      "doi": "10.24054/cyta.v11i1.4675",
+      "keywords": [
+        "cattle farming",
+        "environmental factors",
+        "productive management",
+        "cattle genetics",
+        "production scale",
+        "market access",
+        "technology adoption",
+        "livestock records",
+        "cultural values",
+        "infrastructure",
+        "food security",
+        "Latin America",
+        "Africa"
+      ],
+      "url": "https://openalex.org/W7219616936",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Transparencia en contrataciones públicas y su impacto en la eficiencia administrativa y fiscalización ciudadana: revisión sistemática",
+      "abstract": "Esta revisión sistemática analizó el impacto de la transparencia en las contrataciones públicas sobre la eficiencia administrativa y la fiscalización ciudadana. Se siguió la metodología PRISMA, consultando bases de datos como Scopus, ScienceDirect, SciELO, Redalyc y Google Académico. Se incluyeron estudios publicados entre 2020 y 2025, con enfoques cualitativos, cuantitativos o mixtos, en inglés o español, bajo criterios de inclusión estrictos. Los hallazgos revelan que plataformas de datos abiertos, sistemas electrónicos de contratación, observatorios ciudadanos y reformas normativas para la trazabilidad contractual optimizan procesos y recursos, elevando la eficiencia administrativa. Además, fortalecen la participación ciudadana y el control social, con variaciones según el contexto institucional. En gobiernos locales, persisten obstáculos como capacidades institucionales limitadas, brechas digitales y resistencia organizativa, que limitan la implementación inicial. En conclusión, la transparencia correlaciona positivamente con la eficiencia y la fiscalización, condicionado por diseños accesibles, marcos normativos sólidos y apertura tecnológica. Estos resultados coinciden con recomendaciones de la OCDE y la ONU sobre estándares globales de rendición de cuentas. Se sugiere consolidar monitoreo, estandarizar indicadores y promover alianzas multiactor para prácticas sostenibles.",
+      "authors": [
+        "Erik Junior Hernández-Silva",
+        "Miryam Griselda Lora Loza"
+      ],
+      "year": 2026,
+      "venue": "Revista InveCom",
+      "doi": "10.5281/zenodo.18147741",
+      "keywords": [
+        "transparency",
+        "public procurement",
+        "administrative efficiency",
+        "citizen oversight",
+        "open data portals",
+        "e-procurement systems",
+        "citizen observatories",
+        "citizen participation",
+        "local government",
+        "digital divide",
+        "accountability standards",
+        "public sector performance indicators"
+      ],
+      "url": "https://openalex.org/W7118213837",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Systematic review of the literature on social innovation towards a citizen culture, in the framework of smart cities.",
+      "abstract": "La Innovación Social (IS) hace referencia a los a procesos y resultados, que desarrollan un nuevo enfoque para abordar y lograr satisfacer las apremiantes necesidades y problemas de la sociedad, con el propósito de contribuir al mejoramiento de la calidad de vida de los individuos por medio de la construcción de nuevas capacidades y relaciones de colaboración entre las personas, fomentando su participación en el aporte de propuestas que permitan brindar una verdadera solución a los problemas que los aquejan. Pues se cree firmemente que estos son los principales actores a la hora de solucionarlos. Este proyecto presenta una investigación realizada sobre IS relacionada con cultura ciudadana en el marco de las ciudades inteligentes, empleando como metodología la revisión sistemática de la literatura. La opción metodológica permite trabajar con estudios de una manera ordenada, identificando criterios de eficacia, eficiencia, objetividad y reproducibilidad, lo cual garantiza minimizar el sesgo y subjetividad en los hallazgos. Esto para el establecimiento de un marco teórico de referencia que plasme el estado actual de la literatura y contribuya a la comprensión de este fenómeno. Los resultados señalan cómo desde acciones con un enfoque de IS se fomentan cambios en la cultura ciudadana, modificando las estructuras de comportamiento, por medio de la participación activa de las personas como integrantes de la sociedad, generando redes de colaboración que impacten en las costumbres y creencias que estos tienen; dando lugar a un sentido de pertenencia que a su vez promueva la convivencia urbana, a través del respeto por el patrimonio común y el reconocimiento de derechos y deberes ciudadanos. De esta forma, dichos cambios podrían incidir satisfactoriamente en el desarrollo del territorio, lo que permitiría indudablemente el camino hacia una ciudad inteligente.",
+      "authors": [
+        "Silvia Alejandra Poveda Ardila"
+      ],
+      "year": 2017,
+      "venue": "Universidad Industrial de Santander",
+      "doi": "",
+      "keywords": [
+        "social innovation",
+        "civic culture",
+        "smart cities",
+        "citizen participation",
+        "collaboration networks",
+        "sense of belonging",
+        "urban coexistence",
+        "common heritage",
+        "territorial development",
+        "quality of life"
+      ],
+      "url": "https://openalex.org/W7133398102",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Quality of life in people with chronic kidney disease undergoing hemodialysis versus peritoneal dialysis: a systematic review",
+      "abstract": "Introducción Calidad de vida de los pacientes con enfermedad renal crónica que reciben tratamiento con hemodiálisis versus diálisis peritoneal. Objetivos Evaluar los resultados con respecto a la evidencia en la literatura de los hallazgos relacionados con la calidad de vida de los pacientes con enfermedad renal crónica que reciben tratamiento con hemodiálisis versus diálisis peritoneal. Métodología Se realizó un estudio observacional y de revisión sistemática, enfocado en personas mayores de 18 años en tratamiento con hemodiálisis o diálisis peritoneal. Se incluyeron investigaciones publicadas entre 2014 y 2024 en inglés y español, disponibles en bases de datos como PUBMED, SCOPUS y WEB OF SCIENCE. Se emplearon palabras clave relacionadas con calidad de vida y enfermedad renal crónica, combinadas con operadores booleanos. La muestra se seleccionó según criterios de inclusión que consideraban estudios que evaluaran calidad de vida mediante escalas como KDQOL-36 y CVRS. Los artículos identificados fueron filtrados y analizados con las herramientas STROBE y PRISMA, verificando la calidad metodológica y excluyendo estudios que no cumplieran con los requisitos establecidos. Finalmente, se extrajeron los datos relevantes para la integración de resultados y la revisión sistemática. Resultados principales Se analizaron 2,223 pacientes con enfermedad renal crónica: 710 en diálisis peritoneal (31.9%) y 1,513 en hemodiálisis (68.1%). Estudios internacionales reportaron diferencias en calidad de vida entre ambos grupos. La diálisis peritoneal mostró mejores resultados en energía, fatiga y actividades diarias. Factores como nivel educativo, edad y comorbilidades influyeron en dimensiones físicas, emocionales y sociales. En Córdoba, pacientes en hemodiálisis presentaron mayor fatiga, ansiedad (42.6%), depresión (52.5%) y comorbilidades frecuentes como diabetes y enfermedad cardiovascular, afectando negativamente su calidad de vida. Los pacientes jóvenes en diálisis peritoneal reportaron mayor satisfacción social y familiar. Conclusiones La diálisis peritoneal presenta mejor percepción en la dimensión psicológica, especialmente en pacientes jóvenes sin comorbilidades. No obstante, más del 50% de los pacientes reportan calidad de vida regular, evidenciando que la hemodiálisis impacta negativamente en las dimensiones física y laboral.",
+      "authors": [
+        "Martin Diaz Seña",
+        "Miguel Felizzola Correa",
+        "Nereya Figueroa Solano",
+        "Carlos Gonzalezrubio Altamar",
+        "Wendy Llerena Palomino",
+        "Mateo Quiroz Gil",
+        "Julieth Vergara Barraza"
+      ],
+      "year": 2026,
+      "venue": "Medwave",
+      "doi": "10.5867/medwave.2026.s2.prosal35",
+      "keywords": [
+        "quality of life",
+        "chronic kidney disease",
+        "hemodialysis",
+        "peritoneal dialysis",
+        "fatigue",
+        "depression",
+        "anxiety",
+        "comorbidities",
+        "diabetes mellitus",
+        "cardiovascular disease",
+        "social satisfaction",
+        "family satisfaction",
+        "psychological well-being",
+        "activities of daily living",
+        "educational attainment",
+        "age",
+        "KDQOL-36",
+        "patient satisfaction"
+      ],
+      "url": "https://openalex.org/W7221123519",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Decarbonization of the Electricity Sector Using Solar Photovoltaic and Wind Generation: A Systematic Review",
+      "abstract": "From the review of the articles, it is confirmed that the insertion of renewable energies such as solar photovoltaic and wind energy, which, for the purpose of supplying the demand for electricity, contribute to reduce the greenhouse gases resulting from the environmental pollution generated by conventional power plants and thus decarbonize the electricity sector. Likewise, the State is required to implement training activities, promote a regulatory framework to encourage the massive use of renewable energies and evaluate the technical capacity of the facilities to absorb, without problems, the growth of these important projects that use natural resources.",
+      "authors": [
+        "Edwin Ramirez-Soto",
+        "Luis Arellan-Yanac",
+        "Javier Lucana-Jaramillo",
+        "Adolfo Rios-Velasco",
+        "Edison Espinoza-Rojas",
+        "Jose Garay-Torres",
+        "Carlos Alfaro-Rodriguez"
+      ],
+      "year": 2023,
+      "venue": "LACCEI International Multi-Conference for Engineering, Education and Technology (LACCEI)",
+      "doi": "10.18687/laccei2023.1.1.1388",
+      "keywords": [
+        "decarbonization",
+        "electric utilities",
+        "photovoltaics",
+        "wind energy",
+        "renewable energy integration",
+        "greenhouse gas emissions",
+        "conventional power plants",
+        "energy regulation",
+        "renewable energy policy",
+        "grid capacity"
+      ],
+      "url": "https://openalex.org/W4385863629",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Systematic Review and Web Content Analysis on the Impact of Blockchain Technology in the Improvement of Administrative Processes in the Public Sector.",
+      "abstract": "Título: Revisión sistemática y análisis de contenido web sobre el impacto de la tecnología blockchain en el mejoramiento de procesos administrativos en el sector público. Autor: Glen Matheuf Jiménez Perdomo Descripción: En el momento se presenta una gran necesidad de modernizar el sector público colombiano debido a que presenta desafíos, tales como la ineficiencia operativa y la falta de transparencia, lo que ha impulsado el interés por soluciones tecnológicas innovadoras. En este contexto, la tecnología blockchain se muestra como una herramienta con potencial para transformar la gestión pública, ya que ofrece trazabilidad, seguridad, integridad de los datos y automatización de procesos. Concretamente, el objetivo de la presente investigación fue realizar una revisión bibliográfica y un análisis bibliométrico sobre el impacto de la tecnología blockchain en el mejoramiento de los procesos administrativos del sector público, para fortalecer la transparencia y la eficiencia operativa. En cuanto a la metodología, se puede mencionar que esta es de tipo cualitativa, estructurada en tres fases: revisión sistemática de literatura académica publicada entre 2018 y 2025 en Scopus, Web of Science y Google Académico; análisis bibliométrico mediante el software VOSviewer; y análisis de contenido web de 30 documentos, entre artículos científicos, normativas e informes gubernamentales. En los resultados se muestra un crecimiento sostenido de publicaciones desde 2020, con predominio en áreas como ciencias sociales, administración pública y sistemas de información. Por otra parte, el análisis bibliométrico revela una dispersión significativa de autores y conceptos, destacando términos clave como “transparency”, “governance” y “trust”. Por último, el análisis de contenido web mostró que la blockchain aporta valor en interoperabilidad, automatización de procesos y trazabilidad documental, aunque enfrenta desafíos legales, técnicos e institucionales. Al finalizar, se concluye que blockchain representa una oportunidad estratégica en la transformación digital del sector público, siempre que se aborden adecuadamente sus barreras de adopción. Palabras clave: Blockchain, procesos administrativos, sector público, transparencia, eficiencia, VOSviewer.",
+      "authors": [
+        "Glen Matheuf Jiménez Perdomo"
+      ],
+      "year": 2025,
+      "venue": "Universidad Industrial de Santander",
+      "doi": "",
+      "keywords": [
+        "blockchain",
+        "public sector management",
+        "administrative processes",
+        "transparency",
+        "operational efficiency",
+        "digitalization of public administration",
+        "process automation",
+        "interoperability",
+        "data traceability",
+        "trust",
+        "blockchain adoption barriers",
+        "Colombian public sector"
+      ],
+      "url": "https://openalex.org/W7133438935",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "METHODS USED FOR THE DEGRADATION OF CYANIDE IN WASTEWATER, A SYSTEMATIC REVIEW.",
+      "abstract": "La presencia de cianuro en aguas residuales, producto de actividades industriales como la minería, metalurgia y galvanoplastia, representan un riesgo significativo para la salud humana y los ecosistemas debido a su alta toxicidad. En este trabajo se realizó una revisión sistemática sobre los métodos de degradación de cianuro presentes en aguas residuales. La búsqueda y clasificación de la información se realizó de acuerdo con el protocolo PRISMA. Se realizó un análisis bibliométrico para obtener un panorama acerca del número de artículos publicados y citados por año, autores más relevantes, países y revistas con mayor número de publicaciones. Se analizaron los diferentes métodos para ser clasificados como biológicos, químicos y físicos los cuales se evaluaron por tres criterios de comparación siendo la eficiencia del método, la viabilidad operativa y las condiciones ambientales. Además, se analizó el nivel de madurez tecnológica (TRL) de estos métodos, observando que mientras técnicas como la adsorción en carbón activado se encuentran en niveles TRL 4-5 procesos como la biorremediación con bacterias Pseudomonas están en fases de validación (TRL 3-4). Se pudo concluir que la selección del método depende del tipo de cianuro, normativas y viabilidad económica. Mientras los químicos (oxidación avanzada, fotocatálisis) garantizan rapidez, generan subproductos; los biológicos son sostenibles pero sensibles a condiciones ambientales. En la práctica, la combinación de técnicas como oxidación inicial seguida de biorremediación optimiza costos y cumplimiento ambiental. Este trabajo resalta la necesidad de adaptar soluciones a contextos industriales específicos, priorizando escalabilidad y sostenibilidad.",
+      "authors": [
+        "Wilson Felipe Arias Ruiz",
+        "Julissa Esmeralda Cadena Ardila"
+      ],
+      "year": 2025,
+      "venue": "Universidad Industrial de Santander",
+      "doi": "",
+      "keywords": [
+        "cyanide degradation",
+        "industrial wastewater treatment",
+        "advanced oxidation processes",
+        "photocatalysis",
+        "activated carbon adsorption",
+        "bioremediation",
+        "Pseudomonas",
+        "technology readiness level",
+        "mining wastewater",
+        "electroplating wastewater"
+      ],
+      "url": "https://openalex.org/W7133369355",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Conceptual Model for the Assessment of Academic Productivity in Research Seedbeds From a Systematic Review",
+      "abstract": "Higher education institutions have focused their efforts on promoting research seedbeds as a strategy for formative research. In this regard, the impact of such a strategy remains unknown due to the lack of models that enable its evaluation. Therefore, this study aimed to design an evaluation model for the academic productivity of research seedbeds based on the available evidence in the literature. To achieve this, a systematic review was conducted following the PRISMA model, analyzing 53 documents including articles, book chapters, and conference proceedings from the SCOPUS, ProQuest, Jstor, Scielo, and ScienceDirect databases. The results identified indicators that allowed for the design of a model based on six constructs: research training, institutional capabilities, bibliographic production, innovation and development, social appropriation of knowledge, and human resource training. It was concluded that the indicators evaluating research seedbeds seek greater scientific development involving students and improving the quality of research products, which directly impacts the institutional research mission.",
+      "authors": [
+        "Magda Alejandra Martínez Daza",
+        "Lira Isis Valencia Quecano",
+        "Alfredo Guzmán Rincón"
+      ],
+      "year": 2024,
+      "venue": "European Journal of Educational Research",
+      "doi": "10.12973/eu-jer.13.2.813",
+      "keywords": [
+        "research seedbeds",
+        "academic productivity",
+        "evaluation model",
+        "formative research",
+        "research training",
+        "institutional capacity",
+        "bibliographic production",
+        "innovation and development",
+        "social appropriation of knowledge",
+        "human resource training",
+        "higher education research"
+      ],
+      "url": "https://openalex.org/W4391604209",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Social Responsibility Trends in Industries, Over the Last 15 Years. A Systematic Review",
+      "abstract": "Corporate social responsibility is an inclusive term, where companies seek to adopt practices that improve the environment and society.This Systematic Review discusses the Social Responsibility Trends in industries, with the objective of answering the research question: \"What are the social responsibility trends in the industry?The methodology used is based on the PRISMA statement, which establishes criteria for the collection of information, Keywords were defined in Spanish, such as \"Responsabilidad Social Empresarial\", and Boolean operators were applied in various databases, such as ProQuest, Scopus, Redalyc, Ebsco, Dialnet and Scielo.The search focused on articles published between 2008 and 2023, and inclusion criteria were developed to select articles from scientific and academic journals in Spanish and English.After the review, 33 articles that met the criteria were finally selected.The results showed that most of the articles came from Scopus, followed by ProQuest and Dialnet.In terms of trends, the categorization table highlights eleven different sectors, evidencing the importance of Social Responsibility to achieve objectives and satisfy society.",
+      "authors": [
+        "Wilson Alcides Gonzales Abanto",
+        "Jose Leodan Delgado Mestanza",
+        "Juhny Giunmy Chavez Delgado",
+        "José Eduardo Horna Salas",
+        "Aurorita Melissa Maricielo Tello Zavala",
+        "Alexis Antonio Diaz Diaz",
+        "Marco Antonio Culqui Chavez",
+        "Luis Roberto Quispe Vásquez"
+      ],
+      "year": 2024,
+      "venue": "LACCEI International Multi-Conference for Engineering, Education and Technology (LACCEI)",
+      "doi": "10.18687/laccei2024.1.1.1775",
+      "keywords": [
+        "corporate social responsibility",
+        "industry sectors",
+        "environmental practices",
+        "business and society"
+      ],
+      "url": "https://openalex.org/W4401577821",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Roadmaps and Circular Economy: A Systematic Review to Trace the Future Towards Sustainability",
+      "abstract": "The new sustainability agenda encompasses various strategies implemented by nations to align efforts and cooperatively reduce global warming, whose effects are increasingly severe and largely considered irreversible. Among the most widely recognized strategies is the circular economy, a concept that has been developed through diverse approaches across different regions of the world. The objective of this research is to examine the relationship between roadmaps and the circular economy, with the aim of identifying common factors. The study employs a systematic review of 238 articles indexed in the Web of Science (2013–2024). The results reveal trending topics, as well as the identification of seven clusters and five key factors influencing roadmaps for the transition toward circularity, including waste management, water treatment, and energy generation.",
+      "authors": [
+        "Universidad Autónoma del Estado de Hidalgo",
+        "María Concepción García-Pérez",
+        "Carla Carolina Pérez Hernández",
+        "Universidad Autónoma del Estado de Hidalgo"
+      ],
+      "year": 2025,
+      "venue": "Economía Creativa",
+      "doi": "10.46840/ec.2025.22.763",
+      "keywords": [
+        "circular economy",
+        "roadmap",
+        "sustainability transitions",
+        "circularity",
+        "waste management",
+        "water treatment",
+        "energy production",
+        "climate change mitigation"
+      ],
+      "url": "https://openalex.org/W4414796574",
+      "type": "review"
+    }
+  ]
+}

@@ -1,0 +1,701 @@
+{
+  "generated_at": "2026-11-17T02:39:37Z",
+  "query": "energías renovables Colombia",
+  "source": "openalex (type:review)",
+  "total": 61,
+  "reviews": [
+    {
+      "source": "openalex",
+      "title": "Systematic review of emerging pharmacological pollutants presents in water resources, quantification methods and treatments for their elimination in Colombia.",
+      "abstract": "El estudio de los contaminantes emergentes de origen farmacéutico ha generado gran interés en la comunidad científica por la amenaza creciente que representan estos compuestos en el ecosistema acuático y la calidad del agua. Los sistemas de tratamientos de aguas residuales no logran depurar por completo estos contaminantes, generando acumulación y persistencia causada por las propiedades recalcitrantes de estos fármacos, en particular los antibióticos. Su presencia se debe principalmente por actividad antropogénica, especialmente al consumo masivo y no regulado de fármacos. Para este estudio, se llevó cabo una revisión sistemática de la literatura utilizando la metodología PRISMA, con el objetivo de identificar los contaminantes emergentes de origen farmacéuticos presentes en diferentes matrices acuáticas en Colombia, así mismo, se analizaron los métodos de cuantificación y eliminación con el fin de proponer un sistema de depuración de aguas residuales basado en las tecnologías más investigadas en los artículos revisados en las bases de datos consultadas, incluyendo ScienceDirect, Scopus ,Springer, SciELO y la Red Colombiana de Información Científica del Ministerio de Ciencias (Minciencias). En total, se seleccionaron 43 artículos relevantes publicados entre el 2014 y 2025, que reportaron los fármacos con mayor presencia en matrices acuáticas colombianas, como la carbamazepina, diclofenaco y el ibuprofeno. Estos fármacos fueron detectados y cuantificados mediante Cromatografía Líquida de Alta Resolución (HPLC) y Cromatografía Líquida acoplada a Espectrometría de Masas (UPLC-MS/MS). La oxidación avanzada por foto-Fenton se destacó por su efectividad en la eliminación de contaminantes de origen farmacéutico. Para el contexto colombiano, se propone su aplicación acoplada a un sistema biológico, aprovechando la disponibilidad de radiación solar que permite optimizar el proceso y reducir costos energéticos. Aunque representa una alternativa sostenible para el tratamiento de aguas residuales, se requieren estudios más detallados para su aplicación a escala real en una PTAR.",
+      "authors": [
+        "Cristian Uribe Luna",
+        "Karol Nathalia Toloza Ariza"
+      ],
+      "year": 2025,
+      "venue": "Universidad Industrial de Santander",
+      "doi": "",
+      "keywords": [
+        "water pollution",
+        "wastewater treatment",
+        "carbamazepine",
+        "diclofenac",
+        "ibuprofen",
+        "photo-Fenton process",
+        "advanced oxidation processes",
+        "UPLC-MS/MS quantification",
+        "antibiotic pollution",
+        "Colombia",
+        "solar energy",
+        "biological treatment",
+        "water quality",
+        "aquatic ecosystems",
+        "wastewater treatment plants",
+        "energy cost reduction"
+      ],
+      "url": "https://openalex.org/W7133369131",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Systematic review and web analysis on funding sources for social impact projects in the energy sector",
+      "abstract": "En Colombia, la universalización del suministro de energía eléctrica a zonas no interconectadas ha sido fundamental para el desarrollo económico y social de las diversas regiones que no cuentan con este servicio. Por tal motivo, en el gobierno existen entidades que recaudan y destinan recursos a proyectos que tienen por objeto la construcción de redes de distribución en zonas no interconectadas del país, con el fin de expandir la cobertura del servicio y por ende mejorar la calidad de vida de las comunidades más alejadas. Este documento contiene la documentación requerida por los fondos de apoyo financiero y describe brevemente el proceso a llevar a cabo; esto se logra mediante el análisis de artículos académicos y documentos relevantes identificados en el análisis de contenido web.",
+      "authors": [
+        "María Yulieth Maldonado Orduz"
+      ],
+      "year": 2024,
+      "venue": "Universidad Industrial de Santander",
+      "doi": "",
+      "keywords": [
+        "energy sector",
+        "social impact projects",
+        "funding sources",
+        "off-grid electrification",
+        "distribution network construction",
+        "energy access",
+        "remote communities",
+        "Colombia"
+      ],
+      "url": "https://openalex.org/W7133453298",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Systematic review of development literature from Latin America between 2010- 2021",
+      "abstract": "The purpose of this systematic review is to identify and describe the state of development literature published in Latin America, in Spanish and English, since 2010. For this, we carried out a topographic review of 44 articles available in the most important bibliographic indexes of Latin America, published in journals of diverse disciplines. Our analysis focused on analyzing the nature and composition of literature, finding a large proportion of articles coming from Mexico and Colombia, as well as specialized in the economic discipline. The most relevant articles reviewed show methodological and thematic diversity, with special attention to the problem of growth in Latin American development. An important limitation of this review is the exclusion of articles published in Portuguese, as well as non-indexed literature (such as theses and dissertations). This leads to various recommendations for future reviews of the development literature produced in Latin America.",
+      "authors": [
+        "Pedro Alfonso de la Puente",
+        "Juan José Berdugo Cepeda",
+        "María José Pérez Pacheco"
+      ],
+      "year": 2022,
+      "venue": "arXiv (Cornell University)",
+      "doi": "10.48550/arxiv.2204.07504",
+      "keywords": [
+        "development literature",
+        "Latin America",
+        "economic growth",
+        "research trends",
+        "publication analysis",
+        "Mexico",
+        "Colombia"
+      ],
+      "url": "https://openalex.org/W4224009010",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Systematic review of Electrolytic Cells with Biocathodes in the Production of Green Hydrogen at Industrial Scale for Wastewater Treatment",
+      "abstract": "La transición energética global ha intensificado la búsqueda de fuentes de energía renovables y sostenibles, entre las cuales el hidrógeno verde se posiciona como un vector energético estratégico por su potencial para sustituir combustibles fósiles y reducir las emisiones de carbono. Sin embargo, la producción de hidrógeno mediante electrólisis requiere mejoras en eficiencia energética para ser competitiva a gran escala. En este marco, las celdas de electrólisis microbiana (MEC) con biocátodos emergen como una tecnología innovadora al integrar microorganismos electroactivos capaces de reducir la energía necesaria para la electrólisis y, de forma simultánea, promover la remoción de contaminantes orgánicos presentes en aguas residuales. Esta integración permite combinar la producción de hidrógeno verde con el tratamiento de efluentes, generando beneficios ambientales y energéticos de manera conjunta. La revisión sistemática abarcó un periodo de diez años e incluyó inicialmente 68 estudios, de los cuales 36 fueron seleccionados tras aplicar criterios de filtrado por título, resumen y palabras clave. Los resultados muestran que las MEC con biocátodos alcanzan eficiencias del 70–85 % en la producción de hidrógeno, con reducciones en el consumo energético de hasta 40 % en comparación con métodos convencionales. Además, se reportan eficiencias de remoción de contaminantes orgánicos del 80–90 % y una mayor estabilidad operativa cuando se emplean consorcios microbianos durante periodos superiores a 1.200 horas. No obstante, el escalado de esta tecnología presenta desafíos, ya que el rendimiento disminuye al aumentar el volumen de los reactores debido a limitaciones en la transferencia electrónica, pérdidas asociadas a procesos metanogénicos y resistencias internas. A pesar de ello, estrategias como la modularización de electrodos, el uso de materiales de alta conductividad y el control selectivo de comunidades microbianas se identifican como líneas de investigación clave para superar estas limitaciones.",
+      "authors": [
+        "Ines Nayely Herrera Manrique",
+        "Maria Paula Franco Ruiz"
+      ],
+      "year": 2026,
+      "venue": "Universidad Industrial de Santander",
+      "doi": "",
+      "keywords": [
+        "microbial electrolysis cells",
+        "biocathode",
+        "green hydrogen production",
+        "wastewater treatment",
+        "electroactive microorganisms",
+        "energy consumption reduction",
+        "organic pollutant removal",
+        "microbial consortia",
+        "reactor scale-up",
+        "electrode conductivity",
+        "hydrogen production efficiency"
+      ],
+      "url": "https://openalex.org/W7133591161",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Hybrid energy irrigation system compared to conventional energy a systematic review",
+      "abstract": "This research is a systematic review of the irrigation system with hybrid energy compared to conventional energy, between 2015 and 2022. The main objective is to evaluate the effects of the irrigation system activated with hybrid photovoltaic -wind energy compared to conventional energy for water supply in agricultural areas, explained on energy saving, CO2 reduction, and irrigation of agricultural areas. The methodology used is based on thePrisma 2020 Declaration, Scopus, Google Scholar, and Redalyc databases were used, finding 20 articles; the results demonstrate the importance of the use of new emerging technologies such as IoT, Artificial Intelligence, among others, optimizing the proper use of water resources in irrigation for agricultural areas, however, renewable energies, such as hybrids, must be incorporated; which applies in countries such as India, China, Italy, Hungary, Colombia, Brazil among others.It concludes with the benefits of hybrid energies compared to conventional ones since it does not pollute the environment, apply emerging technologies, and rationally use water for irrigation systems and food production.",
+      "authors": [
+        "Miguel Benites-Gutierrez",
+        "Jorge Contreras-Cossio",
+        "Robert Contreras-Rivera",
+        "Luis Cornejo-Olivares",
+        "Fernando Mendoza Apaza",
+        "Constantino Nieves-Barreto",
+        "Carlos Segura-Villarreal"
+      ],
+      "year": 2023,
+      "venue": "LACCEI International Multiconference on Entrepreneurship, Innovation and Regional Development (LEIRD)",
+      "doi": "10.18687/leird2023.1.1.567",
+      "keywords": [
+        "hybrid renewable energy systems",
+        "photovoltaic-wind hybrid system",
+        "irrigation systems",
+        "agricultural water supply",
+        "energy conservation",
+        "CO2 emission reduction",
+        "water resources management",
+        "food production"
+      ],
+      "url": "https://openalex.org/W4389885832",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "A review of the production of ethanol from softwood",
+      "abstract": "",
+      "authors": [
+        "Mats Galbe",
+        "Guido Zacchi"
+      ],
+      "year": 2002,
+      "venue": "Applied Microbiology and Biotechnology",
+      "doi": "10.1007/s00253-002-1058-9",
+      "keywords": [
+        "ethanol production",
+        "softwood",
+        "lignocellulosic biomass",
+        "hemicellulose hydrolysis",
+        "cellulose hydrolysis",
+        "biofuels",
+        "process economics",
+        "process configuration",
+        "wood waste"
+      ],
+      "url": "https://openalex.org/W2017654058",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Latin America towards Sustainability through Renewable Energies: A Systematic Review",
+      "abstract": "Nowadays, the increase in global energy demand is notorious, a situation that, in turn, impacts the environment through the generation of pollutants that are harmful to the planet. In this sense, an energy transition towards clean energy sources, also known as renewable sources, is essential, as well as better energy management and a responsible use of available natural resources. In this context, the objective of this systematic review was to analyze the use of renewable energy sources in Latin America, in addition to the guidelines established for their use, and the consequences of the use of non-renewable sources. Therefore, the PRISMA method was applied, and 60 publications were selected, from which the existing interest in this region in combatting the increase in energy demand and the use of fossil fuels through renewable energies is evidenced. Finally, it is concluded that there is still a need for greater dissemination in the region regarding this problem, as well as greater actions on the part of industries and governments to make proper use of this type of energy source.",
+      "authors": [
+        "Renzo Antonio Seminario Córdova"
+      ],
+      "year": 2023,
+      "venue": "Energies",
+      "doi": "10.3390/en16217422",
+      "keywords": [
+        "renewable energy",
+        "energy transition",
+        "sustainability",
+        "Latin America",
+        "energy demand",
+        "fossil fuels",
+        "non-renewable energy",
+        "energy management",
+        "clean energy",
+        "environmental pollution"
+      ],
+      "url": "https://openalex.org/W4388288740",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Decarbonization of the Electricity Sector Using Solar Photovoltaic and Wind Generation: A Systematic Review",
+      "abstract": "From the review of the articles, it is confirmed that the insertion of renewable energies such as solar photovoltaic and wind energy, which, for the purpose of supplying the demand for electricity, contribute to reduce the greenhouse gases resulting from the environmental pollution generated by conventional power plants and thus decarbonize the electricity sector. Likewise, the State is required to implement training activities, promote a regulatory framework to encourage the massive use of renewable energies and evaluate the technical capacity of the facilities to absorb, without problems, the growth of these important projects that use natural resources.",
+      "authors": [
+        "Edwin Ramirez-Soto",
+        "Luis Arellan-Yanac",
+        "Javier Lucana-Jaramillo",
+        "Adolfo Rios-Velasco",
+        "Edison Espinoza-Rojas",
+        "Jose Garay-Torres",
+        "Carlos Alfaro-Rodriguez"
+      ],
+      "year": 2023,
+      "venue": "LACCEI International Multi-Conference for Engineering, Education and Technology (LACCEI)",
+      "doi": "10.18687/laccei2023.1.1.1388",
+      "keywords": [
+        "decarbonization",
+        "electric utilities",
+        "photovoltaics",
+        "wind energy",
+        "renewable energy integration",
+        "greenhouse gas emissions",
+        "conventional power plants",
+        "energy regulation",
+        "renewable energy policy",
+        "grid capacity"
+      ],
+      "url": "https://openalex.org/W4385863629",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Impact of the Implementation of Environmental Management Systems in Agribusiness Worldwide. A Systematic Review",
+      "abstract": "The main objective of this research was to determine the most relevant impact on the implementation of Environmental Management Systems (EMS) in agribusiness worldwide according to the most recent research work published. For this, the methodology of systematic review of the literature was used, considering IOP SCIENCE, PROQUEST and SCOPUS DATABASES, and information search strategies under inclusion and exclusion criteria.The results obtained were 38 articles, in which the impacts derived from the application of environmental management systems in agroindustrial activity were evidenced, identifying economic, environmental, and social impacts and research published by country, among which Indonesia, Brazil, Colombia and Greece stand out.It is concluded that the most relevant impact in the environmental field was the reduction and control of emissions, effluents, waste, as well as the reduction of the use of agrochemicals including pesticides and fertilizers.In the economic field, the increase in revenues was reported due to the opening of global markets and increase in product sales prices, reducing energy consumption and reducing losses due to waste, improving productivity, as well as reducing expenses for the application of sanctions due to environmental accidents and waste treatment.In the social sphere, it is reported that recycling practices are adopted, awareness is raised and the knowledge and capacities of stakeholders for environmental care and protection are improved.",
+      "authors": [
+        "Nilson Deonil Campos Vasquez",
+        "Viviano Paulino Ninaquispe Zare",
+        "Gregorio Mayer Ascon-Dionicio",
+        "Elita Luzmila Cueva Espinoza",
+        "Denilson Yoel Chuquimango Paisg"
+      ],
+      "year": 2023,
+      "venue": "LACCEI International Multi-Conference for Engineering, Education and Technology (LACCEI)",
+      "doi": "10.18687/laccei2023.1.1.980",
+      "keywords": [
+        "environmental management systems",
+        "agribusiness",
+        "agroindustry",
+        "economic impact",
+        "environmental impact",
+        "social impact",
+        "emission reduction",
+        "agrochemical reduction",
+        "energy consumption",
+        "recycling",
+        "stakeholder awareness",
+        "environmental compliance"
+      ],
+      "url": "https://openalex.org/W4385864469",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Life cycle sustainability assessment of sustainable social housing refurbishment: A systematic review",
+      "abstract": "The European Union has initiated building renovation strategies to address Europe’s ageing building stock and reach climate neutrality. However, social housing refurbishment faces distinct challenges: balancing affordability with energy efficiency improvements, avoiding green gentrification, and inclusive stakeholder participation. Current research remains fragmented, focusing mostly on environmental-economic dimensions while omitting social aspects. This paper aims to systematically review life cycle sustainability assessment (LCSA) methodologies (i.e., Life Cycle Assessment (LCA), Life Cycle Costing (LCC) and Social Life Cycle Assessment (S-LCA)) applied in social housing refurbishments, and to identify research trends, gaps, and future directions. A three-phase systematic review methodology was employed, using (i) literature identification, (ii) quantitative bibliometric analysis, and (iii) qualitative content analysis. A review of 120 peer-reviewed documents (2015-2025) was conducted, classifying them by building interventions, sustainability dimensions, and application of sustainability assessment methodologies, LCA, LCC, and S-LCA. Results reveal global research imbalances. LCA dominates, followed by LCC, while S-LCA remains limited. S-LCA lacks methodological maturity, limiting its application and cross-study comparability. Achieving equitable and sustainable social housing requires developing standardised S-LCA protocols (analogous to LCA and LCC) for global accessibility, advancing social sustainability metrics, and establishing inclusive stakeholder engagements throughout the lifecycle for overall sustainability.",
+      "authors": [
+        "Belal Neazi",
+        "Sara Torabi Moghadam",
+        "Gianluca Grazieschi",
+        "Patrizia Lombardi",
+        "Adriano Bisello"
+      ],
+      "year": 2026,
+      "venue": "Valori e Valutazioni",
+      "doi": "10.48264/vvsiev-20264206",
+      "keywords": [
+        "social housing",
+        "building renovation",
+        "life cycle sustainability assessment",
+        "social life cycle assessment",
+        "life cycle cost analysis",
+        "life cycle assessment",
+        "green gentrification",
+        "stakeholder engagement",
+        "energy efficiency",
+        "housing affordability",
+        "climate neutrality"
+      ],
+      "url": "https://openalex.org/W7225460340",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Systematic review of the state of art about genetic modification of Lactobacillus strains to improve lactic acid production",
+      "abstract": "Las fermentaciones bacterianas son un enfoque prometedor para la elaboración de productos de valor agregado a partir de sustratos renovables como los residuos agroindustriales. Sin embargo, las bacterias productoras de ácido láctico presentan altos requerimientos nutricionales, inhibición por sustrato y estrés térmico que afectan su productividad, por lo que se han desarrollado estrategias biotecnológicas para mejorar las cepas y obtener el fenotipo deseado. En el presente trabajo, se estudiaron las investigaciones relacionadas con la modificación genética de cepas de Lactobacillus para mejorar la producción de ácido láctico y las condiciones experimentales empleadas en cada una de ellas. Lo anterior, se realizó a través de una revisión sistemática de la literatura empelando una metodología de búsqueda, selección y análisis que dio como resultado un total de 64 artículos. Se estableció que las principales técnicas de modificación genética de cepas de Lactobacillus que aumentan la capacidad productiva de ácido láctico son mutagénesis aleatoria, evolución adaptativa en laboratorio e ingeniería metabólica. Finalmente se realizó una identificación de condiciones y cualidades que afectan cada técnica de modificación genética, esto permitió esclarecer y concluir que la ingeniería metabólica requiere un gran nivel de información de las rutas metabólicas lo que va asociado a tecnologías de alto costo; por otro lado, la mutagénesis aleatoria tiene un menor alcance y control de los resultados, pero es la base en varios experimentos asociados al mejoramiento genético. En cuanto a la evolución adaptativa se posiciona como la técnica más cómoda y asequible para experimentar condiciones de estrés de pH, temperatura o concentración de manera progresiva.",
+      "authors": [
+        "Tatiana Fiallo Maldonado",
+        "David Fernando Gómez Pacheco"
+      ],
+      "year": 2023,
+      "venue": "Universidad Industrial de Santander",
+      "doi": "",
+      "keywords": [
+        "Lactobacillus",
+        "lactic acid production",
+        "genetic modification",
+        "metabolic engineering",
+        "adaptive laboratory evolution",
+        "random mutagenesis",
+        "bacterial fermentation",
+        "agro-industrial waste valorization",
+        "substrate inhibition",
+        "thermal stress (biology)",
+        "pH stress"
+      ],
+      "url": "https://openalex.org/W7133381922",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Meta-analysis of Energy Efficiency in Educational Buildings",
+      "abstract": "With the high consumption of electrical energy due to the progressive increase in demand, in the residential, commercial and industrial sectors, the need arises to opt for strategies for energy saving, with university educational buildings being a case that requires analysis in Latin America . The purpose of the following work is to compile the alternative solutions or measures applied by university educational institutions in Latin America and indicate which are the main measures to adopt to achieve energy efficiency. The PRISMA methodology was used for a systematic review. The results indicate that energy efficiency is achieved through active strategies with the change in electrical equipment technology, especially lighting and air conditioning, as well as passive strategies through architectural design. It is concluded that it is necessary to identify the areas of greatest e nergy consumption through a system of measurements, energy indicators and an institutional energy policy. It is also verified that energy efficiency contributes to savings on electricity bills and reduces the carbon footprint. Likewise, the quality of lighting impacts the academic performance of students.",
+      "authors": [
+        "David Jacob Checa Cervantes",
+        "Hernán Oscar Cortez Guiterrez",
+        "Rubén Darío Mendoza Arenas",
+        "Milton Milciades Cortez Guiterrez",
+        "Marisol Paola Delgado Baltazar",
+        "Toño Jonatan Gutierrez Moreyra"
+      ],
+      "year": 2024,
+      "venue": "LACCEI International Multi-Conference for Engineering, Education and Technology (LACCEI)",
+      "doi": "10.18687/laccei2024.1.1.1550",
+      "keywords": [
+        "energy efficiency",
+        "educational buildings",
+        "university buildings",
+        "energy saving measures",
+        "lighting",
+        "air conditioning",
+        "passive design",
+        "active design strategies",
+        "energy consumption measurement",
+        "energy indicators",
+        "electricity cost reduction",
+        "carbon footprint",
+        "academic performance",
+        "Latin America"
+      ],
+      "url": "https://openalex.org/W4401582299",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Sustainable sources for the production of polylactic acid: A systematic review",
+      "abstract": "Título: Fuentes sostenibles para la producción de ácido poliláctico: Una revisión sistemática Autores: Sanabria Ordóñez Laura Viviana, Gómez López Dilan Andrés Palabras Clave: Biopolímero, Ácido Poliláctico o PLA, Producción. Descripción: En el proyecto se realizó una revisión sistemática sobre la producción sostenible de ácido poliláctico (PLA) la cual implica un análisis minucioso y organizado de la literatura existente. La búsqueda y clasificación de la información se realizó siguiendo el protocolo PRISMA. Se llevó a cabo una búsqueda rigurosa en bases de datos académicas, revistas científicas y otras fuentes pertinentes para recopilar artículos y publicaciones relacionados con la producción sostenible de PLA, para esto se emplearon palabras clave específicas y criterios de inclusión para identificar las fuentes relevantes; obteniendo una visión general del número de artículos publicados, autores y países. Una vez recopiladas las fuentes, se procede a evaluar su relevancia y calidad. Las fuentes seleccionadas se organizan en función de su contribución a los objetivos de la revisión, mientras que se excluyen aquellas que no cumplen con los criterios de inclusión. Finalmente se presentaron los resultados de esta revisión de manera clara y organizada en un informe. La revisión destaca que se han logrado avances significativos en la producción de PLA de manera sostenible. Estos avances incluyen mejoras en la eficiencia de los procesos de producción, la utilización de materias primas renovables y el desarrollo de tecnologías más limpias.",
+      "authors": [
+        "Laura Viviana Sanabria Ordóñez",
+        "Dilan Andrés Gómez López"
+      ],
+      "year": 2024,
+      "venue": "Universidad Industrial de Santander",
+      "doi": "",
+      "keywords": [
+        "polylactic acid",
+        "biopolymers",
+        "sustainable production",
+        "renewable raw materials",
+        "biodegradable plastics",
+        "production efficiency",
+        "environmental technology"
+      ],
+      "url": "https://openalex.org/W7133370351",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Organizational Strategies for Energy Sustainability: Systematic Review of the Literature Spanning 2020–2024",
+      "abstract": "Energy sustainability is a key strategic focus of organizations in the transition to renewable energy sources. This study conducted a systematic review of the literature published between 2020 and 2024 to identify energy sustainability strategies at the organizational level that optimize energy efficiency and reduce dependence on fossil fuels. Academic databases such as Scopus, ScienceDirect, and Web of Science were consulted, selecting 50 high-impact articles using inclusion criteria related to thematic relevance, timeliness, and methodological rigor. The results showed that digitization, circular economy, and technological innovation are fundamental pillars in energy sustainability. However, significant barriers, such as financial and regulatory restrictions, were identified that hinder the adoption of these strategies. Similarly, the integration of smart technologies and sustainable management models favors the optimization of energy consumption and compliance with environmental regulations. In conclusion, the implementation of these strategies not only contributes to the mitigation of climate change but also improves the operational efficiency of organizations for the formulation of public policies and the possibility of opening new lines of research in energy sustainability.",
+      "authors": [
+        "Emma Verónica Ramos Farroñán",
+        "Danny Alonso Lizarzaburu Aguinaga",
+        "Luís Edgardo Cruz Salinas",
+        "Gary Christiam Farfán Chilicaus",
+        "Mabel Ysabel Otiniano León",
+        "Francisco Segundo Mogollón García",
+        "Celín Pérez Nájera"
+      ],
+      "year": 2025,
+      "venue": "Sustainability",
+      "doi": "10.3390/su17125252",
+      "keywords": [
+        "energy sustainability",
+        "energy efficiency",
+        "renewable energy transition",
+        "fossil fuel dependence",
+        "digitization",
+        "circular economy",
+        "technological innovation",
+        "smart technologies",
+        "sustainable management",
+        "barriers to adoption",
+        "environmental compliance",
+        "climate change mitigation",
+        "energy optimization"
+      ],
+      "url": "https://openalex.org/W4411092893",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Improvement of methane production and digestate quality from of the anaerobic codigestion of agroindustrial waste with nanomaterials: a systematic review.",
+      "abstract": "El crecimiento poblacional ha contribuido al incremento en la producción de residuos de alimentos. La valorización de estos residuos puede ayudar a reducir los impactos ambientales de su manejo y a generar productos que puedan ser incorporados en ciclos productivos. La generación de residuos agroindustriales es una problemática actual a nivel mundial, debido a que contribuye a la contaminación ambiental. Para el aprovechamiento de los residuos se insiste en implementar nanomateriales para potencializar la producción del metano y la calidad agrícola del digestato. Este estudio presenta una revisión sistemática sobre la mejora de la producción del metano a partir de la codigestión anaerobia de residuos agroindustriales con nanomateriales. La revisión incluyó la búsqueda y depuración de artículos científicos y el análisis mediante un software libre R studio y Bibliometrix®, donde se encontraron 425 artículos, a los que se les realizó procesos de filtración, revisando en detalle 38 artículos. Los resultados muestran que el nanomaterial más empleado según lo analizado es el hierro granular de valencia cero, ya que la adición de este nanomaterial durante la digestión anaerobia enriquece la producción de metano debido a que entrega electrones que disminuyen el dióxido de carbono. También, se destaca el grafeno el cual permite a los electrones una vía rápida entre las bacterias que producen los ácidos grasos volátiles durante la digestión anaerobia y las arqueas quienes son responsables de la producción del biogás. Por otro lado, existen los factores que inciden en la digestión anaerobia tales como, los subproductos y los sustratos. Con base en esto, se destacan los lodos, los desechos de alimentos y el estiércol de ganado siendo este último el sustrato con más estudios, debido que al manipularse con nanomateriales incrementan la producción de metano con concentraciones superiores al 60% en un rango de [20%-60%] en el biogás.",
+      "authors": [
+        "María Fernanda Castañeda-Restrepo",
+        "Silvia Juliana Lara-Franco"
+      ],
+      "year": 2023,
+      "venue": "Universidad Industrial de Santander",
+      "doi": "",
+      "keywords": [
+        "co-digestion",
+        "methane production",
+        "digestate quality",
+        "nanomaterials",
+        "agro-industrial waste",
+        "nanoscale zero-valent iron",
+        "graphene",
+        "biogas",
+        "food waste",
+        "cattle manure",
+        "sludge",
+        "volatile fatty acids",
+        "archaea",
+        "electron transfer"
+      ],
+      "url": "https://openalex.org/W7133422148",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Innovation, Social, Smart Cities, Technologies, Systematic Review.",
+      "abstract": "El presente documento refleja los avances más relevantes obtenidos a nivel nacional y mundial en cuanto al desarrollo e implementación de tecnologías enfocadas en la innovación social en el marco de las ciudades inteligentes. Para la ejecución del proyecto, primero se diseñó un protocolo que permitió realizar una revisión sistemática, en donde mediante un análisis bibliométrico, se identificaron los estudios preliminares que servirían de insumo para la investigación. Esto se hizo, gracias al diseño de una ecuación de búsqueda, aplicada a la base de datos Scopus. Una vez corroborada la existencia de suficiente documentación relacionada con el tema de investigación, se procedió al análisis de su abstract o resumen, con la finalidad de establecer que tan relacionados se encontraban los documentos con el tema a trabajar. Aquellos que estaban directamente relacionados con la temática de estudio, se analizaron a mayor profundidad, y según su relevancia fueron incluidos en el documento final de la investigación. Adicionalmente se utilizaron otras fuentes de información, tales como páginas web de innovación tecnológica, emprendimiento colaborativo y crowdfunding o financiamiento colectivo, así como aquellas de contenido científico o periodístico. Igualmente y siguiendo la línea temática establecida en el proyecto, para el análisis, la presentación e interpretación de los resultados, se realizó la descripción de las características y particularidades de cada uno de los estudios analizados. Por último, se redactó el artículo científico, el cual contiene las conclusiones finales de la investigación. Los ejemplos de innovación social gestados gracias a la utilización de diversos recursos tecnológicos, como los mostrados en el presente proyecto, servirán de base para un futuro análisis y desarrollo en el país (para aquellos desarrollados por fuera de este), o para el fomento y apoyo de los que fueron concebidos por entusiastas emprendedores colombianos.",
+      "authors": [
+        "Elda P. Duran"
+      ],
+      "year": 2016,
+      "venue": "Universidad Industrial de Santander",
+      "doi": "",
+      "keywords": [
+        "social innovation",
+        "smart cities",
+        "urban technology",
+        "collaborative entrepreneurship",
+        "crowdfunding",
+        "collective financing",
+        "Colombian entrepreneurs",
+        "bibliometric analysis"
+      ],
+      "url": "https://openalex.org/W7133401657",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Behavior of the mechanical properties of conventional concrete replaced with construction debris and/or plastic waste (PET) as fine and/or coarse aggregates: systematic literature review.",
+      "abstract": "Este documento analiza el uso de materiales no convencionales como lo son los escombros de construcción y los residuos plásticos en la fabricación del concreto convencional. Se realiza una revisión sistemática de la literatura y un análisis bibliométrico por medio de la interfaz web de Bibliometrix de R, para identificar áreas temáticas relevantes y observar el aumento en la producción científica en el tema de investigación planteado que es el reemplazo de materiales no convencionales como agregados gruesos y/o finos en el concreto. Con base en la literatura revisada se observa que los escombros de construcción y los residuos plásticos se reemplazaron en diferentes porcentajes, individualmente o en conjunto. Se examinan las propiedades mecánicas del concreto modificado con los materiales ya mencionados, como la resistencia a la compresión y tensión, así como la normativa relacionada con el uso de agregados reciclados. Dentro de este marco, estos materiales al ser utilizados como agregados alternativos ofrecen una opción técnica para aprovechar y reciclar de manera eficiente estos residuos, contribuyendo a la disminución de la acumulación de los mismo, a reducir la dependencia de los recursos naturales no renovables y a fortalecer la construcción sostenible. Aunque se debe tener cuidado con las partículas generadas, ya que en ciertas ocasiones son descartadas por no cumplir con los requerimientos mínimos de calidad para ser procesados debido a que puede afectar la trabajabilidad del concreto.",
+      "authors": [
+        "Angely Carolina Penagos Macias"
+      ],
+      "year": 2023,
+      "venue": "Universidad Industrial de Santander",
+      "doi": "",
+      "keywords": [
+        "construction and demolition waste",
+        "plastic waste",
+        "PET",
+        "recycled aggregate",
+        "mechanical properties of concrete",
+        "compressive strength",
+        "tensile strength",
+        "fine and coarse aggregates",
+        "waste recycling in construction",
+        "sustainable construction",
+        "concrete workability"
+      ],
+      "url": "https://openalex.org/W7133448897",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Biodiesel. Una revisión del desempeño mecánico y ambiental",
+      "abstract": "En este artículo se presenta una revisión bibliográfica de investigaciones relevantes relacionadas con el desempeño mecánico y ambiental de motores diesel, utilizando diversos combustibles, entre ellos el diesel convencional y alquilésteres obtenidos de aceites vegetales (biodiesel).Aunque las tendencias observadas dependen fuertemente del tipo de aceite del que provienen los alquilésteres, se puede concluir que a medida que se incrementa el porcentaje de biodiesel en las mezclas biodiesel-diesel disminuye la potencia y aumenta el consumo de combustible.También disminuyen el CO, Hc, material particulado, hollín y la opacidad de humos.De otro lado, los No x aumentan o disminuyen dependiendo de la afinación del motor.La potencia disminuye entre 2 y 10% para B30 y B100 respectivamente.El consumo de combustible aumenta entre 10 y 24%, para el biodiesel y sus mezclas, debido al menor poder calorífico del biocombustible comparado con el del diesel convencional.Las emisiones de CO diminuyen de 10 a 50%, hc 12 a 55%, con B30 y B100 respectivamente.La opacidad de humos disminuye entre 0 y 30% y los So x entre 20 y 100%, debido al escaso contenido de azufre del biodiesel.La reducción «global» de CO 2 es de 16 a 78,4% para B20 y B100 respectivamente.La ventaja medioambiental de tipo global del biodiesel es el cierre del ciclo de vida del CO 2 (emisión nula), pues las plantas oleaginosas por medio del proceso de fotosíntesis toman este gas y lo transforman en oxígeno.",
+      "authors": [
+        "John Ramiro Agudelo Santamaría",
+        "Pedro Benjumea",
+        "Edwin Gómez Meneses",
+        "Juan Fernando Pérez Bayer"
+      ],
+      "year": 2003,
+      "venue": "Ingeniería y Desarrollo",
+      "doi": "",
+      "keywords": [
+        "biodiesel",
+        "diesel engines",
+        "mechanical performance",
+        "vehicle emissions",
+        "fuel consumption",
+        "NOx emissions",
+        "particulate matter",
+        "smoke opacity",
+        "sulfur oxides",
+        "carbon dioxide reduction",
+        "vegetable oil esters",
+        "biodiesel blends",
+        "engine calibration"
+      ],
+      "url": "https://openalex.org/W1485133868",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Roadmaps and Circular Economy: A Systematic Review to Trace the Future Towards Sustainability",
+      "abstract": "The new sustainability agenda encompasses various strategies implemented by nations to align efforts and cooperatively reduce global warming, whose effects are increasingly severe and largely considered irreversible. Among the most widely recognized strategies is the circular economy, a concept that has been developed through diverse approaches across different regions of the world. The objective of this research is to examine the relationship between roadmaps and the circular economy, with the aim of identifying common factors. The study employs a systematic review of 238 articles indexed in the Web of Science (2013–2024). The results reveal trending topics, as well as the identification of seven clusters and five key factors influencing roadmaps for the transition toward circularity, including waste management, water treatment, and energy generation.",
+      "authors": [
+        "Universidad Autónoma del Estado de Hidalgo",
+        "María Concepción García-Pérez",
+        "Carla Carolina Pérez Hernández",
+        "Universidad Autónoma del Estado de Hidalgo"
+      ],
+      "year": 2025,
+      "venue": "Economía Creativa",
+      "doi": "10.46840/ec.2025.22.763",
+      "keywords": [
+        "circular economy",
+        "roadmap",
+        "sustainability transitions",
+        "circularity",
+        "waste management",
+        "water treatment",
+        "energy production",
+        "climate change mitigation"
+      ],
+      "url": "https://openalex.org/W4414796574",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "A scoping review of the health co-benefits of climate mitigation strategies in South America",
+      "abstract": "The accelerated production of greenhouse gases (GHG) due to human activity has led to unprecedented global warming, making climate mitigation strategies crucial for minimizing its impacts. South America, a region highly vulnerable to climate change, stands to benefit from implementing such strategies to reduce future risks and generate health co-benefits. This scoping review, aimed to assess the existing evidence on the health benefits of climate mitigation strategies in South American countries. PubMed, Web of Science, and LILACS databases were searched until June 15, 2023. Nine studies published between 2001 and 2021 were analyzed, focusing on Brazil, Chile, and Bolivia. All the studies identified in this review used scenario modeling. They evaluated various GHG emission mitigation strategies, including land management, reducing livestock production, biofuel production, increased active transportation, renewable energy, and waste reduction. Only one study looked at GHG capture and sequestration through afforestation. Given the limited information available, there is a pressing need for more research on the region's potential health, environmental, and economic co-benefits. This review serves as a starting point and suggests that climate mitigation can offer a range of positive co-benefits, such as improved air quality and increased resilience to climate impacts, thereby advancing public health initiatives. Funding: MYG was supported by the Wellcome Trust (grant number 209734/Z/17/Z). The other authors did not receive financial support for their research or authorship. The publication of this article was financially supported by Universidad Peruana Cayetano Heredia.",
+      "authors": [
+        "Daniel Fernandez‐Guzman",
+        "Romina Lavarello-Schettini",
+        "Marisol Yglesias-González",
+        "Stella M. Hartinger",
+        "David Rojas‐Rueda"
+      ],
+      "year": 2023,
+      "venue": "The Lancet Regional Health - Americas",
+      "doi": "10.1016/j.lana.2023.100602",
+      "keywords": [
+        "climate change mitigation",
+        "health co-benefits",
+        "greenhouse gas emissions",
+        "South America",
+        "air quality",
+        "climate change vulnerability",
+        "scenario modeling",
+        "land management",
+        "animal husbandry",
+        "biofuels",
+        "active travel",
+        "renewable energy",
+        "waste reduction",
+        "afforestation",
+        "climate resilience",
+        "Brazil",
+        "Chile",
+        "Bolivia"
+      ],
+      "url": "https://openalex.org/W4386918047",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Life Cycle Assessment of Ocean Energy Technologies: A Systematic Review",
+      "abstract": "The increase of greenhouse gases (GHG) generated by the burning of fossil fuels has been recognized as one of the main causes of climate change (CC). Different countries of the world have developed new policies on national energy security directed to the use of renewable energies mainly, ocean energy being one of them. The implementation of ocean energy is increasing worldwide. However, the use of these technologies is not exempt from the generation of potential environmental impacts throughout their life cycle. In this context, life cycle assessment (LCA) is a holistic approach used to evaluate the environmental impacts of a product or system throughout its entire life cycle. LCA studies need to be conducted to foster the development of ocean energy technologies (OET) in sustainable management. In this paper, a systematic review was conducted and 18 LCA studies of OET were analyzed. Most of the LCA studies are focused on wave and tidal energy. CC is the most relevant impact category evaluated, which is generated mostly by raw material extraction, manufacturing stage and shipping operations. Finally, the critical stages of the systems evaluated were identified, together with, the opportunity areas to promote an environmental management for ocean energy developers.",
+      "authors": [
+        "María Paredes",
+        "Alejandro Padilla‐Rivera",
+        "Leonor Patricia Güereca"
+      ],
+      "year": 2019,
+      "venue": "Journal of Marine Science and Engineering",
+      "doi": "10.3390/jmse7090322",
+      "keywords": [
+        "life cycle assessment",
+        "wave energy",
+        "tidal energy",
+        "greenhouse gas emissions",
+        "environmental impact",
+        "raw material extraction",
+        "manufacturing stage",
+        "shipping activity",
+        "climate change mitigation",
+        "renewable energy",
+        "environmental management"
+      ],
+      "url": "https://openalex.org/W2974362009",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Novel technologies for the encapsulation of bioactive food compounds",
+      "abstract": "",
+      "authors": [
+        "Liliana G. Santiago",
+        "Guillermo Raul Castro"
+      ],
+      "year": 2016,
+      "venue": "Current Opinion in Food Science",
+      "doi": "10.1016/j.cofs.2016.01.006",
+      "keywords": [
+        "encapsulation",
+        "dietary bioactive compounds",
+        "bioavailability enhancement",
+        "nanocarriers",
+        "polysaccharide hydrogels",
+        "coacervation",
+        "nutraceutical delivery"
+      ],
+      "url": "https://openalex.org/W2291066643",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Systematic Review and web content Analysis of Blockchain Technology on Supporting Social Causes",
+      "abstract": "La tecnología Blockchain está fortaleciendo el apoyo a causas sociales a través de plataformas web, ofreciendo mejoras significativas en la transparencia, reducción de costos, seguridad de datos y empoderamiento comunitario. Este trabajo de grado realiza una revisión sistemática y un análisis del impacto de Blockchain en este ámbito. Se identificó que Blockchain garantiza la transparencia y confianza de los donantes mediante registros inmutables y auditables, eliminando la posibilidad de manipulación o corrupción. Al eliminar intermediarios y simplificar las transacciones, reduce costos operativos y administrativos, permitiendo que más fondos lleguen directamente a las personas necesitadas. Blockchain democratiza las donaciones globales, eliminando barreras geográficas y monetarias, permitiendo contribuciones seguras y eficientes desde cualquier parte del mundo. Sin embargo, la implementación de Blockchain enfrenta desafíos regulatorios que varían según la región, limitando su efectividad en ciertos contextos.",
+      "authors": [
+        "Laura Peñaloza Rueda",
+        "Adriana Peñaloza Rueda"
+      ],
+      "year": 2024,
+      "venue": "Universidad Industrial de Santander",
+      "doi": "",
+      "keywords": [
+        "blockchain",
+        "charitable giving",
+        "social causes",
+        "immutable records",
+        "data security",
+        "community empowerment",
+        "regulatory challenges",
+        "web platform"
+      ],
+      "url": "https://openalex.org/W7133429953",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "State of the art of humanitarian logistics management in migration processes: an approach from a systematic review.",
+      "abstract": "Los fenómenos migratorios en la actualidad son un tema de gran relevancia a nivel global y están influenciados por factores económicos, políticos, sociales y ambientales. La migración se ha convertido en un fenómeno intrínsecamente ligado a la dinámica de las economías, los cambios políticos y sociales, así como a las consecuencias del cambio climático. Estos factores, en conjunto, crean flujos migratorios que pueden ser impulsados tanto por la aspiración de una vida mejor como por la necesidad de escapar de situaciones insostenibles. En medio de situaciones de migración forzada, donde la urgencia y la vulnerabilidad predominan, una logística humanitaria organizada y coordinada se convierte en la columna vertebral de la respuesta humanitaria para que las necesidades básicas sean satisfechas de manera oportuna y equitativa, preservando la dignidad y el bienestar de las personas. Además, la logística humanitaria permite una distribución eficiente de recursos y servicios en albergues temporales y campamentos, optimizando la capacidad de respuesta a gran escala. La coordinación efectiva entre organizaciones humanitarias y autoridades gubernamentales se requiere para garantizar una respuesta integral y sostenible, contribuyendo así a mitigar el sufrimiento humano y proteger los derechos fundamentales de los migrantes en medio de circunstancias complejas. En el presente estado del arte se tuvo en cuenta información proporcionada por organismos internacionales relacionados con la migración y la logística humanitaria para comprender los avances y los retos existentes en el área. Además, se consideraron las tendencias en logística humanitaria que contemplan tecnologías emergentes y enfoques innovadores que permiten realizar los procesos de forma más eficiente, impactando positivamente en la situación de los migrantes.",
+      "authors": [
+        "Luis Fernando Céspedes Mendoza"
+      ],
+      "year": 2024,
+      "venue": "Universidad Industrial de Santander",
+      "doi": "",
+      "keywords": [
+        "humanitarian logistics",
+        "forced migration",
+        "humanitarian response",
+        "refugee camps",
+        "temporary shelters",
+        "humanitarian coordination",
+        "migrant rights",
+        "climate change and migration",
+        "humanitarian organizations"
+      ],
+      "url": "https://openalex.org/W7133434997",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "A review on control and fault-tolerant control systems of AC/DC microgrids",
+      "abstract": "Microgrids (MG) treat local energy supply issues effectively and from a point of view of the distribution grid, may be a power supply or virtual load. Despite holding a myriad of benefits, MGs also bear a set of challenges, including a higher fault rate. Currently, many articles focus on control techniques; however, little has been written about the techniques of control, hierarchical control, and fault-tolerant control (FTC) applied to MGs, which is the motive of this bibliographic revision on control systems. A brief comparison of the different approaches in the field of present-day research is carried out primarily addressing hierarchical control and fault tolerance. The objective of this investigation is to attract the interest of researchers to the field of control and fault tolerance applied to MGs, such as: modeling, testbed, benchmark systems, control and hierarchical control strategies, fault diagnosis and FTC.",
+      "authors": [
+        "Leony Ortíz",
+        "Jorge W. González",
+        "Luis B. Gutiérrez",
+        "Orestes Llanes‐Santiago"
+      ],
+      "year": 2020,
+      "venue": "Heliyon",
+      "doi": "10.1016/j.heliyon.2020.e04799",
+      "keywords": [
+        "hybrid AC/DC microgrid",
+        "fault-tolerant control",
+        "hierarchical control",
+        "microgrid control",
+        "fault diagnosis",
+        "microgrid modeling",
+        "microgrid testbed",
+        "benchmark systems"
+      ],
+      "url": "https://openalex.org/W3081738397",
+      "type": "review"
+    }
+  ]
+}

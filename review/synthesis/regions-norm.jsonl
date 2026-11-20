@@ -1,0 +1,521 @@
+{"record_id": "R0002", "scope": "local", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R0004", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0006", "scope": "regional", "departments": [], "macro_regions": ["Caribe", "Andina", "Pacífico", "Orinoquía", "Amazonía"]}
+{"record_id": "R0007", "scope": "local", "departments": ["Huila"], "macro_regions": ["Andina"]}
+{"record_id": "R0008", "scope": "local", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R0010", "scope": "local", "departments": ["Chocó"], "macro_regions": ["Pacífico"]}
+{"record_id": "R0011", "scope": "regional", "departments": ["Valle del Cauca"], "macro_regions": ["Pacífico"]}
+{"record_id": "R0012", "scope": "local", "departments": ["Cesar", "Atlántico"], "macro_regions": ["Caribe"]}
+{"record_id": "R0013", "scope": "regional", "departments": ["Arauca"], "macro_regions": ["Orinoquía"]}
+{"record_id": "R0017", "scope": "local", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R0020", "scope": "local", "departments": ["Bogotá D.C.", "Cundinamarca", "Santander"], "macro_regions": ["Andina"]}
+{"record_id": "R0021", "scope": "unspecified", "departments": [], "macro_regions": []}
+{"record_id": "R0022", "scope": "local", "departments": ["Norte de Santander"], "macro_regions": ["Andina"]}
+{"record_id": "R0023", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0024", "scope": "local", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R0027", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0029", "scope": "local", "departments": ["Bogotá D.C.", "Cundinamarca"], "macro_regions": ["Andina"]}
+{"record_id": "R0030", "scope": "local", "departments": ["Atlántico"], "macro_regions": ["Caribe"]}
+{"record_id": "R0031", "scope": "local", "departments": ["Chocó", "Antioquia"], "macro_regions": ["Andina", "Pacífico"]}
+{"record_id": "R0032", "scope": "local", "departments": ["Meta"], "macro_regions": ["Orinoquía"]}
+{"record_id": "R0034", "scope": "local", "departments": ["Bogotá D.C.", "Atlántico", "La Guajira"], "macro_regions": ["Caribe", "Andina"]}
+{"record_id": "R0035", "scope": "local", "departments": ["Antioquia"], "macro_regions": ["Andina"]}
+{"record_id": "R0038", "scope": "local", "departments": ["Antioquia", "Atlántico", "Bogotá D.C.", "Bolívar", "Boyacá", "Caldas", "Cundinamarca", "Córdoba", "Huila", "Magdalena", "Meta", "Risaralda", "Santander", "Tolima", "Valle del Cauca"], "macro_regions": ["Caribe", "Andina", "Pacífico", "Orinoquía"]}
+{"record_id": "R0039", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0040", "scope": "local", "departments": ["Chocó"], "macro_regions": ["Pacífico"]}
+{"record_id": "R0042", "scope": "regional", "departments": ["Chocó"], "macro_regions": ["Pacífico"]}
+{"record_id": "R0043", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0044", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0045", "scope": "local", "departments": ["Norte de Santander"], "macro_regions": ["Andina"]}
+{"record_id": "R0046", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0049", "scope": "regional", "departments": [], "macro_regions": ["Caribe"]}
+{"record_id": "R0050", "scope": "local", "departments": ["Guaviare"], "macro_regions": ["Amazonía"]}
+{"record_id": "R0051", "scope": "unspecified", "departments": [], "macro_regions": []}
+{"record_id": "R0052", "scope": "regional", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R0054", "scope": "unspecified", "departments": [], "macro_regions": []}
+{"record_id": "R0055", "scope": "regional", "departments": ["Santander"], "macro_regions": ["Andina", "Orinoquía"]}
+{"record_id": "R0057", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0062", "scope": "local", "departments": ["Sucre"], "macro_regions": ["Caribe"]}
+{"record_id": "R0063", "scope": "regional", "departments": [], "macro_regions": ["Caribe"]}
+{"record_id": "R0065", "scope": "regional", "departments": ["La Guajira", "Atlántico"], "macro_regions": ["Caribe"]}
+{"record_id": "R0066", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0067", "scope": "local", "departments": ["Atlántico"], "macro_regions": ["Caribe"]}
+{"record_id": "R0068", "scope": "local", "departments": ["Antioquia"], "macro_regions": ["Andina"]}
+{"record_id": "R0069", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0070", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0071", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0072", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0074", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0077", "scope": "local", "departments": ["Bolívar"], "macro_regions": ["Caribe"]}
+{"record_id": "R0079", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0082", "scope": "local", "departments": ["Bolívar"], "macro_regions": ["Caribe"]}
+{"record_id": "R0083", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0085", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0087", "scope": "local", "departments": ["Bolívar"], "macro_regions": ["Caribe"]}
+{"record_id": "R0089", "scope": "regional", "departments": [], "macro_regions": ["Pacífico"]}
+{"record_id": "R0092", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0094", "scope": "unspecified", "departments": [], "macro_regions": []}
+{"record_id": "R0095", "scope": "local", "departments": ["Bogotá D.C."], "macro_regions": ["Andina"]}
+{"record_id": "R0098", "scope": "regional", "departments": ["Cundinamarca"], "macro_regions": ["Andina"]}
+{"record_id": "R0099", "scope": "local", "departments": ["Antioquia"], "macro_regions": ["Andina"]}
+{"record_id": "R0100", "scope": "local", "departments": ["Boyacá"], "macro_regions": ["Andina"]}
+{"record_id": "R0103", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0104", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0108", "scope": "local", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R0109", "scope": "local", "departments": ["Valle del Cauca"], "macro_regions": ["Pacífico"]}
+{"record_id": "R0110", "scope": "local", "departments": ["Huila"], "macro_regions": ["Andina"]}
+{"record_id": "R0111", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0112", "scope": "local", "departments": ["Córdoba"], "macro_regions": ["Caribe"]}
+{"record_id": "R0114", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0115", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0116", "scope": "local", "departments": ["Chocó"], "macro_regions": ["Pacífico"]}
+{"record_id": "R0117", "scope": "local", "departments": ["Caldas"], "macro_regions": ["Andina"]}
+{"record_id": "R0118", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0119", "scope": "regional", "departments": ["Bolívar"], "macro_regions": ["Caribe"]}
+{"record_id": "R0121", "scope": "regional", "departments": ["Magdalena"], "macro_regions": ["Caribe"]}
+{"record_id": "R0123", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0124", "scope": "local", "departments": ["Valle del Cauca"], "macro_regions": ["Pacífico"]}
+{"record_id": "R0126", "scope": "local", "departments": ["Tolima"], "macro_regions": ["Andina"]}
+{"record_id": "R0127", "scope": "local", "departments": ["Bolívar"], "macro_regions": ["Caribe"]}
+{"record_id": "R0128", "scope": "local", "departments": ["San Andrés y Providencia"], "macro_regions": ["Insular"]}
+{"record_id": "R0129", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0130", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0132", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0133", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0135", "scope": "local", "departments": ["Cauca"], "macro_regions": ["Pacífico"]}
+{"record_id": "R0139", "scope": "local", "departments": ["Boyacá", "Antioquia", "Nariño"], "macro_regions": ["Andina", "Pacífico"]}
+{"record_id": "R0140", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0141", "scope": "local", "departments": ["Cundinamarca", "Meta"], "macro_regions": ["Andina", "Orinoquía"]}
+{"record_id": "R0142", "scope": "regional", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R0143", "scope": "local", "departments": ["Santander"], "macro_regions": ["Andina"]}
+{"record_id": "R0144", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0145", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0148", "scope": "local", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R0151", "scope": "regional", "departments": ["Antioquia", "Boyacá", "Chocó", "Cundinamarca", "Meta", "Tolima"], "macro_regions": ["Andina", "Pacífico", "Orinoquía"]}
+{"record_id": "R0152", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0154", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0155", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0156", "scope": "local", "departments": ["La Guajira", "Santander", "Valle del Cauca", "Antioquia", "Bogotá D.C.", "Boyacá"], "macro_regions": ["Caribe", "Andina", "Pacífico"]}
+{"record_id": "R0157", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0160", "scope": "local", "departments": ["Santander"], "macro_regions": ["Andina"]}
+{"record_id": "R0163", "scope": "regional", "departments": ["Caldas"], "macro_regions": ["Andina"]}
+{"record_id": "R0165", "scope": "local", "departments": ["Santander"], "macro_regions": ["Andina"]}
+{"record_id": "R0167", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0168", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0170", "scope": "regional", "departments": ["Antioquia"], "macro_regions": ["Andina"]}
+{"record_id": "R0171", "scope": "regional", "departments": ["Cundinamarca"], "macro_regions": ["Andina"]}
+{"record_id": "R0173", "scope": "local", "departments": ["Bogotá D.C."], "macro_regions": ["Andina"]}
+{"record_id": "R0174", "scope": "local", "departments": ["Atlántico"], "macro_regions": ["Caribe"]}
+{"record_id": "R0177", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0183", "scope": "unspecified", "departments": [], "macro_regions": []}
+{"record_id": "R0185", "scope": "regional", "departments": ["La Guajira"], "macro_regions": ["Caribe", "Andina"]}
+{"record_id": "R0187", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0188", "scope": "regional", "departments": ["Cundinamarca"], "macro_regions": ["Andina"]}
+{"record_id": "R0190", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0192", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0193", "scope": "local", "departments": ["Nariño"], "macro_regions": ["Pacífico"]}
+{"record_id": "R0195", "scope": "local", "departments": ["Meta"], "macro_regions": ["Orinoquía"]}
+{"record_id": "R0196", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0197", "scope": "regional", "departments": ["Caldas"], "macro_regions": ["Andina"]}
+{"record_id": "R0199", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0200", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0203", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0204", "scope": "local", "departments": ["Norte de Santander"], "macro_regions": ["Andina"]}
+{"record_id": "R0206", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0209", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0211", "scope": "regional", "departments": ["Meta", "Bolívar"], "macro_regions": ["Caribe", "Orinoquía"]}
+{"record_id": "R0213", "scope": "local", "departments": ["Bogotá D.C."], "macro_regions": ["Andina"]}
+{"record_id": "R0217", "scope": "local", "departments": ["Bogotá D.C."], "macro_regions": ["Andina"]}
+{"record_id": "R0218", "scope": "local", "departments": ["Santander"], "macro_regions": ["Andina"]}
+{"record_id": "R0222", "scope": "local", "departments": ["Arauca"], "macro_regions": ["Orinoquía"]}
+{"record_id": "R0223", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0225", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0226", "scope": "local", "departments": ["Putumayo"], "macro_regions": ["Amazonía"]}
+{"record_id": "R0228", "scope": "local", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R0229", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0230", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0231", "scope": "local", "departments": ["Santander"], "macro_regions": ["Andina"]}
+{"record_id": "R0232", "scope": "regional", "departments": ["Sucre"], "macro_regions": ["Caribe"]}
+{"record_id": "R0234", "scope": "unspecified", "departments": [], "macro_regions": []}
+{"record_id": "R0235", "scope": "unspecified", "departments": [], "macro_regions": []}
+{"record_id": "R0236", "scope": "local", "departments": ["Cundinamarca"], "macro_regions": ["Andina"]}
+{"record_id": "R0237", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0238", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0240", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0242", "scope": "regional", "departments": ["Valle del Cauca", "Cauca"], "macro_regions": ["Pacífico"]}
+{"record_id": "R0245", "scope": "local", "departments": ["Valle del Cauca"], "macro_regions": ["Pacífico"]}
+{"record_id": "R0246", "scope": "local", "departments": ["Santander"], "macro_regions": ["Andina"]}
+{"record_id": "R0249", "scope": "local", "departments": ["Bogotá D.C."], "macro_regions": ["Andina"]}
+{"record_id": "R0250", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0252", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0254", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0255", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0256", "scope": "local", "departments": ["Santander"], "macro_regions": ["Andina"]}
+{"record_id": "R0258", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0259", "scope": "regional", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R0260", "scope": "local", "departments": ["Bogotá D.C."], "macro_regions": ["Andina"]}
+{"record_id": "R0261", "scope": "regional", "departments": ["Bolívar"], "macro_regions": ["Caribe"]}
+{"record_id": "R0262", "scope": "regional", "departments": ["Antioquia", "Boyacá", "Meta"], "macro_regions": ["Andina", "Orinoquía"]}
+{"record_id": "R0263", "scope": "local", "departments": [], "macro_regions": []}
+{"record_id": "R0265", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0266", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0267", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0268", "scope": "regional", "departments": ["San Andrés y Providencia"], "macro_regions": ["Insular"]}
+{"record_id": "R0271", "scope": "local", "departments": ["Atlántico"], "macro_regions": ["Caribe"]}
+{"record_id": "R0272", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0273", "scope": "local", "departments": ["Guainía"], "macro_regions": ["Amazonía"]}
+{"record_id": "R0274", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0278", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0280", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0281", "scope": "local", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R0282", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0283", "scope": "local", "departments": ["Vichada"], "macro_regions": ["Orinoquía"]}
+{"record_id": "R0285", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0286", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0288", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0290", "scope": "local", "departments": ["Chocó", "Cesar", "Caquetá", "Bolívar"], "macro_regions": ["Caribe", "Pacífico", "Amazonía"]}
+{"record_id": "R0292", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0295", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0296", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0298", "scope": "local", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R0299", "scope": "local", "departments": ["Meta"], "macro_regions": ["Orinoquía"]}
+{"record_id": "R0306", "scope": "local", "departments": ["Bogotá D.C."], "macro_regions": ["Andina"]}
+{"record_id": "R0307", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0308", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0310", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0311", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0312", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0313", "scope": "local", "departments": ["Norte de Santander"], "macro_regions": ["Andina"]}
+{"record_id": "R0314", "scope": "regional", "departments": ["Antioquia"], "macro_regions": ["Andina"]}
+{"record_id": "R0315", "scope": "regional", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R0319", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0321", "scope": "local", "departments": ["Bogotá D.C."], "macro_regions": ["Andina"]}
+{"record_id": "R0323", "scope": "local", "departments": ["Santander", "Norte de Santander"], "macro_regions": ["Andina"]}
+{"record_id": "R0324", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0325", "scope": "unspecified", "departments": [], "macro_regions": []}
+{"record_id": "R0326", "scope": "local", "departments": ["Atlántico"], "macro_regions": ["Caribe"]}
+{"record_id": "R0327", "scope": "regional", "departments": [], "macro_regions": ["Caribe"]}
+{"record_id": "R0328", "scope": "regional", "departments": ["Magdalena", "Cesar", "Bolívar", "Santander", "Meta", "Casanare"], "macro_regions": ["Caribe", "Andina", "Orinoquía"]}
+{"record_id": "R0329", "scope": "regional", "departments": ["Atlántico"], "macro_regions": ["Caribe"]}
+{"record_id": "R0330", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0332", "scope": "regional", "departments": ["Santander"], "macro_regions": ["Andina"]}
+{"record_id": "R0333", "scope": "local", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R0334", "scope": "regional", "departments": ["Chocó"], "macro_regions": ["Pacífico"]}
+{"record_id": "R0335", "scope": "local", "departments": ["Valle del Cauca"], "macro_regions": ["Pacífico"]}
+{"record_id": "R0336", "scope": "regional", "departments": ["La Guajira", "Atlántico"], "macro_regions": ["Caribe"]}
+{"record_id": "R0338", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0339", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0340", "scope": "local", "departments": ["Santander"], "macro_regions": ["Andina"]}
+{"record_id": "R0342", "scope": "local", "departments": ["Norte de Santander"], "macro_regions": ["Andina"]}
+{"record_id": "R0343", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0348", "scope": "local", "departments": ["Bogotá D.C.", "Antioquia", "Valle del Cauca", "Atlántico"], "macro_regions": ["Caribe", "Andina", "Pacífico"]}
+{"record_id": "R0350", "scope": "regional", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R0352", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0353", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0354", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0360", "scope": "local", "departments": ["Norte de Santander"], "macro_regions": ["Andina"]}
+{"record_id": "R0363", "scope": "local", "departments": ["Antioquia", "Chocó"], "macro_regions": ["Andina", "Pacífico"]}
+{"record_id": "R0364", "scope": "local", "departments": ["Bogotá D.C."], "macro_regions": ["Andina"]}
+{"record_id": "R0366", "scope": "regional", "departments": ["Atlántico", "Bolívar"], "macro_regions": ["Caribe"]}
+{"record_id": "R0367", "scope": "regional", "departments": ["Bolívar", "Atlántico", "Magdalena", "La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R0369", "scope": "local", "departments": ["Santander", "Bolívar"], "macro_regions": ["Caribe", "Andina"]}
+{"record_id": "R0372", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0374", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0376", "scope": "unspecified", "departments": [], "macro_regions": []}
+{"record_id": "R0378", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0379", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0381", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0382", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0383", "scope": "local", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R0384", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0386", "scope": "regional", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R0387", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0389", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0390", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0393", "scope": "regional", "departments": ["Córdoba"], "macro_regions": ["Caribe"]}
+{"record_id": "R0394", "scope": "regional", "departments": ["Nariño"], "macro_regions": ["Pacífico"]}
+{"record_id": "R0395", "scope": "unspecified", "departments": [], "macro_regions": []}
+{"record_id": "R0396", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0397", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0398", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0399", "scope": "regional", "departments": ["Córdoba"], "macro_regions": ["Caribe"]}
+{"record_id": "R0400", "scope": "local", "departments": ["Antioquia", "Chocó"], "macro_regions": ["Andina", "Pacífico"]}
+{"record_id": "R0401", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0402", "scope": "local", "departments": ["Bogotá D.C."], "macro_regions": ["Andina"]}
+{"record_id": "R0404", "scope": "local", "departments": ["Atlántico", "Nariño", "Valle del Cauca"], "macro_regions": ["Caribe", "Pacífico"]}
+{"record_id": "R0406", "scope": "local", "departments": ["Bolívar"], "macro_regions": ["Caribe"]}
+{"record_id": "R0407", "scope": "local", "departments": ["Vichada"], "macro_regions": ["Orinoquía"]}
+{"record_id": "R0408", "scope": "unspecified", "departments": [], "macro_regions": []}
+{"record_id": "R0409", "scope": "local", "departments": ["Bogotá D.C."], "macro_regions": ["Andina"]}
+{"record_id": "R0410", "scope": "local", "departments": ["Santander"], "macro_regions": ["Andina"]}
+{"record_id": "R0413", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0415", "scope": "local", "departments": ["San Andrés y Providencia"], "macro_regions": ["Caribe", "Insular"]}
+{"record_id": "R0418", "scope": "local", "departments": ["La Guajira", "Arauca"], "macro_regions": ["Caribe", "Orinoquía"]}
+{"record_id": "R0419", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0421", "scope": "local", "departments": ["Bogotá D.C."], "macro_regions": ["Andina"]}
+{"record_id": "R0423", "scope": "local", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R0424", "scope": "local", "departments": ["Chocó"], "macro_regions": ["Pacífico"]}
+{"record_id": "R0425", "scope": "local", "departments": ["Antioquia"], "macro_regions": ["Andina"]}
+{"record_id": "R0428", "scope": "local", "departments": ["Sucre"], "macro_regions": ["Caribe"]}
+{"record_id": "R0429", "scope": "regional", "departments": [], "macro_regions": ["Caribe", "Andina", "Pacífico", "Orinoquía", "Amazonía"]}
+{"record_id": "R0430", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0431", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0434", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0435", "scope": "local", "departments": ["Antioquia"], "macro_regions": ["Andina"]}
+{"record_id": "R0436", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0440", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0442", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0443", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0445", "scope": "regional", "departments": ["Boyacá", "Cundinamarca", "Cauca", "Nariño"], "macro_regions": ["Andina", "Pacífico"]}
+{"record_id": "R0446", "scope": "regional", "departments": ["Córdoba"], "macro_regions": ["Caribe"]}
+{"record_id": "R0448", "scope": "unspecified", "departments": [], "macro_regions": []}
+{"record_id": "R0451", "scope": "local", "departments": ["Antioquia"], "macro_regions": ["Andina"]}
+{"record_id": "R0452", "scope": "local", "departments": ["Antioquia", "Bogotá D.C."], "macro_regions": ["Andina"]}
+{"record_id": "R0453", "scope": "regional", "departments": ["Norte de Santander"], "macro_regions": ["Andina"]}
+{"record_id": "R0454", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0455", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0457", "scope": "local", "departments": ["Norte de Santander"], "macro_regions": ["Andina"]}
+{"record_id": "R0460", "scope": "local", "departments": ["Atlántico"], "macro_regions": ["Caribe"]}
+{"record_id": "R0462", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0463", "scope": "local", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R0464", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0469", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0470", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0472", "scope": "unspecified", "departments": [], "macro_regions": []}
+{"record_id": "R0473", "scope": "regional", "departments": ["Atlántico"], "macro_regions": ["Caribe"]}
+{"record_id": "R0475", "scope": "local", "departments": ["Boyacá"], "macro_regions": ["Andina"]}
+{"record_id": "R0476", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0477", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0479", "scope": "local", "departments": ["Antioquia"], "macro_regions": ["Andina"]}
+{"record_id": "R0480", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0481", "scope": "local", "departments": ["Magdalena"], "macro_regions": ["Caribe"]}
+{"record_id": "R0484", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0486", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0487", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0488", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0490", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0491", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0493", "scope": "unspecified", "departments": [], "macro_regions": []}
+{"record_id": "R0494", "scope": "local", "departments": ["Atlántico"], "macro_regions": ["Caribe"]}
+{"record_id": "R0495", "scope": "local", "departments": ["Atlántico"], "macro_regions": ["Caribe"]}
+{"record_id": "R0502", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0504", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0505", "scope": "local", "departments": ["Antioquia"], "macro_regions": ["Andina"]}
+{"record_id": "R0507", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0509", "scope": "local", "departments": ["San Andrés y Providencia"], "macro_regions": ["Insular"]}
+{"record_id": "R0512", "scope": "local", "departments": ["Chocó", "Meta", "Putumayo"], "macro_regions": ["Pacífico", "Orinoquía", "Amazonía"]}
+{"record_id": "R0513", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0514", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0517", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0519", "scope": "regional", "departments": ["Cauca"], "macro_regions": ["Pacífico"]}
+{"record_id": "R0520", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0524", "scope": "local", "departments": ["Atlántico"], "macro_regions": ["Caribe"]}
+{"record_id": "R0527", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0529", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0530", "scope": "local", "departments": ["Bogotá D.C."], "macro_regions": ["Andina"]}
+{"record_id": "R0531", "scope": "local", "departments": ["Nariño"], "macro_regions": ["Pacífico"]}
+{"record_id": "R0534", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0535", "scope": "regional", "departments": ["Amazonas", "Arauca", "Caquetá", "Casanare", "Chocó", "Guainía", "Guaviare", "Meta", "Putumayo", "Vaupés", "Vichada"], "macro_regions": ["Pacífico", "Orinoquía", "Amazonía"]}
+{"record_id": "R0537", "scope": "local", "departments": ["Chocó", "Meta", "Putumayo"], "macro_regions": ["Pacífico", "Orinoquía", "Amazonía"]}
+{"record_id": "R0538", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0541", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0542", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0543", "scope": "local", "departments": ["Bogotá D.C."], "macro_regions": ["Andina"]}
+{"record_id": "R0544", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0557", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0565", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0578", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0591", "scope": "regional", "departments": ["La Guajira", "Cesar", "Magdalena"], "macro_regions": ["Caribe"]}
+{"record_id": "R0598", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0602", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0614", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0617", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0623", "scope": "local", "departments": ["Atlántico", "Norte de Santander", "Bolívar"], "macro_regions": ["Caribe", "Andina"]}
+{"record_id": "R0627", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0639", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0641", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0645", "scope": "local", "departments": ["Valle del Cauca"], "macro_regions": ["Pacífico"]}
+{"record_id": "R0646", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0647", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0649", "scope": "regional", "departments": [], "macro_regions": ["Orinoquía"]}
+{"record_id": "R0650", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0653", "scope": "local", "departments": ["La Guajira", "Chocó"], "macro_regions": ["Caribe", "Pacífico"]}
+{"record_id": "R0655", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0659", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0668", "scope": "local", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R0676", "scope": "local", "departments": ["Vichada"], "macro_regions": ["Orinoquía"]}
+{"record_id": "R0680", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0697", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0710", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0716", "scope": "local", "departments": ["Chocó", "Putumayo"], "macro_regions": ["Pacífico", "Amazonía"]}
+{"record_id": "R0718", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0725", "scope": "local", "departments": ["Vaupés"], "macro_regions": ["Amazonía"]}
+{"record_id": "R0757", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0759", "scope": "local", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R0762", "scope": "local", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R0767", "scope": "regional", "departments": ["Meta", "Chocó", "Putumayo"], "macro_regions": ["Pacífico", "Orinoquía", "Amazonía"]}
+{"record_id": "R0772", "scope": "local", "departments": ["Nariño"], "macro_regions": ["Pacífico"]}
+{"record_id": "R0787", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0792", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0799", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0811", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0812", "scope": "regional", "departments": ["Cundinamarca"], "macro_regions": ["Andina"]}
+{"record_id": "R0815", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0816", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0829", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0833", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0841", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0848", "scope": "local", "departments": ["Chocó", "Amazonas", "Nariño", "Guaviare", "La Guajira", "San Andrés y Providencia"], "macro_regions": ["Caribe", "Pacífico", "Amazonía", "Insular"]}
+{"record_id": "R0849", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0853", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0855", "scope": "local", "departments": ["La Guajira", "Chocó", "Guainía"], "macro_regions": ["Caribe", "Pacífico", "Amazonía"]}
+{"record_id": "R0861", "scope": "regional", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R0863", "scope": "regional", "departments": ["Caldas", "Quindío", "Risaralda"], "macro_regions": ["Andina"]}
+{"record_id": "R0869", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0880", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0882", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0885", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0896", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0898", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0905", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0911", "scope": "local", "departments": ["Antioquia"], "macro_regions": ["Andina"]}
+{"record_id": "R0915", "scope": "local", "departments": ["Santander"], "macro_regions": ["Andina"]}
+{"record_id": "R0920", "scope": "local", "departments": ["Santander"], "macro_regions": ["Andina"]}
+{"record_id": "R0935", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0953", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0961", "scope": "local", "departments": ["Guainía", "Vaupés"], "macro_regions": ["Amazonía"]}
+{"record_id": "R0966", "scope": "regional", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R0975", "scope": "local", "departments": ["Bolívar"], "macro_regions": ["Caribe"]}
+{"record_id": "R0978", "scope": "local", "departments": ["Santander", "Córdoba", "Antioquia", "Nariño"], "macro_regions": ["Caribe", "Andina", "Pacífico"]}
+{"record_id": "R0989", "scope": "local", "departments": ["Valle del Cauca"], "macro_regions": ["Pacífico"]}
+{"record_id": "R0990", "scope": "local", "departments": ["Antioquia"], "macro_regions": ["Andina"]}
+{"record_id": "R0992", "scope": "local", "departments": ["Caquetá"], "macro_regions": ["Amazonía"]}
+{"record_id": "R0993", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0994", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R0995", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1025", "scope": "regional", "departments": ["La Guajira", "Magdalena", "Cesar", "Atlántico", "Bolívar", "Córdoba", "Sucre"], "macro_regions": ["Caribe"]}
+{"record_id": "R1026", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1036", "scope": "local", "departments": ["San Andrés y Providencia", "Amazonas"], "macro_regions": ["Amazonía", "Insular"]}
+{"record_id": "R1045", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1051", "scope": "local", "departments": ["La Guajira", "Amazonas"], "macro_regions": ["Caribe", "Amazonía"]}
+{"record_id": "R1054", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1060", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1070", "scope": "regional", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R1078", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1083", "scope": "local", "departments": ["Bolívar"], "macro_regions": ["Caribe"]}
+{"record_id": "R1084", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1088", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1089", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1103", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1113", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1117", "scope": "local", "departments": ["Vaupés"], "macro_regions": ["Amazonía"]}
+{"record_id": "R1121", "scope": "local", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R1125", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1141", "scope": "local", "departments": ["Huila"], "macro_regions": ["Andina"]}
+{"record_id": "R1161", "scope": "local", "departments": ["Atlántico", "La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R1168", "scope": "local", "departments": ["Atlántico"], "macro_regions": ["Caribe"]}
+{"record_id": "R1183", "scope": "regional", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R1192", "scope": "local", "departments": ["Huila"], "macro_regions": ["Andina"]}
+{"record_id": "R1194", "scope": "regional", "departments": [], "macro_regions": ["Pacífico"]}
+{"record_id": "R1196", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1197", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1198", "scope": "regional", "departments": ["Atlántico"], "macro_regions": ["Caribe"]}
+{"record_id": "R1201", "scope": "local", "departments": ["Bogotá D.C."], "macro_regions": ["Andina"]}
+{"record_id": "R1206", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1219", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1223", "scope": "local", "departments": ["Bogotá D.C."], "macro_regions": ["Andina"]}
+{"record_id": "R1230", "scope": "local", "departments": ["Cauca"], "macro_regions": ["Pacífico"]}
+{"record_id": "R1231", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1241", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1252", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1262", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1276", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1286", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1289", "scope": "local", "departments": ["Norte de Santander"], "macro_regions": ["Andina"]}
+{"record_id": "R1309", "scope": "local", "departments": ["Casanare"], "macro_regions": ["Orinoquía"]}
+{"record_id": "R1310", "scope": "regional", "departments": ["Chocó"], "macro_regions": ["Pacífico"]}
+{"record_id": "R1320", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1321", "scope": "local", "departments": ["Bolívar"], "macro_regions": ["Caribe"]}
+{"record_id": "R1336", "scope": "regional", "departments": ["Chocó"], "macro_regions": ["Pacífico"]}
+{"record_id": "R1341", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1345", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1351", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1387", "scope": "local", "departments": ["Valle del Cauca"], "macro_regions": ["Pacífico"]}
+{"record_id": "R1396", "scope": "local", "departments": ["Cundinamarca", "Antioquia", "Amazonas", "La Guajira"], "macro_regions": ["Caribe", "Andina", "Amazonía"]}
+{"record_id": "R1397", "scope": "regional", "departments": ["La Guajira", "Magdalena", "Atlántico", "Bolívar", "Córdoba"], "macro_regions": ["Caribe"]}
+{"record_id": "R1400", "scope": "regional", "departments": ["Santander"], "macro_regions": ["Andina"]}
+{"record_id": "R1401", "scope": "regional", "departments": ["Putumayo"], "macro_regions": ["Andina", "Amazonía"]}
+{"record_id": "R1402", "scope": "regional", "departments": [], "macro_regions": ["Caribe"]}
+{"record_id": "R1407", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1408", "scope": "local", "departments": ["Antioquia"], "macro_regions": ["Andina"]}
+{"record_id": "R1415", "scope": "regional", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R1419", "scope": "local", "departments": ["San Andrés y Providencia"], "macro_regions": ["Insular"]}
+{"record_id": "R1437", "scope": "regional", "departments": ["San Andrés y Providencia"], "macro_regions": ["Insular"]}
+{"record_id": "R1439", "scope": "regional", "departments": ["Caldas"], "macro_regions": ["Andina"]}
+{"record_id": "R1442", "scope": "local", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R1445", "scope": "local", "departments": ["Santander"], "macro_regions": ["Andina"]}
+{"record_id": "R1450", "scope": "unspecified", "departments": [], "macro_regions": []}
+{"record_id": "R1455", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1456", "scope": "local", "departments": ["San Andrés y Providencia", "Amazonas"], "macro_regions": ["Amazonía", "Insular"]}
+{"record_id": "R1468", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1473", "scope": "regional", "departments": ["Bolívar", "Atlántico", "Magdalena", "La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R1487", "scope": "local", "departments": ["La Guajira", "Cesar"], "macro_regions": ["Caribe"]}
+{"record_id": "R1495", "scope": "local", "departments": ["Vichada"], "macro_regions": ["Orinoquía"]}
+{"record_id": "R1497", "scope": "local", "departments": ["Valle del Cauca"], "macro_regions": ["Pacífico"]}
+{"record_id": "R1498", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1500", "scope": "regional", "departments": ["La Guajira", "Magdalena", "Atlántico", "Bolívar"], "macro_regions": ["Caribe"]}
+{"record_id": "R1507", "scope": "local", "departments": ["Valle del Cauca"], "macro_regions": ["Pacífico"]}
+{"record_id": "R1513", "scope": "local", "departments": ["Antioquia"], "macro_regions": ["Andina"]}
+{"record_id": "R1525", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1530", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1534", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1535", "scope": "regional", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R1537", "scope": "regional", "departments": ["Córdoba"], "macro_regions": ["Caribe"]}
+{"record_id": "R1542", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1543", "scope": "regional", "departments": ["La Guajira", "Magdalena", "Atlántico", "Bolívar"], "macro_regions": ["Caribe"]}
+{"record_id": "R1547", "scope": "regional", "departments": [], "macro_regions": ["Caribe"]}
+{"record_id": "R1548", "scope": "local", "departments": ["Bogotá D.C."], "macro_regions": ["Andina"]}
+{"record_id": "R1553", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1558", "scope": "local", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R1561", "scope": "regional", "departments": ["Nariño", "Cauca", "Valle del Cauca", "Chocó"], "macro_regions": ["Pacífico"]}
+{"record_id": "R1570", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1574", "scope": "local", "departments": ["Boyacá"], "macro_regions": ["Andina"]}
+{"record_id": "R1581", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1584", "scope": "local", "departments": ["La Guajira"], "macro_regions": ["Caribe"]}
+{"record_id": "R1595", "scope": "local", "departments": ["Chocó"], "macro_regions": ["Pacífico"]}
+{"record_id": "R1597", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1606", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1612", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1621", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1623", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1624", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1631", "scope": "regional", "departments": [], "macro_regions": ["Caribe"]}
+{"record_id": "R1633", "scope": "regional", "departments": [], "macro_regions": ["Caribe"]}
+{"record_id": "R1654", "scope": "local", "departments": ["Nariño"], "macro_regions": ["Pacífico"]}
+{"record_id": "R1664", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1668", "scope": "local", "departments": ["Valle del Cauca", "Antioquia", "Atlántico", "Bolívar", "Santander", "Magdalena", "Nariño"], "macro_regions": ["Caribe", "Andina", "Pacífico"]}
+{"record_id": "R1672", "scope": "local", "departments": ["Santander"], "macro_regions": ["Andina"]}
+{"record_id": "R1673", "scope": "local", "departments": ["Chocó"], "macro_regions": ["Pacífico"]}
+{"record_id": "R1686", "scope": "local", "departments": ["Santander"], "macro_regions": ["Andina"]}
+{"record_id": "R1687", "scope": "local", "departments": ["Cundinamarca"], "macro_regions": ["Andina"]}
+{"record_id": "R1748", "scope": "local", "departments": ["Vaupés"], "macro_regions": ["Amazonía"]}
+{"record_id": "R1749", "scope": "regional", "departments": [], "macro_regions": ["Caribe"]}
+{"record_id": "R1760", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1761", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1772", "scope": "regional", "departments": ["La Guajira", "Cesar", "Magdalena"], "macro_regions": ["Caribe"]}
+{"record_id": "R1776", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1780", "scope": "local", "departments": ["Atlántico"], "macro_regions": ["Caribe"]}
+{"record_id": "R1787", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1790", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1793", "scope": "regional", "departments": ["Sucre"], "macro_regions": ["Caribe"]}
+{"record_id": "R1794", "scope": "local", "departments": ["Antioquia"], "macro_regions": ["Andina"]}
+{"record_id": "R1797", "scope": "regional", "departments": ["Arauca", "Antioquia", "Norte de Santander", "Cesar", "Tolima"], "macro_regions": ["Caribe", "Andina", "Orinoquía"]}
+{"record_id": "R1799", "scope": "regional", "departments": ["Valle del Cauca"], "macro_regions": ["Pacífico"]}
+{"record_id": "R1800", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1812", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1813", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1814", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1832", "scope": "local", "departments": ["Chocó"], "macro_regions": ["Pacífico"]}
+{"record_id": "R1837", "scope": "regional", "departments": ["Caldas"], "macro_regions": ["Andina"]}
+{"record_id": "R1839", "scope": "national", "departments": [], "macro_regions": []}
+{"record_id": "R1840", "scope": "local", "departments": ["Córdoba"], "macro_regions": ["Caribe"]}

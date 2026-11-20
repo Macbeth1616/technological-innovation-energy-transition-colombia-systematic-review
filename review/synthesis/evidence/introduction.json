@@ -1,0 +1,246 @@
+[
+ {
+  "id": "c00",
+  "regime": "discovery",
+  "source": "guidance/introduction/context-10.1016-j.renene.2019.10.066/context-10.1016-j.renene.2019.10.066.md",
+  "cite_key": "ruizlopez2020solar",
+  "content": "[intro-rationale / hydropower dependence and climate vulnerability] Colombia's strong reliance on hydropower is expected to leave its electricity system more vulnerable to extreme weather patterns such as El Niño. Supporting quote: \"Heavily relying on hydro-power, Colombia’s electricity system will become more vulnerable with extreme weather patterns such as El Nino.\" Cite as \\cite{ruizlopez2020solar} (Andrea Erica Ruiz-Lopez, Renewable Energy, 2020)"
+ },
+ {
+  "id": "c01",
+  "regime": "discovery",
+  "source": "guidance/introduction/context-10.1016-j.enpol.2018.12.057/context-10.1016-j.enpol.2018.12.057.md",
+  "cite_key": "arangoaramburo2019climate",
+  "content": "[intro-rationale / hydropower dependence and climate vulnerability] Where the climate becomes drier, hydropower generation can be impaired, which creates a need for new power investments that would not otherwise have been required. Supporting quote: \"In drying regions, hydropower generation may be impaired, creating a need for new power investments that would otherwise have been unnecessary.\" Cite as \\cite{arangoaramburo2019climate} (S. Arango-Aramburo, Energy Policy, 2019)"
+ },
+ {
+  "id": "c02",
+  "regime": "discovery",
+  "source": "guidance/background/definition-10.32479-ijeep.8038/definition-10.32479-ijeep.8038.md",
+  "cite_key": "forero2019renewable",
+  "content": "[intro-rationale / diversification away from hydrology and fossil fuels] To avoid depending on hydrological fluctuations and on fossil fuels, Colombia needs non-conventional renewable energy sources for its electricity generation. Supporting quote: \"In order not to depend on hydrological fluctuations and dependence on fossil fuels, the country needs to implement non-conventional RES (NCRES) for the generation of electricity.\" Cite as \\cite{forero2019renewable} (J. Duarte Forero, International Journal of Energy Economics and Policy, 2019)"
+ },
+ {
+  "id": "c03",
+  "regime": "discovery",
+  "source": "guidance/introduction/costs-maturity-10.1038-s41467-023-41971-7/costs-maturity-10.1038-s41467-023-41971-7.md",
+  "cite_key": "nijsse2023momentum",
+  "content": "[intro-rationale / decarbonization need] Decarbonisation plans around the world require zero-carbon energy sources to be deployed widely within the coming decades. Supporting quote: \"Decarbonisation plans across the globe require zero-carbon energy sources to be widely deployed by 2050 or 2060.\" Cite as \\cite{nijsse2023momentum} (F. Nijsse, Nature Communications, 2023)"
+ },
+ {
+  "id": "c04",
+  "regime": "discovery",
+  "source": "guidance/introduction/costs-maturity-10.1038-s41467-019-08855-1/costs-maturity-10.1038-s41467-019-08855-1.md",
+  "cite_key": "bogdanov2019radical",
+  "content": "[intro-rationale / falling costs of solar and storage] Continuing cost declines in photovoltaic systems and battery storage are making solar photovoltaics considerably more competitive than wind energy in many regions. Supporting quote: \"The ongoing cost decline of PV systems and battery storage makes PV substantially more competitive than wind energy in many regions.\" Cite as \\cite{bogdanov2019radical} (D. Bogdanov, Nature Communications, 2019)"
+ },
+ {
+  "id": "c05",
+  "regime": "discovery",
+  "source": "guidance/introduction/costs-maturity-10.1039-d0ee02681f/costs-maturity-10.1039-d0ee02681f.md",
+  "cite_key": "ziegler2020examining",
+  "content": "[intro-rationale / falling costs of solar and storage] The price of lithium-ion cells, the basis of much battery storage, has fallen steeply since the technology was first commercialised. Supporting quote: \"we estimate that the price of lithium-ion cells has declined by about 97% since their commercial introduction in 1991.\" Cite as \\cite{ziegler2020examining} (Micah S. Ziegler, Energy & Environmental Science, 2020)"
+ },
+ {
+  "id": "c06",
+  "regime": "discovery",
+  "source": "guidance/background/finance-regulation-10.1038-s41467-021-24305-3/finance-regulation-10.1038-s41467-021-24305-3.md",
+  "cite_key": "ameli2021higher",
+  "content": "[intro-rationale / finance and cost of capital in developing economies] In most developing economies, immature capital markets with little capital stock make it difficult to access and secure the finance that energy investments require. Supporting quote: \"In most developing economies, capital markets are immature, not well developed and lack capital stock, making it difficult to access and secure finance\" Cite as \\cite{ameli2021higher} (Nadia Ameli, Nature Communications, 2021)"
+ },
+ {
+  "id": "c07",
+  "regime": "discovery",
+  "source": "guidance/introduction/context-10.1016-j.enpol.2018.12.057/context-10.1016-j.enpol.2018.12.057.md",
+  "cite_key": "arangoaramburo2019climate",
+  "content": "[intro-rationale / many technologies and settings to weigh] Technological change in Colombia's power sector depends on financial, institutional and regulatory constraints, besides markets and economics, which are too uncertain or complex for global energy models to capture. Supporting quote: \"Technological change in Colombia's power sector will depend not only on markets and economics but also on financial, institutional, and regulatory constraints that are generally too uncertain or complex to incorporate in global energy models.\" Cite as \\cite{arangoaramburo2019climate} (S. Arango-Aramburo, Energy Policy, 2019)"
+ },
+ {
+  "id": "c08",
+  "regime": "discovery",
+  "source": "guidance/introduction/costs-maturity-10.1038-s41467-019-08855-1/costs-maturity-10.1038-s41467-019-08855-1.md",
+  "cite_key": "bogdanov2019radical",
+  "content": "[intro-rationale / many technologies and settings to weigh] Regions differ in resources, with some having better wind conditions, others excellent solar irradiation, and others hydropower potential or substantial biomass resources. Supporting quote: \"Still, some regions have better wind conditions, some excellent solar irradiation, and some benefit from available hydropower potential or substantial biomass resources.\" Cite as \\cite{bogdanov2019radical} (D. Bogdanov, Nature Communications, 2019)"
+ },
+ {
+  "id": "c09",
+  "regime": "discovery",
+  "source": "guidance/introduction/existing-review-10.22517-23447214.24449/existing-review-10.22517-23447214.24449.md",
+  "cite_key": "mendezrodriguez2020systematic",
+  "content": "[intro-rationale / fragmentation of the evidence] A systematic mapping of energy-efficiency research found that energy-related problems are not being addressed from a systemic and interdisciplinary perspective. Supporting quote: \"the problems linked to energy are not being addressed from a systemic and interdisciplinary paradigm\" Cite as \\cite{mendezrodriguez2020systematic} (C. Méndez-Rodríguez, None, 2020)"
+ },
+ {
+  "id": "c53",
+  "regime": "discovery",
+  "source": "guidance/introduction/existing-review-10.1371-journal.pone.0261091/existing-review-10.1371-journal.pone.0261091.md",
+  "cite_key": "zhang2021systematic",
+  "content": "[intro-existing-reviews / Zhang 2021 (clean energy transition)] A bibliometric review of clean energy research set out a research agenda for the clean energy transition as a route to low-carbon development and carbon neutrality. Supporting quote: \"Through systematic reviews of current and trending topics in clean energy research, we aim to delineate a critical research agenda for clean energy transition as an effective way to achieve a low-carbon development and carbon neutrality.\" Cite as \\cite{zhang2021systematic} (Wei Zhang, PLoS ONE, 2021)"
+ },
+ {
+  "id": "c54",
+  "regime": "discovery",
+  "source": "guidance/introduction/existing-review-10.1371-journal.pone.0261091/existing-review-10.1371-journal.pone.0261091.md",
+  "cite_key": "zhang2021systematic",
+  "content": "[intro-existing-reviews / Zhang 2021 (clean energy transition)] The corpus of that clean energy review was collected from the Web of Science Core Collection database. Supporting quote: \"We collect clean energy literature from the Web of Science (WoS) Core Collection database\" Cite as \\cite{zhang2021systematic} (Wei Zhang, PLoS ONE, 2021)"
+ },
+ {
+  "id": "c55",
+  "regime": "discovery",
+  "source": "guidance/introduction/existing-review-10.1371-journal.pone.0261091/existing-review-10.1371-journal.pone.0261091.md",
+  "cite_key": "zhang2021systematic",
+  "content": "[intro-existing-reviews / Zhang 2021 (clean energy transition)] That review used HistCite to map the citations of 50 highly cited articles and identify the key streams of clean energy research. Supporting quote: \"This paper utilises HistCite to generate the citation map of 50 highly cited articles as guidance to identify key streams of clean energy research.\" Cite as \\cite{zhang2021systematic} (Wei Zhang, PLoS ONE, 2021)"
+ },
+ {
+  "id": "c56",
+  "regime": "discovery",
+  "source": "guidance/introduction/existing-review-10.1371-journal.pone.0261091/existing-review-10.1371-journal.pone.0261091.md",
+  "cite_key": "zhang2021systematic",
+  "content": "[intro-existing-reviews / Zhang 2021 (clean energy transition)] The review clusters the keywords of relevant literature published from 2015 to 2020 to identify future research hotspots. Supporting quote: \"This article uses this application to cluster keywords of relevant literature from 2015 to 2020 to identify future research hotspots.\" Cite as \\cite{zhang2021systematic} (Wei Zhang, PLoS ONE, 2021)"
+ },
+ {
+  "id": "c57",
+  "regime": "discovery",
+  "source": "guidance/introduction/existing-review-10.14483-22487638.18619/existing-review-10.14483-22487638.18619.md",
+  "cite_key": "zabala2021comprehensive",
+  "content": "[intro-existing-reviews / Rodriguez-Zabala 2021 (isolated Colombian microgrids)] The review of isolated Colombian microgrids proposes a model that identifies the main technical, economic, regulatory and environmental variables to consider when planning rural electrification solutions in Colombia. Supporting quote: \"Therefore, this paper proposes a model that allows identifying the main technical, economic, regulatory, and environmental variables that should be considered for the successful planning of Colombian rural electrification solutions.\" Cite as \\cite{zabala2021comprehensive} (Alejandra Rodriguez Zabala, Tecnura, 2021) This review is also one of the studies included in the present review."
+ },
+ {
+  "id": "c58",
+  "regime": "discovery",
+  "source": "guidance/introduction/existing-review-10.14483-22487638.18619/existing-review-10.14483-22487638.18619.md",
+  "cite_key": "zabala2021comprehensive",
+  "content": "[intro-existing-reviews / Rodriguez-Zabala 2021 (isolated Colombian microgrids)] Its method is System Dynamics, used to build a model describing the causal relationships among the variables essential for designing and operating isolated microgrids. Supporting quote: \"Methodology: This paper proposes the use of System Dynamics to create a model that allows describing the causal relationships between the different variables essential for the design and operation of isolated microgrids.\" Cite as \\cite{zabala2021comprehensive} (Alejandra Rodriguez Zabala, Tecnura, 2021) This review is also one of the studies included in the present review."
+ },
+ {
+  "id": "c59",
+  "regime": "discovery",
+  "source": "guidance/introduction/existing-review-10.15446-sicel.v12.121195/existing-review-10.15446-sicel.v12.121195.md",
+  "cite_key": "botero2026performance",
+  "content": "[intro-existing-reviews / Osorio Botero 2025 (energy efficiency Colombia vs Spain)] This review analyses the current state of energy efficiency in Colombia using a comparative approach with Spain as the benchmark. Supporting quote: \"This review article presents a comprehensive analysis of the current state of energy efficiency in Colombia, with a comparative approach using Spain as a benchmark.\" Cite as \\cite{botero2026performance} (Alejandro Osorio Botero, Simposio Internacional sobre la Calidad de la Energía Eléctrica - SICEL, 2026)"
+ },
+ {
+  "id": "c60",
+  "regime": "discovery",
+  "source": "guidance/introduction/existing-review-10.15446-sicel.v12.121195/existing-review-10.15446-sicel.v12.121195.md",
+  "cite_key": "botero2026performance",
+  "content": "[intro-existing-reviews / Osorio Botero 2025 (energy efficiency Colombia vs Spain)] For Colombia, its corpus consisted of institutional and legal sources such as the UPME, the Ministry of Mines and Energy and recent legislation including Law 1715 of 2014. Supporting quote: \"For Colombia, the sources reviewed included the UPME, the Ministry of Mines and Energy, and recent legislation such as Law 1715 of 2014 and Law 2407 of 2024.\" Cite as \\cite{botero2026performance} (Alejandro Osorio Botero, Simposio Internacional sobre la Calidad de la Energía Eléctrica - SICEL, 2026)"
+ },
+ {
+  "id": "c61",
+  "regime": "discovery",
+  "source": "guidance/introduction/existing-review-10.18359-rfce.6423/existing-review-10.18359-rfce.6423.md",
+  "cite_key": "villamizar2023desafios",
+  "content": "[intro-existing-reviews / Nino Villamizar 2023 (sustainable energy transition)] This review combines a literature review, bibliometric analysis and content analysis of research documents retrieved from the Web of Science database and sectoral sources. Supporting quote: \"La metodología utilizada es la revisión de literatura combinada con un análisis bibliométrico y técnicas de análisis de contenido de documentos de investigación recuperados en la base de datos Web of Science y sectoriales.\" Cite as \\cite{villamizar2023desafios} (Yeny Andrea Niño Villamizar, Revista Facultad de Ciencias Económicas, 2023)"
+ },
+ {
+  "id": "c62",
+  "regime": "discovery",
+  "source": "guidance/introduction/existing-review-10.18359-rfce.6423/existing-review-10.18359-rfce.6423.md",
+  "cite_key": "villamizar2023desafios",
+  "content": "[intro-existing-reviews / Nino Villamizar 2023 (sustainable energy transition)] Its search retrieved 282 documents published up to 11 May 2022. Supporting quote: \"De esta forma, se encontraron un total de 282 documentos publicados hasta el 11 de mayo de 2022.\" Cite as \\cite{villamizar2023desafios} (Yeny Andrea Niño Villamizar, Revista Facultad de Ciencias Económicas, 2023)"
+ },
+ {
+  "id": "c63",
+  "regime": "discovery",
+  "source": "guidance/introduction/existing-review-10.22320-07190700.2025.15.01.01/existing-review-10.22320-07190700.2025.15.01.01.md",
+  "cite_key": "medinareyes2025driving",
+  "content": "[intro-existing-reviews / Medina-Reyes 2025 (energy communities Colombia)] This literature review analyses how energy communities, supported by technological innovation and adaptive regulation, can contribute to a decentralized energy transition in Colombia. Supporting quote: \"This literature review aims to analyze how energy communities, supported by technological innovations and adaptive regulatory frameworks, can contribute to a decentralized energy transition in Colombia.\" Cite as \\cite{medinareyes2025driving} (María Fernanda Medina-Reyes, Revista Hábitat Sustentable, 2025) This review is also one of the studies included in the present review."
+ },
+ {
+  "id": "c64",
+  "regime": "discovery",
+  "source": "guidance/introduction/existing-review-10.22320-07190700.2025.15.01.01/existing-review-10.22320-07190700.2025.15.01.01.md",
+  "cite_key": "medinareyes2025driving",
+  "content": "[intro-existing-reviews / Medina-Reyes 2025 (energy communities Colombia)] Its method is a systematic literature review in Scopus with a keyword co-occurrence analysis, complemented by an examination of Colombian regulatory documents. Supporting quote: \"The research employs a systematic literature review in Scopus and a keyword co‑occurrence analysis to identify trends; in addition, Colombian regulatory documents were examined to contextualize the findings.\" Cite as \\cite{medinareyes2025driving} (María Fernanda Medina-Reyes, Revista Hábitat Sustentable, 2025) This review is also one of the studies included in the present review."
+ },
+ {
+  "id": "c65",
+  "regime": "discovery",
+  "source": "guidance/introduction/existing-review-10.22320-07190700.2025.15.01.01/existing-review-10.22320-07190700.2025.15.01.01.md",
+  "cite_key": "medinareyes2025driving",
+  "content": "[intro-existing-reviews / Medina-Reyes 2025 (energy communities Colombia)] That review excluded documents not written in English or not classified as scientific articles or reviews. Supporting quote: \"Documents not in English, or not classified as scientific articles or reviews, were excluded.\" Cite as \\cite{medinareyes2025driving} (María Fernanda Medina-Reyes, Revista Hábitat Sustentable, 2025) This review is also one of the studies included in the present review."
+ },
+ {
+  "id": "c66",
+  "regime": "discovery",
+  "source": "guidance/introduction/existing-review-10.22517-23447214.24449/existing-review-10.22517-23447214.24449.md",
+  "cite_key": "mendezrodriguez2020systematic",
+  "content": "[intro-existing-reviews / Mendez-Rodriguez 2020 (energy efficiency mapping)] This study carries out a systematic mapping of the scientific literature concerning energy efficiency, from which it identifies a knowledge gap. Supporting quote: \"In this study, a systematic mapping of the literature concerning E.E. is carried out.\" Cite as \\cite{mendezrodriguez2020systematic} (C. Méndez-Rodríguez, None, 2020)"
+ },
+ {
+  "id": "c67",
+  "regime": "discovery",
+  "source": "guidance/introduction/existing-review-10.22517-23447214.24449/existing-review-10.22517-23447214.24449.md",
+  "cite_key": "mendezrodriguez2020systematic",
+  "content": "[intro-existing-reviews / Mendez-Rodriguez 2020 (energy efficiency mapping)] The mapping searched literature in English, Spanish and French from 2006 onwards, which yielded 500 scientific texts. Supporting quote: \"The search was done in English, Spanish, and French, taking into account studies from 2006 onwards, resulting in 500 scientific texts.\" Cite as \\cite{mendezrodriguez2020systematic} (C. Méndez-Rodríguez, None, 2020)"
+ },
+ {
+  "id": "c68",
+  "regime": "discovery",
+  "source": "guidance/introduction/existing-review-10.32479-ijeep.12819/existing-review-10.32479-ijeep.12819.md",
+  "cite_key": "nunez2022energy",
+  "content": "[intro-existing-reviews / Niebles-Nunez 2022 (energy financing Colombia)] This bibliometric review addresses the contribution of energy financing to competitiveness in the Colombian business sector, restricted to the period from 2011 to 2021. Supporting quote: \"This article presents a bibliometric review on the researching topic \"Contribution to the competitiveness of energy financing in the Colombian business sector,\" limited from 2011 to 2021\" Cite as \\cite{nunez2022energy} (W. Niebles Núñez, International Journal of Energy Economics and Policy, 2022)"
+ },
+ {
+  "id": "c69",
+  "regime": "discovery",
+  "source": "guidance/introduction/existing-review-10.32479-ijeep.12819/existing-review-10.32479-ijeep.12819.md",
+  "cite_key": "nunez2022energy",
+  "content": "[intro-existing-reviews / Niebles-Nunez 2022 (energy financing Colombia)] The review used the Scopus database and identified 76 studies on Colombia among the 2609 documents analysed. Supporting quote: \"The review was carried out using the Scopus database, obtaining a set of 76 studies in Colombia within the 2609 documents analyzed\" Cite as \\cite{nunez2022energy} (W. Niebles Núñez, International Journal of Energy Economics and Policy, 2022)"
+ },
+ {
+  "id": "c70",
+  "regime": "discovery",
+  "source": "guidance/introduction/existing-review-10.58763-rc202334/existing-review-10.58763-rc202334.md",
+  "cite_key": "guedes2023prospects",
+  "content": "[intro-existing-reviews / Perez-Guedes 2023 (energy transition Latin America)] This study on Latin America's energy transition used theoretical methods, including a historical-logical method that allowed predicting the behaviour of energy-transition matrices in Latin America. Supporting quote: \"Se utilizaron métodos teóricos: histórico – lógico (que permitió predecir el comportamiento de las matrices de transición energética en América Latina)\" Cite as \\cite{guedes2023prospects} (Nachely Pérez Guedes, Región Científica, 2023)"
+ },
+ {
+  "id": "per-year",
+  "regime": "none",
+  "source": "review/biblio.json",
+  "content": {
+   "2015": 3,
+   "2016": 5,
+   "2017": 4,
+   "2018": 3,
+   "2019": 12,
+   "2020": 13,
+   "2021": 9,
+   "2022": 24,
+   "2023": 23,
+   "2024": 21,
+   "2025": 40
+  }
+ },
+ {
+  "id": "scope-reviews",
+  "regime": "none",
+  "source": "review/scope.json",
+  "content": "A scoping search of OpenAlex for works of type review on the review topic, run on 2026-11-17, returned 154 review records (openalex (type:review))."
+ },
+ {
+  "id": "paper-structure",
+  "regime": "none",
+  "source": "paper/main.tex",
+  "content": "Section order after the introduction, with labels: Background (sec:background) defines the terms and the open problems; Methods (sec:methods) reports the protocol, eligibility, sources, search, selection, data collection, appraisal and synthesis; Results (sec:results) reports study selection, characteristics, quality, the scientometric overview (RQ1) and the thematic synthesis (RQ2-RQ4); Discussion (sec:discussion) interprets the findings; Limitations (sec:limitations) states the limits of the evidence and of the review; Conclusions (sec:conclusions) closes the paper. Refer to them as Section~\\ref{sec:...}."
+ },
+ {
+  "id": "protocol-objective",
+  "regime": "none",
+  "source": "review/protocol.json",
+  "content": "Objective (verbatim): To map and synthesize the peer-reviewed evidence (2015-2025) on how technological advances and innovation contribute to, or are constrained in, Colombia's energy transition, combining a scientometric analysis of the field with a comparative thematic synthesis of technologies, outcomes, barriers and enablers."
+ },
+ {
+  "id": "protocol-rqs",
+  "regime": "none",
+  "source": "review/protocol.json",
+  "content": "Research questions, to be listed exactly as worded: RQ1 (verbatim): How has peer-reviewed research on technological innovation for the energy transition in Colombia evolved between 2015 and 2025 in volume, venues, institutions, collaboration networks and thematic clusters? PICOC: population Peer-reviewed studies on Colombia's energy system; intervention Technological advances and innovation for the energy transition; comparison Over time (2015-2025) and across thematic clusters; outcomes Publication trends, key authors and institutions, collaboration networks, keyword co-occurrence clusters, under-explored areas; context Colombia, national scope. RQ2 (verbatim): Which energy-transition technologies (non-conventional renewables, energy efficiency, storage, smart grids, microgrids, low-carbon fuels and hydrogen) have been studied for Colombia, by what methods, and what technical, economic and environmental outcomes do the studies report? PICOC: population Colombian energy supply and demand sectors (power, industry, buildings, transport, non-interconnected zones); intervention Deployment, design, modelling or assessment of energy-transition technologies; comparison Conventional fossil-based or incumbent alternatives, or between technologies, where reported; outcomes Technical performance, cost, emissions reduction, reliability and energy access; context Colombia, including the National Interconnected System (SIN) and the non-interconnected zones (ZNI). RQ3 (verbatim): What barriers and enablers, including policy, regulation, finance and institutions, do the studies identify for the adoption of technological innovation in Colombia's energy transition? PICOC: population Actors and institutions of Colombia's energy sector (government, regulators, utilities, industry, communities); intervention Policy instruments, regulatory frameworks (e.g., Law 1715 of 2014, Law 2099 of 2021), financing and innovation-system mechanisms; comparison Across technologies and, where reported, against other Latin American countries; outcomes Reported barriers, enablers and their effects on adoption; context Colombia. RQ4 (verbatim): What social, environmental and territorial impacts and conflicts are associated with the implementation of energy-transition technologies in Colombia? PICOC: population Communities and territories hosting or served by energy-transition projects (e.g., La Guajira, ZNI); intervention Implementation of renewable, efficiency or grid projects; comparison Not applicable; outcomes Socio-environmental impacts, conflicts, acceptance, energy justice and access; context Colombia. Contributions, one per research question in the same order: (1) a scientometric map of the field (RQ1); (2) a comparison of technologies, methods and reported technical, economic and environmental outcomes across six technology groups (RQ2); (3) a classification of barriers and enablers into the eight open-problem classes of the background (RQ3); (4) a synthesis of social, environmental and territorial impacts and conflicts, with the open challenges and research gaps they leave (RQ4)."
+ },
+ {
+  "id": "gap-analysis",
+  "regime": "none",
+  "source": "review/protocol.json; review/synthesis/evidence/introduction.json (intro-existing-reviews records)",
+  "content": "Comparison of the existing reviews obtained in full text with this review's protocol: each of them covers either a single technology or topic (isolated microgrids, energy communities, energy financing, energy efficiency), a different geography (global clean energy research; Latin America), or a corpus closed before 2023; none combines a PRISMA 2020 systematic search of peer-reviewed literature on all energy-transition technologies for Colombia over 2015-2025 with a scientometric analysis and a comparative synthesis of outcomes, barriers, enablers and impacts, which this review does."
+ }
+]

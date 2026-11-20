@@ -1,0 +1,722 @@
+{
+  "generated_at": "2026-11-17T02:36:32Z",
+  "query": "energy transition Colombia",
+  "source": "openalex (type:review)",
+  "total": 3254,
+  "reviews": [
+    {
+      "source": "openalex",
+      "title": "Energy-Sufficiency for a Just Transition: A Systematic Review",
+      "abstract": "Efforts to achieve an energy transition often neglect to account for the levelling of benefits realizable with higher levels of energy use, despite knowledge of a saturation effect and recognition of increasing harms of use. This research examines energy sufficiency as a maximum quantity of energy associated with improvements in human well-being to inform a recalibration of energy targets among high-energy societies. A systematic review of recent research was performed to identify the point at which increasing levels of energy use no longer correlate with meaningful increases in well-being. For selected studies (n = 18), energy sufficiency values range from 60–221 gigajoules per capita per year with a mean of 132 gigajoules per capita per year for associated measures of well-being. The review finds agreement in a pattern of saturation and provides a range of values for energy sufficiency maximums, suggesting that a relatively modest amount and a diverse quality of energy is needed to support high levels of human well-being. Beyond the conventional emphasis on energy efficiency and renewable energy, energy sufficiency therefore offers a necessary and complementary approach for supporting just and ecological energy transitions.",
+      "authors": [
+        "Matthew J. Burke"
+      ],
+      "year": 2020,
+      "venue": "Energies",
+      "doi": "10.3390/en13102444",
+      "keywords": [
+        "energy sufficiency",
+        "just transition",
+        "energy transition",
+        "human well-being",
+        "energy targets",
+        "energy efficiency",
+        "renewable energy",
+        "green transition"
+      ],
+      "url": "https://openalex.org/W3024538021",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Critical elements for a successful energy transition: A systematic review",
+      "abstract": "The transition to a low-carbon energy future requires large amounts of many raw materials. Some of these materials are deemed critical in terms of their limited availability, concentrated supply chain networks, associated environmental impact, and various social issues. Acknowledging the significant dependency on raw materials for future energy scenarios, this paper presents a systematic review of the existing literature to identify the barriers, solutions proposed and the current research gaps associated with the supply of a range of critical chemical elements. The focus was mainly on evaluating supply risk in light of raw material availability and contemporary extraction technologies. Results indicate that a transition to a low-carbon energy system is possible, but will require efforts to address supply concerns, and strategic planning. A key risk mitigation strategy is increasing material circularity, especially to cope with the growth in demand for cobalt in lithium-ion batteries, platinum used in fuel cells and electrolysers, iridium used in electrolysers and dysprosium used in permanent magnets. Copper was found to be possibly the most concerning critical element due to the expected demand from developing nations in addition to the demand for the energy transition. The geopolitical, social, and environmental risks for lithium, cobalt, rare earth elements and platinum group metals could also hinder future energy security, as demand for these elements continues to grow.",
+      "authors": [
+        "Mashael Kamran",
+        "Marco Raugei",
+        "A. R. Hutchinson"
+      ],
+      "year": 2023,
+      "venue": "Renewable and Sustainable Energy Transition",
+      "doi": "10.1016/j.rset.2023.100068",
+      "keywords": [
+        "critical raw materials",
+        "energy transition",
+        "supply risk",
+        "low-carbon energy",
+        "circular economy",
+        "cobalt",
+        "lithium",
+        "rare earth elements",
+        "platinum group metals",
+        "copper",
+        "lithium-ion batteries",
+        "fuel cells",
+        "electrolyzer",
+        "permanent magnets",
+        "supply chain concentration",
+        "geopolitical risk",
+        "energy security",
+        "extraction methods"
+      ],
+      "url": "https://openalex.org/W4386964837",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Energy transition in sustainable transport: concepts, policies, and methodologies",
+      "abstract": "The growth in population, economic expansion, and urban dynamism has collectively driven a surge in the use of public and private transport, resulting in increased energy consumption in this sector. Consequently, the transport sector requires an energy transition to meet mobility demands, foster economic growth, and achieve emission reduction. The main objective of this article is to systematically review the literature on energy transition in transportation, categorizing research, identifying barriers, and providing analysis to guide future steps, with a special focus on developing countries. The methodology used in this study follows a sequence for a systematic review based on an evidence-informed approach and specific guidelines for systematic reviews, exploring the concepts, methodologies, and policies within the context of the energy transition, considering transport modes and geographical scope. The findings indicate that electricity is the predominant energy source in this transition, although its prevalence varies by transport mode. Biofuels present an alternative, primarily contributing to emission reduction associated with fossil fuel use. Natural gas emerges as a cost-effective option for heavy transport, while hydrogen represents another alternative, with the challenge of developing recharging infrastructure. Determinants of this transition include recharging infrastructure, tax and nontax incentives, public policies, the generation of electric power from renewable sources, and the management of battery life cycles from mineral extraction to disposal.",
+      "authors": [
+        "Julieth Stefany García Collazos",
+        "Laura M. Cárdenas",
+        "Carlos Jaime Franco"
+      ],
+      "year": 2024,
+      "venue": "Environmental Science and Pollution Research",
+      "doi": "10.1007/s11356-024-34862-x",
+      "keywords": [
+        "energy transition",
+        "sustainable transport",
+        "transport emissions reduction",
+        "biofuels",
+        "natural gas vehicles",
+        "hydrogen fuel",
+        "charging infrastructure",
+        "transport policy",
+        "tax incentives",
+        "renewable energy",
+        "battery lifecycle management",
+        "heavy transport",
+        "developing countries"
+      ],
+      "url": "https://openalex.org/W4402761471",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Fossil fuels, stranded assets, and the energy transition in the Global South: A systematic literature review",
+      "abstract": "Abstract Complying with the Paris Agreement on Climate Change requires leaving fossil fuels underground (LFFU), which raises justice issues regarding the Global South and its energy transition. The literature is scattered with no review papers on the challenges of LFFU in the Global South, hence we ask: What can be learnt from reviewing the scholarship on the Global South's energy transition, focusing on LFFU and the issue of stranded resources and assets? Our review reveals: (a) renewable investments in the Global South are relatively low for the scale of change needed, and such renewable deployment is more additive than substitutive. Nonetheless, there is potential for the Global South to leapfrog; (b) literature on LFFU in the Global South is limited, and much of it focuses on subsidies. However, developing countries might include stranded assets in their accounting, making LFFU appealing; (c) the Right to Development influences the energy transition's governance and justice issues: limited governance hampers LFFU, while understudied power dynamics shape transition's political economies. However, a global and multilevel just transition may have the potential to achieve LFFU. Thus, the literature overlooks (i) the dilemmas of stranded resources and assets from a developing country perspective and the implications in terms of equity, development, and climate change impacts; and (ii) the underlying power dynamics. Future research should investigate energy leapfrogging viability, critically assess renewables' additive rather than substitutive character in the Global South, and better identify the constraints to an inclusive energy transition, posed by North–South power dynamics and FF incumbents. This article is categorized under: Climate and Development > Social Justice and the Politics of Development",
+      "authors": [
+        "Augusto Heras",
+        "Joyeeta Gupta"
+      ],
+      "year": 2023,
+      "venue": "Wiley Interdisciplinary Reviews Climate Change",
+      "doi": "10.1002/wcc.866",
+      "keywords": [
+        "stranded assets",
+        "energy transition",
+        "Global South",
+        "just transition",
+        "renewable energy investment",
+        "right to development",
+        "energy governance",
+        "power relations",
+        "fossil fuel subsidies",
+        "Paris Agreement",
+        "climate justice",
+        "developing countries"
+      ],
+      "url": "https://openalex.org/W4388416302",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "The Health Impacts of Transitioning Away from Fossil Fuel Toward Cleaner Energy",
+      "abstract": "While energy transitions have always taken place, shifts have historically been primarily from one type of fossil fuel to another (e.g., from coal to oil). Yet today we are experiencing transitions away from fossil fuel toward cleaner and sustainable energy sources. These transitions include shifts to renewable energy, electric vehicles, pedestrian pathways and more walkable cities, energy efficiency measures in the built environment, and increased public transportation. This restructuring of our energy system will bring impacts on public health (e.g., improved air quality from lower use of traditional gasoline-powered vehicles). Furthermore, the transition can lower emissions of greenhouse gases (GHGs), thereby helping slow climate change and minimize its anticipated impacts on public health. While more work is needed to understand the full implications of these energy transitions, including the implications for environmental justice in terms of who will share in the health benefits and potential detriments such as increased emissions from brake wear for electric vehicles, the existing literature indicates substantial benefits to public health. Moving away from fossil fuel may offer a rare win-win strategy for a healthier society with a cleaner environment and lower GHGs.",
+      "authors": [
+        "Michelle L. Bell",
+        "Kenneth T Gillingham"
+      ],
+      "year": 2025,
+      "venue": "Annual Review of Public Health",
+      "doi": "10.1146/annurev-publhealth-071723-024649",
+      "keywords": [
+        "energy transition",
+        "fossil fuels",
+        "renewable energy",
+        "electric vehicles",
+        "air quality",
+        "greenhouse gas emissions",
+        "climate change",
+        "environmental justice",
+        "walkability",
+        "energy efficiency",
+        "public transport"
+      ],
+      "url": "https://openalex.org/W4409359056",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Energy expenditure among farmers in developing countries: What do we know?",
+      "abstract": "The trend toward overweight and obesity in developing countries is often assumed to be due, in part, to reductions in energy expenditure associated with the transition from agrarian to urban lifestyles. In this article we first review the published studies on energy expenditure in farming populations living in developing countries, populations generally assumed to have high levels of energy expenditure. To facilitate comparison we express energy expenditure as physical activity level (PAL), i.e. the ratio of total daily energy expenditure to basal metabolic rate. Then, with the goal of better understanding variability in energy expenditure between different human groups, we focus on case studies of women farmers in Colombia and Brazil for whom we have good ethnographic data. The published studies reviewed indicate that most farmers have PAL values in the moderate physical activity range, but toward the high end of that range. PAL values of male farmers tend to be higher than female, and show greater seasonal variation. The case studies illustrate that women farmers, living in broadly similar environments, and dependent on the cultivation of the same crop can have quite different patterns of physical activity and hence PAL values. These differences are a function of differences in behavior related to social and cultural variables like the organization of work at the household level and perceptions of how food crops should be processed, as well as micro-level ecological factors.",
+      "authors": [
+        "Darna L. Dufour",
+        "Barbara Ann Piperata"
+      ],
+      "year": 2008,
+      "venue": "American Journal of Human Biology",
+      "doi": "10.1002/ajhb.20764",
+      "keywords": [
+        "energy expenditure",
+        "farmers",
+        "physical activity level",
+        "women farmers",
+        "obesity",
+        "overweight",
+        "seasonal variation",
+        "gender differences",
+        "developing countries",
+        "Colombia",
+        "Brazil"
+      ],
+      "url": "https://openalex.org/W1984985462",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "A bibliometric review of grid parity, energy transition and electricity cost research for sustainable development",
+      "abstract": "As the topic of sustainable development continues to prominence in global affairs, the case for renewable energy has never been stronger. To be regarded as a perfect alternative to conventional (non-renewable) energy sources in many climes, renewable energy, such as solar and wind, shows promise when considering concepts like grid parity. A significant number of studies have been devoted to understanding the concept. However, only a few studies have committed themselves to analysing the research activity carried out on it. This paper will present a bibliometric and empirical review of worldwide grid parity, energy transition, and electricity cost research. To situate the progress in this research area, a detailed search of Scopus was used to identify and situate research development in the field from 1965 until 2021. Using the data extracted from Scopus and VOSviewer for analysis, we explore different aspects of the publications, such as the volume, growth rate, and coverage of published documents, the most influential research papers and journals in this research area, and the most studied research themes in recent years. We also discuss Governmental policies in developed and developing economies that have accelerated the attainment of Grid parity in certain countries. Also, an empirical review of top-down, bottom-up, and artificial neural network approaches to evaluating grid parity was conducted. The study revealed a steady increase in the research articles focused on grid parity, energy transition, and electricity cost research from 2006. The geographic distribution of the publications shows that most of the publications on the subject originated from the USA, Germany, China, United Kingdom, and Spain, raking in 42.2% of the publications. Also, the top 7 authors with the highest document count from Scopus are from Finland, which coincidentally is one of the countries making significant progress in Grid parity attainment. Of the total document count from Scopus, only 0.02% are papers published from African Countries. Could this reluctance to publish research findings on energy transition be one of the reasons for the slow progression of sustainable energy for all in Africa? Therefore, it is imperative now more than ever for more research focusing on the attainment of grid parity, energy transition, and electricity costs for developing countries to be brought to the fore. This article provides a review of state-of-the-art research on the attainment of grid parity and energy transition with a focus on the Levelized Cost of Electricity (LCOE) models of renewable energy sources.",
+      "authors": [
+        "Temitope M. Adeyemi-Kayode",
+        "Sanjay Misra",
+        "Rytis Maskeliūnas",
+        "Robertas Damaševičius"
+      ],
+      "year": 2023,
+      "venue": "Heliyon",
+      "doi": "10.1016/j.heliyon.2023.e15532",
+      "keywords": [
+        "grid parity",
+        "energy transition",
+        "electricity cost",
+        "levelized cost of electricity",
+        "renewable energy",
+        "solar energy",
+        "wind energy",
+        "sustainable development",
+        "energy policy",
+        "artificial neural networks",
+        "research trends"
+      ],
+      "url": "https://openalex.org/W4366124634",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Hemp seeds: Nutritional value, associated bioactivities and the potential food applications in the Colombian context",
+      "abstract": "For many years, Colombia was one of the countries with the largest illegal cultivation of cannabis around the world. Currently, it is going through a period of transition with a new government law that recently allows the cultivation, transformation, and commercialization of such plant species. In this sense, the identification of strategies for the valorization of products or by-products from Cannabis sativa represent a great opportunity to improve the value chain of this crop. One of these products is hemp seeds, which are exceptionally nutritious and rich in healthy lipids (with high content of three polyunsaturated fatty acids: linoleic acid, alpha-linolenic acid, and gamma-linolenic acid), good quality protein, and several minerals. In addition, hemp seeds contain THC (tetrahydrocannabinol) or CBD (cannabidiol) in traces, molecules that are responsible for the psychoactive and therapeutic properties of cannabis. These low terpenophenolic contents make it more attractive for food applications. This fact, together with the constant search for proteins of vegetable origin and natural food ingredients, have aroused an important interest in the study of this biomass. Some bioactivities of phytochemical compounds (polyphenols and terpenoids, mainly) present in hemp seeds have provided antioxidant, antimicrobial, and anti-inflammatory properties. This review summarizes and discusses the context of hemp use in Latin-American and the new opportunities for hemp seeds culture in Colombia considering the valuable nutritional value, main functional bioactivities, and recent advances in food market applications of hemp seeds.",
+      "authors": [
+        "Lídia Montero",
+        "Diego Ballesteros-Vivas",
+        "Andrés Fernando González Barrios",
+        "Andrea del Pilar Sánchez‐Camargo"
+      ],
+      "year": 2023,
+      "venue": "Frontiers in Nutrition",
+      "doi": "10.3389/fnut.2022.1039180",
+      "keywords": [
+        "hemp seeds",
+        "Cannabis sativa",
+        "nutritional value",
+        "polyunsaturated fatty acids",
+        "protein content",
+        "cannabinoids",
+        "terpenoids",
+        "polyphenols",
+        "antioxidant activity",
+        "antimicrobial activity",
+        "anti-inflammatory activity",
+        "functional foods",
+        "hemp cultivation",
+        "Colombia",
+        "value chain"
+      ],
+      "url": "https://openalex.org/W4315649698",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Overview of Mobile Communications in Colombia and Introduction to 5G",
+      "abstract": "The deployment of 5G around the world continues to progress at a rapid pace, especially in North America and Asia. Its advantages and efficiency as a data transmission network have been widely demonstrated in different fields such as agriculture, education, health, and surveillance. However, this process does not have the same dynamics in Latin America, specifically in Colombia. The country is currently implementing actions aimed at facilitating the deployment of this technology in the short term, including pilot tests for the use of the radio spectrum, spectrum auctions, the planning of future auctions, and the review of spectrum caps. The results of this review allow us to conclude that despite the forecasts and the intentions of the Colombian government and mobile communication service operators, 5G in standalone mode will not be commercially available in Colombia before the end of 2023. The main failures in its deployment are related to the lack of available spectrum to support the ultrahigh-reliability and low-latency, enhanced mobile broadband, and massive machine-type communications scenarios, as well as the delay in the auction processes for its assignment.",
+      "authors": [
+        "Alexis Barrios-Ulloa",
+        "Dora Cama-Pinto",
+        "Francisco Manuel Arrabal Campos",
+        "Juan Martínez-Lao",
+        "José Monsalvo-Amaris",
+        "Audomaro Hernández-López",
+        "Alejandro Cama-Pinto"
+      ],
+      "year": 2023,
+      "venue": "Sensors",
+      "doi": "10.3390/s23031126",
+      "keywords": [
+        "5G deployment",
+        "mobile communication",
+        "radio spectrum",
+        "spectrum auctions",
+        "spectrum allocation",
+        "Colombia",
+        "commercial availability",
+        "low-latency communication",
+        "enhanced mobile broadband",
+        "massive machine-type communications",
+        "Latin America"
+      ],
+      "url": "https://openalex.org/W4317398990",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Systematic review of techniques and tools for the simultaneous improvement of operational efficiency and innovation in the Colombian energy sector: Application in the company Celsia.",
+      "abstract": "Esta investigación aborda la tensión operativa no resuelta en el sector energético colombiano, definida por una contradicción sistémica: la exigencia de estandarización para la eficiencia de costos choca con la necesidad de flexibilidad para la innovación en la transición energética. Ante la gestión fragmentada de estas variables, el objetivo general fue identificar las técnicas implementadas en el país para resolver esta tensión y evaluar su aplicabilidad en Celsia S.A. E.S.P. La metodología siguió un enfoque mixto, integrando una Revisión Sistemática de Literatura (RSL) bajo protocolo PRISMA sobre un corpus de 923 documentos científicos (con filtrado por criterios de calidad) y un estudio de caso validado mediante el análisis de los reportes corporativos del periodo 2020-2025. Los resultados evidenciaron que, aunque la literatura global presenta una fragmentación teórica, la evidencia empírica en Celsia demostró que la digitalización profunda (RPA y Centro NOVA) generó ahorros operativos de 165.000 millones de COP. Estos recursos validaron un mecanismo de financiación cruzada donde la eficiencia operativa (PermaneC) sostiene la inversión en innovación (EnergizarC). Se concluye que la eficiencia opera como el habilitador financiero de la innovación, resolviendo la contradicción inicial mediante modelos de negocio servitizados y de rotación de activos fortaleciendo la competitividad, sostenibilidad y resiliencia organizacional",
+      "authors": [
+        "Jeily Camila Amorocho Carvajal"
+      ],
+      "year": 2026,
+      "venue": "Universidad Industrial de Santander",
+      "doi": "",
+      "keywords": [
+        "operational efficiency",
+        "innovation",
+        "Colombian energy sector",
+        "energy transition",
+        "digitalization",
+        "robotic process automation",
+        "cost standardization",
+        "innovation financing",
+        "organizational resilience"
+      ],
+      "url": "https://openalex.org/W7135000596",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Designed for a secure transition – a systematic review of supply security in energy system models",
+      "abstract": "While renewable electricity has gained traction, the transition to a low-carbon energy system is still subject to large uncertainties about future energy use and supply portfolios. In the light of recent disruptive events such as geopolitical tensions and trade restrictions, it is evident that energy transition strategies should consider unforeseen disturbances. In this paper, we conduct a systematic review of 179 energy system modelling studies from Scopus and Web of Science based on the PRISMA guidelines. We include articles considering various aspects of energy security, focusing on large-scale system models with a long-term techno-economic design perspective. Our analysis reveals significant variation among studies in three key areas: the security aspects evaluated, the types of disruptions considered, and the methodological approaches employed. While weather variability is commonly examined, other security threats such as climate change or geopolitical disruptions receive less attention.",
+      "authors": [
+        "Jens Zimmert",
+        "Theresa Groß",
+        "Jochen Linßen",
+        "Heidi Heinrichs"
+      ],
+      "year": 2026,
+      "venue": "Energy Strategy Reviews",
+      "doi": "10.1016/j.esr.2026.102370",
+      "keywords": [
+        "energy security",
+        "supply security",
+        "energy system modelling",
+        "energy transition",
+        "low-carbon energy systems",
+        "renewable electricity",
+        "weather variability",
+        "climate change",
+        "geopolitical disruption",
+        "supply chain disruption"
+      ],
+      "url": "https://openalex.org/W7220652949",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Comparative analysis of greenhouse emissions based on life cycle assessment of alternative fuels for transportation sector - A systematic literature review",
+      "abstract": "ABSTRACT : The shift towards sustainable energy sources has become a primary subject of discussion when considering the future of energy. It is crucial to move from traditional to nonconventional and sustainable sources of energy, given the depletion of fossil fuels and growing environmental concerns about the rising concentration of GHG in the atmosphere. This phenomenon causes the Earth's average temperature to increase, which can result in significant climate changes. Although Colombia only contributes to approximately 0.37% of global GHG emissions [1], it is largely affected by climate change, and is signatory of the Paris Agreement in 2015. Among the most outstanding and relevant goals proposed, is reduction carbon dioxide emissions by 51% and to achieve carbon neutrality by 2050. In order to achieve carbon neutrality by 2050, decarbonization of the transport sector is imperative, given its strong dependence on fossil energy sources. Policies are needed to accelerate and promote the establishment of infrastructure to support zero-emissions vehicles and the incorporation of low carbon fuels that are critical to decarbonizing aviation, shipping, and heavy-duty road freight. The ultimate solution to decarbonize the transport sector is to replace fossil fuels with CO2-lean energy sources. This requires identifying and supporting technologies that can deliver significant reductions in GHG emissions over the entire life cycle. The National Energy Plan PEN 2020-2050 outlines a long-term vision for Colombia's energy sector and explores potential ways to achieve it. The plan acknowledges that the transportation sector will play a significant role in the energy transition, where GHG mitigation can be achieved through the adoption of improved technologies, vehicle electrification, and the use of hydrogen and other advanced biofuels. While alternative fuels are not expected to be the primary focus of the energy transition, it is becoming increasingly clear that they will need to be part of the strategy. Studies have shown that next-generation renewable fuels offer a transition path towards low carbon emissions for the transportation sector. This study conducts a systematic literature review by collecting relevant studies related to the life cycle analysis of low carbon fuels intended for the transportation sector. The goal is to assess the potential of various alternative fuels for decarbonization. The study evaluates the life cycle GHG emissions and energy consumption considering fuel characteristics such as: raw material, production pathways, utilization technologies, energy efficiency and environmental performance. Finally, a meta-analysis is conducted to compare the GHG abatement potential of all low carbon fuels and their pathways with fossil energy sources.",
+      "authors": [
+        "Laura C. G. Velandia"
+      ],
+      "year": 2023,
+      "venue": "Institutional Repository University of Antioquia (University of Antioquia)",
+      "doi": "",
+      "keywords": [
+        "greenhouse gas emissions",
+        "life cycle assessment",
+        "alternative fuels",
+        "low-carbon fuels",
+        "transport decarbonization",
+        "transport sector",
+        "carbon neutrality",
+        "hydrogen",
+        "biofuels",
+        "renewable fuels",
+        "energy transition",
+        "Colombia",
+        "vehicle electrification"
+      ],
+      "url": "https://openalex.org/W7206406795",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "A systematic bibliometric review of clean energy transition: Implications for low-carbon development",
+      "abstract": "More voices are calling for a quicker transition towards clean energy. The exploration and exploitation of clean energy such as wind energy and solar energy are effective means to optimise energy structure and improve energy efficiency. To provide in-depth understanding of clean energy transition, this paper utilises a combination of multiple bibliometric mapping techniques, including HistCite, CiteSpace and R Bibliometrix, to conduct a systematic review on 2,191 clean energy related articles obtained from Web of Science (WoS). We identify five current main research streams in the clean energy field, including Energy Transition, Clean Energy and Carbon Emission Policy, Impact of Oil Price on Alternative Energy Stocks, Clean Energy and Economics, and Venture Capital Investments in Clean Energy. Clearly, the effectiveness of policy-driven and market-driven energy transition is an important ongoing debate. Emerging research topics are also discussed and classified into six areas: Clean Energy Conversion Technology and Biomass Energy Utilisation, Optimisation of Energy Generation Technology, Policy-Making in Clean Energy Transition, Impact of Clean Energy Use and Economic Development on Carbon Emissions, Household Use of Clean Energy, and Clean Energy Stock Markets. Accordingly, more and more research attention has been paid to how to improve energy efficiency through advanced clean energy technology, and how to make targeted policies for clean energy transition and energy market development. This article moves beyond the traditional literature review methods and delineates a systematic research agenda for clean energy research, providing research directions for achieving low-carbon development through the clean energy transition.",
+      "authors": [
+        "Wei Zhang",
+        "Binshuai Li",
+        "Rui Xue",
+        "Chengcheng Wang",
+        "Wei Cao"
+      ],
+      "year": 2021,
+      "venue": "PLoS ONE",
+      "doi": "10.1371/journal.pone.0261091",
+      "keywords": [
+        "clean energy transition",
+        "low-carbon development",
+        "carbon emission policy",
+        "wind energy",
+        "solar energy",
+        "energy efficiency",
+        "biomass energy",
+        "research agenda"
+      ],
+      "url": "https://openalex.org/W3214920434",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Dynamics and challenges of technology transfer in Colombia: a systematic literature review",
+      "abstract": "Introduction: Technology transfer in Colombia plays a critical role in promoting innovation and regional development. However, its implementation continues to face significant institutional, economic, and cultural challenges that hinder its effectiveness and sustainability. Methods: A systematic literature review was conducted in accordance with the PRISMA 2020 guidelines. The databases Scopus and Web of Science were used to identify peer-reviewed articles that addressed knowledge and technology transfer within the Colombian context. Results: The analysis revealed multiple barriers: institutional fragmentation, inadequate investment in R&D, lack of incentives for collaboration, and weak trust between academia and industry. Additionally, organizational rigidity and the limited adaptation of international transfer models to local contexts were identified as factors that reduce the effectiveness of these processes. Discussion: The findings highlight the need to acknowledge regional particularities, foster inclusive governance, and promote horizontal relationships among stakeholders. Effective international strategies, such as open innovation, co-creation models, and hybrid technology transfer offices, could be adapted to the Colombian context. Strengthening institutional capacities, increasing R&D funding, and aligning innovation with social and environmental objectives are imperative to build a more robust and inclusive innovation ecosystem.",
+      "authors": [
+        "Alejandro Valencia-Arías",
+        "Karla Cristina Bonilla Restrepo",
+        "Eliana María Villa Enciso",
+        "Jackeline Valencia",
+        "Juan Camilo Rua Hernandez",
+        "Diana Marleny Ramírez-Ramírez"
+      ],
+      "year": 2025,
+      "venue": "Frontiers in Research Metrics and Analytics",
+      "doi": "10.3389/frma.2025.1628141",
+      "keywords": [
+        "technology transfer",
+        "Colombia",
+        "barriers to technology transfer",
+        "institutional fragmentation",
+        "R&D investment",
+        "academia-industry collaboration",
+        "organizational rigidity",
+        "open innovation",
+        "co-creation",
+        "innovation ecosystems",
+        "regional development",
+        "inclusive governance"
+      ],
+      "url": "https://openalex.org/W4414103973",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Are Current Petroleum Fiscal Terms Sufficient to Drive Indonesia’s Energy Transition? A Systematic Review and Bibliometric Analysis",
+      "abstract": "This study investigates whether Indonesia’s current petroleum fiscal terms are sufficient to drive the country’s energy transition while maintaining investment competitiveness. Using a systematic literature review (SLR), bibliometric analysis, and regulatory review, the research analyzed 673 studies out of 891 initial records, covering both Indonesian and international experiences with Production Sharing Contracts (PSC). The transition from Cost Recovery (CR) to Gross Split (GS) PSC simplified administrative processes and reduced fiscal verification burdens but also transferred greater risks to contractors, weakening investment attractiveness in marginal fields. Regulatory revisions from 2017 to 2024 introduced variable splits, Enhanced Oil Recovery (EOR) incentives, and provisions for Carbon Capture and Storage (CCS). However, frequent changes created policy uncertainty, undermining investor confidence at a time when long-term stability is critical. Bibliometric mapping highlights PSC regimes as a growing global research hotspot, with increasing connections to ESG, carbon pricing, and low-carbon pathways. Comparative evidence from 15 jurisdictions shows that hybrid and sliding-scale PSCs provide a better balance between fiscal stability and transition incentives. The findings conclude that Indonesia must adopt a simplified hybrid model that integrates EOR, CCS, and ESG-related incentives to align its upstream sector with long-term net-zero targets.",
+      "authors": [
+        "Wahyu Krisdianto",
+        "Imam Baihaqi",
+        "Ketut Gunarta",
+        "Gede Wibawa"
+      ],
+      "year": 2025,
+      "venue": "International Journal of Energy Economics and Policy",
+      "doi": "10.32479/ijeep.21671",
+      "keywords": [
+        "energy transition",
+        "production sharing contracts",
+        "Indonesia",
+        "cost recovery",
+        "carbon capture and storage",
+        "policy uncertainty",
+        "investment attractiveness",
+        "marginal fields",
+        "net-zero targets"
+      ],
+      "url": "https://openalex.org/W7117378614",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "The COVID-19 crisis deepens the gulf between leaders and laggards in the global energy transition",
+      "abstract": "In this article, we review the main impacts of the COVID-19 pandemic on the global energy sector and evaluate the implications of related policy responses on prospects for a transition to a climate-friendly energy system. In doing so, we differentiate between different types of countries and different dimensions of energy supply. Firstly, we assess the impacts on leaders and laggards in the transformation of the power sector, in terms of renewable power deployment and the phase-out of coal-fired power generation. Secondly, we consider impacts of the crisis on major exporters of oil and gas resources, focusing on a selection of G20 countries. We find that the impact of the COVID-19 crisis and related policy responses vary across different types of countries but also within large countries, such as the US and China. We conclude that the COVID-19 crisis deepens the gulf between leaders and laggards of the global energy transition and will exacerbate existing imbalances in an uneven energy transition landscape. This threatens the achievement of international climate targets and points to the need for concerted international action aimed at the phase-out of fossil energy resources.",
+      "authors": [
+        "Rainer Quitzow",
+        "Germán Bersalli",
+        "Laima Eicke",
+        "Joschka Jahn",
+        "Johan Lilliestam",
+        "Flávio Augusto Lira Nascimento",
+        "Adela Marian",
+        "Diana Süsser",
+        "Sapan Thapar",
+        "Silvia Weko",
+        "Stephen Williams",
+        "Bing Xue"
+      ],
+      "year": 2021,
+      "venue": "Energy Research & Social Science",
+      "doi": "10.1016/j.erss.2021.101981",
+      "keywords": [
+        "COVID-19 pandemic",
+        "global energy transition",
+        "renewable energy deployment",
+        "coal phase-out",
+        "power sector transformation",
+        "G20",
+        "climate targets",
+        "fossil fuel phase-out",
+        "international climate cooperation",
+        "energy supply"
+      ],
+      "url": "https://openalex.org/W3130594961",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Grid development for energy justice and a just transition",
+      "abstract": "The decline in the resilience of the US power grid and its territories is a matter of life and death and undermines well-being. Energy access, affordability, and reliability are central to environmental justice and key social determinants of health and mobility; yet, inequalities in grid reliability remain under-addressed. Drawing on the observations and research on the Hurricane María outages, this perspective discusses the unequal consequences of grid unreliability and argues that environmental justice and just transition principles offer fruitful ways forward. Grid-resilience efforts grounded in these approaches can reduce loss of life, economic losses, and disruptions to healthcare systems and medical supply chains. I call for targeted investments in grid development for energy-oppressed communities, closing data gaps on medical and social vulnerability, and measures to curtail energy clientelism and corruption. Grid resilience is not solely a technical and economic problem but a social one requiring an environmental justice approach.",
+      "authors": [
+        "Fernando Tormos‐Aponte"
+      ],
+      "year": 2026,
+      "venue": "iScience",
+      "doi": "10.1016/j.isci.2026.116762",
+      "keywords": [
+        "grid resilience",
+        "energy justice",
+        "just transition",
+        "environmental justice",
+        "power system reliability",
+        "Hurricane Maria",
+        "energy access",
+        "energy affordability",
+        "social determinants of health",
+        "corruption",
+        "healthcare disruption"
+      ],
+      "url": "https://openalex.org/W7169099567",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Clean Technology Transfer and Innovation in Social Housing Production in Brazil and Colombia. A Framework from a Systematic Review",
+      "abstract": "Over recent years in Brazil and Colombia, the social housing programs of these two countries have increasingly become directly related to the concept of green construction and seek to integrate with their respective laws. For example, a series of technological strategies allows bought countries to guarantee a reduction of the environmental impact of traditional construction technologies. Therefore, these actions try to answer the problems in the design of dwellings in Latin America. However, the construction sector reduced productivity and limited innovation in business. Some of the technological management processes in the social housing construction sector only consider the implementation of clean technologies tangentially. This situation is mainly because of general policies since they do not consider different local contexts. It is then worth asking: What impact do the processes of transfer of clean technologies have on social housing in Brazil and Colombia? This systematic review was carried out on scientific papers indexed by the science database from 2013 to 2019. The PRISMA method was applied to this review with an aim to propose a conceptual model for the transfer of clean technology in the production of social housing in Brazil and Colombia. Finally, we identify that the impact of clean technologies transfer on social housing is very low in these two countries.",
+      "authors": [
+        "Rolando González",
+        "Grace Tibério Cardoso"
+      ],
+      "year": 2020,
+      "venue": "Sustainability",
+      "doi": "10.3390/su12041335",
+      "keywords": [
+        "social housing",
+        "sustainable construction",
+        "construction innovation",
+        "environmental impact of construction",
+        "housing policy",
+        "Brazil",
+        "Colombia",
+        "conceptual model"
+      ],
+      "url": "https://openalex.org/W3005581009",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "The water-energy-food nexus in biodiversity conservation: A systematic review around sustainability transitions of agricultural systems",
+      "abstract": "The Water Energy Food nexus is a powerful topic in agricultural systems to elucidate threats to biodiversity conservation and culture. This paper aimed to recapitulate nexus thinking research, focusing on social-ecological transitions of agriculture systems and biodiversity management within the Water-Energy-Food nexus. We developed a systematic review and a bibliometric analysis derived from 529 documents in the Scopus database. The ToS method identified a total of 81 relevant information in the sample of documents (529) categorised into roots (10), trunks (9) and leaves (62). This review paper situates types, focus, and highlights regarding biodiversity and prevalent thematic research areas such as \"Food Nexus\", \"Environmental Flows\", \"Sustainability\", \"Transitions\", and \"Governance\". Our results suggest that future research should focus on the nexus of \"Water-Energy-Food-Biodiversity\" and propose a transdisciplinary approach to elucidate the state of sustainability transitions in the agricultural systems at the landscape level. It could increase stakeholder interest in conservation, and sustainability management, to reverse biodiversity losses in ecosystems.",
+      "authors": [
+        "Diana Cristina Moreno Vargas",
+        "Carolina del Pilar Quiñones Hoyos",
+        "Olga Lucía Hernández-Manrique"
+      ],
+      "year": 2023,
+      "venue": "Heliyon",
+      "doi": "10.1016/j.heliyon.2023.e17016",
+      "keywords": [
+        "water-energy-food nexus",
+        "biodiversity conservation",
+        "sustainability transitions",
+        "agricultural systems",
+        "social-ecological transitions",
+        "environmental flows",
+        "biodiversity governance",
+        "biodiversity loss",
+        "transdisciplinary research"
+      ],
+      "url": "https://openalex.org/W4383536245",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Latin America towards Sustainability through Renewable Energies: A Systematic Review",
+      "abstract": "Nowadays, the increase in global energy demand is notorious, a situation that, in turn, impacts the environment through the generation of pollutants that are harmful to the planet. In this sense, an energy transition towards clean energy sources, also known as renewable sources, is essential, as well as better energy management and a responsible use of available natural resources. In this context, the objective of this systematic review was to analyze the use of renewable energy sources in Latin America, in addition to the guidelines established for their use, and the consequences of the use of non-renewable sources. Therefore, the PRISMA method was applied, and 60 publications were selected, from which the existing interest in this region in combatting the increase in energy demand and the use of fossil fuels through renewable energies is evidenced. Finally, it is concluded that there is still a need for greater dissemination in the region regarding this problem, as well as greater actions on the part of industries and governments to make proper use of this type of energy source.",
+      "authors": [
+        "Renzo Antonio Seminario Córdova"
+      ],
+      "year": 2023,
+      "venue": "Energies",
+      "doi": "10.3390/en16217422",
+      "keywords": [
+        "renewable energy",
+        "energy transition",
+        "sustainability",
+        "Latin America",
+        "energy demand",
+        "fossil fuels",
+        "non-renewable energy",
+        "energy management",
+        "clean energy",
+        "environmental pollution"
+      ],
+      "url": "https://openalex.org/W4388288740",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Toward energy systems within the planetary boundaries",
+      "abstract": "",
+      "authors": [
+        "Samir Meramo",
+        "Jaime A. Mesa",
+        "Natalia Cano",
+        "Oscar Pupo-Roncallo",
+        "Arturo González‐Quiroga"
+      ],
+      "year": 2025,
+      "venue": "AMBIO",
+      "doi": "10.1007/s13280-025-02197-7",
+      "keywords": [
+        "planetary boundaries",
+        "energy systems",
+        "environmental sustainability",
+        "fossil fuels",
+        "renewable energy",
+        "bioenergy",
+        "climate change",
+        "ocean acidification",
+        "chemical pollution",
+        "eutrophication",
+        "biogeochemical cycles",
+        "water demand",
+        "land use",
+        "energy transition",
+        "sustainability trade-offs"
+      ],
+      "url": "https://openalex.org/W4410775747",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "A transition to sustainable ocean governance",
+      "abstract": "Human wellbeing relies on the Biosphere, including natural resources provided by ocean ecosystems. As multiple demands and stressors threaten the ocean, transformative change in ocean governance is required to maintain the contributions of the ocean to people. Here we illustrate how transition theory can be applied to ocean governance. We demonstrate how current economic and social systems can adapt to existing pressures and shift towards ocean stewardship through incorporation of niche innovations within and across economic sectors and stakeholder communities. These novel approaches support an emergent but purposeful transition and suggest a clear path to a thriving and vibrant relationship between humans and the ocean. Oceans provide important natural resources, but the management and governance of the ocean is complex and the ecosystem is suffering as a result. The authors discuss current barriers to sustainable ocean governance and suggest pathways forward.",
+      "authors": [
+        "Tanya Brodie Rudolph",
+        "Mary H. Ruckelshaus",
+        "Mark Swilling",
+        "Edward H. Allison",
+        "Henrik Österblom",
+        "Stefan Gelcich",
+        "Philile Mbatha"
+      ],
+      "year": 2020,
+      "venue": "Nature Communications",
+      "doi": "10.1038/s41467-020-17410-2",
+      "keywords": [
+        "sustainable ocean governance",
+        "transition theory",
+        "ocean stewardship",
+        "transformative change",
+        "niche innovation",
+        "stakeholder engagement",
+        "barriers to change",
+        "human-ocean relationship"
+      ],
+      "url": "https://openalex.org/W3043724156",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Nutrition Transition and the Global Diabetes Epidemic",
+      "abstract": "",
+      "authors": [
+        "Barry M. Popkin"
+      ],
+      "year": 2015,
+      "venue": "Current Diabetes Reports",
+      "doi": "10.1007/s11892-015-0631-4",
+      "keywords": [
+        "nutrition transition",
+        "diabetes epidemic",
+        "non-communicable diseases",
+        "low- and middle-income countries",
+        "dietary change",
+        "refined carbohydrates",
+        "added sugars",
+        "edible oils",
+        "animal source foods",
+        "Fabaceae",
+        "fruit and vegetable intake",
+        "body mass index",
+        "overweight",
+        "waist circumference",
+        "physical inactivity",
+        "urbanization",
+        "mass media",
+        "agricultural change"
+      ],
+      "url": "https://openalex.org/W975426301",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Real Option Analysis for Renewable Energy: A Systematic Review",
+      "abstract": "Renewable energy projects suffer from deep uncertainties associated with volatile market conditions, unstable policy regimes and changing technological landscapes. Traditional valuation tools like Net Present Value (NPV) are increasingly being accepted as insufficient to capture the managerial flexibility needed to deal with this complex environment. As a result, a powerful alternative investment framework, Real Options Analysis (ROA), has been proposed, in which the possibility of strategic adaptability under uncertainty is valued explicitly for renewable energy investment. This paper reports a systematic review between 2000-2025 of research works on ROA application in the renewable energy sector. Using the Preferred Reporting Items for Systematic Reviews and Meta-Analysis (PRISMA) framework, 288 peer-reviewed studies were identified from twelve major academic databases (Scopus, IEEE Xplore, and Wiley Online Library). Each study was reviewed in terms of key dimensions: renewable technology type, real option category, modelling technique, dominant sources of uncertainty and geographical focus. The results show the dominance of the decision to defer (timing option) as the most important strategic flexibility for all technologies, emphasising the key problem of optimal investment timing. Methodologically, the field has transitioned from basic analytical models to complex simulation-based models, with binomial lattices and Monte Carlo models dominating the scene, followed by a significant move to hybrid, fuzzy, and AI-enhanced models after 2015. The analysis also reveals clear regional patterns in the types of uncertainties modelled with European studies focusing on market and policy risks, Asian studies on resource availability and work in the Americas taking into account technical risks. However, a serious underrepresentation in Africa, especially in Nigeria, is also revealed, which constitutes a major gap in the research. This review concludes that while the methodological foundations of ROA are well established, its practical application remains limited, particularly outside developed countries. Expanding the use of ROA could better support the global energy transition, but achieving this requires addressing barriers such as computational complexity, limited modeling expertise, and regulatory reliance on deterministic valuation methods. Greater integration of these flexible decision-making tools into policy design and project appraisal, especially in high-risk and underrepresented regions, is therefore necessary.",
+      "authors": [
+        "Jethro Olorunfemi Idowu",
+        "Ini Adinya"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Applied Mathematics and Theoretical Physics",
+      "doi": "10.11648/j.ijamtp.20261201.11",
+      "keywords": [
+        "real options",
+        "renewable energy investment",
+        "investment under uncertainty",
+        "strategic flexibility",
+        "timing options",
+        "deferral option",
+        "Monte Carlo simulation",
+        "fuzzy modeling",
+        "energy transition",
+        "project evaluation"
+      ],
+      "url": "https://openalex.org/W7124705582",
+      "type": "review"
+    },
+    {
+      "source": "openalex",
+      "title": "Integrating Sustainability and Resilience Objectives for Energy Decisions: A Systematic Review",
+      "abstract": "There is a need for simultaneous attention to sustainability and resilience objectives while making energy decisions because of the need to address disruptions or shocks that can result from system-wide changes due to transitioning and existing threats to system performance. Owing to this emerging research area, this systematic review used the Scopus database to address the central question: What are the trends and practices that can enhance the integration of sustainability and resilience for energy decisions? The articles used are peer-reviewed, empirical research in the energy field and written in English. Articles that did not explicitly address energy systems (or any of the value chains) and gray literature were excluded from the study. The final screening of records resulted in the selection of 75 articles that effectively addressed the decision objective, context, and implementation (D-OCI), a classification scheme that supports 18 specific questions to identify practices for integrating the sustainability and resilience objectives. The highlighted practices are advantageous for decision evaluation and can provide valuable insights for formulating energy policies. This is particularly relevant because energy-related decisions affect households, organizations, and both national and international development. The study proposes ideas for future research based on the highlighted practices.",
+      "authors": [
+        "Olaoluwa Paul Aasa",
+        "Sarah Phoya",
+        "Rehema Joseph Monko",
+        "Innocent Musonda"
+      ],
+      "year": 2025,
+      "venue": "Resources",
+      "doi": "10.3390/resources14060097",
+      "keywords": [
+        "sustainability",
+        "resilience engineering",
+        "energy decision-making",
+        "energy systems",
+        "energy transition",
+        "energy policy",
+        "decision evaluation"
+      ],
+      "url": "https://openalex.org/W4411045785",
+      "type": "review"
+    }
+  ]
+}

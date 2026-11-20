@@ -1,0 +1,97 @@
+{
+ "group": "Smart grids, microgrids and energy storage",
+ "n_studies": 31,
+ "rows": [
+  {
+   "sub_theme": "Hybrid microgrid sizing, operation and techno-economics (off-grid zones and grid-connected)",
+   "studies": [
+    "R0002",
+    "R0010",
+    "R0042",
+    "R0100",
+    "R0228",
+    "R0418",
+    "R0430",
+    "R0645",
+    "R0668",
+    "R0848",
+    "R0855",
+    "R1456",
+    "R1558"
+   ],
+   "n": 13,
+   "methods": "Study types: modelling-simulation 11; techno-economic-assessment 2. Method keywords (matched in the extracted method field): genetic algorithm 4; PSO 3; HOMER 2; iHOGA 2; MILP/MINLP/NLP/LP 2; optimal power flow/dispatch/unit commitment 2; review/bibliometric 1",
+   "settings": "Sectors: non-interconnected-zones 13. Departments/scope: La Guajira 7; Chocó 4; Amazonas 2; San Andrés y Providencia 2; Boyacá 1; Arauca 1; Valle del Cauca 1; Nariño 1; Guaviare 1; Guainía 1; national scope 1",
+   "technical": "PV-battery optimum with diesel never selected: PV 22-29 kWp plus battery 74-93 kWh [R0010] | 100% renewable share with zero diesel fuel use [R0042]; 96.81% renewable share [R0002] | LPSP under 0.25% in diesel-assisted configurations [R0418] | simplified battery models overestimate life up to three times [R0002]",
+   "economic": "LCOE 0.35-0.38 US$/kWh vs 0.86-4.51 US$/kWh for diesel [R0010] | LCOE 0.49 EUR/kWh for current system, 0.36 EUR/kWh optimal lead-acid, 0.20 EUR/kWh lithium option [R0002] | LCOE 0.23-0.35 USD/kWh diesel-assisted vs 0.29-0.44 USD/kWh fully renewable [R0418] | lowest LCOE 0.161 USD/kWh with PV, 0.524 USD/kWh for Case I [R1558] | LCOE 0.754 USD/kWh (environmental priority) vs 0.514 USD/kWh (economic priority) [R0668]; 1,087.69 (Chocó), 857.15 (La Guajira) and 867.42 (Guainía) COP/kWh [R0855] | LCOE 1.61 $/Wh (SHS 1) down to 0.65 $/Wh (GF/SHS 3) [R0228] | payback 2.01 years [R0042]; 25-year expenses 88.4% lower than diesel-only [R0042] | dispatch cost 189, 182 and 196 COP/kWh vs 518 COP/kWh for the traditional grid [R0645]",
+   "environmental": "no-diesel variant about 60% lower emissions [R0418] | avoids 4248 kt CO2/yr versus grid [R0100] | 18.97 tCO2e/yr vs 29.94 tCO2e/yr across objective priorities [R0668]",
+   "pattern": "Studies agree that PV/wind-battery hybrids undercut diesel (LCOE 0.35-0.38 US$/kWh versus 0.86-4.51 US$/kWh for diesel in R0010; 25-year expenses 88.4% lower than diesel-only in R0042; dispatch cost 189, 182 and 196 COP/kWh versus 518 COP/kWh for the traditional grid in R0645), but cost metrics differ in currency and unit (US$, EUR, USD, COP/kWh and $/Wh in R0228), so figures are not directly comparable. Fully renewable designs cost more than diesel-assisted ones (LCOE 0.29-0.44 versus 0.23-0.35 USD/kWh in R0418) while cutting emissions (no-diesel variant about 60% lower), and battery model choice matters (simplified models overestimate life up to three times in R0002)."
+  },
+  {
+   "sub_theme": "Social acceptance, policy, business models and lessons from off-grid electrification",
+   "studies": [
+    "R0008",
+    "R0017",
+    "R0281",
+    "R0290",
+    "R0953"
+   ],
+   "n": 5,
+   "methods": "Study types: qualitative-social-study 4; review 1. Method keywords (matched in the extracted method field): interviews/focus groups 3; review/bibliometric 1",
+   "settings": "Sectors: non-interconnected-zones 4; multi-sector 1. Departments/scope: La Guajira 3; Chocó 1; Cesar 1; Caquetá 1; Bolívar 1; national scope 1",
+   "technical": "Isla Fuerte mini-grid fell from 24 h service (2013) to 3-4 h (2020) [R0290]; El Islote 1-20 h [R0290] | 46.66% of the twelve microgrid services applicable to non-interconnected zones [R0953]",
+   "economic": "USD 800,000/month savings (UC San Diego) [R0953] | financial constraints (all respondents) are the main barrier [R0008]",
+   "environmental": "47% less diesel energy (El Hierro) [R0953] | aquifer depletion after decades of use (3 of 5 wind FGD respondents, 3 solar users) [R0017]",
+   "pattern": "Evidence is qualitative and case-based: the Isla Fuerte mini-grid fell from 24 h service (2013) to 3-4 h (2020) (R0290), financial constraints are the main barrier for all respondents (R0008), R0953 finds 46.66% of the twelve microgrid services applicable to non-interconnected zones, and R0017 reports aquifer depletion among users. Outcomes are not quantified on a common metric, so comparison across studies is descriptive."
+  },
+  {
+   "sub_theme": "Grid-scale and distributed energy storage (BESS, pumped hydro, salt caverns)",
+   "studies": [
+    "R0071",
+    "R0089",
+    "R0363",
+    "R0476",
+    "R0617"
+   ],
+   "n": 5,
+   "methods": "Study types: modelling-simulation 3; other 1; techno-economic-assessment 1. Method keywords (matched in the extracted method field): EnergyPLAN 2; genetic algorithm 1; PSO 1; MILP/MINLP/NLP/LP 1; optimal power flow/dispatch/unit commitment 1",
+   "settings": "Sectors: power-generation-SIN 4; non-interconnected-zones 1. Departments/scope: national scope 3; Antioquia 1; Chocó 1; regional scope 1",
+   "technical": "546-kWh BESS most cost-effective [R0617]; a 300-kWh BESS lasts four years [R0617] | storage (2 GW, 10 GWh) raises feasible wind+solar share from ~19% to 25%, cuts curtailment by 67.3% [R0476] | scenario 3 RES 91.6%, curtailment -47% [R0071]",
+   "economic": "PHES most cost-effective, lead-acid least [R0476] | literature PV+PHS cost 0.16-0.373 USD/kWh vs diesel 0.4231 USD/kWh [R0089]",
+   "environmental": "sector GHG cut about 67% [R0071]; emissions ~67% vs baseline [R0476] | 61.2 gCO2e/kWh vs 195.3 BaU [R0071]; 62.1 vs 195.3 gCO2e/kWh [R0476] | optimal configuration: emissions -86.4%, 26.5 gCO2e/kWh [R0071] | 0.1322% emissions reduction [R0363]",
+   "pattern": "The EnergyPLAN studies R0071 and R0476 report similar emission cuts of about 67% in storage-enabled scenarios, and R0476 finds PHES most cost-effective and lead-acid least. R0617 and R0363 are plant-scale BESS and dispatch studies (546-kWh BESS most cost-effective in R0617; 0.1322% emissions reduction in R0363), and R0089 compares a literature PV+PHS cost of 0.16-0.373 USD/kWh with diesel at 0.4231 USD/kWh."
+  },
+  {
+   "sub_theme": "Smart-grid ICT: AMI, IoT, power-line communications and monitoring",
+   "studies": [
+    "R0145",
+    "R0407",
+    "R0413",
+    "R1760"
+   ],
+   "n": 4,
+   "methods": "Study types: empirical-case-study 3; modelling-simulation 1.",
+   "settings": "Sectors: non-interconnected-zones 2; power-generation-SIN 2. Departments/scope: national scope 3; Vichada 1",
+   "technical": "LoRa up to 20 km, 21.9 kbps [R0145] | 150 PMUs across 25 substations [R0413]; 10 samples/s, ingress latency under 300 ms [R0413] | price-projection simulation time fell from 54 h to 9.6 h [R1760]",
+   "economic": "not reported",
+   "environmental": "not reported",
+   "pattern": "These are design and case studies on different layers (LoRa range up to 20 km at 21.9 kbps in R0145; PMU-based monitoring with ingress latency under 300 ms in R0413; price-projection simulation time falling from 54 h to 9.6 h in R1760; an IoT reference model in R0407). No economic or environmental outcomes are reported, so no cross-study comparison is possible."
+  },
+  {
+   "sub_theme": "Demand response, market design and distribution/transmission modernisation",
+   "studies": [
+    "R0044",
+    "R0312",
+    "R0376",
+    "R0655"
+   ],
+   "n": 4,
+   "methods": "Study types: modelling-simulation 2; policy-analysis 1; techno-economic-assessment 1. Method keywords (matched in the extracted method field): MILP/MINLP/NLP/LP 1; optimal power flow/dispatch/unit commitment 1; review/bibliometric 1",
+   "settings": "Sectors: power-generation-SIN 3; multi-sector 1. Departments/scope: national scope 3; unspecified scope 1",
+   "technical": "schedule changes up to ~2500 MW [R0312] | SST flattens hourly demand variation from up to 17.3% (avg 8.34%) to about 1.66% [R0376] | SAIDI about 30 h/year in Colombia vs 10.4 (Brazil) and 13.6 (Chile) [R0044]",
+   "economic": "pilot benefits vs costs (thousand COP): Zone 1 684,358 vs 553,127 [R0655]; Zone 3 (ZNI) 306,213 vs 269,023 [R0655] | co-optimization cuts production cost by about 1.5% and 1.3% [R0312]; adjustment mechanism cheaper than tertiary reserve (system cost +7%, +15%, +26% for 500, 1000, 1500 MW) [R0312] | benefit-cost 0.56 for 15 kVA (IRR -2%) and 1.04 for 75 kVA (IRR 13%) [R0376]",
+   "environmental": "not reported",
+   "pattern": "The studies address different mechanisms (DR pilot design in R0655, day-ahead and intraday co-optimisation in R0312, a solid-state transformer in R0376, regulatory review in R0044) and show positive economics only in some cases (pilot benefits above costs in Zone 1 and Zone 3 of R0655; benefit-cost 0.56 for 15 kVA versus 1.04 for 75 kVA in R0376; production cost cut about 1.5% and 1.3% in R0312). No environmental outcomes are reported."
+  }
+ ]
+}

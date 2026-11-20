@@ -1,0 +1,783 @@
+[
+ {
+  "id": "stage-model-based",
+  "regime": "none",
+  "source": "review/extraction.jsonl study_type + review/appraisal.jsonl",
+  "content": "Evidence-maturity stage 'model-based' (study types: modelling-simulation 78; techno-economic-assessment 24): 102 of 157 included reports. By technology group (stage count of group total): renewable generation 23 of 38 (61%); bioenergy 8 of 20 (40%); grids, microgrids and storage 21 of 31 (68%); demand side 10 of 16 (62%); low-carbon fuels 10 of 13 (77%); system-level planning 30 of 39 (77%). Appraisal: mean score 4.40, median 4.5; QA3 method reproducible yes 82, partly 20, no 0; QA5 limitations discussed yes 41, partly 48, no 13. Cite the stage as a group: \\cite{R0002,R0004,R0006,R0010,R0012,R0023,R0024,R0029,R0034,R0042,R0043,R0045,R0050,R0054,R0071,R0074,R0079,R0083,R0095,R0100,R0104,R0108,R0115,R0116,R0124,R0127,R0128,R0130,R0145,R0152,R0160,R0167,R0168,R0185,R0192,R0193,R0200,R0209,R0211,R0228,R0240,R0246,R0250,R0252,R0256,R0258,R0267,R0271,R0285,R0312,R0314,R0315,R0319,R0324,R0332,R0333,R0348,R0350,R0354,R0363,R0369,R0374,R0376,R0382,R0384,R0398,R0400,R0408,R0418,R0419,R0428,R0430,R0431,R0436,R0445,R0446,R0451,R0452,R0454,R0476,R0484,R0488,R0491,R0495,R0505,R0517,R0520,R0527,R0537,R0617,R0623,R0645,R0646,R0655,R0668,R0848,R0855,R0935,R1456,R1558,R1780,R1813}. Per group cite lists: renewable generation: \\cite{R0034,R0054,R0083,R0095,R0104,R0115,R0116,R0127,R0167,R0200,R0332,R0333,R0348,R0382,R0384,R0400,R0445,R0451,R0452,R0505,R0517,R0623,R1780} | bioenergy: \\cite{R0012,R0152,R0185,R0211,R0374,R0446,R0495,R0520} | grids, microgrids and storage: \\cite{R0002,R0010,R0042,R0071,R0100,R0145,R0228,R0312,R0363,R0376,R0418,R0430,R0476,R0617,R0645,R0655,R0668,R0848,R0855,R1456,R1558} | demand side: \\cite{R0029,R0050,R0130,R0168,R0192,R0193,R0271,R0408,R0428,R1813} | low-carbon fuels: \\cite{R0024,R0043,R0108,R0160,R0240,R0256,R0314,R0315,R0350,R0369} | system-level planning: \\cite{R0004,R0006,R0023,R0045,R0074,R0079,R0124,R0128,R0209,R0246,R0250,R0252,R0258,R0267,R0285,R0319,R0324,R0354,R0398,R0419,R0431,R0436,R0454,R0484,R0488,R0491,R0527,R0537,R0646,R0935}"
+ },
+ {
+  "id": "stage-field",
+  "regime": "none",
+  "source": "review/extraction.jsonl study_type + review/appraisal.jsonl",
+  "content": "Evidence-maturity stage 'field and case' (study types: empirical-case-study 17): 17 of 157 included reports. By technology group (stage count of group total): renewable generation 6 of 38 (16%); bioenergy 3 of 20 (15%); grids, microgrids and storage 3 of 31 (10%); demand side 2 of 16 (12%); low-carbon fuels 1 of 13 (8%); system-level planning 2 of 39 (5%). Appraisal: mean score 3.97, median 4.0; QA3 method reproducible yes 11, partly 6, no 0; QA5 limitations discussed yes 4, partly 7, no 6. Cite the stage as a group: \\cite{R0087,R0121,R0148,R0218,R0235,R0323,R0335,R0336,R0407,R0409,R0413,R0424,R0475,R0519,R1450,R1612,R1760}. Per group cite lists: renewable generation: \\cite{R0335,R0336,R0409,R0424,R0475,R1450} | bioenergy: \\cite{R0218,R0323,R0519} | grids, microgrids and storage: \\cite{R0407,R0413,R1760} | demand side: \\cite{R0121,R0235} | low-carbon fuels: \\cite{R0148} | system-level planning: \\cite{R0087,R1612}"
+ },
+ {
+  "id": "stage-institutional",
+  "regime": "none",
+  "source": "review/extraction.jsonl study_type + review/appraisal.jsonl",
+  "content": "Evidence-maturity stage 'institutional and social' (study types: qualitative-social-study 9; policy-analysis 5): 14 of 157 included reports. By technology group (stage count of group total): renewable generation 5 of 38 (13%); bioenergy 0 of 20 (0%); grids, microgrids and storage 5 of 31 (16%); demand side 1 of 16 (6%); low-carbon fuels 0 of 13 (0%); system-level planning 3 of 39 (8%). Appraisal: mean score 4.36, median 4.5; QA3 method reproducible yes 9, partly 5, no 0; QA5 limitations discussed yes 6, partly 5, no 3. Cite the stage as a group: \\cite{R0008,R0017,R0044,R0245,R0280,R0281,R0290,R0296,R0378,R0387,R0455,R0480,R0507,R0544}. Per group cite lists: renewable generation: \\cite{R0245,R0296,R0378,R0387,R0544} | grids, microgrids and storage: \\cite{R0008,R0017,R0044,R0281,R0290} | demand side: \\cite{R0480} | system-level planning: \\cite{R0280,R0455,R0507}"
+ },
+ {
+  "id": "stage-secondary",
+  "regime": "none",
+  "source": "review/extraction.jsonl study_type + review/appraisal.jsonl",
+  "content": "Evidence-maturity stage 'secondary synthesis' (study types: review 14; other 10): 24 of 157 included reports. By technology group (stage count of group total): renewable generation 4 of 38 (11%); bioenergy 9 of 20 (45%); grids, microgrids and storage 2 of 31 (6%); demand side 3 of 16 (19%); low-carbon fuels 2 of 13 (15%); system-level planning 4 of 39 (10%). Appraisal: mean score 3.77, median 3.75; QA3 method reproducible yes 9, partly 14, no 1; QA5 limitations discussed yes 9, partly 9, no 6. Cite the stage as a group: \\cite{R0038,R0051,R0066,R0089,R0094,R0114,R0154,R0190,R0203,R0206,R0223,R0230,R0237,R0272,R0286,R0338,R0352,R0367,R0381,R0421,R0434,R0435,R0464,R0953}. Per group cite lists: renewable generation: \\cite{R0190,R0230,R0367,R0464} | bioenergy: \\cite{R0051,R0094,R0114,R0154,R0206,R0272,R0286,R0338,R0435} | grids, microgrids and storage: \\cite{R0089,R0953} | demand side: \\cite{R0038,R0066,R0421} | low-carbon fuels: \\cite{R0203,R0381} | system-level planning: \\cite{R0223,R0237,R0352,R0434}"
+ },
+ {
+  "id": "protocol-rqs",
+  "regime": "none",
+  "source": "review/protocol.json",
+  "content": "Research questions, to be listed exactly as worded: RQ1 (verbatim): How has peer-reviewed research on technological innovation for the energy transition in Colombia evolved between 2015 and 2025 in volume, venues, institutions, collaboration networks and thematic clusters? PICOC: population Peer-reviewed studies on Colombia's energy system; intervention Technological advances and innovation for the energy transition; comparison Over time (2015-2025) and across thematic clusters; outcomes Publication trends, key authors and institutions, collaboration networks, keyword co-occurrence clusters, under-explored areas; context Colombia, national scope. RQ2 (verbatim): Which energy-transition technologies (non-conventional renewables, energy efficiency, storage, smart grids, microgrids, low-carbon fuels and hydrogen) have been studied for Colombia, by what methods, and what technical, economic and environmental outcomes do the studies report? PICOC: population Colombian energy supply and demand sectors (power, industry, buildings, transport, non-interconnected zones); intervention Deployment, design, modelling or assessment of energy-transition technologies; comparison Conventional fossil-based or incumbent alternatives, or between technologies, where reported; outcomes Technical performance, cost, emissions reduction, reliability and energy access; context Colombia, including the National Interconnected System (SIN) and the non-interconnected zones (ZNI). RQ3 (verbatim): What barriers and enablers, including policy, regulation, finance and institutions, do the studies identify for the adoption of technological innovation in Colombia's energy transition? PICOC: population Actors and institutions of Colombia's energy sector (government, regulators, utilities, industry, communities); intervention Policy instruments, regulatory frameworks (e.g., Law 1715 of 2014, Law 2099 of 2021), financing and innovation-system mechanisms; comparison Across technologies and, where reported, against other Latin American countries; outcomes Reported barriers, enablers and their effects on adoption; context Colombia. RQ4 (verbatim): What social, environmental and territorial impacts and conflicts are associated with the implementation of energy-transition technologies in Colombia? PICOC: population Communities and territories hosting or served by energy-transition projects (e.g., La Guajira, ZNI); intervention Implementation of renewable, efficiency or grid projects; comparison Not applicable; outcomes Socio-environmental impacts, conflicts, acceptance, energy justice and access; context Colombia. Contributions, one per research question in the same order: (1) a scientometric map of the field (RQ1); (2) a comparison of technologies, methods and reported technical, economic and environmental outcomes across six technology groups (RQ2); (3) a classification of barriers and enablers into the eight open-problem classes of the background (RQ3); (4) a synthesis of social, environmental and territorial impacts and conflicts, with the open challenges and research gaps they leave (RQ4)."
+ },
+ {
+  "id": "gap-analysis",
+  "regime": "none",
+  "source": "review/protocol.json; review/synthesis/evidence/introduction.json (intro-existing-reviews records)",
+  "content": "Comparison of the existing reviews obtained in full text with this review's protocol: each of them covers either a single technology or topic (isolated microgrids, energy communities, energy financing, energy efficiency), a different geography (global clean energy research; Latin America), or a corpus closed before 2023; none combines a PRISMA 2020 systematic search of peer-reviewed literature on all energy-transition technologies for Colombia over 2015-2025 with a scientometric analysis and a comparative synthesis of outcomes, barriers, enablers and impacts, which this review does."
+ },
+ {
+  "id": "scope-reviews",
+  "regime": "none",
+  "source": "review/scope.json",
+  "content": "A scoping search of OpenAlex for works of type review on the review topic, run on 2026-11-17, returned 154 review records (openalex (type:review))."
+ },
+ {
+  "id": "per-year",
+  "regime": "none",
+  "source": "review/biblio.json",
+  "content": {
+   "2015": 3,
+   "2016": 5,
+   "2017": 4,
+   "2018": 3,
+   "2019": 12,
+   "2020": 13,
+   "2021": 9,
+   "2022": 24,
+   "2023": 23,
+   "2024": 21,
+   "2025": 40
+  }
+ },
+ {
+  "id": "collaboration",
+  "regime": "none",
+  "source": "review/synthesis/rq1-scientometrics.json",
+  "content": {
+   "matched_in_openalex": 153,
+   "included": 157,
+   "countries_top": {
+    "CO": 130,
+    "ES": 19,
+    "GB": 11,
+    "DE": 9,
+    "MX": 9,
+    "US": 8,
+    "DK": 8,
+    "NL": 8,
+    "CL": 7,
+    "FR": 7
+   },
+   "international_collaboration_share": 0.542,
+   "citations_total": 4661
+  }
+ },
+ {
+  "id": "t-geography",
+  "regime": "none",
+  "source": "paper/Tables/t-geography.tex (regions-norm.jsonl)",
+  "content": {
+   "caption": "Geographic coverage of the included studies; a regional or local study can cover several departments and macro-regions.",
+   "label": "tab:geography",
+   "header": "Geographic coverage & Studies",
+   "rows": [
+    "Scope: national & 77",
+    "Scope: regional & 15",
+    "Scope: local & 58",
+    "Scope: unspecified & 7",
+    "Macro-region: Caribe & 36",
+    "Macro-region: Andina & 28",
+    "Macro-region: Pacífico & 21",
+    "Macro-region: Amazonía & 7",
+    "Macro-region: Orinoquía & 6",
+    "Macro-region: Insular & 3",
+    "Department: La Guajira & 20",
+    "Department: Chocó & 10",
+    "Department: Atlántico & 10",
+    "Department: Antioquia & 9",
+    "Department: Bogotá D.C. & 8",
+    "Department: Bolívar & 8",
+    "Department: Santander & 8",
+    "Department: Valle del Cauca & 6",
+    "Department: Boyacá & 4",
+    "Department: Cundinamarca & 3",
+    "Department: Magdalena & 3",
+    "Department: Meta & 3"
+   ]
+  }
+ },
+ {
+  "id": "t-institutions",
+  "regime": "none",
+  "source": "paper/Tables/t-institutions.tex (rq1-scientometrics.json)",
+  "content": {
+   "caption": "Most productive institutions (OpenAlex affiliations, 153 of 157 studies matched).",
+   "label": "tab:institutions",
+   "header": "Institution & Studies",
+   "rows": [
+    "Universidad Nacional de Colombia & 24",
+    "Universidad de Bogotá Jorge Tadeo Lozano & 18",
+    "Universidad del Valle & 13",
+    "Universidad Pontificia Bolivariana & 13",
+    "Universidad de la Costa & 9",
+    "Aalborg University & 7",
+    "Universidad de Los Andes & 7",
+    "Universidad de Antioquia & 7",
+    "Institución Universitaria ITM & 6",
+    "Universidad Industrial de Santander & 5",
+    "Universidad Tecnológica de Pereira & 5",
+    "Universidad de Medellín & 5",
+    "Universidad del Norte & 4",
+    "Universidad Cooperativa de Colombia & 4",
+    "Karlsruhe Institute of Technology & 4"
+   ]
+  }
+ },
+ {
+  "id": "t-appraisal",
+  "regime": "none",
+  "source": "paper/Tables/t-appraisal.tex (review/appraisal.jsonl)",
+  "content": {
+   "caption": "Quality appraisal of the 157 included reports (yes = 1, partly = 0.5, no = 0).",
+   "label": "tab:appraisal",
+   "header": "Appraisal question & Yes & Partly & No",
+   "rows": [
+    "QA1 Aims stated & 157 & 0 & 0",
+    "QA2 Colombian context defined & 132 & 25 & 0",
+    "QA3 Method reproducible or assessable & 111 & 45 & 1",
+    "QA4 Results clearly reported and supported & 120 & 37 & 0",
+    "QA5 Limitations discussed & 60 & 69 & 28"
+   ]
+  }
+ },
+ {
+  "id": "rq3-frame",
+  "regime": "none",
+  "source": "review/synthesis/rq3-coded.jsonl",
+  "content": "RQ3 theme: barriers and enablers of technology adoption. 127 included studies reported RQ3 data (tier-2 extraction); each barrier or enabler item was coded manually into 12 codes grouped into the eight open-problem classes named in the background (Policy and regulation; Economics and finance; Markets and supply chains; Technical infrastructure; Institutions and governance; Social acceptance and justice; Knowledge and capacity; Natural resources and climate). A study counts once per code and side. Technology groups use the six groups of RQ2."
+ },
+ {
+  "id": "t-rq3-barriers-enablers",
+  "regime": "none",
+  "source": "paper/Tables/t-rq3-barriers-enablers.tex",
+  "label": "tab:rq3",
+  "content": "Table Tables/t-rq3-barriers-enablers, label tab:rq3: Barriers and enablers reported by the 127 tier-2 studies with RQ3 data; a study counts once per code and side."
+ },
+ {
+  "id": "rq4-frame",
+  "regime": "none",
+  "source": "review/synthesis/rq4-coded.jsonl",
+  "content": "RQ4 theme: social, environmental and territorial impacts and conflicts, and the research gaps the studies state. 126 included studies were coded; impacts carry a direction (positive, negative, mixed) and a study can report one impact in more than one direction."
+ },
+ {
+  "id": "t-rq4-impacts",
+  "regime": "none",
+  "source": "paper/Tables/t-rq4-impacts.tex",
+  "label": "tab:rq4",
+  "content": "Table Tables/t-rq4-impacts, label tab:rq4: Social, environmental and territorial impacts by direction; a study can report the same impact in more than one direction."
+ },
+ {
+  "id": "t-research-gaps",
+  "regime": "none",
+  "source": "paper/Tables/t-research-gaps.tex",
+  "label": "tab:gaps",
+  "content": "Table Tables/t-research-gaps, label tab:gaps: Research gaps stated by the included studies."
+ },
+ {
+  "id": "rq3-policy-fiscal-incentives",
+  "regime": "none",
+  "source": "review/synthesis/rq3-coded.jsonl",
+  "content": "Open-problem class 'Policy and regulation', code 'Policy and fiscal incentives' (definition: Public policy instruments, laws, targets, subsidies, tax and tariff incentives, or their absence or misalignment (including fossil-fuel subsidies), that shape technology adoption.). BARRIERS: 41 studies; by technology group: Renewable generation (solar, wind, hydro, geothermal, ocean): 16 \\cite{R0034,R0054,R0095,R0115,R0190,R0200,R0230,R0367,R0378,R0382,R0387,R0409,R0452,R0464,R0505,R0517}; System-level planning and other: 10 \\cite{R0237,R0258,R0280,R0324,R0354,R0419,R0454,R0507,R0646,R1612}; Grids, microgrids and storage: 5 \\cite{R0008,R0010,R0044,R0430,R0953}; Bioenergy: 5 \\cite{R0094,R0152,R0323,R0495,R0520}; Demand side (efficiency, electromobility): 3 \\cite{R0029,R0066,R1813}; Low-carbon fuels (hydrogen, CCS, nuclear): 2 \\cite{R0314,R0350}. Example items (verbatim, with study): \"diesel genset subsidies\" [R0008]; \"Law 1117 fuel subsidies favour fossil fuels and block Law 1715\" [R0010]; \"Social and policy barriers and misconceptions\" [R0010]; \"Lack of incentives for investment\" [R0029]; \"Institutional policies limiting adoption of PV\" [R0029]; \"lack of substantial financial aid\" [R0034] ENABLERS: 101 studies; by technology group: System-level planning and other: 29 \\cite{R0004,R0074,R0079,R0087,R0128,R0209,R0223,R0237,R0246,R0250,R0258,R0267,R0280,R0319,R0324,R0354,R0419,R0434,R0436,R0454,R0455,R0488,R0491,R0507,R0527,R0537,R0646,R0935,R1612}; Renewable generation (solar, wind, hydro, geothermal, ocean): 25 \\cite{R0034,R0054,R0083,R0095,R0104,R0115,R0116,R0127,R0167,R0190,R0200,R0230,R0348,R0367,R0378,R0382,R0387,R0400,R0409,R0452,R0464,R0475,R0505,R0517,R1780}; Bioenergy: 15 \\cite{R0114,R0152,R0154,R0185,R0206,R0211,R0218,R0272,R0286,R0323,R0338,R0374,R0446,R0495,R0520}; Grids, microgrids and storage: 14 \\cite{R0008,R0010,R0042,R0044,R0290,R0376,R0407,R0413,R0430,R0655,R0848,R0953,R1456,R1760}; Demand side (efficiency, electromobility): 11 \\cite{R0029,R0038,R0050,R0066,R0130,R0168,R0193,R0408,R0421,R0480,R1813}; Low-carbon fuels (hydrogen, CCS, nuclear): 7 \\cite{R0108,R0203,R0240,R0314,R0350,R0369,R0381}. Example items (verbatim, with study): \"Subsidy schemes penalizing additional electricity consumption (as in the 2016-2017 El Nino)\" [R0004]; \"Environmental taxation and energy pricing policies\" [R0004]; \"Rebound mitigation policies\" [R0004]; \"financial support, microfinance and redirecting diesel subsidies\" [R0008]; \"Law 1715 and Law 1753 (Pacific fund)\" [R0008]; \"Law 1715 of 2014 incentives (equipment subsidy)\" [R0010]"
+ },
+ {
+  "id": "rq3-regulatory-framework",
+  "regime": "none",
+  "source": "review/synthesis/rq3-coded.jsonl",
+  "content": "Open-problem class 'Policy and regulation', code 'Regulatory framework and permitting' (definition: Regulations, market and grid-connection rules, standards, licensing and permitting procedures, and legal clarity (or gaps) governing the technology.). BARRIERS: 52 studies; by technology group: Renewable generation (solar, wind, hydro, geothermal, ocean): 15 \\cite{R0034,R0083,R0104,R0115,R0167,R0190,R0200,R0367,R0382,R0387,R0409,R0452,R0464,R0517,R1450}; System-level planning and other: 12 \\cite{R0079,R0128,R0209,R0237,R0246,R0258,R0267,R0434,R0455,R0491,R0507,R0646}; Grids, microgrids and storage: 10 \\cite{R0008,R0017,R0044,R0290,R0312,R0376,R0413,R0430,R0953,R1456}; Demand side (efficiency, electromobility): 6 \\cite{R0029,R0050,R0066,R0168,R0271,R0480}; Low-carbon fuels (hydrogen, CCS, nuclear): 5 \\cite{R0203,R0240,R0314,R0315,R0381}; Bioenergy: 4 \\cite{R0094,R0154,R0206,R0272}. Example items (verbatim, with study): \"Law 1715 lacking regulations\" [R0008]; \"legislation without implementing regulations (Law 1715, Art. 185)\" [R0017]; \"ADSM regulation still pending in Colombia\" [R0029]; \"lack of clarity in regulatory framework\" [R0034]; \"Regulatory and economic barriers to smart-grid functionalities\" [R0044]; \"Smart-meter-only access to tariff, demand-response and surplus-delivery schemes\" [R0044] ENABLERS: 43 studies; by technology group: Renewable generation (solar, wind, hydro, geothermal, ocean): 16 \\cite{R0034,R0083,R0115,R0190,R0296,R0348,R0382,R0387,R0400,R0409,R0445,R0452,R0464,R0517,R0544,R1450}; Grids, microgrids and storage: 12 \\cite{R0042,R0044,R0071,R0290,R0312,R0376,R0413,R0430,R0655,R0953,R1456,R1760}; System-level planning and other: 7 \\cite{R0079,R0250,R0398,R0434,R0436,R0455,R1612}; Demand side (efficiency, electromobility): 4 \\cite{R0050,R0130,R0168,R1813}; Low-carbon fuels (hydrogen, CCS, nuclear): 3 \\cite{R0203,R0240,R0381}; Bioenergy: 1 \\cite{R0094}. Example items (verbatim, with study): \"net-metering (CREG Resolution 030/2018)\" [R0034]; \"MINTIC reporting rules and fines on outages motivate operators\" [R0042]; \"Resolutions 030 and 038 of 2018 on microgrids\" [R0042]; \"CREG 174/2021 self-generation and surplus rules\" [R0044]; \"CREG 015/2018 hourly tariffs and incentives for modernization\" [R0044]; \"Colombia Inteligente reference architecture\" [R0044]"
+ },
+ {
+  "id": "rq3-capital-financing",
+  "regime": "none",
+  "source": "review/synthesis/rq3-coded.jsonl",
+  "content": "Open-problem class 'Economics and finance', code 'Capital costs and access to finance' (definition: Upfront investment burden and availability, cost, or structure of finance (credit, funds, investors, risk guarantees, international climate finance).). BARRIERS: 54 studies; by technology group: Bioenergy: 13 \\cite{R0051,R0094,R0114,R0154,R0206,R0218,R0272,R0286,R0338,R0374,R0446,R0495,R0519}; Renewable generation (solar, wind, hydro, geothermal, ocean): 13 \\cite{R0095,R0115,R0190,R0230,R0245,R0332,R0348,R0400,R0409,R0452,R0464,R1450,R1780}; System-level planning and other: 10 \\cite{R0074,R0087,R0237,R0250,R0419,R0454,R0455,R0488,R0507,R0527}; Grids, microgrids and storage: 9 \\cite{R0008,R0010,R0017,R0042,R0044,R0228,R0281,R0290,R0953}; Demand side (efficiency, electromobility): 7 \\cite{R0029,R0050,R0066,R0130,R0168,R0193,R0271}; Low-carbon fuels (hydrogen, CCS, nuclear): 2 \\cite{R0108,R0369}. Example items (verbatim, with study): \"financial constraints: low incomes and high initial costs\" [R0008]; \"inability to trial systems due to lack of capital\" [R0008]; \"High capital cost of renewable systems\" [R0010]; \"dependence on outside donors for agricultural inputs\" [R0017]; \"High cost of PV and battery systems; PV investment not feasible (no payback in 25 years)\" [R0029]; \"High cost of home energy management systems\" [R0029] ENABLERS: 25 studies; by technology group: System-level planning and other: 8 \\cite{R0074,R0128,R0237,R0354,R0419,R0434,R0454,R0488}; Renewable generation (solar, wind, hydro, geothermal, ocean): 6 \\cite{R0116,R0230,R0245,R0378,R0387,R0409}; Bioenergy: 6 \\cite{R0154,R0206,R0218,R0338,R0446,R0495}; Grids, microgrids and storage: 3 \\cite{R0008,R0290,R1760}; Demand side (efficiency, electromobility): 1 \\cite{R0066}; Low-carbon fuels (hydrogen, CCS, nuclear): 1 \\cite{R0108}. Example items (verbatim, with study): \"financial support, microfinance and redirecting diesel subsidies\" [R0008]; \"Green bonds\" [R0066]; \"Public-private partnerships\" [R0066]; \"Land value capture\" [R0066]; \"Diversified financing options\" [R0066]; \"International and national investment and financing\" [R0074]"
+ },
+ {
+  "id": "rq3-economic-viability",
+  "regime": "none",
+  "source": "review/synthesis/rq3-coded.jsonl",
+  "content": "Open-problem class 'Economics and finance', code 'Cost competitiveness and economic viability' (definition: Operating costs, levelised costs, price competitiveness against incumbents and cost-benefit performance that decide whether a project pays off.). BARRIERS: 58 studies; by technology group: System-level planning and other: 19 \\cite{R0087,R0128,R0223,R0237,R0250,R0258,R0280,R0319,R0324,R0354,R0398,R0419,R0434,R0455,R0488,R0491,R0527,R0537,R0646}; Renewable generation (solar, wind, hydro, geothermal, ocean): 18 \\cite{R0034,R0054,R0083,R0104,R0116,R0127,R0200,R0230,R0348,R0367,R0378,R0382,R0409,R0445,R0464,R0505,R0517,R1780}; Bioenergy: 7 \\cite{R0012,R0185,R0206,R0272,R0446,R0495,R0519}; Grids, microgrids and storage: 7 \\cite{R0100,R0281,R0376,R0418,R0430,R0655,R0848}; Low-carbon fuels (hydrogen, CCS, nuclear): 6 \\cite{R0108,R0203,R0314,R0315,R0369,R0381}; Demand side (efficiency, electromobility): 1 \\cite{R1813}. Example items (verbatim, with study): \"high electricity cost for production\" [R0012]; \"high transport and toll costs\" [R0012]; \"high equipment and labor costs\" [R0034]; \"low-cost hydropower and concentrated market\" [R0034]; \"Battery cost outweighs self-consumption benefit in off-grid cases\" [R0054]; \"PV LCOE above grid price in Colombia\" [R0054] ENABLERS: 36 studies; by technology group: Renewable generation (solar, wind, hydro, geothermal, ocean): 15 \\cite{R0034,R0095,R0127,R0200,R0230,R0245,R0332,R0333,R0348,R0382,R0452,R0505,R0517,R1450,R1780}; System-level planning and other: 9 \\cite{R0223,R0246,R0280,R0319,R0398,R0455,R0491,R0507,R1612}; Bioenergy: 6 \\cite{R0206,R0218,R0323,R0374,R0446,R0519}; Grids, microgrids and storage: 2 \\cite{R0010,R0100}; Demand side (efficiency, electromobility): 2 \\cite{R0193,R0271}; Low-carbon fuels (hydrogen, CCS, nuclear): 2 \\cite{R0315,R0369}. Example items (verbatim, with study): \"Falling renewable technology costs and low operating costs\" [R0010]; \"falling storage prices\" [R0034]; \"Wholesale purchase of panels and inverters\" [R0095]; \"Moderate fuel cost and high renewable potential\" [R0100]; \"DOE-CFD reduces prototyping cost\" [R0127]; \"competitive prices and support policies\" [R0193]"
+ },
+ {
+  "id": "rq3-market-supply-demand",
+  "regime": "none",
+  "source": "review/synthesis/rq3-coded.jsonl",
+  "content": "Open-problem class 'Markets and supply chains', code 'Market structure, demand and supply chain' (definition: Size and structure of demand, competition, business models, supply chains, imports and offtake conditions that determine whether a market for the technology exists.). BARRIERS: 30 studies; by technology group: System-level planning and other: 10 \\cite{R0128,R0250,R0258,R0324,R0354,R0419,R0436,R0646,R0935,R1612}; Demand side (efficiency, electromobility): 5 \\cite{R0038,R0130,R0168,R0193,R0408}; Grids, microgrids and storage: 5 \\cite{R0228,R0376,R0407,R0655,R1760}; Renewable generation (solar, wind, hydro, geothermal, ocean): 4 \\cite{R0034,R0083,R0378,R0400}; Bioenergy: 4 \\cite{R0114,R0154,R0211,R0286}; Low-carbon fuels (hydrogen, CCS, nuclear): 2 \\cite{R0350,R0381}. Example items (verbatim, with study): \"low-cost hydropower and concentrated market\" [R0034]; \"Low demand for efficient equipment (82% of residential sector is low-income and cannot afford it)\" [R0038]; \"supply chain and port limitations\" [R0083]; \"low industrial competitiveness (CIP) and industrialization level\" [R0114]; \"Existing diesel capacity (double peak demand, 25-year life) not uninstalled\" [R0128]; \"slow fleet renewal and dominance of conventional vehicles\" [R0130] ENABLERS: 30 studies; by technology group: System-level planning and other: 12 \\cite{R0074,R0209,R0258,R0267,R0319,R0324,R0398,R0436,R0455,R0527,R0646,R1612}; Grids, microgrids and storage: 6 \\cite{R0017,R0290,R0312,R0407,R0848,R0953}; Renewable generation (solar, wind, hydro, geothermal, ocean): 5 \\cite{R0034,R0054,R0190,R0332,R1450}; Low-carbon fuels (hydrogen, CCS, nuclear): 3 \\cite{R0108,R0203,R0381}; Bioenergy: 2 \\cite{R0012,R0114}; Demand side (efficiency, electromobility): 2 \\cite{R0029,R0408}. Example items (verbatim, with study): \"European and Asian import demand\" [R0012]; \"income diversification and energy cooperatives\" [R0017]; \"Aggregator agent to enable user participation\" [R0029]; \"solar PPAs\" [R0034]; \"Strengthened supply chains and battery recycling\" [R0054]; \"Promotion of national green industry\" [R0074]"
+ },
+ {
+  "id": "rq3-grid-infrastructure",
+  "regime": "none",
+  "source": "review/synthesis/rq3-coded.jsonl",
+  "content": "Open-problem class 'Technical infrastructure', code 'Grid and physical infrastructure' (definition: Adequacy of electricity grids, transmission, connection capacity, fuel/charging/hydrogen/storage infrastructure and physical accessibility of sites.). BARRIERS: 50 studies; by technology group: System-level planning and other: 13 \\cite{R0074,R0087,R0267,R0319,R0352,R0354,R0398,R0431,R0434,R0488,R0646,R0935,R1612}; Renewable generation (solar, wind, hydro, geothermal, ocean): 12 \\cite{R0034,R0083,R0104,R0116,R0127,R0167,R0190,R0245,R0332,R0333,R0378,R0424}; Grids, microgrids and storage: 10 \\cite{R0017,R0042,R0044,R0071,R0145,R0407,R0413,R0418,R0430,R0848}; Demand side (efficiency, electromobility): 7 \\cite{R0050,R0066,R0130,R0168,R0193,R0421,R1813}; Low-carbon fuels (hydrogen, CCS, nuclear): 5 \\cite{R0203,R0314,R0350,R0369,R0381}; Bioenergy: 3 \\cite{R0114,R0286,R0323}. Example items (verbatim, with study): \"lack of irrigation infrastructure, tools and seeds\" [R0017]; \"grid-less La Guajira prevents net-metering\" [R0034]; \"Hard-to-access NIZ with repair times of one to two days\" [R0042]; \"About 52% of territory is non-interconnected; large investment needed for universal access\" [R0042]; \"Obsolete radial overhead networks and lacking rural communications\" [R0044]; \"limited automated equipment/infrastructure\" [R0050] ENABLERS: 18 studies; by technology group: System-level planning and other: 7 \\cite{R0250,R0267,R0319,R0455,R0488,R0507,R0646}; Grids, microgrids and storage: 4 \\cite{R0071,R0145,R0228,R0655}; Low-carbon fuels (hydrogen, CCS, nuclear): 3 \\cite{R0240,R0315,R0369}; Renewable generation (solar, wind, hydro, geothermal, ocean): 2 \\cite{R0083,R0333}; Demand side (efficiency, electromobility): 1 \\cite{R0050}; Bioenergy: 1 \\cite{R0286}. Example items (verbatim, with study): \"smart metering and communication campaigns\" [R0050]; \"Cross-border interconnection and hydrological complementarity\" [R0071]; \"Pumped hydro storage\" [R0071]; \"transmission and port investment\" [R0083]; \"LoRa long-range low-power communication\" [R0145]; \"Redesign methodology reusing existing infrastructure\" [R0228]"
+ },
+ {
+  "id": "rq3-technology-performance",
+  "regime": "none",
+  "source": "review/synthesis/rq3-coded.jsonl",
+  "content": "Open-problem class 'Technical infrastructure', code 'Technology maturity and technical performance' (definition: Technical maturity, reliability, efficiency, intermittency, integration and operation-and-maintenance characteristics of the technology itself.). BARRIERS: 56 studies; by technology group: Grids, microgrids and storage: 14 \\cite{R0010,R0017,R0042,R0044,R0100,R0145,R0228,R0290,R0376,R0407,R0413,R0418,R0430,R1760}; System-level planning and other: 13 \\cite{R0074,R0079,R0124,R0128,R0223,R0246,R0258,R0324,R0352,R0354,R0398,R0419,R0455}; Renewable generation (solar, wind, hydro, geothermal, ocean): 11 \\cite{R0127,R0167,R0230,R0245,R0332,R0333,R0424,R0464,R0475,R0517,R1780}; Demand side (efficiency, electromobility): 7 \\cite{R0038,R0168,R0193,R0271,R0408,R0421,R1813}; Bioenergy: 7 \\cite{R0051,R0206,R0211,R0323,R0338,R0446,R0519}; Low-carbon fuels (hydrogen, CCS, nuclear): 4 \\cite{R0203,R0240,R0315,R0381}. Example items (verbatim, with study): \"Intermittency of renewable resources\" [R0010]; \"broken or stolen windmill parts\" [R0017]; \"Less than expected effectiveness of efficiency programs due to poor retrofit quality, measurement errors and rebound effect\" [R0038]; \"Base station diesel plants fail from lack of maintenance, overload damage, theft or fuel running out\" [R0042]; \"No Colombian electricity-sector CSIRT\" [R0044]; \"Pretreatment requirements and tar/syngas cleaning (gasification)\" [R0051] ENABLERS: 36 studies; by technology group: Grids, microgrids and storage: 13 \\cite{R0008,R0017,R0044,R0071,R0100,R0145,R0228,R0376,R0413,R0418,R0430,R0848,R1760}; System-level planning and other: 8 \\cite{R0087,R0223,R0250,R0324,R0354,R0398,R0646,R0935}; Bioenergy: 6 \\cite{R0012,R0114,R0185,R0211,R0374,R0519}; Renewable generation (solar, wind, hydro, geothermal, ocean): 6 \\cite{R0116,R0127,R0245,R0517,R1450,R1780}; Demand side (efficiency, electromobility): 2 \\cite{R0408,R1813}; Low-carbon fuels (hydrogen, CCS, nuclear): 1 \\cite{R0350}. Example items (verbatim, with study): \"strong relative advantage (water access, time saving)\" [R0008]; \"low complexity and training\" [R0008]; \"biodiesel and higher-payload trucks in transport\" [R0012]; \"water-saving techniques (drip and spray irrigation, training)\" [R0017]; \"solar greenhouse-desalination and water desalination\" [R0017]; \"Successful AMI/DER/ADA pilots in Cali, Bogota, Medellin, Barranquilla\" [R0044]"
+ },
+ {
+  "id": "rq3-institutional-governance",
+  "regime": "none",
+  "source": "review/synthesis/rq3-coded.jsonl",
+  "content": "Open-problem class 'Institutions and governance', code 'Institutional capacity and governance' (definition: Capacity, coordination, continuity and integrity of public institutions and multi-actor governance, including political commitment and partnerships.). BARRIERS: 20 studies; by technology group: System-level planning and other: 7 \\cite{R0250,R0354,R0419,R0455,R0488,R0491,R1612}; Grids, microgrids and storage: 4 \\cite{R0008,R0071,R0290,R1760}; Bioenergy: 4 \\cite{R0114,R0152,R0154,R0323}; Renewable generation (solar, wind, hydro, geothermal, ocean): 4 \\cite{R0167,R0378,R0387,R0544}; Demand side (efficiency, electromobility): 1 \\cite{R0480}. Example items (verbatim, with study): \"government neglect\" [R0008]; \"Interconnection expansion depends on international agreements and partner countries' mix\" [R0071]; \"Public order problems near borders and political instability may affect the regional electricity market\" [R0071]; \"corruption perception\" [R0114]; \"weak institutions and limited policymaking experience\" [R0152]; \"certification influenced by power interests\" [R0152] ENABLERS: 23 studies; by technology group: System-level planning and other: 7 \\cite{R0074,R0250,R0267,R0354,R0434,R0537,R1612}; Grids, microgrids and storage: 4 \\cite{R0017,R0413,R0848,R0953}; Bioenergy: 4 \\cite{R0094,R0154,R0286,R0323}; Low-carbon fuels (hydrogen, CCS, nuclear): 4 \\cite{R0203,R0314,R0369,R0381}; Demand side (efficiency, electromobility): 2 \\cite{R0168,R0480}; Renewable generation (solar, wind, hydro, geothermal, ocean): 2 \\cite{R0190,R0367}. Example items (verbatim, with study): \"holistic water-energy-food policy planning\" [R0017]; \"Industry-academia R&D cooperation\" [R0074]; \"government/industry/community partnerships\" [R0094]; \"RedBioCol network and NGOs\" [R0154]; \"Public-private partnerships for chargers\" [R0168]; \"Electric bus subsidies and international collaboration (WRI)\" [R0168]"
+ },
+ {
+  "id": "rq3-social-acceptance",
+  "regime": "none",
+  "source": "review/synthesis/rq3-coded.jsonl",
+  "content": "Open-problem class 'Social acceptance and justice', code 'Social acceptance, community and behaviour' (definition: Public and community attitudes, participation, behaviour, conflict, land and cultural fit that facilitate or block adoption.). BARRIERS: 41 studies; by technology group: System-level planning and other: 11 \\cite{R0074,R0250,R0267,R0280,R0319,R0324,R0352,R0488,R0491,R0537,R0646}; Grids, microgrids and storage: 10 \\cite{R0010,R0071,R0145,R0228,R0281,R0290,R0407,R0655,R0848,R1760}; Renewable generation (solar, wind, hydro, geothermal, ocean): 9 \\cite{R0083,R0296,R0367,R0378,R0387,R0400,R0409,R0475,R0544}; Bioenergy: 6 \\cite{R0051,R0152,R0206,R0218,R0338,R0495}; Low-carbon fuels (hydrogen, CCS, nuclear): 3 \\cite{R0108,R0240,R0315}; Demand side (efficiency, electromobility): 2 \\cite{R0038,R0050}. Example items (verbatim, with study): \"Social and policy barriers and misconceptions\" [R0010]; \"Less than expected effectiveness of efficiency programs due to poor retrofit quality, measurement errors and rebound effect\" [R0038]; \"low-income consumers with fixed consumption habits\" [R0050]; \"Possible opposition from nearby community\" [R0051]; \"Low social acceptance of landfill biogas recovery\" [R0051]; \"Public order problems near borders and political instability may affect the regional electricity market\" [R0071] ENABLERS: 27 studies; by technology group: Renewable generation (solar, wind, hydro, geothermal, ocean): 7 \\cite{R0083,R0127,R0245,R0296,R0333,R0409,R0544}; Grids, microgrids and storage: 6 \\cite{R0008,R0228,R0281,R0290,R0655,R1760}; Bioenergy: 5 \\cite{R0051,R0094,R0152,R0218,R0520}; System-level planning and other: 5 \\cite{R0074,R0128,R0250,R0488,R0646}; Demand side (efficiency, electromobility): 2 \\cite{R0029,R0421}; Low-carbon fuels (hydrogen, CCS, nuclear): 2 \\cite{R0315,R0350}. Example items (verbatim, with study): \"compatibility with cultural norms\" [R0008]; \"communal ties and observability\" [R0008]; \"opinion leaders and elders\" [R0008]; \"Changes in consumption habits\" [R0029]; \"High social acceptability of anaerobic digestion\" [R0051]; \"Consumer behaviour change\" [R0074]"
+ },
+ {
+  "id": "rq3-knowledge-capacity",
+  "regime": "none",
+  "source": "review/synthesis/rq3-coded.jsonl",
+  "content": "Open-problem class 'Knowledge and capacity', code 'Knowledge, skills and R&D capacity' (definition: Availability of technical skills, training, awareness, information, data, research and innovation capacity.). BARRIERS: 42 studies; by technology group: Renewable generation (solar, wind, hydro, geothermal, ocean): 14 \\cite{R0034,R0230,R0245,R0296,R0367,R0378,R0387,R0400,R0424,R0445,R0464,R0475,R0517,R1450}; Bioenergy: 8 \\cite{R0012,R0152,R0154,R0206,R0218,R0286,R0446,R0520}; System-level planning and other: 8 \\cite{R0209,R0237,R0246,R0352,R0354,R0436,R0455,R0537}; Grids, microgrids and storage: 6 \\cite{R0008,R0145,R0228,R0407,R0655,R0953}; Demand side (efficiency, electromobility): 4 \\cite{R0038,R0130,R0168,R0271}; Low-carbon fuels (hydrogen, CCS, nuclear): 2 \\cite{R0315,R0381}. Example items (verbatim, with study): \"lack of communication with potential diffusers and lack of ICTs\" [R0008]; \"cultural unawareness among entrepreneurs\" [R0012]; \"low public awareness\" [R0034]; \"Poor quality and gaps in national household data\" [R0038]; \"incomplete and non-harmonized emissions data (ANLA)\" [R0130]; \"Poor maintenance and management skills and weak community relationship with renewable projects\" [R0145] ENABLERS: 41 studies; by technology group: Renewable generation (solar, wind, hydro, geothermal, ocean): 14 \\cite{R0034,R0054,R0083,R0104,R0127,R0245,R0296,R0378,R0400,R0424,R0445,R0464,R0475,R0505}; Bioenergy: 8 \\cite{R0051,R0152,R0206,R0218,R0286,R0323,R0338,R0519}; System-level planning and other: 7 \\cite{R0074,R0124,R0209,R0280,R0352,R0354,R0434}; Demand side (efficiency, electromobility): 6 \\cite{R0038,R0050,R0168,R0193,R0271,R0480}; Grids, microgrids and storage: 5 \\cite{R0008,R0017,R0290,R0655,R1760}; Low-carbon fuels (hydrogen, CCS, nuclear): 1 \\cite{R0240}. Example items (verbatim, with study): \"low complexity and training\" [R0008]; \"water-saving techniques (drip and spray irrigation, training)\" [R0017]; \"education and information campaigns\" [R0034]; \"Programs and campaigns for efficient energy use, e.g. Apagar Paga\" [R0038]; \"smart metering and communication campaigns\" [R0050]; \"Multicriteria decision tools with expert panel participation\" [R0051]"
+ },
+ {
+  "id": "rq3-resource-availability",
+  "regime": "none",
+  "source": "review/synthesis/rq3-coded.jsonl",
+  "content": "Open-problem class 'Natural resources and climate', code 'Natural resource and feedstock availability' (definition: Quality, quantity and seasonality of natural energy resources, feedstock, land and water, and geographic/climatic conditions.). BARRIERS: 32 studies; by technology group: System-level planning and other: 12 \\cite{R0074,R0079,R0087,R0124,R0128,R0267,R0319,R0398,R0431,R0491,R0646,R0935}; Bioenergy: 9 \\cite{R0114,R0152,R0185,R0272,R0338,R0374,R0446,R0519,R0520}; Renewable generation (solar, wind, hydro, geothermal, ocean): 5 \\cite{R0104,R0409,R0452,R1450,R1780}; Low-carbon fuels (hydrogen, CCS, nuclear): 3 \\cite{R0314,R0350,R0369}; Grids, microgrids and storage: 2 \\cite{R0017,R0418}; Demand side (efficiency, electromobility): 1 \\cite{R1813}. Example items (verbatim, with study): \"groundwater depletion from decades of aquifer use\" [R0017]; \"Limited CO2 storage capacity (360 Mt)\" [R0074]; \"hydro dependence and El Nino droughts causing price volatility\" [R0079]; \"seasonal wind variability (May-November)\" [R0087]; \"gas shortages and capacity-only firm energy signals\" [R0104]; \"feedstock availability below economic scale\" [R0114] ENABLERS: 45 studies; by technology group: Renewable generation (solar, wind, hydro, geothermal, ocean): 17 \\cite{R0127,R0167,R0200,R0332,R0333,R0367,R0378,R0382,R0387,R0400,R0424,R0445,R0452,R0464,R0505,R0517,R1780}; System-level planning and other: 11 \\cite{R0079,R0124,R0223,R0267,R0324,R0398,R0488,R0491,R0527,R0537,R0935}; Bioenergy: 6 \\cite{R0051,R0094,R0272,R0338,R0374,R0520}; Low-carbon fuels (hydrogen, CCS, nuclear): 5 \\cite{R0108,R0203,R0314,R0350,R0369}; Grids, microgrids and storage: 4 \\cite{R0100,R0407,R0418,R0430}; Demand side (efficiency, electromobility): 2 \\cite{R0408,R0421}. Example items (verbatim, with study): \"Source separation and selective collection of MSW\" [R0051]; \"complementarity of solar, wind and hydropower\" [R0079]; \"use of agri-residues for bioenergy\" [R0094]; \"Moderate fuel cost and high renewable potential\" [R0100]; \"excellent wind and solar resource in La Guajira\" [R0108]; \"Abundant sugarcane bagasse in Jamundi\" [R0124]"
+ },
+ {
+  "id": "rq3-environmental-climate",
+  "regime": "none",
+  "source": "review/synthesis/rq3-coded.jsonl",
+  "content": "Open-problem class 'Natural resources and climate', code 'Environmental constraints and climate drivers' (definition: Environmental protection limits, impacts and climate-mitigation or air-quality motives that restrict or drive adoption.). BARRIERS: 16 studies; by technology group: Bioenergy: 6 \\cite{R0094,R0152,R0185,R0206,R0211,R0446}; Renewable generation (solar, wind, hydro, geothermal, ocean): 4 \\cite{R0190,R0245,R0333,R0445}; System-level planning and other: 4 \\cite{R0209,R0223,R0434,R0436}; Demand side (efficiency, electromobility): 2 \\cite{R0408,R0421}. Example items (verbatim, with study): \"energy-intensive pre-treatment emissions of coffee residues\" [R0094]; \"deforestation\" [R0152]; \"Poor spatial planning could intensify conflicts with agriculture, biodiversity and carbon storage\" [R0185]; \"Spatial conflicts with protected areas, hydrocarbons, fishing and shipping\" [R0190]; \"sustainability challenges\" [R0206]; \"environmental restrictions strongly limit wind area\" [R0209] ENABLERS: 12 studies; by technology group: System-level planning and other: 5 \\cite{R0246,R0250,R0324,R0434,R0436}; Bioenergy: 4 \\cite{R0152,R0154,R0185,R0519}; Renewable generation (solar, wind, hydro, geothermal, ocean): 2 \\cite{R0296,R0378}; Demand side (efficiency, electromobility): 1 \\cite{R0408}. Example items (verbatim, with study): \"zero deforestation and agricultural/cattle intensification\" [R0152]; \"waste treatment and nutrient recycling co-benefits\" [R0154]; \"Sustainability certification schemes preventing deforestation\" [R0185]; \"Low carbon intensity of Colombian grid (0.13 t CO2/MWh, hydro)\" [R0246]; \"synergy with air quality and renewable integration objectives\" [R0250]; \"Environmental protection guarantees\" [R0296]"
+ },
+ {
+  "id": "rq4-emissions-climate",
+  "regime": "none",
+  "source": "review/synthesis/rq4-coded.jsonl",
+  "content": "Impact 'Emissions and climate' (domain environmental): 73 studies; positive 53, negative 27, mixed 1; by technology group: Renewable generation (solar, wind, hydro, geothermal, ocean): 20 \\cite{R0034,R0054,R0083,R0095,R0115,R0116,R0127,R0167,R0230,R0296,R0333,R0348,R0378,R0387,R0400,R0409,R0424,R0452,R0464,R1450}; System-level planning and other: 18 \\cite{R0074,R0079,R0087,R0128,R0223,R0237,R0267,R0319,R0324,R0354,R0398,R0434,R0436,R0488,R0491,R0507,R0527,R0935}; Bioenergy: 14 \\cite{R0012,R0051,R0094,R0154,R0185,R0211,R0218,R0272,R0338,R0374,R0446,R0495,R0519,R0520}; Grids, microgrids and storage: 9 \\cite{R0008,R0017,R0071,R0100,R0418,R0430,R0655,R0848,R0953}; Demand side (efficiency, electromobility): 8 \\cite{R0029,R0038,R0050,R0130,R0168,R0193,R0408,R1813}; Low-carbon fuels (hydrogen, CCS, nuclear): 4 \\cite{R0203,R0314,R0369,R0381}. Example items (verbatim, direction, study): \"climate change worsening water and food insecurity\" (negative) [R0008]; \"land use change carbon credits\" (positive) [R0012]; \"climate change drought and desertification\" (negative) [R0017]; \"CO2 emission reduction of about 85-86% vs interconnected system\" (positive) [R0029]; \"reduced GHG emissions and diversification away from coal\" (positive) [R0034]; \"Rebound effect erodes expected energy savings and associated GHG reductions\" (negative) [R0038]"
+ },
+ {
+  "id": "rq4-land-water-biodiversity",
+  "regime": "none",
+  "source": "review/synthesis/rq4-coded.jsonl",
+  "content": "Impact 'Land, water and biodiversity' (domain environmental): 41 studies; positive 9, negative 27, mixed 5; by technology group: Renewable generation (solar, wind, hydro, geothermal, ocean): 12 \\cite{R0083,R0116,R0167,R0190,R0245,R0333,R0367,R0378,R0387,R0445,R0475,R0544}; Bioenergy: 12 \\cite{R0152,R0154,R0185,R0206,R0211,R0218,R0272,R0323,R0374,R0446,R0519,R0520}; System-level planning and other: 8 \\cite{R0128,R0209,R0319,R0324,R0352,R0488,R0491,R0507}; Low-carbon fuels (hydrogen, CCS, nuclear): 5 \\cite{R0203,R0315,R0350,R0369,R0381}; Grids, microgrids and storage: 3 \\cite{R0008,R0017,R1760}; Demand side (efficiency, electromobility): 1 \\cite{R1813}. Example items (verbatim, direction, study): \"improved water security for agriculture and livestock\" (positive) [R0008]; \"aquifer depletion risk\" (negative) [R0017]; \"visual, noise and wildlife concerns\" (negative) [R0083]; \"ZNI are areas of high ecological importance and biodiversity\" (mixed) [R0116]; \"Environmental criteria: habitat impact, land required, polluting waste\" (mixed) [R0128]; \"deforestation and land grabbing linked to armed conflict\" (negative) [R0152]"
+ },
+ {
+  "id": "rq4-pollution-waste-health",
+  "regime": "none",
+  "source": "review/synthesis/rq4-coded.jsonl",
+  "content": "Impact 'Pollution, waste and health' (domain environmental): 42 studies; positive 19, negative 27, mixed 2; by technology group: System-level planning and other: 12 \\cite{R0004,R0074,R0087,R0128,R0223,R0237,R0250,R0352,R0354,R0454,R0488,R0935}; Bioenergy: 12 \\cite{R0012,R0051,R0114,R0154,R0206,R0211,R0218,R0286,R0338,R0446,R0495,R0519}; Renewable generation (solar, wind, hydro, geothermal, ocean): 7 \\cite{R0245,R0296,R0333,R0387,R0400,R0464,R1780}; Grids, microgrids and storage: 5 \\cite{R0017,R0042,R0290,R0430,R0848}; Demand side (efficiency, electromobility): 3 \\cite{R0130,R0168,R0421}; Low-carbon fuels (hydrogen, CCS, nuclear): 3 \\cite{R0240,R0314,R0350}. Example items (verbatim, direction, study): \"Backfire in respiratory effects category\" (negative) [R0004]; \"acidification and ozone depletion from sea transport (up to 85% and 63%)\" (negative) [R0012]; \"abiotic depletion from road transport (up to 73%)\" (negative) [R0012]; \"unclean water and health risks for no-energy group\" (negative) [R0017]; \"Reduced pollutant emissions by displacing diesel\" (positive) [R0042]; \"Landfill biogas least desirable due to odors, GHG, health problems\" (negative) [R0051]"
+ },
+ {
+  "id": "rq4-energy-savings-fossil-displacement",
+  "regime": "none",
+  "source": "review/synthesis/rq4-coded.jsonl",
+  "content": "Impact 'Energy savings and fossil displacement' (domain environmental): 13 studies; positive 10, negative 3, mixed 0; by technology group: System-level planning and other: 3 \\cite{R0004,R0280,R0537}; Demand side (efficiency, electromobility): 3 \\cite{R0029,R0038,R0050}; Renewable generation (solar, wind, hydro, geothermal, ocean): 3 \\cite{R0034,R0127,R1450}; Bioenergy: 2 \\cite{R0206,R0323}; Low-carbon fuels (hydrogen, CCS, nuclear): 1 \\cite{R0314}; Grids, microgrids and storage: 1 \\cite{R0655}. Example items (verbatim, direction, study): \"Rebound effect offsets environmental savings (CC ERE 1.9-8.2%)\" (negative) [R0004]; \"Service sectors main contributors to indirect rebound\" (negative) [R0004]; \"Peak-demand flattening and reduced consumption without loss of comfort\" (positive) [R0029]; \"reduced GHG emissions and diversification away from coal\" (positive) [R0034]; \"Rebound effect erodes expected energy savings and associated GHG reductions\" (negative) [R0038]; \"Additional electricity consumption for cooling/refrigeration on the hot Caribbean coast\" (negative) [R0038]"
+ },
+ {
+  "id": "rq4-energy-access-poverty",
+  "regime": "none",
+  "source": "review/synthesis/rq4-coded.jsonl",
+  "content": "Impact 'Energy access and energy poverty' (domain social): 28 studies; positive 18, negative 15, mixed 0; by technology group: Grids, microgrids and storage: 10 \\cite{R0008,R0010,R0017,R0145,R0228,R0281,R0290,R0407,R0430,R0953}; Renewable generation (solar, wind, hydro, geothermal, ocean): 10 \\cite{R0116,R0127,R0190,R0230,R0245,R0333,R0387,R0400,R0424,R0464}; System-level planning and other: 4 \\cite{R0087,R0431,R0455,R0537}; Bioenergy: 3 \\cite{R0094,R0206,R0446}; Low-carbon fuels (hydrogen, CCS, nuclear): 1 \\cite{R0314}. Example items (verbatim, direction, study): \"time saved collecting water\" (positive) [R0008]; \"Poor off-grid communities lacking reliable supply\" (negative) [R0010]; \"increased water and food access and livestock production\" (positive) [R0017]; \"unreliable electricity limits education quality, study hours and refrigeration of food and medicines\" (negative) [R0087]; \"renewables expected to reduce emissions and strengthen educational and digital access\" (positive) [R0087]; \"increased access to energy where diesel is replaced\" (positive) [R0094]"
+ },
+ {
+  "id": "rq4-employment-local-economy",
+  "regime": "none",
+  "source": "review/synthesis/rq4-coded.jsonl",
+  "content": "Impact 'Employment and local economy' (domain social): 20 studies; positive 14, negative 6, mixed 2; by technology group: System-level planning and other: 7 \\cite{R0074,R0128,R0319,R0354,R0434,R0537,R0935}; Bioenergy: 5 \\cite{R0094,R0114,R0211,R0286,R0520}; Grids, microgrids and storage: 4 \\cite{R0100,R0228,R0290,R0418}; Low-carbon fuels (hydrogen, CCS, nuclear): 2 \\cite{R0314,R0350}; Renewable generation (solar, wind, hydro, geothermal, ocean): 1 \\cite{R0167}; Demand side (efficiency, electromobility): 1 \\cite{R0168}. Example items (verbatim, direction, study): \"Local green industry and job creation\" (positive) [R0074]; \"Worker transition from coal and petroleum sectors\" (positive) [R0074]; \"job creation and skills\" (positive) [R0094]; \"increased income\" (positive) [R0094]; \"Local wealth creation of about 26 billion COP per year through economic growth and job creation\" (positive) [R0100]; \"job creation at Ingenio Risaralda (585 direct, 2,355 indirect)\" (positive) [R0114]"
+ },
+ {
+  "id": "rq4-acceptance-participation",
+  "regime": "none",
+  "source": "review/synthesis/rq4-coded.jsonl",
+  "content": "Impact 'Acceptance and participation' (domain social): 20 studies; positive 5, negative 9, mixed 7; by technology group: Bioenergy: 6 \\cite{R0051,R0094,R0206,R0218,R0286,R0338}; Grids, microgrids and storage: 5 \\cite{R0100,R0281,R0290,R0953,R1760}; System-level planning and other: 4 \\cite{R0128,R0319,R0352,R0646}; Renewable generation (solar, wind, hydro, geothermal, ocean): 3 \\cite{R0190,R0296,R1780}; Demand side (efficiency, electromobility): 2 \\cite{R0050,R0421}. Example items (verbatim, direction, study): \"community cooperation through shared tariff benefits\" (positive) [R0050]; \"Social acceptability weighted highest (36%)\" (mixed) [R0051]; \"raised awareness of energy and climate issues\" (positive) [R0094]; \"Community acceptance and appropriation included in the LWC concept\" (positive) [R0100]; \"Social criteria considered: job creation, social acceptance\" (mixed) [R0128]; \"Need to assess Colombian social, ethnic and economic conditions\" (mixed) [R0190]"
+ },
+ {
+  "id": "rq4-conflicts-indigenous-territories",
+  "regime": "none",
+  "source": "review/synthesis/rq4-coded.jsonl",
+  "content": "Impact 'Conflicts and indigenous territories' (domain social): 23 studies; positive 3, negative 20, mixed 1; by technology group: Renewable generation (solar, wind, hydro, geothermal, ocean): 7 \\cite{R0083,R0190,R0245,R0367,R0378,R0387,R0544}; System-level planning and other: 7 \\cite{R0209,R0267,R0324,R0488,R0491,R0527,R0646}; Grids, microgrids and storage: 3 \\cite{R0008,R0044,R0290}; Low-carbon fuels (hydrogen, CCS, nuclear): 3 \\cite{R0108,R0315,R0350}; Bioenergy: 3 \\cite{R0114,R0152,R0218}. Example items (verbatim, direction, study): \"large-scale renewable projects on Wayuu territory do not supply local needs and breed suspicion\" (negative) [R0008]; \"Wayuu humanitarian crisis\" (negative) [R0008]; \"Prior consultation with ethnic communities may be required before licences for projects are granted\" (mixed) [R0044]; \"conflicts with Wayuu communities in La Guajira over consultation and legitimacy\" (negative) [R0083]; \"offshore conflicts with fishing and marine traffic\" (negative) [R0083]; \"socio-cultural risk of land tenure claims in ethnic areas such as La Guajira (onshore)\" (negative) [R0108]"
+ },
+ {
+  "id": "rq4-energy-justice-equity",
+  "regime": "none",
+  "source": "review/synthesis/rq4-coded.jsonl",
+  "content": "Impact 'Energy justice and equity' (domain social): 22 studies; positive 5, negative 16, mixed 3; by technology group: Renewable generation (solar, wind, hydro, geothermal, ocean): 10 \\cite{R0034,R0104,R0115,R0127,R0200,R0348,R0378,R0382,R0409,R0517}; System-level planning and other: 5 \\cite{R0074,R0250,R0267,R0280,R0436}; Bioenergy: 3 \\cite{R0114,R0152,R0218}; Grids, microgrids and storage: 3 \\cite{R0228,R0281,R0290}; Demand side (efficiency, electromobility): 1 \\cite{R0038}. Example items (verbatim, direction, study): \"private PV may increase inequality as rich households stop cross-subsidising poorer ones\" (negative) [R0034]; \"Cross-subsidy scheme: low-income households receive up to 60% price subsidy\" (positive) [R0038]; \"Worker transition from coal and petroleum sectors\" (positive) [R0074]; \"tariff burden on low-income non-PV-adopters (13% of income, up to 376%)\" (negative) [R0104]; \"equity among electricity customers\" (mixed) [R0104]; \"small-scale biorefineries can raise farmers' incomes and reduce rural inequality\" (positive) [R0114]"
+ },
+ {
+  "id": "rq4-cost-affordability",
+  "regime": "none",
+  "source": "review/synthesis/rq4-coded.jsonl",
+  "content": "Impact 'Cost and affordability' (domain territorial): 16 studies; positive 9, negative 7, mixed 0; by technology group: System-level planning and other: 6 \\cite{R0223,R0258,R0280,R0354,R0398,R0507}; Renewable generation (solar, wind, hydro, geothermal, ocean): 4 \\cite{R0200,R0348,R0452,R0517}; Grids, microgrids and storage: 3 \\cite{R0010,R0042,R0655}; Demand side (efficiency, electromobility): 2 \\cite{R0050,R0130}; Bioenergy: 1 \\cite{R0154}. Example items (verbatim, direction, study): \"Relief of diesel purchase and transport cost burden for low-income communities\" (positive) [R0010]; \"Fewer technician trips and fewer regulatory fines for operators\" (positive) [R0042]; \"lower energy bills and state subsidies\" (positive) [R0050]; \"environmental cost reduced about 25-26% in Scenarios 2 and 3 (COP 78.3 to 56.2 trillion in Scenario 3)\" (positive) [R0130]; \"digestate as fertilizer; biogas saves 50 USD/month\" (positive) [R0154]; \"utility financial difficulties and system sustainability risk\" (negative) [R0200]"
+ },
+ {
+  "id": "rq4-energy-security-reliability",
+  "regime": "none",
+  "source": "review/synthesis/rq4-coded.jsonl",
+  "content": "Impact 'Energy security and reliability' (domain territorial): 7 studies; positive 2, negative 5, mixed 0; by technology group: System-level planning and other: 3 \\cite{R0079,R0258,R0431}; Bioenergy: 2 \\cite{R0286,R0374}; Renewable generation (solar, wind, hydro, geothermal, ocean): 2 \\cite{R0382,R0517}. Example items (verbatim, direction, study): \"risk of blackouts under free market and renewables-only scenarios\" (negative) [R0079]; \"vulnerability of hydro-dependent system during El Niño\" (negative) [R0258]; \"Reduced dependence on imported fuels\" (positive) [R0286]; \"reduced reliance on oil and chemical imports\" (positive) [R0374]; \"Network reliability and societal welfare at risk if many become prosumers\" (negative) [R0382]; \"blackouts in 1992 and 2016 during ENSO-driven low reservoir levels\" (negative) [R0431]"
+ },
+ {
+  "id": "rq4-rural-development-zni",
+  "regime": "none",
+  "source": "review/synthesis/rq4-coded.jsonl",
+  "content": "Impact 'Rural development and non-interconnected zones' (domain territorial): 10 studies; positive 6, negative 5, mixed 0; by technology group: Grids, microgrids and storage: 4 \\cite{R0042,R0145,R0407,R0848}; Bioenergy: 2 \\cite{R0323,R0520}; Demand side (efficiency, electromobility): 1 \\cite{R0168}; Low-carbon fuels (hydrogen, CCS, nuclear): 1 \\cite{R0381}; Renewable generation (solar, wind, hydro, geothermal, ocean): 1 \\cite{R0475}; System-level planning and other: 1 \\cite{R0646}. Example items (verbatim, direction, study): \"Greater mobile network stability supporting local community development\" (positive) [R0042]; \"Reduces technology gap between NIZs and cities\" (positive) [R0145]; \"Spatial inequity: mid-sized cities risk lagging\" (negative) [R0168]; \"Improved living conditions in rural communities\" (positive) [R0323]; \"Biomass-based H2 could support rural economic diversification and avoid emissions\" (positive) [R0381]; \"NIZ cover indigenous, post-conflict and protected areas\" (negative) [R0407]"
+ },
+ {
+  "id": "rq4-gap-empirical-validation-data",
+  "regime": "none",
+  "source": "review/synthesis/rq4-coded.jsonl",
+  "content": "Research gap 'Empirical validation and field data': 27 studies; by technology group: System-level planning and other: 7 \\cite{R0004,R0124,R0209,R0354,R0431,R0434,R0646}; Renewable generation (solar, wind, hydro, geothermal, ocean): 7 \\cite{R0127,R0245,R0424,R0445,R0475,R0505,R0544}; Grids, microgrids and storage: 5 \\cite{R0044,R0228,R0281,R0655,R1760}; Demand side (efficiency, electromobility): 4 \\cite{R0038,R0130,R0168,R0193}; Bioenergy: 3 \\cite{R0154,R0323,R0519}; Low-carbon fuels (hydrogen, CCS, nuclear): 1 \\cite{R0203}. Example items (verbatim, study): \"More disaggregated marginal budget share data by region and income level\" [R0004]; \"Improve data quality and isolate subsidy/contribution effect from price\" [R0038]; \"Pilot with a Colombian operator; extension to ZNI\" [R0044]; \"Broader data sources for indicators\" [R0124]"
+ },
+ {
+  "id": "rq4-gap-long-term-lifecycle",
+  "regime": "none",
+  "source": "review/synthesis/rq4-coded.jsonl",
+  "content": "Research gap 'Long-term and lifecycle assessment': 17 studies; by technology group: Bioenergy: 6 \\cite{R0012,R0152,R0154,R0218,R0323,R0520}; Grids, microgrids and storage: 4 \\cite{R0008,R0017,R0418,R1760}; Renewable generation (solar, wind, hydro, geothermal, ocean): 3 \\cite{R0034,R0367,R0464}; Demand side (efficiency, electromobility): 3 \\cite{R0130,R0408,R0421}; System-level planning and other: 1 \\cite{R0324}. Example items (verbatim, study): \"longitudinal study of the adoption curve (time dimension)\" [R0008]; \"use phase impacts of pellets and briquettes\" [R0012]; \"measure water availability over several years\" [R0017]; \"longer observation time\" [R0017]"
+ },
+ {
+  "id": "rq4-gap-social-community-dimension",
+  "regime": "none",
+  "source": "review/synthesis/rq4-coded.jsonl",
+  "content": "Research gap 'Social and community dimension': 28 studies; by technology group: Renewable generation (solar, wind, hydro, geothermal, ocean): 11 \\cite{R0034,R0083,R0190,R0200,R0296,R0333,R0378,R0382,R0409,R0505,R0544}; Bioenergy: 6 \\cite{R0206,R0211,R0218,R0286,R0323,R0520}; System-level planning and other: 5 \\cite{R0124,R0209,R0267,R0319,R0488}; Demand side (efficiency, electromobility): 3 \\cite{R0050,R0168,R0480}; Grids, microgrids and storage: 2 \\cite{R0008,R1760}; Low-carbon fuels (hydrogen, CCS, nuclear): 1 \\cite{R0350}. Example items (verbatim, study): \"quantitative study comparing Wayuu opinions across La Guajira\" [R0008]; \"views in communities where microgrids are unknown\" [R0008]; \"in-depth interviews\" [R0034]; \"gradual evaluation of economic, social and behavioral variables affecting elasticity\" [R0050]"
+ },
+ {
+  "id": "rq4-gap-policy-regulatory-design",
+  "regime": "none",
+  "source": "review/synthesis/rq4-coded.jsonl",
+  "content": "Research gap 'Policy and regulatory design': 26 studies; by technology group: Renewable generation (solar, wind, hydro, geothermal, ocean): 9 \\cite{R0034,R0104,R0115,R0382,R0387,R0409,R0464,R0505,R0517}; System-level planning and other: 8 \\cite{R0079,R0237,R0250,R0258,R0354,R0419,R0455,R0646}; Grids, microgrids and storage: 5 \\cite{R0008,R0042,R0312,R0430,R0655}; Bioenergy: 2 \\cite{R0114,R0154}; Demand side (efficiency, electromobility): 1 \\cite{R0029}; Low-carbon fuels (hydrogen, CCS, nuclear): 1 \\cite{R0381}. Example items (verbatim, study): \"ensuring new energy for NIZ is renewable instead of diesel\" [R0008]; \"Regulation of ADSM strategies and user incentives is a challenge the government must undertake\" [R0029]; \"impact of prosumage on cross-subsidy scheme\" [R0034]; \"Hope that national planning and regulation adopt this type of system in future policies, roadmaps and resolutions\" [R0042]"
+ },
+ {
+  "id": "rq4-gap-cost-financing",
+  "regime": "none",
+  "source": "review/synthesis/rq4-coded.jsonl",
+  "content": "Research gap 'Cost and financing': 27 studies; by technology group: Bioenergy: 9 \\cite{R0051,R0152,R0154,R0272,R0323,R0338,R0495,R0519,R0520}; Renewable generation (solar, wind, hydro, geothermal, ocean): 9 \\cite{R0083,R0104,R0116,R0230,R0332,R0333,R0382,R0387,R1450}; System-level planning and other: 5 \\cite{R0004,R0074,R0258,R0436,R0488}; Demand side (efficiency, electromobility): 2 \\cite{R0066,R0421}; Low-carbon fuels (hydrogen, CCS, nuclear): 2 \\cite{R0203,R0315}. Example items (verbatim, study): \"Estimate costs of other electricity supply chain components\" [R0004]; \"Economic aspect and investor impacts still to be considered\" [R0051]; \"Feasibility of specific green financing mechanisms for given rail/waterway projects\" [R0066]; \"Reviews of case studies using bonds, credits and green funds in rail and river projects\" [R0066]"
+ },
+ {
+  "id": "rq4-gap-system-integration",
+  "regime": "none",
+  "source": "review/synthesis/rq4-coded.jsonl",
+  "content": "Research gap 'System-level integration': 29 studies; by technology group: Grids, microgrids and storage: 11 \\cite{R0044,R0071,R0145,R0312,R0376,R0407,R0413,R0418,R0848,R0953,R1456}; System-level planning and other: 9 \\cite{R0079,R0128,R0209,R0250,R0319,R0398,R0431,R0527,R0646}; Renewable generation (solar, wind, hydro, geothermal, ocean): 4 \\cite{R0200,R0382,R0400,R0424}; Demand side (efficiency, electromobility): 2 \\cite{R0193,R1813}; Low-carbon fuels (hydrogen, CCS, nuclear): 2 \\cite{R0315,R0369}; Bioenergy: 1 \\cite{R0374}. Example items (verbatim, study): \"Cybersecurity and common information model (CIM)\" [R0044]; \"Monitoring and forecasting of variable generation\" [R0044]; \"AI, IoT, digital twins, blockchain\" [R0044]; \"Include other energy sectors (heat, transport) in additional scenarios\" [R0071]"
+ },
+ {
+  "id": "rq4-gap-technology-development-scale-up",
+  "regime": "none",
+  "source": "review/synthesis/rq4-coded.jsonl",
+  "content": "Research gap 'Technology development and scale-up': 32 studies; by technology group: Renewable generation (solar, wind, hydro, geothermal, ocean): 10 \\cite{R0083,R0116,R0190,R0230,R0333,R0367,R0387,R0424,R0464,R1780}; Grids, microgrids and storage: 6 \\cite{R0071,R0145,R0228,R0407,R0430,R0953}; Bioenergy: 6 \\cite{R0154,R0218,R0272,R0286,R0446,R0519}; Low-carbon fuels (hydrogen, CCS, nuclear): 5 \\cite{R0108,R0240,R0314,R0315,R0369}; System-level planning and other: 4 \\cite{R0087,R0223,R0246,R0398}; Demand side (efficiency, electromobility): 1 \\cite{R0130}. Example items (verbatim, study): \"Detailed feasibility studies of adapting existing dams for PHES\" [R0071]; \"supply chain restrictions\" [R0083]; \"sizing and technical-economic viability of the PV and wind systems\" [R0087]; \"methodology to identify the most efficient green hydrogen system via electrolysis\" [R0108]"
+ },
+ {
+  "id": "rq4-gap-environmental-impact-assessment",
+  "regime": "none",
+  "source": "review/synthesis/rq4-coded.jsonl",
+  "content": "Research gap 'Environmental impact assessment': 16 studies; by technology group: Bioenergy: 9 \\cite{R0094,R0152,R0185,R0286,R0338,R0374,R0446,R0495,R0520}; Renewable generation (solar, wind, hydro, geothermal, ocean): 4 \\cite{R0167,R0332,R0475,R1450}; System-level planning and other: 2 \\cite{R0280,R0434}; Low-carbon fuels (hydrogen, CCS, nuclear): 1 \\cite{R0381}. Example items (verbatim, study): \"build an evidence base of sustainability mapping across bioenergy case studies\" [R0094]; \"frameworks to evaluate rural development, water supply and biodiversity impacts\" [R0152]; \"Water and land footprints of power expansion pathways\" [R0167]; \"Impacts of microalgal biofuels on food production, biodiversity and carbon storage largely unknown\" [R0185]"
+ },
+ {
+  "id": "rq4-gap-resource-potential-assessment",
+  "regime": "none",
+  "source": "review/synthesis/rq4-coded.jsonl",
+  "content": "Research gap 'Resource and potential assessment': 12 studies; by technology group: Bioenergy: 4 \\cite{R0185,R0323,R0374,R0446}; Renewable generation (solar, wind, hydro, geothermal, ocean): 3 \\cite{R0083,R0367,R0445}; Low-carbon fuels (hydrogen, CCS, nuclear): 3 \\cite{R0240,R0314,R0315}; System-level planning and other: 2 \\cite{R0087,R0124}. Example items (verbatim, study): \"influence of climate change on wind flows and energy requirements\" [R0083]; \"approaches to harness the seasonal wind potential\" [R0087]; \"New generation potential models and variables (precipitation, temperature, demand)\" [R0124]; \"Few spatial analyses comparing microalgal systems with major biofuel alternatives\" [R0185]"
+ },
+ {
+  "id": "rq4-gap-model-method-refinement",
+  "regime": "none",
+  "source": "review/synthesis/rq4-coded.jsonl",
+  "content": "Research gap 'Model and method refinement': 40 studies; by technology group: System-level planning and other: 16 \\cite{R0004,R0074,R0079,R0246,R0258,R0319,R0324,R0352,R0354,R0419,R0436,R0488,R0491,R0646,R0935,R1612}; Grids, microgrids and storage: 9 \\cite{R0010,R0100,R0228,R0281,R0312,R0407,R0418,R0848,R1456}; Renewable generation (solar, wind, hydro, geothermal, ocean): 7 \\cite{R0034,R0083,R0167,R0200,R0400,R0445,R0505}; Demand side (efficiency, electromobility): 4 \\cite{R0038,R0168,R0421,R1813}; Bioenergy: 2 \\cite{R0094,R0338}; Low-carbon fuels (hydrogen, CCS, nuclear): 2 \\cite{R0240,R0369}. Example items (verbatim, study): \"ERE of biomass and small hydro and other NCRR penetration scenarios\" [R0004]; \"Extend model to multiple objectives including environmental, human and social impacts\" [R0010]; \"include heating and cooling demand\" [R0034]; \"Study indirect and economy-wide rebound and other services such as transport\" [R0038]"
+ },
+ {
+  "id": "rq4-gap-regional-replication",
+  "regime": "none",
+  "source": "review/synthesis/rq4-coded.jsonl",
+  "content": "Research gap 'Regional coverage and replication': 26 studies; by technology group: Renewable generation (solar, wind, hydro, geothermal, ocean): 8 \\cite{R0034,R0104,R0200,R0296,R0332,R0378,R0445,R0452}; System-level planning and other: 6 \\cite{R0128,R0237,R0280,R0431,R0436,R0455}; Bioenergy: 5 \\cite{R0012,R0114,R0206,R0218,R0272}; Demand side (efficiency, electromobility): 3 \\cite{R0038,R0421,R0480}; Grids, microgrids and storage: 2 \\cite{R0017,R0407}; Low-carbon fuels (hydrogen, CCS, nuclear): 2 \\cite{R0314,R0369}. Example items (verbatim, study): \"comparison with American and European solid biofuels\" [R0012]; \"quantitative approach and more territories\" [R0017]; \"other household strata and sectors\" [R0034]; \"Study rebound at regional, city and income-level disaggregation\" [R0038]"
+ },
+ {
+  "id": "source-inconsistencies",
+  "regime": "none",
+  "source": "review/synthesis/values-to-verify.md",
+  "content": "Of the eight cases of values that look inconsistent in the source itself (operator decision 2026-11-18), four involve included studies and are kept as reported and cited to the study: the same scenarios (11.4 and 22.6 MtCO2-eq) with 5-11% and 5-10% shares in two papers that are likely not independent \\cite{R0152,R0520}; the same Pareto solutions (A1, A10) reported with opposite signs for profit and NPV in a second paper, which is not in the included set \\cite{R0045}; a La Guajira wind power density of 482 W/m2 against 796 W/m2 in a second paper, possibly different heights or periods, which is not in the included set \\cite{R0367}; 12 against nine biodiesel plants in a second paper, a different scope or year, which is not in the included set \\cite{R0272}. For the last three cases the counterpart report was excluded under E8 (reference budget), so the inconsistency is noted but cannot be shown within the included set (operator decision 2026-11-19). The other four cases cite only studies outside the included set and are not reported. Four cases across five included reports."
+ },
+ {
+  "id": "prisma-counts",
+  "regime": "none",
+  "source": "review/prisma.json",
+  "content": {
+   "generated_at": "2026-11-19T16:42:59Z",
+   "identification": {
+    "databases": {
+     "openalex": 1333,
+     "scopus": 545
+    },
+    "records": 1878,
+    "duplicates_removed": 95
+   },
+   "screening": {
+    "records_screened": 1783,
+    "records_excluded": 1013,
+    "records_pending": 0,
+    "reports_sought": 770,
+    "reports_not_retrieved": 165,
+    "reports_assessed": 605,
+    "reports_excluded": {
+     "E1": 30,
+     "E2": 43,
+     "E3": 5,
+     "E6": 3,
+     "E7": 3,
+     "E8": 364
+    },
+    "reports_pending": 0
+   },
+   "included": {
+    "studies": 157
+   }
+  }
+ },
+ {
+  "id": "searches",
+  "regime": "none",
+  "source": "review/searches.jsonl",
+  "content": [
+   {
+    "id": "S1",
+    "source": "Scopus",
+    "query_as_run": "TITLE-ABS-KEY ( ( \"energy transition\" OR \"renewable energ*\" OR \"non-conventional renewable*\" OR \"energy efficien*\" OR \"solar energy\" OR photovoltaic* OR \"wind energy\" OR \"wind power\" OR biomass OR bioenerg* OR \"energy storage\" OR \"smart grid*\" OR microgrid* OR \"non-interconnected zone*\" OR \"green hydrogen\" OR decarboni* OR \"low-carbon\" ) AND ( innovation OR technolog* ) AND ( colombia OR colombian ) ) AND PUBYEAR AFT 2014 AND PUBYEAR BEF 2026 AND ( LIMIT-TO ( DOCTYPE , \"ar\" ) OR LIMIT-TO ( DOCTYPE , \"re\" ) OR LIMIT-TO ( DOCTYPE , \"cp\" ) ) AND ( LIMIT-TO ( LANGUAGE , \"English\" ) OR LIMIT-TO ( LANGUAGE , \"Spanish\" ) )",
+    "method": "run by the operator in the Scopus web interface and exported as RIS",
+    "last_searched": "2026-11-16",
+    "records_retrieved": 545,
+    "total_hits": 545
+   },
+   {
+    "id": "S2",
+    "source": "OpenAlex",
+    "query_as_run": "\"energy transition in Colombia\" OR \"Colombian energy transition\" OR \"renewable energy in Colombia\" OR \"energy efficiency in Colombia\" OR \"Colombian electricity sector\" OR \"Colombian power system\" OR \"non-interconnected zones of Colombia\" OR \"Colombian non-interconnected zones\" OR \"transición energética en Colombia\" OR \"energías renovables en Colombia\" OR \"eficiencia energética en Colombia\"",
+    "method": "run through the OpenAlex API by the review CLI",
+    "last_searched": "2026-11-17",
+    "records_retrieved": 1333,
+    "total_hits": 1333
+   }
+  ]
+ },
+ {
+  "id": "search-limits",
+  "regime": "none",
+  "source": "review/protocol.json; review/searches.jsonl",
+  "content": "Both searches were bounded to publication years 2015-2025. The Scopus query limited document types to articles, reviews and conference papers and languages to English and Spanish; OpenAlex results were filtered for language and publication type at screening through the eligibility criteria. No citation chasing (backward or forward snowballing) and no contact with authors were performed."
+ },
+ {
+  "id": "eligibility-criteria",
+  "regime": "none",
+  "source": "review/protocol.json",
+  "content": {
+   "inclusion": [
+    {
+     "id": "I1",
+     "text": "Colombia is the study area, or one of the cases with separately reported results",
+     "reason": "The review has national scope; multi-country studies are useful only when Colombian evidence can be isolated"
+    },
+    {
+     "id": "I2",
+     "text": "The study addresses a technology, technological innovation or innovation-system aspect (including policy or finance for technology deployment) related to the energy transition: non-conventional renewables, hydropower modernization, energy efficiency, storage, grids and microgrids, electrification, low-carbon fuels or hydrogen",
+     "reason": "Defines the intervention of RQ2-RQ4"
+    },
+    {
+     "id": "I3",
+     "text": "Peer-reviewed journal article, review article or peer-reviewed conference paper",
+     "reason": "The review targets strictly peer-reviewed evidence"
+    },
+    {
+     "id": "I4",
+     "text": "Published between 2015-01-01 and 2025-12-31",
+     "reason": "Covers the period after Law 1715 of 2014 and the Paris Agreement (2015) up to the last complete year"
+    },
+    {
+     "id": "I5",
+     "text": "Full text written in English or Spanish",
+     "reason": "Languages the review team can read and appraise"
+    }
+   ],
+   "exclusion": [
+    {
+     "id": "E1",
+     "text": "Colombia is not studied, or appears only incidentally (e.g., in a list of countries or the affiliation only)",
+     "reason": "Outside the geographic scope (fails I1)"
+    },
+    {
+     "id": "E2",
+     "text": "No energy-transition technology or innovation is addressed (e.g., fossil-fuel exploration or production without a decarbonization or efficiency aim, or energy mentioned only as background)",
+     "reason": "Outside the intervention (fails I2)"
+    },
+    {
+     "id": "E3",
+     "text": "Not peer-reviewed: theses, preprints, books or chapters, technical reports, editorials, letters, conference abstracts without a full paper",
+     "reason": "Outside the publication types (fails I3)"
+    },
+    {
+     "id": "E4",
+     "text": "Published outside 2015-2025, or the full text is in a language other than English or Spanish",
+     "reason": "Fails I4 or I5"
+    },
+    {
+     "id": "E5",
+     "text": "Duplicate or redundant publication of a study already included (the most complete version is kept)",
+     "reason": "Avoids double counting of the same evidence"
+    },
+    {
+     "id": "E6",
+     "text": "Insufficient methodological or result information to extract the data items (e.g., opinion piece with no analysis)",
+     "reason": "Cannot contribute evidence to the synthesis"
+    },
+    {
+     "id": "E7",
+     "text": "The bibliographic record cannot be verified: authorship or venue is missing from the indexed record and cannot be confirmed, so attribution and peer-review status are uncertain",
+     "reason": "Every included study must be citable and attributable with confidence"
+    },
+    {
+     "id": "E8",
+     "text": "The study falls outside the reference budget of the review: after ranking all included studies by topical relation to the protocol (query, research-question and PICOC terms in title, abstract and keywords) weighted by the best SJR 2025 quartile of the journal, studies ranked past the budget of 157 included studies (200 references in total, 43 of them cited outside the included studies) are excluded",
+     "reason": "The manuscript must cite 100 to 200 references and fit 45 single-column Elsevier pages; the ranking is reproducible with review_cli.py prioritize"
+    }
+   ]
+  }
+ },
+ {
+  "id": "screening-process",
+  "regime": "none",
+  "source": "review/screening.jsonl",
+  "content": {
+   "stages": [
+    "title and abstract",
+    "full text"
+   ],
+   "screeners": "two independent language-model screeners (Claude Sonnet agents, Anthropic), each blinded to the other screener's decisions and working from the protocol criteria only",
+   "conflict_resolution": "disagreements were settled by a third language-model adjudicator (a Claude agent) that read both decisions and the record; the operator did not screen records",
+   "ta_adjudicated": {
+    "conflicts": 64,
+    "included": 28,
+    "excluded": 36
+   },
+   "ft_adjudicated": {
+    "conflicts": 15,
+    "included": 9,
+    "excluded": 6
+   },
+   "full_text_input": "each full-text decision was made on a digest of the full text: metadata, opening 1600 words, up to 10 Colombia-related sentences and closing 450 words before the references",
+   "operator_decisions": "the operator stopped full-text retrieval for 165 reports that could not be obtained after open-access and institutional (Scopus/Universidad Nacional de Colombia) attempts, excluded 3 reports under E7, and applied the reference budget (E8) to 364 eligible studies"
+  }
+ },
+ {
+  "id": "kappa",
+  "regime": "none",
+  "source": "review_cli.py kappa --stage ta|ft",
+  "content": {
+   "title_abstract": {
+    "records": 1783,
+    "raw_agreement": 0.9641,
+    "cohen_kappa": 0.9269
+   },
+   "full_text": {
+    "records": 605,
+    "raw_agreement": 0.9785,
+    "cohen_kappa": 0.9097
+   },
+   "between": "the two language-model screeners"
+  }
+ },
+ {
+  "id": "full-text-retrieval",
+  "regime": "none",
+  "source": "review/screening.jsonl; review/prisma.json",
+  "content": "Of 770 reports sought, full texts were obtained by open-access download and by the operator through institutional access; 165 reports were not retrieved, and the operator decided to stop retrieval for them. 605 reports were assessed in full text: 84 were excluded under E1, E2, E3, E6 and E7, 364 eligible reports were excluded under E8 (reference budget), and 157 reports were included."
+ },
+ {
+  "id": "data-extraction",
+  "regime": "none",
+  "source": "review/extraction.jsonl; review/protocol.json",
+  "content": {
+   "fields": [
+    "study_group",
+    "extraction_tier",
+    "technology",
+    "theme",
+    "study_type",
+    "sector",
+    "region",
+    "method",
+    "outcomes",
+    "barriers",
+    "enablers",
+    "social_environmental_impacts",
+    "research_gaps"
+   ],
+   "tiers": {
+    "tier-1": "every included study: study_group, extraction_tier, technology, theme, study_type, sector, region, method, outcomes",
+    "tier-2": "tier-1 fields plus barriers, enablers, social_environmental_impacts and research_gaps, for studies informing RQ3 or RQ4 or found at extraction to report barriers, enablers or impacts"
+   },
+   "tier_counts_included": {
+    "tier-1": 30,
+    "tier-2": 127
+   },
+   "who": "one language-model extractor (Claude Sonnet agents) per study, reading the complete full text (references removed) in chunks",
+   "verification": "every extracted value carries a verbatim quote of at most 40 words from the full text supporting it; values were not double-extracted by a second extractor",
+   "corrections": "across the 524 reports extracted before amendment 3 and the reference budget: 31 studies were re-extracted from the complete full text after a preprocessing defect had removed their final sections; 38 studies were re-examined and reclassified after amendment 2 added category options",
+   "outcomes_item": "main results with numbers and units as reported (at most 80 words)",
+   "scope_note": "extraction was completed for all 524 reports retrieved at full text before E7 and E8 were applied; only the 157 included reports enter the synthesis"
+  }
+ },
+ {
+  "id": "appraisal",
+  "regime": "none",
+  "source": "review/protocol.json; review/appraisal.jsonl",
+  "content": {
+   "tool": "Kitchenham and Charters quality checklist (adapted)",
+   "questions": [
+    {
+     "id": "QA1",
+     "text": "Are the aims of the study clearly stated?"
+    },
+    {
+     "id": "QA2",
+     "text": "Is the Colombian context (region, sector, system) clearly defined?"
+    },
+    {
+     "id": "QA3",
+     "text": "Is the method (data, model, case or analysis) described in enough detail to be reproduced or assessed?"
+    },
+    {
+     "id": "QA4",
+     "text": "Are the results clearly reported and supported by the data or analysis?"
+    },
+    {
+     "id": "QA5",
+     "text": "Are the limitations of the study discussed?"
+    }
+   ],
+   "scale": "yes = 1, partly = 0.5, no = 0; score 0-5",
+   "threshold": "none: no study was excluded on its score",
+   "who": "the extracting language-model agent appraised each study while reading its full text, with a short appraisal note; one appraiser per study"
+  }
+ },
+ {
+  "id": "synthesis-coding",
+  "regime": "none",
+  "source": "review/synthesis/rq3-coded.jsonl; rq4-coded.jsonl; rq3-rq4-summary.json",
+  "content": {
+   "rq3_codebook": "12 codes in 8 domains for barriers and enablers",
+   "rq4_codebook": "13 impact codes, each impact also coded for direction (positive, negative, mixed), and 12 research-gap codes",
+   "procedure": "language-model agents (6 for RQ3, 3 for RQ4) assigned codes item by item by reading each extracted barrier, enabler, impact and gap in the context of its study; an earlier keyword-rule pass was rejected and not used",
+   "check": "a random sample checked by the orchestrating model found 28 of 30 RQ3 items and 21 of 25 RQ4 items coded acceptably; no independent double coding was performed",
+   "counting": "counts are numbers of studies, and one study can report several barriers, enablers, impacts or gaps, so category counts do not add up to the number of included studies"
+  }
+ },
+ {
+  "id": "synthesis-scientometrics",
+  "regime": "none",
+  "source": "review/synthesis/rq1-scientometrics.json; regions-norm.jsonl; review/biblio.json",
+  "content": {
+   "source": "OpenAlex records matched by DOI, 153 of 157 included reports",
+   "indicators": "publications per year, venues, institutions, countries, international collaboration, citations",
+   "geography": "regions extracted from each study were normalized to Colombian departments and macro-regions and a national, regional, local or unspecified scope"
+  }
+ },
+ {
+  "id": "no-meta-analysis",
+  "regime": "none",
+  "source": "review/synthesis",
+  "content": "No meta-analysis was performed: the outcomes are heterogeneous in design, metric and unit, so the synthesis is narrative and tabular; values reported with different units are never merged. No sensitivity analysis was performed."
+ },
+ {
+  "id": "certainty",
+  "regime": "none",
+  "source": "review/synthesis/values-to-verify.md",
+  "content": "Reporting bias and certainty of evidence (GRADE) were not formally assessed; the appraisal scores are reported alongside the synthesis, and values that look inconsistent within a source are flagged in the results rather than corrected."
+ },
+ {
+  "id": "protocol-amendments",
+  "regime": "none",
+  "source": "review/protocol.json; review/protocol.lock.json",
+  "content": [
+   {
+    "date": "2026-11-18",
+    "section": "extraction",
+    "change": "Added study_group and extraction_tier fields, a two-tier extraction scheme, and a rule for multiple reports of one study.",
+    "reason": "Full-text screening included 524 reports, which made uniform in-depth extraction impractical. Tiering keeps every included study in the scientometric and technology mapping and limits in-depth extraction to the RQ3/RQ4 fields, without excluding any study. Companion reports (e.g., R0006 and R0484) are linked rather than excluded as E5.",
+    "decided_after": "full-text screening; no study was excluded by this amendment"
+   },
+   {
+    "date": "2026-11-18",
+    "section": "extraction",
+    "change": "Added technology options ocean-energy, nuclear and carbon-capture-storage, and sector option buildings-commercial-institutional.",
+    "reason": "During extraction, 25 studies could only be coded technology 'other' (tidal, wave, marine-current and salinity-gradient energy; small modular reactors; CO2 capture and storage), and studies of universities, schools, hospitals and shopping centres had no matching sector option. Only studies coded 'other', 'buildings-residential' or 'multi-sector' were re-examined; no study was added or removed.",
+    "decided_after": "data extraction"
+   },
+   {
+    "date": "2026-11-18",
+    "section": "criteria",
+    "change": "Added exclusion criterion E7 (unverifiable bibliographic record) and applied it to R0739, R0986 and R1661.",
+    "reason": "While building the reference list, four included reports had missing authorship or venue in OpenAlex (R0739, R0762, R0986, R1661). The operator verified R0762 at its publisher (IEEE Xplore document 10037784) and kept it; the other three were excluded because their records could not be confirmed with confidence.",
+    "decided_after": "data extraction and synthesis tables; 3 studies removed, 521 remain"
+   },
+   {
+    "date": "2026-11-19",
+    "section": "criteria",
+    "change": "Added exclusion criterion E8 (reference budget) and applied it at full text to the 364 included studies ranked past the budget of 157 (review/prioritization.json).",
+    "reason": "The review line of the writing framework (papersmith 0.80.0) limits a review to 100-200 cited references and 45 single-column Elsevier pages; with 43 references cited outside the included studies, 157 included studies fit the cap of 200. Studies were ranked by topical relation to the protocol weighted by the best SJR 2025 journal quartile, not by their findings.",
+    "decided_after": "data extraction and synthesis; 364 studies removed, 157 remain"
+   }
+  ]
+ },
+ {
+  "id": "t-characteristics-method",
+  "regime": "none",
+  "source": "paper/Tables/t-characteristics-method.tex (review/extraction.jsonl, review/records.jsonl)",
+  "content": {
+   "caption": "Included studies by technology group, study type and publication period.",
+   "label": "tab:characteristics-method",
+   "header": "Technology group & Model./sim. & Techno-econ. & Empirical case & Review & Policy & Qual. social & Other & 2015-18 & 2019-21 & 2022-25",
+   "rows": [
+    "Renewable generation (solar, wind, hydro, geothermal, ocean) & 15 & 8 & 6 & 4 & 1 & 4 & 0 & 8 & 9 & 21",
+    "Bioenergy & 6 & 2 & 3 & 5 & 0 & 0 & 4 & 3 & 4 & 13",
+    "Grids, microgrids and storage & 17 & 4 & 3 & 1 & 1 & 4 & 1 & 0 & 10 & 21",
+    "Demand side (efficiency, electromobility) & 10 & 0 & 2 & 1 & 0 & 1 & 2 & 0 & 2 & 14",
+    "Low-carbon fuels (hydrogen, CCS, nuclear) & 5 & 5 & 1 & 1 & 0 & 0 & 1 & 0 & 0 & 13",
+    "System-level planning and other & 25 & 5 & 2 & 2 & 3 & 0 & 2 & 4 & 9 & 26"
+   ]
+  }
+ },
+ {
+  "id": "protocol-registration",
+  "regime": "none",
+  "source": "paper/main.tex methods.m-protocol-registration",
+  "content": "The review protocol was not prospectively registered; it was approved internally by the review operator on 2026-11-17 and amended four times (three times on 2026-11-18 and once on 2026-11-19), each amendment documented."
+ },
+ {
+  "id": "sources-not-searched",
+  "regime": "none",
+  "source": "review/searches.jsonl",
+  "content": "Only two sources were searched, Scopus (545 records) and OpenAlex (1333 records); Web of Science, IEEE Xplore, ScienceDirect, SciELO, Redalyc and grey literature (theses, technical reports, government and utility documents) were not searched, and grey literature was excluded by criterion E3."
+ },
+ {
+  "id": "external-literature",
+  "regime": "none",
+  "source": "guidance/introduction, guidance/background",
+  "content": "The external literature used in the introduction, background and discussion (45 papers) was limited to papers whose full text could be downloaded in open access; five existing reviews could not be obtained in full text and were not compared, and three context topics (the Colombian NDC, El Nino effects on the power system, Latin American just transition) had no open-access source."
+ },
+ {
+  "id": "reference-budget-bias",
+  "regime": "none",
+  "source": "review/prioritization.json; review/extraction.jsonl; review/protocol.json (E8)",
+  "content": "Criterion E8 excluded 364 eligible studies (of 521) to meet the reference budget of 157 included studies, ranking them by topical relation to the protocol and by the best SJR 2025 journal quartile, not by quality or findings. The kept set therefore differs from the dropped set. Journal quartile: kept 133 Q1 (84.7%), 18 Q2 (11.5%), 5 Q3 (3.2%), 1 unranked (0.6%); dropped 74 Q1 (20.3%), 29 Q2 (8.0%), 18 Q3 (4.9%), 22 Q4 (6.0%), 221 unranked (60.7%). Evidence mix by study type, kept (n=157) vs dropped (n=364): modelling-simulation 78 (49.7%) vs 124 (34.1%); techno-economic-assessment 24 (15.3%) vs 58 (15.9%); empirical-case-study 17 (10.8%) vs 58 (15.9%); review 14 (8.9%) vs 46 (12.6%); other 10 (6.4%) vs 29 (8.0%); qualitative-social-study 9 (5.7%) vs 14 (3.8%); policy-analysis 5 (3.2%) vs 35 (9.6%). The synthesis thus leans toward journals ranked in SJR Q1 and toward model-based studies, and under-represents policy-analysis studies (5 of 40 policy-analysis studies kept) and venues without an SJR quartile such as regional and Spanish-language journals; findings on policy and institutional barriers rest on a smaller evidence base than the full eligible set would give. Mean publication year was 2022.2 for kept and 2021.1 for dropped studies."
+ }
+]

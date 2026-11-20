@@ -1,0 +1,1102 @@
+{
+ "rq3": {
+  "policy-fiscal-incentives": {
+   "label": "Policy and fiscal incentives",
+   "domain": "policy-regulatory",
+   "barriers": {
+    "studies": 41,
+    "top_technologies": [
+     [
+      "solar",
+      13
+     ],
+     [
+      "multiple-or-system-level",
+      9
+     ],
+     [
+      "biomass-bioenergy",
+      5
+     ],
+     [
+      "microgrids-off-grid",
+      4
+     ]
+    ]
+   },
+   "enablers": {
+    "studies": 101,
+    "top_technologies": [
+     [
+      "multiple-or-system-level",
+      28
+     ],
+     [
+      "solar",
+      18
+     ],
+     [
+      "biomass-bioenergy",
+      15
+     ],
+     [
+      "microgrids-off-grid",
+      8
+     ]
+    ]
+   }
+  },
+  "regulatory-framework": {
+   "label": "Regulatory framework and permitting",
+   "domain": "policy-regulatory",
+   "barriers": {
+    "studies": 52,
+    "top_technologies": [
+     [
+      "multiple-or-system-level",
+      11
+     ],
+     [
+      "solar",
+      10
+     ],
+     [
+      "microgrids-off-grid",
+      6
+     ],
+     [
+      "biomass-bioenergy",
+      4
+     ]
+    ]
+   },
+   "enablers": {
+    "studies": 43,
+    "top_technologies": [
+     [
+      "solar",
+      10
+     ],
+     [
+      "multiple-or-system-level",
+      7
+     ],
+     [
+      "smart-grids-digitalization",
+      6
+     ],
+     [
+      "microgrids-off-grid",
+      5
+     ]
+    ]
+   }
+  },
+  "capital-financing": {
+   "label": "Capital costs and access to finance",
+   "domain": "economic-financial",
+   "barriers": {
+    "studies": 54,
+    "top_technologies": [
+     [
+      "biomass-bioenergy",
+      13
+     ],
+     [
+      "solar",
+      11
+     ],
+     [
+      "multiple-or-system-level",
+      9
+     ],
+     [
+      "microgrids-off-grid",
+      8
+     ]
+    ]
+   },
+   "enablers": {
+    "studies": 25,
+    "top_technologies": [
+     [
+      "multiple-or-system-level",
+      7
+     ],
+     [
+      "biomass-bioenergy",
+      6
+     ],
+     [
+      "solar",
+      5
+     ],
+     [
+      "microgrids-off-grid",
+      2
+     ]
+    ]
+   }
+  },
+  "economic-viability": {
+   "label": "Cost competitiveness and economic viability",
+   "domain": "economic-financial",
+   "barriers": {
+    "studies": 58,
+    "top_technologies": [
+     [
+      "multiple-or-system-level",
+      18
+     ],
+     [
+      "solar",
+      13
+     ],
+     [
+      "biomass-bioenergy",
+      7
+     ],
+     [
+      "hydrogen-low-carbon-fuels",
+      5
+     ]
+    ]
+   },
+   "enablers": {
+    "studies": 36,
+    "top_technologies": [
+     [
+      "solar",
+      13
+     ],
+     [
+      "multiple-or-system-level",
+      9
+     ],
+     [
+      "biomass-bioenergy",
+      6
+     ],
+     [
+      "microgrids-off-grid",
+      2
+     ]
+    ]
+   }
+  },
+  "market-supply-demand": {
+   "label": "Market structure, demand and supply chain",
+   "domain": "market",
+   "barriers": {
+    "studies": 30,
+    "top_technologies": [
+     [
+      "multiple-or-system-level",
+      10
+     ],
+     [
+      "biomass-bioenergy",
+      4
+     ],
+     [
+      "smart-grids-digitalization",
+      4
+     ],
+     [
+      "electromobility",
+      3
+     ]
+    ]
+   },
+   "enablers": {
+    "studies": 30,
+    "top_technologies": [
+     [
+      "multiple-or-system-level",
+      12
+     ],
+     [
+      "microgrids-off-grid",
+      4
+     ],
+     [
+      "hydrogen-low-carbon-fuels",
+      3
+     ],
+     [
+      "solar",
+      3
+     ]
+    ]
+   }
+  },
+  "grid-infrastructure": {
+   "label": "Grid and physical infrastructure",
+   "domain": "technical-infrastructure",
+   "barriers": {
+    "studies": 50,
+    "top_technologies": [
+     [
+      "multiple-or-system-level",
+      13
+     ],
+     [
+      "solar",
+      6
+     ],
+     [
+      "electromobility",
+      6
+     ],
+     [
+      "hydrogen-low-carbon-fuels",
+      5
+     ]
+    ]
+   },
+   "enablers": {
+    "studies": 18,
+    "top_technologies": [
+     [
+      "multiple-or-system-level",
+      7
+     ],
+     [
+      "smart-grids-digitalization",
+      2
+     ],
+     [
+      "carbon-capture-storage",
+      1
+     ],
+     [
+      "nuclear",
+      1
+     ]
+    ]
+   }
+  },
+  "technology-performance": {
+   "label": "Technology maturity and technical performance",
+   "domain": "technical-infrastructure",
+   "barriers": {
+    "studies": 56,
+    "top_technologies": [
+     [
+      "multiple-or-system-level",
+      13
+     ],
+     [
+      "microgrids-off-grid",
+      8
+     ],
+     [
+      "biomass-bioenergy",
+      7
+     ],
+     [
+      "solar",
+      7
+     ]
+    ]
+   },
+   "enablers": {
+    "studies": 36,
+    "top_technologies": [
+     [
+      "multiple-or-system-level",
+      8
+     ],
+     [
+      "microgrids-off-grid",
+      7
+     ],
+     [
+      "biomass-bioenergy",
+      6
+     ],
+     [
+      "smart-grids-digitalization",
+      5
+     ]
+    ]
+   }
+  },
+  "institutional-governance": {
+   "label": "Institutional capacity and governance",
+   "domain": "institutional-governance",
+   "barriers": {
+    "studies": 20,
+    "top_technologies": [
+     [
+      "multiple-or-system-level",
+      7
+     ],
+     [
+      "biomass-bioenergy",
+      4
+     ],
+     [
+      "microgrids-off-grid",
+      2
+     ],
+     [
+      "hydropower",
+      2
+     ]
+    ]
+   },
+   "enablers": {
+    "studies": 23,
+    "top_technologies": [
+     [
+      "multiple-or-system-level",
+      7
+     ],
+     [
+      "hydrogen-low-carbon-fuels",
+      4
+     ],
+     [
+      "biomass-bioenergy",
+      4
+     ],
+     [
+      "microgrids-off-grid",
+      3
+     ]
+    ]
+   }
+  },
+  "social-acceptance": {
+   "label": "Social acceptance, community and behaviour",
+   "domain": "social-cultural",
+   "barriers": {
+    "studies": 41,
+    "top_technologies": [
+     [
+      "multiple-or-system-level",
+      11
+     ],
+     [
+      "biomass-bioenergy",
+      6
+     ],
+     [
+      "microgrids-off-grid",
+      5
+     ],
+     [
+      "smart-grids-digitalization",
+      4
+     ]
+    ]
+   },
+   "enablers": {
+    "studies": 27,
+    "top_technologies": [
+     [
+      "biomass-bioenergy",
+      5
+     ],
+     [
+      "multiple-or-system-level",
+      5
+     ],
+     [
+      "microgrids-off-grid",
+      4
+     ],
+     [
+      "solar",
+      3
+     ]
+    ]
+   }
+  },
+  "knowledge-capacity": {
+   "label": "Knowledge, skills and R&D capacity",
+   "domain": "knowledge-capacity",
+   "barriers": {
+    "studies": 42,
+    "top_technologies": [
+     [
+      "biomass-bioenergy",
+      8
+     ],
+     [
+      "multiple-or-system-level",
+      7
+     ],
+     [
+      "solar",
+      7
+     ],
+     [
+      "microgrids-off-grid",
+      3
+     ]
+    ]
+   },
+   "enablers": {
+    "studies": 41,
+    "top_technologies": [
+     [
+      "biomass-bioenergy",
+      8
+     ],
+     [
+      "solar",
+      7
+     ],
+     [
+      "multiple-or-system-level",
+      7
+     ],
+     [
+      "energy-efficiency",
+      4
+     ]
+    ]
+   }
+  },
+  "resource-availability": {
+   "label": "Natural resource and feedstock availability",
+   "domain": "environmental-resource",
+   "barriers": {
+    "studies": 32,
+    "top_technologies": [
+     [
+      "multiple-or-system-level",
+      12
+     ],
+     [
+      "biomass-bioenergy",
+      9
+     ],
+     [
+      "solar",
+      4
+     ],
+     [
+      "hydrogen-low-carbon-fuels",
+      3
+     ]
+    ]
+   },
+   "enablers": {
+    "studies": 45,
+    "top_technologies": [
+     [
+      "solar",
+      11
+     ],
+     [
+      "multiple-or-system-level",
+      11
+     ],
+     [
+      "biomass-bioenergy",
+      6
+     ],
+     [
+      "hydrogen-low-carbon-fuels",
+      5
+     ]
+    ]
+   }
+  },
+  "environmental-climate": {
+   "label": "Environmental constraints and climate drivers",
+   "domain": "environmental-resource",
+   "barriers": {
+    "studies": 16,
+    "top_technologies": [
+     [
+      "biomass-bioenergy",
+      6
+     ],
+     [
+      "multiple-or-system-level",
+      4
+     ],
+     [
+      "solar",
+      2
+     ],
+     [
+      "ocean-energy",
+      1
+     ]
+    ]
+   },
+   "enablers": {
+    "studies": 12,
+    "top_technologies": [
+     [
+      "multiple-or-system-level",
+      5
+     ],
+     [
+      "biomass-bioenergy",
+      4
+     ],
+     [
+      "geothermal",
+      1
+     ],
+     [
+      "energy-efficiency",
+      1
+     ]
+    ]
+   }
+  }
+ },
+ "rq4_impacts": {
+  "emissions-climate": {
+   "label": "Emissions and climate",
+   "domain": "environmental",
+   "studies": 73,
+   "positive": 53,
+   "negative": 27,
+   "mixed": 1,
+   "top_technologies": [
+    [
+     "multiple-or-system-level",
+     17
+    ],
+    [
+     "biomass-bioenergy",
+     14
+    ],
+    [
+     "solar",
+     13
+    ],
+    [
+     "microgrids-off-grid",
+     7
+    ]
+   ]
+  },
+  "land-water-biodiversity": {
+   "label": "Land, water and biodiversity",
+   "domain": "environmental",
+   "studies": 41,
+   "positive": 9,
+   "negative": 27,
+   "mixed": 5,
+   "top_technologies": [
+    [
+     "biomass-bioenergy",
+     12
+    ],
+    [
+     "multiple-or-system-level",
+     8
+    ],
+    [
+     "solar",
+     4
+    ],
+    [
+     "hydrogen-low-carbon-fuels",
+     4
+    ]
+   ]
+  },
+  "pollution-waste-health": {
+   "label": "Pollution, waste and health",
+   "domain": "environmental",
+   "studies": 42,
+   "positive": 19,
+   "negative": 27,
+   "mixed": 2,
+   "top_technologies": [
+    [
+     "biomass-bioenergy",
+     12
+    ],
+    [
+     "multiple-or-system-level",
+     11
+    ],
+    [
+     "solar",
+     6
+    ],
+    [
+     "microgrids-off-grid",
+     5
+    ]
+   ]
+  },
+  "energy-savings-fossil-displacement": {
+   "label": "Energy savings and fossil displacement",
+   "domain": "environmental",
+   "studies": 13,
+   "positive": 10,
+   "negative": 3,
+   "mixed": 0,
+   "top_technologies": [
+    [
+     "multiple-or-system-level",
+     3
+    ],
+    [
+     "energy-efficiency",
+     3
+    ],
+    [
+     "biomass-bioenergy",
+     2
+    ],
+    [
+     "wind",
+     1
+    ]
+   ]
+  },
+  "energy-access-poverty": {
+   "label": "Energy access and energy poverty",
+   "domain": "social",
+   "studies": 28,
+   "positive": 18,
+   "negative": 15,
+   "mixed": 0,
+   "top_technologies": [
+    [
+     "microgrids-off-grid",
+     8
+    ],
+    [
+     "solar",
+     7
+    ],
+    [
+     "multiple-or-system-level",
+     4
+    ],
+    [
+     "biomass-bioenergy",
+     3
+    ]
+   ]
+  },
+  "employment-local-economy": {
+   "label": "Employment and local economy",
+   "domain": "social",
+   "studies": 20,
+   "positive": 14,
+   "negative": 6,
+   "mixed": 2,
+   "top_technologies": [
+    [
+     "multiple-or-system-level",
+     7
+    ],
+    [
+     "biomass-bioenergy",
+     5
+    ],
+    [
+     "microgrids-off-grid",
+     4
+    ],
+    [
+     "hydrogen-low-carbon-fuels",
+     2
+    ]
+   ]
+  },
+  "acceptance-participation": {
+   "label": "Acceptance and participation",
+   "domain": "social",
+   "studies": 20,
+   "positive": 5,
+   "negative": 9,
+   "mixed": 7,
+   "top_technologies": [
+    [
+     "biomass-bioenergy",
+     6
+    ],
+    [
+     "multiple-or-system-level",
+     4
+    ],
+    [
+     "microgrids-off-grid",
+     4
+    ],
+    [
+     "ocean-energy",
+     1
+    ]
+   ]
+  },
+  "conflicts-indigenous-territories": {
+   "label": "Conflicts and indigenous territories",
+   "domain": "social",
+   "studies": 23,
+   "positive": 3,
+   "negative": 20,
+   "mixed": 1,
+   "top_technologies": [
+    [
+     "multiple-or-system-level",
+     7
+    ],
+    [
+     "biomass-bioenergy",
+     3
+    ],
+    [
+     "wind",
+     3
+    ],
+    [
+     "microgrids-off-grid",
+     2
+    ]
+   ]
+  },
+  "energy-justice-equity": {
+   "label": "Energy justice and equity",
+   "domain": "social",
+   "studies": 22,
+   "positive": 5,
+   "negative": 16,
+   "mixed": 3,
+   "top_technologies": [
+    [
+     "solar",
+     8
+    ],
+    [
+     "multiple-or-system-level",
+     5
+    ],
+    [
+     "microgrids-off-grid",
+     3
+    ],
+    [
+     "biomass-bioenergy",
+     3
+    ]
+   ]
+  },
+  "cost-affordability": {
+   "label": "Cost and affordability",
+   "domain": "territorial",
+   "studies": 16,
+   "positive": 9,
+   "negative": 7,
+   "mixed": 0,
+   "top_technologies": [
+    [
+     "multiple-or-system-level",
+     6
+    ],
+    [
+     "solar",
+     4
+    ],
+    [
+     "microgrids-off-grid",
+     2
+    ],
+    [
+     "biomass-bioenergy",
+     1
+    ]
+   ]
+  },
+  "energy-security-reliability": {
+   "label": "Energy security and reliability",
+   "domain": "territorial",
+   "studies": 7,
+   "positive": 2,
+   "negative": 5,
+   "mixed": 0,
+   "top_technologies": [
+    [
+     "multiple-or-system-level",
+     3
+    ],
+    [
+     "solar",
+     2
+    ],
+    [
+     "biomass-bioenergy",
+     2
+    ]
+   ]
+  },
+  "rural-development-zni": {
+   "label": "Rural development and non-interconnected zones",
+   "domain": "territorial",
+   "studies": 10,
+   "positive": 6,
+   "negative": 5,
+   "mixed": 0,
+   "top_technologies": [
+    [
+     "smart-grids-digitalization",
+     2
+    ],
+    [
+     "biomass-bioenergy",
+     2
+    ],
+    [
+     "microgrids-off-grid",
+     2
+    ],
+    [
+     "electromobility",
+     1
+    ]
+   ]
+  },
+  "other": {
+   "label": "Other / general",
+   "domain": "other",
+   "studies": 4,
+   "positive": 3,
+   "negative": 1,
+   "mixed": 0,
+   "top_technologies": [
+    [
+     "biomass-bioenergy",
+     2
+    ],
+    [
+     "multiple-or-system-level",
+     1
+    ],
+    [
+     "hydropower",
+     1
+    ]
+   ]
+  }
+ },
+ "rq4_gaps": {
+  "empirical-validation-data": {
+   "label": "Empirical validation and field data",
+   "studies": 27,
+   "top_technologies": [
+    [
+     "multiple-or-system-level",
+     7
+    ],
+    [
+     "hydropower",
+     3
+    ],
+    [
+     "biomass-bioenergy",
+     3
+    ]
+   ]
+  },
+  "long-term-lifecycle": {
+   "label": "Long-term and lifecycle assessment",
+   "studies": 17,
+   "top_technologies": [
+    [
+     "biomass-bioenergy",
+     6
+    ],
+    [
+     "microgrids-off-grid",
+     3
+    ],
+    [
+     "electromobility",
+     2
+    ]
+   ]
+  },
+  "social-community-dimension": {
+   "label": "Social and community dimension",
+   "studies": 28,
+   "top_technologies": [
+    [
+     "solar",
+     6
+    ],
+    [
+     "biomass-bioenergy",
+     6
+    ],
+    [
+     "multiple-or-system-level",
+     5
+    ]
+   ]
+  },
+  "policy-regulatory-design": {
+   "label": "Policy and regulatory design",
+   "studies": 26,
+   "top_technologies": [
+    [
+     "solar",
+     9
+    ],
+    [
+     "multiple-or-system-level",
+     7
+    ],
+    [
+     "microgrids-off-grid",
+     3
+    ]
+   ]
+  },
+  "cost-financing": {
+   "label": "Cost and financing",
+   "studies": 27,
+   "top_technologies": [
+    [
+     "biomass-bioenergy",
+     9
+    ],
+    [
+     "solar",
+     7
+    ],
+    [
+     "multiple-or-system-level",
+     5
+    ]
+   ]
+  },
+  "system-integration": {
+   "label": "System-level integration",
+   "studies": 29,
+   "top_technologies": [
+    [
+     "multiple-or-system-level",
+     9
+    ],
+    [
+     "smart-grids-digitalization",
+     6
+    ],
+    [
+     "microgrids-off-grid",
+     4
+    ]
+   ]
+  },
+  "technology-development-scale-up": {
+   "label": "Technology development and scale-up",
+   "studies": 32,
+   "top_technologies": [
+    [
+     "solar",
+     6
+    ],
+    [
+     "biomass-bioenergy",
+     6
+    ],
+    [
+     "multiple-or-system-level",
+     4
+    ]
+   ]
+  },
+  "environmental-impact-assessment": {
+   "label": "Environmental impact assessment",
+   "studies": 16,
+   "top_technologies": [
+    [
+     "biomass-bioenergy",
+     9
+    ],
+    [
+     "multiple-or-system-level",
+     2
+    ],
+    [
+     "hydropower",
+     2
+    ]
+   ]
+  },
+  "resource-potential-assessment": {
+   "label": "Resource and potential assessment",
+   "studies": 12,
+   "top_technologies": [
+    [
+     "biomass-bioenergy",
+     4
+    ],
+    [
+     "wind",
+     3
+    ],
+    [
+     "multiple-or-system-level",
+     2
+    ]
+   ]
+  },
+  "model-method-refinement": {
+   "label": "Model and method refinement",
+   "studies": 40,
+   "top_technologies": [
+    [
+     "multiple-or-system-level",
+     16
+    ],
+    [
+     "microgrids-off-grid",
+     7
+    ],
+    [
+     "solar",
+     4
+    ]
+   ]
+  },
+  "regional-replication": {
+   "label": "Regional coverage and replication",
+   "studies": 26,
+   "top_technologies": [
+    [
+     "biomass-bioenergy",
+     5
+    ],
+    [
+     "multiple-or-system-level",
+     5
+    ],
+    [
+     "solar",
+     5
+    ]
+   ]
+  },
+  "other": {
+   "label": "Other / unclassified",
+   "studies": 2,
+   "top_technologies": [
+    [
+     "multiple-or-system-level",
+     1
+    ],
+    [
+     "biomass-bioenergy",
+     1
+    ]
+   ]
+  }
+ }
+}

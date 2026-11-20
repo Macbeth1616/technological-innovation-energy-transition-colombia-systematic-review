@@ -1,0 +1,35 @@
+{
+  "approved_by": "Jorge Montes",
+  "approved_at": "2026-11-17T03:22:24Z",
+  "sha256": "346d123861a591b459cf0197aadd3aae8ce3d7a6c166e9a680002ed944001fb2",
+  "amendments": [
+    {
+      "by": "Jorge Montes",
+      "at": "2026-11-18T04:24:32Z",
+      "reason": "Two-tier extraction (all 524 included studies in tier 1; RQ3/RQ4 studies in tier 2) and linking of multiple reports of one study via study_group, decided after full-text screening without excluding any study",
+      "from_sha256": "5d4d85571ca73c5030f381ce9429b4b11e78d033aacd8040dd3ea5449bcf4dc3",
+      "sha256": "3b113812adc4c7b80c26c363b8f91893f74a5c679b3c8a10461f14393750463e"
+    },
+    {
+      "by": "Jorge Montes",
+      "at": "2026-11-18T10:39:24Z",
+      "reason": "Extraction category options extended (ocean-energy, nuclear, carbon-capture-storage; buildings-commercial-institutional) after studies could not be coded accurately; affected records re-examined",
+      "from_sha256": "3b113812adc4c7b80c26c363b8f91893f74a5c679b3c8a10461f14393750463e",
+      "sha256": "84895f348a8b07f0699ce8a569f52b60b8d529d01372e3f777329c248a157955"
+    },
+    {
+      "by": "Jorge Montes",
+      "at": "2026-11-18T18:49:01Z",
+      "reason": "Add E7 unverifiable bibliographic record; exclude R0739, R0986, R1661; R0762 verified at IEEE Xplore and kept",
+      "from_sha256": "84895f348a8b07f0699ce8a569f52b60b8d529d01372e3f777329c248a157955",
+      "sha256": "2ef93e2d98bedb04fff3969f3284d4f1efaf8c4d803e8d72ae9c622f6cccff8e"
+    },
+    {
+      "by": "Jorge Montes",
+      "at": "2026-11-19T16:42:58Z",
+      "reason": "Added E8 (reference budget of 200 references: 157 included studies ranked by topical relation weighted by SJR quartile; 364 excluded)",
+      "from_sha256": "2ef93e2d98bedb04fff3969f3284d4f1efaf8c4d803e8d72ae9c622f6cccff8e",
+      "sha256": "346d123861a591b459cf0197aadd3aae8ce3d7a6c166e9a680002ed944001fb2"
+    }
+  ]
+}

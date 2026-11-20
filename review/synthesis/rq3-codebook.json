@@ -1,0 +1,100 @@
+{
+  "codes": [
+    {
+      "id": "policy-fiscal-incentives",
+      "label": "Policy and fiscal incentives",
+      "domain": "policy-regulatory",
+      "definition": "Public policy instruments, laws, targets, subsidies, tax and tariff incentives, or their absence or misalignment (including fossil-fuel subsidies), that shape technology adoption.",
+      "inclusion_notes": "Include named laws/programmes (Law 1715, Law 2099, PROURE, FENOGE), tax deductions, VAT/tariff exemptions, feed-in schemes, subsidies, national targets and roadmaps, policy support/continuity.",
+      "exclusion_notes": "Exclude detailed technical rules, permits and market rules (regulatory-framework); private/credit financing (capital-financing)."
+    },
+    {
+      "id": "regulatory-framework",
+      "label": "Regulatory framework and permitting",
+      "domain": "policy-regulatory",
+      "definition": "Regulations, market and grid-connection rules, standards, licensing and permitting procedures, and legal clarity (or gaps) governing the technology.",
+      "inclusion_notes": "Include CREG/UPME/ANLA resolutions, net-metering and self-generation rules, licensing delays, regulatory uncertainty, missing technical standards or codes, legal definitions, environmental licensing.",
+      "exclusion_notes": "Exclude incentive design (policy-fiscal-incentives) and institutional coordination between agencies (institutional-governance)."
+    },
+    {
+      "id": "capital-financing",
+      "label": "Capital costs and access to finance",
+      "domain": "economic-financial",
+      "definition": "Upfront investment burden and availability, cost, or structure of finance (credit, funds, investors, risk guarantees, international climate finance).",
+      "inclusion_notes": "Include high initial/capital costs, lack of credit or capital, financing schemes, microfinance, green bonds, funds, investment risk perception, payback/financing terms, project finance, investor confidence.",
+      "exclusion_notes": "Exclude running-cost or LCOE competitiveness (economic-viability) and tax incentives/subsidies (policy-fiscal-incentives)."
+    },
+    {
+      "id": "economic-viability",
+      "label": "Cost competitiveness and economic viability",
+      "domain": "economic-financial",
+      "definition": "Operating costs, levelised costs, price competitiveness against incumbents and cost-benefit performance that decide whether a project pays off.",
+      "inclusion_notes": "Include LCOE, operating/maintenance costs, high tariffs or energy prices, cost reductions from learning, economies of scale, low fossil prices undermining competitiveness, NPV/IRR, avoided cost savings.",
+      "exclusion_notes": "Exclude upfront capital and finance access (capital-financing)."
+    },
+    {
+      "id": "market-supply-demand",
+      "label": "Market structure, demand and supply chain",
+      "domain": "market",
+      "definition": "Size and structure of demand, competition, business models, supply chains, imports and offtake conditions that determine whether a market for the technology exists.",
+      "inclusion_notes": "Include low/uncertain demand, market concentration, lack of ESCO/business models, auctions and PPAs as demand guarantees, import dependence, local manufacturing, feedstock supply markets, export opportunities, market creation.",
+      "exclusion_notes": "Exclude price/cost competitiveness (economic-viability) and rule design (regulatory-framework)."
+    },
+    {
+      "id": "grid-infrastructure",
+      "label": "Grid and physical infrastructure",
+      "domain": "technical-infrastructure",
+      "definition": "Adequacy of electricity grids, transmission, connection capacity, fuel/charging/hydrogen/storage infrastructure and physical accessibility of sites.",
+      "inclusion_notes": "Include weak or absent grid (ZNI), transmission delays, congestion, remote location and difficult access, charging or hydrogen refuelling networks, smart-meter/AMI roll-out as infrastructure, logistics and transport networks, existing infrastructure that can be reused.",
+      "exclusion_notes": "Exclude resource quality (resource-availability) and device-level performance (technology-performance)."
+    },
+    {
+      "id": "technology-performance",
+      "label": "Technology maturity and technical performance",
+      "domain": "technical-infrastructure",
+      "definition": "Technical maturity, reliability, efficiency, intermittency, integration and operation-and-maintenance characteristics of the technology itself.",
+      "inclusion_notes": "Include intermittency/variability, low inertia, immature or unproven technology, lack of local validated models, efficiency, equipment quality, storage/hybridisation solutions, modularity, technological advances, technical complexity, maintenance difficulty, cybersecurity.",
+      "exclusion_notes": "Exclude costs (economic-viability) and grid adequacy (grid-infrastructure)."
+    },
+    {
+      "id": "institutional-governance",
+      "label": "Institutional capacity and governance",
+      "domain": "institutional-governance",
+      "definition": "Capacity, coordination, continuity and integrity of public institutions and multi-actor governance, including political commitment and partnerships.",
+      "inclusion_notes": "Include weak institutions, lack of coordination between agencies or with industry, fragmented responsibilities, poor planning, corruption, governance, political instability, public-private-academic alliances, international cooperation, institutional commitment and leadership.",
+      "exclusion_notes": "Exclude the content of rules (regulatory-framework) and incentive design (policy-fiscal-incentives)."
+    },
+    {
+      "id": "social-acceptance",
+      "label": "Social acceptance, community and behaviour",
+      "domain": "social-cultural",
+      "definition": "Public and community attitudes, participation, behaviour, conflict, land and cultural fit that facilitate or block adoption.",
+      "inclusion_notes": "Include community opposition, social licence, protests, prior consultation outcomes, armed conflict/insecurity, land tenure and displacement, resistance to change, user habits and rebound behaviour, cultural compatibility, trust, ethnic communities, gender, social equity, community ownership, opinion leaders.",
+      "exclusion_notes": "Exclude lack of technical knowledge or skills (knowledge-capacity) and legal consultation procedures (regulatory-framework)."
+    },
+    {
+      "id": "knowledge-capacity",
+      "label": "Knowledge, skills and R&D capacity",
+      "domain": "knowledge-capacity",
+      "definition": "Availability of technical skills, training, awareness, information, data, research and innovation capacity.",
+      "inclusion_notes": "Include lack of trained personnel, low awareness or knowledge of technology/benefits, training programmes, education, R&D funding and capacity, data/information gaps and open datasets (e.g. wind atlas), technology transfer, knowledge management, studies and assessments.",
+      "exclusion_notes": "Exclude behavioural resistance (social-acceptance) and equipment availability (market-supply-demand)."
+    },
+    {
+      "id": "resource-availability",
+      "label": "Natural resource and feedstock availability",
+      "domain": "environmental-resource",
+      "definition": "Quality, quantity and seasonality of natural energy resources, feedstock, land and water, and geographic/climatic conditions.",
+      "inclusion_notes": "Include solar irradiation, wind speed, hydro/geothermal/biomass potential, feedstock and residue availability, seasonal complementarity, El Nino/climate variability, water scarcity, land availability, lack of resource at a site.",
+      "exclusion_notes": "Exclude environmental protection constraints and climate-policy motives (environmental-climate)."
+    },
+    {
+      "id": "environmental-climate",
+      "label": "Environmental constraints and climate drivers",
+      "domain": "environmental-resource",
+      "definition": "Environmental protection limits, impacts and climate-mitigation or air-quality motives that restrict or drive adoption.",
+      "inclusion_notes": "Include ecosystem/protected-area limits, deforestation, emissions and pollution concerns, climate commitments and carbon markets as drivers, environmental awareness as motive, wastewater/discharge criteria, environmental co-benefits, climate vulnerability of infrastructure.",
+      "exclusion_notes": "Exclude resource endowment (resource-availability) and licensing procedures (regulatory-framework)."
+    }
+  ]
+}

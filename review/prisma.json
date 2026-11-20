@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-11-19T16:42:59Z",
+  "identification": {
+    "databases": {
+      "openalex": 1333,
+      "scopus": 545
+    },
+    "records": 1878,
+    "duplicates_removed": 95
+  },
+  "screening": {
+    "records_screened": 1783,
+    "records_excluded": 1013,
+    "records_pending": 0,
+    "reports_sought": 770,
+    "reports_not_retrieved": 165,
+    "reports_assessed": 605,
+    "reports_excluded": {
+      "E1": 30,
+      "E2": 43,
+      "E3": 5,
+      "E6": 3,
+      "E7": 3,
+      "E8": 364
+    },
+    "reports_pending": 0
+  },
+  "included": {
+    "studies": 157
+  }
+}

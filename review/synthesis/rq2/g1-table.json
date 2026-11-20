@@ -1,0 +1,104 @@
+{
+ "group": "1 solar-wind-hydro-ocean",
+ "n_studies": 38,
+ "rows": [
+  {
+   "sub_theme": "Grid-connected PV: performance and techno-economics in buildings, campuses and utility plants",
+   "studies": [
+    "R0034",
+    "R0054",
+    "R0095",
+    "R0335",
+    "R0348",
+    "R0409",
+    "R0452",
+    "R1780"
+   ],
+   "n": 8,
+   "methods": "techno-economic assessment 6; empirical case study 2",
+   "settings": "sectors: buildings-residential 5; multi-sector 1; buildings-commercial-institutional 1; transport 1 | departments: Bogotá D.C. 5; Atlántico 3; Valle del Cauca 2; Antioquia 2; La Guajira 1; none stated 1",
+   "technical": "campus performance ratio 0.73-0.78 [R0335]; PVsyst performance ratio 84.2% [R0095]; north campus carport supplied 1.7% of campus demand [R0335]",
+   "economic": "IRR 20.74% in Barranquilla (3.5 kWp) and 16.22% in Bogota [R0034]; IRR 9.1%, payback 8.5 years (Medellin) [R0452]; payback 10.2 (levels 1-2) to 6.0 years (Bogota) [R0409]; IRR 11.05% and 13-year payback for a yard-based bus-fleet PV plant [R1780]; storage only profitable with price drops (11.26% IRR at 25% lower storage price) [R0034]",
+   "environmental": "avoided CO2 about 20.4 t in 25 years [R0095]; 346 kg CO2 avoided per 2 kW system [R0409]; about 193 kgCO2/yr saved per household [R0452]; avoided CO2 by 2050 Bogota 7,106.51 t [R0348]",
+   "pattern": "Techno-economic assessments report IRR and payback that vary widely by city and system size (IRR 9.1% in Medellin [R0452] to 20.74% in Barranquilla [R0034]; payback 10.2 (levels 1-2) to 6.0 years (Bogota) in R0409), and performance ratios (0.73-0.78 in R0335; 84.2% in R0095) are reported on different bases; R0034 finds storage profitable only with price drops. Avoided-CO2 figures use different units and horizons (R0095, R0409, R0452, R0348) and are not directly comparable."
+  },
+  {
+   "sub_theme": "Solar policy, diffusion and power-system integration",
+   "studies": [
+    "R0104",
+    "R0115",
+    "R0200",
+    "R0230",
+    "R0382",
+    "R0400",
+    "R0464",
+    "R0505",
+    "R0517"
+   ],
+   "n": 9,
+   "methods": "modelling/simulation 7; literature review 2",
+   "settings": "sectors: buildings-residential 5; power-generation-SIN 2; multi-sector 2 | departments: Antioquia 2; Chocó 1; none stated 7",
+   "technical": "rooftop PV 4,400-10,600 MW by 2035 [R0104]; about 7532 MW PV by 2040 under FIT and subsidy, 7029 MW under net metering [R0115]; 1, 2 and 3 kW households give 2.5, 11 and 16 GW PV by 2035 [R0382]; PV adoption converges to 25-30% of households [R0200]; about 6 million adopter households by 2027 [R0517]; 5.82 MW by 2035 under the aggressive scheme [R0505]; about 5.28 MW PV installed [R0464]",
+   "economic": "net metering most efficient (20,298 USD/MW), capital subsidy least efficient (509,616 USD/MW) [R0115]; household tariff rises 0.13 to 0.20 USD/kWh [R0104]; tariffs for non-PV households rise about 20% by 2040 [R0200]; grid tariffs rise to 0.37 USD/kWh [R0517]; at 3 kW utilities recover 0% of costs, and net billing restores 100% cost recovery [R0382]; minimum FiT to start diffusion USD 0.30/kWh [R0505]; urban EMS daily savings USD 2711.57 (27.30%) [R0400]",
+   "environmental": "urban 3472.28 kg CO2 (27.69%) and rural 6019.45 kg CO2 (35.38%) daily reductions with EMS [R0400]",
+   "pattern": "Simulation studies agree that adoption scenarios raise grid tariffs for non-PV households (R0104, R0200, R0517), and that the support scheme matters (net metering most efficient at 20,298 USD/MW in R0115; at 3 kW utilities recover 0% of costs in R0382), but projected PV capacity ranges from 5.28 MW installed (R0464) to 2.5, 11 and 16 GW by 2035 (R0382) because scope and units differ; R0400 is an energy-management study with its own daily savings metrics."
+  },
+  {
+   "sub_theme": "Off-grid, solar-thermal and productive-use solar applications",
+   "studies": [
+    "R0116",
+    "R0245",
+    "R0332",
+    "R0333",
+    "R0387",
+    "R0451",
+    "R0623"
+   ],
+   "n": 7,
+   "methods": "modelling/simulation 3; techno-economic assessment 2; qualitative social study 1; policy analysis 1",
+   "settings": "sectors: non-interconnected-zones 2; buildings-residential 2; multi-sector 2; power-generation-SIN 1 | departments: Chocó 1; Valle del Cauca 1; Santander 1; La Guajira 1; Antioquia 1; Atlántico 1; Norte de Santander 1; Bolívar 1; none stated 1",
+   "technical": "direct-expansion solar heat pump annual COP about 3.5, solar fraction above 88% [R0451]; hybrid solar gas-turbine efficiency 35% without solar input falling to 30% at midday [R0623]; solar RO desalination pumping energy 5.91 kWh/m3 [R0333]",
+   "economic": "LCOH below 0.075 USD/kWh [R0451]; IRR 2% and payback 4 years for a portable solar water machine [R0116]; STESS capex USD 22,711, about 30 times the USD 738 of conventional heaters [R0332]; diesel electricity costs USD 0.26/kWh [R0245]",
+   "environmental": "about 916.2 kg CO2/year avoided per house [R0245]",
+   "pattern": "Outcomes are heterogeneous: COP and solar fraction for a solar heat pump (R0451), turbine efficiency (R0623), desalination pumping energy (R0333), IRR and payback for a portable solar water machine (R0116), and capex of a solar thermal storage heater against conventional heaters (R0332). Costs are given against different references (LCOH in R0451, diesel electricity cost in R0245, conventional heaters in R0332), and only R0245 quantifies avoided CO2 (about 916.2 kg CO2/year per house); values are not directly comparable."
+  },
+  {
+   "sub_theme": "Wind power: onshore, small and offshore (resource, siting, grid integration, economics, barriers)",
+   "studies": [
+    "R0083",
+    "R0127",
+    "R0336",
+    "R0367",
+    "R0378",
+    "R0384",
+    "R0445"
+   ],
+   "n": 7,
+   "methods": "modelling/simulation 4; empirical case study 1; literature review 1; qualitative social study 1",
+   "settings": "sectors: power-generation-SIN 6; non-interconnected-zones 1 | departments: Bolívar 2; La Guajira 2; Atlántico 2; Magdalena 1; Boyacá 1; Cundinamarca 1; Cauca 1; Nariño 1; none stated 3",
+   "technical": "capacity factors 1.2-34.2% after losses across five sites [R0445]; wind capacity only 19.5 MW [R0378]; VAWT Cp 0.15-0.35 [R0127]; 28,849 MW wind by 2050 in Green Democracy [R0083]; La Guajira 482 W/m2 (110.8 m) and Barranquilla 857 W/m2 [R0367]; lowest wind speed 2.403 m/s [R0336]",
+   "economic": "wind share 31.0% in the minimum-volatility portfolio [R0384]",
+   "environmental": "avoided emissions 1.2 Mt (vs hydro) and 149.7 Mt CO2e (vs coal) [R0083]; Villa Teresa 34.16% CF but exclusionary environmental limits [R0445]",
+   "pattern": "Resource and capacity-factor results span a wide range between sites (capacity factors 1.2-34.2% after losses across five sites in R0445; La Guajira 482 W/m2 (110.8 m) and Barranquilla 857 W/m2 in R0367; lowest wind speed 2.403 m/s in R0336), while installed wind capacity is only 19.5 MW (R0378). R0083 and R0384 are scenario and portfolio studies (28,849 MW wind by 2050 in R0083; wind share 31.0% in the minimum-volatility portfolio of R0384), and R0127 reports VAWT Cp 0.15-0.35; environmental evidence is limited to R0083 and R0445."
+  },
+  {
+   "sub_theme": "Hydropower, hydrokinetic, geothermal and ocean energy",
+   "studies": [
+    "R0167",
+    "R0190",
+    "R0296",
+    "R0424",
+    "R0475",
+    "R0544",
+    "R1450"
+   ],
+   "n": 7,
+   "methods": "empirical case study 3; qualitative social study 2; modelling/simulation 1; literature review 1",
+   "settings": "sectors: power-generation-SIN 5; non-interconnected-zones 1; industry 1 | departments: Chocó 1; Boyacá 1; none stated 5",
+   "technical": "Savonius turbine 1 m2 gives ~142 W and 1245 kWh/y [R0424]; rewinding raised minimum breakdown voltage from 38.4 to 95.6 kV [R0475]; dry climate cuts hydropower about 10% by 2050 [R0167]; geothermal pilot peaked at 77 kWe [R1450]; salinity gradient technical potential 780 MW [R0190]",
+   "economic": "winding failure would cost 14-28 million USD vs ~1.7 million USD for rewinding [R0475]; GDP growth reduced up to 0.28% by dry climate [R0167]",
+   "environmental": "about 23,675 people displaced by about 30% of installed capacity [R0544]; emissions cut about 94% versus oil generation [R0424]; geothermal carbon footprint cut 19% (OFA) and 11% (OFB) [R1450]; acceptance of geothermal electricity 84.72% [R0296]",
+   "pattern": "Evidence comes from single-technology studies with no shared metric: climate impact on hydropower (about 10% cut by 2050 and GDP growth reduced up to 0.28% in R0167), a hydrokinetic Savonius turbine (~142 W and 1245 kWh/y in R0424), generator rewinding (R0475), a geothermal pilot (peak 77 kWe; carbon footprint cut 19% and 11% in R1450) and salinity-gradient potential (780 MW in R0190). Social outcomes come from R0544 (about 23,675 people displaced) and R0296 (acceptance of geothermal electricity 84.72%); there is no cross-study replication."
+  }
+ ]
+}

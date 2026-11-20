@@ -1,0 +1,525 @@
+record_id,study_group,extraction_tier,rq_tags,year,type,doi,title
+R0002,R0002,tier-1,RQ2,2020,JOUR,10.3390/en13030581,Optimization of isolated hybrid microgrids with renewable energy based on different battery models and technologies
+R0004,R0004,tier-2,"RQ2,RQ3,RQ4",2022,JOUR,10.1111/jiec.13326,Environmental rebound effect of wind and solar technologies in the Colombian household sector
+R0006,R0006,tier-1,RQ2,2024,JOUR,10.1186/s42162-024-00348-w,Evaluation of renewable energy technologies in Colombia: comparative evaluation using TOPSIS and TOPSIS fuzzy metaheuristic models
+R0007,R0007,tier-1,RQ2,2025,JOUR,10.24850/j-tyca-2025-06-10,Implementation of a pumping system using a hydraulic turbine without electric power consumption
+R0008,R0008,tier-2,"RQ2,RQ3,RQ4",2023,JOUR,10.1016/j.erss.2023.103132,What makes Colombia's indigenous peoples adopt microgrids? Social acceptance and financial constraints in renewable energy diffusion
+R0010,R0010,tier-2,"RQ2,RQ3,RQ4",2019,JOUR,10.1016/j.jclepro.2019.06.327,Optimizing the insertion of renewable energy in the off-grid regions of Colombia
+R0011,R0011,tier-1,RQ2,2024,JOUR,10.1021/acsomega.4c01875,Hydrothermal Carbonization of Green Harvesting Residues (GHRs) from Sugar Cane: Effect of Temperature and Water/GHR Ratio on Mass and Energy Yield
+R0012,R0012,tier-1,RQ2,2024,JOUR,10.1016/j.spc.2024.01.022,The effect of transportation choices for mitigating climate-related impacts: The case of solid biofuels exported to Europe produced by Latin American countries
+R0013,R0013,tier-1,RQ2,2023,JOUR,10.32479/ijeep.14194,"Technical and Financial Assessment of Photovoltaic Solar Systems with Bifacial Technology Comparing Four Scenarios with Different Albedos with Respect to the Base Scenario with Monofacial Technology, in a Tropical Location in Colombia"
+R0017,R0017,tier-2,"RQ2,RQ4",2022,JOUR,10.1016/j.erss.2022.102814,"Microgrids through the Energy-Water-Food Security Nexus in La Guajira, Colombia: Increasing water and food security or jeopardizing groundwater levels?"
+R0020,R0020,tier-1,RQ2,2020,JOUR,10.1016/j.biombioe.2020.105790,Improving anaerobic co-digestion of different residual biomass sources readily available in Colombia by process parameters optimization
+R0021,R0021,tier-2,"RQ2,RQ3",2025,CONF,10.1109/isgtla64895.2025.11371195,Planning Framework for Distribution System Investments Under Energy Transition Uncertainty: A Multi-Scenario Approach
+R0022,R0022,tier-1,RQ2,2020,CONF,10.1088/1742-6596/1645/1/012010,Physical-thermal isolation strategies for the design of sustainable ceramic building units
+R0023,R0023,tier-1,RQ2,2019,JOUR,10.1016/j.energy.2018.12.051,Energy demand and greenhouse gas emissions analysis in Colombia: A LEAP model application
+R0024,R0024,tier-1,RQ2,2023,JOUR,10.1080/14786451.2023.2244605,A techno-economic assessment for fuel cells hybrid systems in stationary applications
+R0027,R0027,tier-2,"RQ2,RQ3",2022,CONF,10.1109/ica-acca56767.2022.10006289,An Overview of the Colombian Power System
+R0029,R0029,tier-2,"RQ2,RQ3",2020,JOUR,10.1016/j.tej.2020.106734,Active demand-side management strategies focused on the residential sector
+R0030,R0030,tier-2,"RQ2,RQ4",2025,JOUR,10.1080/17597269.2024.2439727,"Harnessing biodigestion for sustainable energy: agricultural residues utilization in Malambo, Colombia"
+R0031,R0031,tier-2,"RQ2,RQ4",2025,JOUR,10.1080/00207233.2025.2455920,"Assessment of the emissions of a low draught ship powered by batteries for river passenger transport, using a life cycle methodology"
+R0032,R0032,tier-1,RQ2,2024,CONF,10.1109/mcsi63438.2024.00009,Design of an automated flat plate solar collector system to improve energy efficiency: Villavicencio-Colombian Case
+R0034,R0034,tier-2,"RQ2,RQ3",2020,JOUR,10.1016/j.renene.2019.10.066,Solar PV generation in Colombia - A qualitative and quantitative approach to analyze the potential of solar energy market
+R0035,R0035,tier-1,RQ2,2017,CONF,10.1109/distra.2017.8191109,Urban sets innovation: Design of a solar tree PV system for charging mobile devices in Medellin - Colombia
+R0038,R0038,tier-2,"RQ2,RQ3",2022,JOUR,10.1007/s12053-022-10018-z,The rebound effect on Latin American economies: evidence from the Colombian residential sector
+R0039,R0039,tier-2,"RQ2,RQ3",2017,CONF,10.1109/andescon.2016.7836210,Smart grid voltage control for electrical power distribution system operation optimization
+R0040,R0040,tier-1,RQ2,2020,JOUR,10.1016/j.renene.2019.08.064,Diagnosis of a battery energy storage system based on principal component analysis
+R0042,R0042,tier-2,"RQ2,RQ3,RQ4",2025,JOUR,10.3390/en18205499,New Microgrid Architectures for Telecommunication Base Stations in Non-Interconnected Zones: A Colombian Case Study
+R0043,R0043,tier-1,RQ2,2024,JOUR,10.1016/j.rser.2024.114512,Techno-economic analysis and uncertainty assessment of green hydrogen production in future exporting countries
+R0044,R0044,tier-2,"RQ2,RQ3",2025,JOUR,10.3390/en18112881,A Novel Technical Framework for Colombia’s Distribution System Operator with Distributed Energy Resources Integration
+R0045,R0045,tier-1,RQ2,2025,JOUR,10.3303/cet25117175,"A Multi-Objective Optimization Model for Integrating Renewable Energy in Distribution System Expansion: a Case Study of Pamplona, Colombia"
+R0046,R0046,tier-1,RQ2,2022,JOUR,10.3390/su141912537,Harnessing Residual Biomass as a Renewable Energy Source in Colombia: A Potential Gasification Scenario
+R0049,R0049,tier-2,"RQ2,RQ3",2024,CONF,10.1016/j.procs.2023.12.235,Technology Roadmapping: Developing a Practical Approach for Linking the Use of Photovoltaic Energy and the Sustainability Strategy of Companies
+R0050,R0050,tier-2,"RQ2,RQ3",2025,JOUR,10.1016/j.rset.2025.100115,Evaluating demand response through the time of use model in off-grid regions
+R0051,R0051,tier-2,"RQ2,RQ4",2023,JOUR,10.3390/su15075857,Prioritization of Waste-to-Energy Technologies Associated with the Utilization of Food Waste
+R0052,R0052,tier-2,"RQ3,RQ4",2023,JOUR,10.5194/gh-78-493-2023,"Infrastructuring environmental (in)justice: green hydrogen, Indigenous sovereignty and the political geographies of energy technologies"
+R0054,R0054,tier-2,"RQ2,RQ3",2024,JOUR,10.1016/j.seja.2024.100070,How to cool a warming world? – The potential of photovoltaic green cooling with natural refrigerants in sunbelt countries
+R0055,R0055,tier-1,RQ2,2018,JOUR,10.1016/j.jclepro.2017.12.085,Unravelling the potential of energy efficiency in the Colombian oil industry
+R0057,R0057,tier-2,"RQ2,RQ3,RQ4",2019,CONF,10.1109/iesc47067.2019.8976701,"Incentives for the development of photovoltaic energy in a developing country, case study"
+R0062,R0062,tier-1,RQ2,2025,JOUR,10.61435/ijred.2025.61489,Thermal analysis of bifacial photovoltaic modules with single-axis trackers in a large power plant: Modeling by symbolic equations in tropical climates
+R0063,R0063,tier-2,"RQ2,RQ3,RQ4",2022,JOUR,10.32479/ijeep.12537,Implementation of the Hierarchical Analytical Process in the Selection of the Best Source of Renewable Energy in the Colombian Caribbean Region
+R0065,R0065,tier-2,"RQ2,RQ3,RQ4",2024,CONF,10.1109/temsconlatam61834.2024.10717769,Operational comparative study between two energy communities in the context of the Colombian Caribbean
+R0066,R0066,tier-2,RQ3,2023,JOUR,10.3390/su15020966,Review of Financing Mechanisms to Promote Decarbonization Alternatives in Rail and Inland Waterway Transport
+R0067,R0067,tier-1,RQ2,2021,JOUR,10.3390/su13147527,Energy evaluation and energy savings analysis with the 2 selection of ac systems in an educational building
+R0068,R0068,tier-1,RQ2,2017,CONF,10.1109/pepqa.2017.7981678,"Performance and economical comparison between micro-inverter and string inverter in a 5, 1 kWp residential PV-system in Colombia"
+R0069,R0069,tier-2,"RQ2,RQ4",2017,JOUR,10.3303/cet1758091,Lignocellulosic biomass from fast-growing species in Colombia and their use as bioresources for biofuel production
+R0070,R0070,tier-2,"RQ2,RQ3",2019,JOUR,10.32479/ijeep.8375,Study on the applicability of sustainable development policies in electricity generation systems in Colombia
+R0071,R0071,tier-1,RQ2,2021,JOUR,10.1016/j.segy.2021.100016,The role of energy storage and cross-border interconnections for increasing the flexibility of future power systems: The case of Colombia
+R0072,R0072,tier-2,"RQ2,RQ3,RQ4",2025,JOUR,10.5281/zenodo.17172197,Renewable energy and rural development: an analysis of technological appropriation and its effects on productivity and well-being
+R0074,R0074,tier-2,"RQ2,RQ3,RQ4",2023,JOUR,10.1016/j.esr.2023.101226,Informing sustainable energy policy in developing countries: An assessment of decarbonization pathways in Colombia using open energy system optimization modelling
+R0077,R0077,tier-2,"RQ3,RQ4",2024,CONF,10.1109/temsconlatam61834.2024.10717727,Analysis of Renewable Energy Implementation on Rural Women Inequalities Reduction in Colombia
+R0079,R0079,tier-2,"RQ2,RQ3",2019,JOUR,10.1016/j.enpol.2019.04.028,Clean and secure power supply: A system dynamics based appraisal
+R0082,R0082,tier-2,"RQ2,RQ4",2025,JOUR,10.3303/cet25117077,"Cocoa Process in Montes de María, Colombia: Contribution to its Technification"
+R0083,R0083,tier-2,"RQ2,RQ3,RQ4",2025,JOUR,10.1016/j.rset.2024.100096,Scenarios for wind capacity deployment in Colombia by 2050: A perspective from system dynamics modeling
+R0085,R0085,tier-2,"RQ2,RQ3",2022,JOUR,10.32479/ijeep.13460,"Evolution, Challenges, and Perspective in the Implementation of Projects with Renewable Energy Sources: Colombia Case"
+R0087,R0087,tier-2,"RQ2,RQ4",2025,JOUR,10.22034/gjesm.2025.03.08,"The significance of clean energy, education, and environmental management in fostering a sustainable future"
+R0089,R0089,tier-1,RQ2,2022,JOUR,10.3390/su142416734,Micro Pumped Hydro Energy Storage: Sketching a Sustainable Hybrid Solution for Colombian Off-Grid Communities
+R0092,R0092,tier-2,"RQ2,RQ3",2019,JOUR,10.32479/ijeep.8294,Energy storage development using hydrogen and its potential application in Colombia
+R0094,R0094,tier-2,"RQ2,RQ4",2022,JOUR,10.1016/j.renene.2022.03.150,"Mapping the sustainability of bioenergy to maximise benefits, mitigate risks and drive progress toward the Sustainable Development Goals"
+R0095,R0095,tier-2,"RQ2,RQ3",2021,JOUR,10.1016/j.egyr.2021.08.091,Procedure for the practical and economic integration of solar PV energy in the city of Bogotá
+R0098,R0098,tier-1,RQ2,2018,JOUR,10.3303/cet1865132,Assessment of the energetic potential of different fast-Growing species in the bogotá river basin
+R0099,R0099,tier-1,RQ2,2018,JOUR,10.24084/repqj16.320,Photovoltaic system for the treatment of surface water polluted with polycyclic aromatic hydrocarbons in Colombia
+R0100,R0100,tier-2,"RQ2,RQ4",2020,JOUR,10.1016/j.heliyon.2020.e03534,"Planning stand-alone electricity generation systems, a multiple objective optimization and fuzzy decision making approach"
+R0103,R0103,tier-2,"RQ2,RQ3",2020,JOUR,10.32479/ijeep.9639,A look to the biogas generation from organic wastes in Colombia
+R0104,R0104,tier-2,"RQ2,RQ3,RQ4",2017,JOUR,10.1016/j.rser.2017.05.179,Evaluating the effect of technology transformation on the electricity utility industry
+R0108,R0108,tier-1,RQ2,2024,JOUR,10.1016/j.ijft.2024.100597,Techno economic model to analyze the prospects of hydrogen production in Colombia
+R0109,R0109,tier-1,RQ2,2021,JOUR,10.4067/s0718-33052021000200199,Conceptual model for technical microgrids conception: A case study in colombia
+R0110,R0110,tier-2,"RQ3,RQ4",2023,JOUR,10.1177/23996544231168390,Technology of detachment: The promise of renewable energy and its contentious reality in the south of Colombia
+R0111,R0111,tier-2,"RQ2,RQ3",2021,JOUR,10.15446/dyna.v88n217.93098,Development of riverine hydrokinetic energy systems in colombia and other world regions: A review of case studies
+R0112,R0112,tier-2,"RQ2,RQ3",2025,JOUR,10.32479/ijeep.17423,Economic Assessment of the Potential for Renewable Based Microgrids Generation Systems: An Application in a University Building
+R0114,R0114,tier-2,"RQ2,RQ3",2022,JOUR,10.1016/j.fuel.2022.125169,Review of the impact of socio-economic conditions on the development and implementation of biorefineries
+R0115,R0115,tier-2,"RQ2,RQ3",2018,JOUR,10.3390/en11102614,Assessing the effect of incentive policies on residential PV investments in Colombia
+R0116,R0116,tier-2,"RQ2,RQ4",2023,JOUR,10.21533/pen.v11i1.3070,"Technical-economic evaluation of a portable solar machine of potential use in pumping systems and water purification, through the use of photovoltaic solar technology for non-interconnected areas in Colombia"
+R0117,R0117,tier-2,"RQ2,RQ4",2017,JOUR,10.1016/j.energy.2017.08.012,Environmental assessment of hydrogen production based on Pinus patula plantations in Colombia
+R0118,R0118,tier-1,RQ2,2024,JOUR,10.3390/en17071777,"Transmission Expansion Planning Considering Storage, Flexible AC Transmission System, Losses, and Contingencies to Integrate Wind Power"
+R0119,R0119,tier-1,RQ2,2022,JOUR,10.3390/su142316185,"Technical, Environmental, and Process Safety Assessment of Acetone-Butanol-Ethanol Fermentation of Cassava Residues"
+R0121,R0121,tier-1,RQ2,2025,JOUR,10.3390/s25030842,Assessing the Impact of Thermal Coating Paints on Indoor Temperature and Energy Efficiency in Colombian Caribbean Homes
+R0123,R0123,tier-2,RQ3,2019,JOUR,10.1016/j.techsoc.2019.101150,Technological innovation system and the wider context: A framework for developing countries
+R0124,R0124,tier-2,"RQ2,RQ3",2023,JOUR,10.3390/data8090137,"A Framework for Evaluating Renewable Energy for Decision-Making Integrating a Hybrid FAHP-TOPSIS Approach: A Case Study in Valle del Cauca, Colombia"
+R0126,R0126,tier-2,"RQ2,RQ4",2024,JOUR,10.3390/su16177817,Evaluating Sustainable Alternatives for Cocoa Waste Utilization Using the Analytic Hierarchy Process
+R0127,R0127,tier-2,"RQ2,RQ4",2025,JOUR,10.3390/su17219663,Clean Energy Transition in Insular Communities: Wind Resource Evaluation and VAWT Design Using CFD and Statistics
+R0128,R0128,tier-2,"RQ2,RQ4",2019,JOUR,10.1016/j.rser.2019.04.053,A novel hybrid approach based on fuzzy multi-criteria decision-making tools for assessing sustainable alternatives of power generation in San Andrés Island
+R0129,R0129,tier-2,"RQ2,RQ3",2024,JOUR,10.31637/epsir-2024-1808,Hydro and wind power generation valuation of projects in Colombia using a compound real option
+R0130,R0130,tier-2,"RQ2,RQ4",2025,JOUR,10.3390/wevj16020101,Hybrid Electric Vehicles as a Strategy for Reducing Fuel Consumption and Emissions in Latin America
+R0132,R0132,tier-2,"RQ2,RQ3",2019,JOUR,10.4067/s0718-07642019000300127,Risk management in the implementation of photovoltaic systems in gold extraction projects in Colombia from the hierarchy analysis process (AHP)
+R0133,R0133,tier-1,RQ2,2018,CONF,10.1109/tdc-la.2018.8511720,Study of the Implementation of Synthetic Inertia in Wind Turbines and its Impact in the Colombian
+R0135,R0135,tier-1,RQ2,2022,JOUR,10.1016/j.ohx.2022.e00330,Development of a low-cost IoT system based on LoRaWAN for monitoring variables related to electrical energy consumption in low voltage networks
+R0139,R0139,tier-2,"RQ2,RQ3",2019,JOUR,10.3390/resources8010051,Municipal solid waste as a source of electric power generation in Colombia: A techno-economic evaluation under different scenarios
+R0140,R0140,tier-2,"RQ2,RQ3",2020,JOUR,10.32479/ijeep.9820,Overview of policies for the generation from renewable energy focused in central tower concentrating solar power
+R0141,R0141,tier-1,RQ2,2024,JOUR,10.32685/0120-1425/bol.geol.51.2.2024.745,Energy storage in deep salt formations: Geological and geomechanical conditions and potentials with a focus on Latin America
+R0142,R0142,tier-1,RQ2,2022,JOUR,10.1007/s11814-021-1053-4,Global evaluation of economics of microalgae-based biofuel supply chain using GIS-based framework
+R0143,R0143,tier-1,RQ2,2021,CONF,10.1109/iceccme52200.2021.9590977,Experimental analysis of approaches to improve the energy performance of a grid tied PV system in Colombia
+R0144,R0144,tier-2,"RQ2,RQ4",2020,JOUR,10.1016/j.jclepro.2020.122317,"The energy potential of agriculture, agroindustrial, livestock, and slaughterhouse biomass wastes through direct combustion and anaerobic digestion. The case of Colombia"
+R0145,R0145,tier-2,"RQ2,RQ4",2024,JOUR,10.1016/j.clet.2024.100783,Analysis of IoT technologies suitable for remote areas in Colombia: Conceptual design of an IoT system for monitoring and managing distributed energy systems
+R0148,R0148,tier-1,RQ2,2024,JOUR,10.3390/pr12091903,Analysis of the Availability Curve of the 15 kW Wind–Solar Hybrid Microplant Associated with the Demand of the Power-to-Gas (PtG) Pilot Plant Located at University of La Guajira
+R0151,R0151,tier-2,"RQ2,RQ3,RQ4",2023,JOUR,10.1080/17597269.2023.2201729,Farmers’ preferences and willingness to adopt anaerobic digestion technologies: a case study in rural areas in Colombia
+R0152,R0152,tier-2,"RQ2,RQ3,RQ4",2017,JOUR,10.1016/j.rser.2017.01.082,Combining an accelerated deployment of bioenergy and land use strategies: Review and insights for a post-conflict scenario in Colombia
+R0154,R0154,tier-2,"RQ2,RQ3,RQ4",2023,JOUR,10.1016/j.rser.2022.113097,Current understanding and perspectives on anaerobic digestion in developing countries: Colombia case study
+R0155,R0155,tier-1,RQ2,2024,JOUR,10.37868/sei.v6i2.id394,Performance evaluation of solar thermal collectors in Colombian thermal floors by dynamic simulation
+R0156,R0156,tier-1,RQ2,2023,JOUR,10.3390/pr11082499,The Impact of Solar Radiation at Different Colombian Thermal Floors on an Adsorption Refrigeration Cycle
+R0157,R0157,tier-1,RQ2,2025,JOUR,10.1016/j.ijhydene.2024.12.035,"Designing a hydrogen supply chain from biomass, solar, and wind energy integrated with carbon dioxide enhanced oil recovery operations"
+R0160,R0160,tier-1,RQ2,2025,JOUR,10.3390/en18102633,Chemical Process for the Production of Methanol with Carbon Capture (CO2) Integrating the Concept of Electrification by Heat Pump and Use of Renewable Energy
+R0163,R0163,tier-1,RQ2,2017,JOUR,10.1016/j.ijhydene.2017.01.073,Techno-economic and energetic assessment of hydrogen production through gasification in the Colombian context: Coffee Cut-Stems case
+R0165,R0165,tier-2,"RQ2,RQ3",2021,JOUR,10.32479/ijeep.9981,Technical and financial assessment of photovoltaic solar systems for residential complexes considering three different commercial technologies and Colombia’s energy policy
+R0167,R0167,tier-2,"RQ2,RQ3",2019,JOUR,10.1016/j.enpol.2018.12.057,Climate impacts on hydropower in Colombia: A multi-model assessment of power sector adaptation pathways
+R0168,R0168,tier-2,"RQ2,RQ3",2025,JOUR,10.1016/j.scs.2025.106745,Modeling the road to decarbonization: A high-performance computing approach to electric mobility scenarios in Colombian cities
+R0170,R0170,tier-2,"RQ2,RQ3",2019,JOUR,10.4067/s0718-07642019000100063,"Analysis of levelized costs of electricity of cogeneration plants using forest biomass at the antioquia department, Colombia"
+R0171,R0171,tier-1,RQ2,2022,JOUR,10.14483/23448393.18861,Data Acquisition with LoraWAN IoT Technology to Monitor Bio-Inspired Wind Turbines in Rural Areas of Cundinamarca
+R0173,R0173,tier-1,RQ2,2018,CONF,10.1109/icaiw.2018.8554997,Economic Viability of Hydrogen Generators in Transportation Vehicles
+R0174,R0174,tier-1,RQ2,2019,JOUR,10.1016/j.energy.2019.05.048,Potential and analysis of an osmotic power plant in the Magdalena River using experimental field-data
+R0177,R0177,tier-1,RQ2,2017,JOUR,10.1155/2017/3576509,Adiabatic Fixed-Bed Gasification of Colombian Coffee Husk Using Air-Steam Blends for Partial Oxidation
+R0183,R0183,tier-1,RQ2,2018,JOUR,10.1016/j.applthermaleng.2017.09.018,"A study case of energy efficiency, energy profile, and technological gap of combustion systems in the Colombian lime industry"
+R0185,R0185,tier-2,"RQ2,RQ4",2020,JOUR,10.1088/1748-9326/ab8d7f,Freeing land from biofuel production through microalgal cultivation in the Neotropical region
+R0187,R0187,tier-1,RQ2,2024,CONF,10.1109/temsconlatam61834.2024.10717753,Evaluating the Impact of V2G on Frequency Regulation in the Colombian Electricity Grid
+R0188,R0188,tier-1,RQ2,2019,CONF,10.1109/fisecigre48012.2019.8984993,Methodology for the optimal implementation of solar generation systems for the integral and sustainable development of rural areas in Colombia
+R0190,R0190,tier-2,"RQ2,RQ3",2023,JOUR,10.3390/su15021740,A Review of Offshore Renewable Energy in South America: Current Status and Future Perspectives
+R0192,R0192,tier-1,RQ2,2025,JOUR,10.1016/j.rineng.2025.107242,Evaluation of energy efficiency strategies in electric power generation in Colombia
+R0193,R0193,tier-2,"RQ2,RQ3",2024,JOUR,10.1016/j.trip.2024.101068,Methodology for the comparative evaluation of vehicle technologies in intermediate cities considering electric vehicles
+R0195,R0195,tier-1,RQ2,2023,JOUR,10.1016/j.geoen.2023.211463,Feasibility of implementation of solar thermal energy in steam-assisted gravity drainage (SAGD) in extra-heavy oil field in Colombia
+R0196,R0196,tier-2,RQ3,2025,JOUR,10.15649/2346030x.5280,Joint strategies of Fintech and ESCOs for sustainable development.
+R0197,R0197,tier-2,"RQ2,RQ3",2021,JOUR,10.32397/tesea.vol2.n2.3,Impacts of the Inclusion of Distributed Generation on Congestion of Distribution Networks and in the Islanding Operation Capability
+R0199,R0199,tier-2,"RQ2,RQ3",2017,JOUR,10.1016/j.jclepro.2017.06.068,"Assessing the combined effect of the diffusion of solar rooftop generation, energy conservation and efficient appliances in households"
+R0200,R0200,tier-2,"RQ2,RQ3,RQ4",2022,JOUR,10.1016/j.egyr.2022.06.099,"Assessing the speed, extent, and impact of the diffusion of solar PV"
+R0203,R0203,tier-2,"RQ2,RQ3",2022,JOUR,10.1016/j.ecmx.2022.100312,Role of low carbon emission H2 in the energy transition of Colombia: Environmental assessment of H2 production pathways for a certification scheme
+R0204,R0204,tier-1,RQ2,2019,CONF,10.1088/1742-6596/1257/1/012004,Analysis of the biomass produced in the furniture factories of the municipality of Ocaña
+R0206,R0206,tier-2,"RQ2,RQ3,RQ4",2025,JOUR,10.1016/j.seta.2024.104146,Evaluating the socio-economic drivers of household adoption of biodigester systems for domestic energy in rural Colombia
+R0209,R0209,tier-2,"RQ2,RQ3,RQ4",2023,JOUR,10.1016/j.esd.2023.01.019,Refining wind and solar potential maps through spatial multicriteria assessment. Case study: Colombia
+R0211,R0211,tier-2,"RQ2,RQ4",2019,JOUR,10.3390/su11143968,A sustainability assessment of bioethanol (EtOH) production: The case of cassava in Colombia
+R0213,R0213,tier-1,RQ2,2019,CONF,10.1051/e3sconf/201910302004,"Kinetic analysis of Wood residues and Gorse (Ulex europaeus) pyrolysis under non-isothermal conditions: A case of study in Bogotá, Colombia"
+R0217,R0217,tier-2,RQ3,2019,CONF,10.1109/isc246665.2019.9071741,Urban energy innovation index for latin american cities
+R0218,R0218,tier-2,"RQ2,RQ4",2025,JOUR,10.3390/su17156806,Sustainability Assessment of Rural Biogas Production and Use Through a Multi-Criteria Approach: A Case Study in Colombia
+R0222,R0222,tier-1,RQ2,2024,JOUR,10.3390/fishes9120505,Economic Analysis of Red Tilapia (Oreochromis sp.) Production Under Different Solar Energy Alternatives in a Commercial Biofloc System in Colombia †
+R0223,R0223,tier-1,RQ2,2023,JOUR,10.3390/su15075720,Innovative Technology Strategies for the Sustainable Development of Self-Produced Energy in the Colombian Industry
+R0225,R0225,tier-2,"RQ2,RQ3",2021,JOUR,10.24084/repqj19.203,Incentives for renewable energies in colombia
+R0226,R0226,tier-2,"RQ2,RQ4",2021,JOUR,10.1016/j.renene.2021.04.106,"Soft computing tool for aiding the integration of hybrid sustainable renewable energy systems, case of Putumayo, Colombia"
+R0228,R0228,tier-2,"RQ2,RQ4",2025,JOUR,10.1016/j.seta.2025.104532,"A redesign method for rural electrification projects, case study in Yutaho, Colombia"
+R0229,R0229,tier-2,"RQ2,RQ3",2024,JOUR,10.32479/ijeep.15226,Electricity Generation under the Climate Change Situation in Latin America: Trends and Challenges
+R0230,R0230,tier-2,"RQ2,RQ3",2022,JOUR,10.1007/s13198-022-01745-8,Photovoltaic solar energy in Colombia
+R0231,R0231,tier-2,"RQ2,RQ3",2025,JOUR,10.37868/hsd.v7i2.1282,Energy and economic analysis of waste-to-energy plants with government incentives in Colombia
+R0232,R0232,tier-1,RQ2,2025,JOUR,10.1007/s12649-025-02981-2,Techno-Economic Comparison of CO2 Valorization Through Chemical and Biotechnological Conversion
+R0234,R0234,tier-2,"RQ2,RQ3",2025,CONF,10.1109/conescapan67936.2025.11229576,Smart Transformers in Distribution Grids: Opportunities and Challenges for Deployment in Latin America.
+R0235,R0235,tier-1,RQ2,2020,JOUR,10.3390/su12051960,Industrial decarbonization by a new energy-baseline methodology. Case study
+R0236,R0236,tier-1,RQ2,2025,CONF,10.1109/temsconlatam65810.2025.11238451,Leveraging Energy Storage for Primary Frequency Control: A Practical Implementation in Colombia's National Interconnected System
+R0237,R0237,tier-2,RQ3,2022,JOUR,10.3390/su142114405,A Review of Economic Incentives to Promote Decarbonization Alternatives in Maritime and Inland Waterway Transport Modes
+R0238,R0238,tier-1,RQ2,2021,CONF,10.1007/978-3-030-73585-2_5,Assessment of Renewable Energy Technologies Based on Multicriteria Decision Making Methods (MCDM): Ocean Energy Case
+R0240,R0240,tier-2,"RQ2,RQ3",2025,JOUR,10.3389/fenrg.2025.1618696,Modeling the transition from coal to SMRs in Colombia: emissions avoidance under deterministic and probabilistic frameworks
+R0242,R0242,tier-1,RQ2,2018,JOUR,10.1016/j.applthermaleng.2018.04.012,Energy diagnosis and structuring an energy saving proposal for the metal casting industry: An experience in Colombia
+R0245,R0245,tier-2,"RQ2,RQ3,RQ4",2023,JOUR,10.1007/s13412-023-00840-x,Transition process from fossil energy to photovoltaic energy power of ethnic communities belonging to the natural parks in the Colombian Pacific: A diagnostic study
+R0246,R0246,tier-2,"RQ2,RQ3",2022,JOUR,10.1016/j.apenergy.2022.118771,Fully integrated CO2 mitigation strategy for an existing refinery: A case study in Colombia
+R0249,R0249,tier-1,RQ2,2021,CONF,10.1109/tpec51183.2021.9384983,Outdoor Performance of crystalline silicon PV modules in Bogotá-Colombia
+R0250,R0250,tier-2,"RQ2,RQ3",2019,JOUR,10.1016/j.enpol.2018.09.039,Challenges in greenhouse gas mitigation in developing countries: A case study of the Colombian transport sector
+R0252,R0252,tier-1,RQ2,2022,JOUR,10.1016/j.esr.2022.100972,Making use of the complementarity of hydropower and variable renewable energy in Latin America: A probabilistic analysis
+R0254,R0254,tier-2,"RQ2,RQ3",2023,CONF,10.1109/c358072.2023.10436275,Quantification of the benefits of Smart Grids to decarbonize the Colombian electricity system
+R0255,R0255,tier-2,"RQ2,RQ3",2021,JOUR,10.32479/ijeep.10010,The first auction of non-conventional renewable energy in colombia: Results and perspectives
+R0256,R0256,tier-1,RQ2,2024,JOUR,10.3390/en17225560,Financial Evaluation of Alternatives for Industrial Methanol Production Using Renewable Energy with Heat Pump Technology
+R0258,R0258,tier-2,"RQ2,RQ3",2019,JOUR,10.1016/j.renene.2019.02.138,Understanding dynamics and policy for renewable energy diffusion in Colombia
+R0259,R0259,tier-2,"RQ3,RQ4",2023,JOUR,10.32479/ijeep.14380,A Diffuse Analysis Based on Analytical Processes to Prioritize Barriers in the Development of Renewable Energy Technologies in Alignment with the United Nations Sustainable Development Goals: Evidence from Guajira/Colombia
+R0260,R0260,tier-2,"RQ2,RQ3",2023,JOUR,10.1016/j.trd.2023.103890,Is switching propulsion technologies the path to sustainable land transport? decarbonizing Bogotá
+R0261,R0261,tier-2,"RQ2,RQ4",2020,JOUR,10.1021/acsomega.0c00114,Synthesis and Sustainability Evaluation of a Lignocellulosic Multifeedstock Biorefinery Considering Technical Performance Indicators
+R0262,R0262,tier-1,RQ2,2019,JOUR,10.18273/revfue.v17n2-2019004,Selection of Fields for the Implementation of Solar EOR as a Thermal Process of Improved Recovery in Colombia
+R0263,R0263,tier-2,"RQ2,RQ4",2018,CONF,10.1109/ghtc.2018.8601571,Design and Implementation of a Monitoring System for Decision Support in a Micro-Business Based on Solar Energy Microgrid in Rural Colombia
+R0265,R0265,tier-2,"RQ2,RQ3",2018,CONF,10.1088/1742-6596/1126/1/012019,PEST analysis of wind energy in the world: From the worldwide boom to the emergent in Colombia
+R0266,R0266,tier-1,RQ2,2025,CONF,10.1109/acdsa65407.2025.11166268,Methodology to determine control frequency parameters in power systems with high penetration of inverter-based resources
+R0267,R0267,tier-2,"RQ2,RQ3,RQ4",2025,JOUR,10.1016/j.sftr.2025.101468,Achieving a 100% renewable electricity supply in Colombia by 2030: Dream or feasible possibility?
+R0268,R0268,tier-2,"RQ2,RQ3,RQ4",2022,JOUR,10.32479/ijeep.13056,Evaluation of Energy Alternatives through FAHP for the Energization of Colombian Insular Areas
+R0271,R0271,tier-1,RQ2,2024,JOUR,10.3390/buildings14061746,Energy Performance of a University Building for Different Air Conditioning (AC) Technologies: A Case Study
+R0272,R0272,tier-2,"RQ2,RQ3",2024,JOUR,10.1016/j.egyr.2023.10.060,"Biofuel production in Latin America: A review for Argentina, Brazil, Mexico, Chile, Costa Rica and Colombia"
+R0273,R0273,tier-2,"RQ2,RQ3",2017,CONF,10.1109/scsp.2017.7973871,Methodology for smart energy performance in rural zones of Colombia
+R0274,R0274,tier-2,RQ3,2024,JOUR,10.1016/j.clcb.2024.100115,Enhancing environmental sustainability in a Circular Waste Bioeconomy: A hierarchical framework driven by operational efficiency and agro-energy management
+R0278,R0278,tier-2,"RQ2,RQ3",2020,JOUR,10.17533/udea.le.n93a338727,Installed capacity of photovoltaic solar energy in Colombia: An analysis of economic incentives
+R0280,R0280,tier-2,"RQ2,RQ3,RQ4",2021,JOUR,10.1016/j.jeem.2021.102541,Retail pricing in Colombia to support the efficient deployment of distributed generation and electric stoves
+R0281,R0281,tier-2,"RQ3,RQ4",2021,JOUR,10.1080/23311916.2021.1905232,Framework to design water-energy solutions based on community perceptions: Case study from a Caribbean coast community in Colombia
+R0282,R0282,tier-2,"RQ3,RQ4",2023,JOUR,10.52080/rvgluz.28.102.8,Renewable energies and emerging labor dynamics: challenges for socioeconomic transformation in Colombia
+R0283,R0283,tier-2,"RQ2,RQ4",2021,JOUR,10.1080/23311916.2021.1936372,Renewable energy smart sensing system monitoring for off-grid vulnerable community in Colombia
+R0285,R0285,tier-1,RQ2,2019,JOUR,10.1016/j.renene.2018.07.099,Optimising the insertion of renewables in the Colombian power sector
+R0286,R0286,tier-2,"RQ2,RQ3,RQ4",2023,JOUR,10.3390/en16165901,"An Overview of the Socio-Economic, Technological, and Environmental Opportunities and Challenges for Renewable Energy Generation from Residual Biomass: A Case Study of Biogas Production in Colombia"
+R0288,R0288,tier-2,"RQ2,RQ3",2024,JOUR,10.11591/ijeecs.v34.i2.pp726-744,Implementation and feasibility of green hydrogen in Colombian kitchens: an analysis of innovation and sustainability
+R0290,R0290,tier-2,"RQ2,RQ3,RQ4",2023,JOUR,10.3390/en16052292,A Comprehensive Evaluation of Off-Grid Photovoltaic Experiences in Non-Interconnected Zones of Colombia: Integrating a Sustainable Perspective
+R0292,R0292,tier-2,"RQ2,RQ3",2024,CONF,10.1109/temsconlatam61834.2024.10717740,Challenges for the implementation of Hydrogen's storage and transportation in Colombia
+R0295,R0295,tier-2,"RQ2,RQ3",2023,CONF,10.1109/c358072.2023.10436148,Actions for the implementation of local flexibility services in the Colombian power sector
+R0296,R0296,tier-2,RQ4,2021,JOUR,10.1186/s40517-021-00188-x,An online survey to explore the awareness and acceptance of geothermal energy among an educated segment of the population in five European and American countries
+R0298,R0298,tier-2,"RQ2,RQ4",2024,JOUR,10.26754/ojs_ried/ijds.871,Technologies to embrace the sun: solarpunk-based project as an exploration for a just energy transition
+R0299,R0299,tier-1,RQ2,2025,JOUR,10.3390/pr13061878,Energy Production and Process Costing for Biomass Obtained from Underutilized Plant Species in México and Colombia
+R0306,R0306,tier-1,RQ2,2020,JOUR,10.29047/01225383.128,Demand-side management strategies based on energy key performance indicators in real-time: Case study
+R0307,R0307,tier-2,"RQ2,RQ3",2019,CONF,10.1109/fisecigre48012.2019.8985022,Challenges and opportunities of smart grids implementation: A case of Colombia electricity sector
+R0308,R0308,tier-2,"RQ2,RQ3",2018,CONF,10.1109/andescon.2018.8564587,Proposal for Advanced Metering Infrastructure in Distribution Systems with Generation Distributed in Low Voltage Electrical Networks
+R0310,R0310,tier-2,"RQ2,RQ4",2020,CONF,10.23919/cisti49556.2020.9140945,Virtual tool for the promotion of anaerobic conversion technologies of residual biomass in Colombian rural areas.
+R0311,R0311,tier-2,"RQ2,RQ3",2019,JOUR,10.32479/ijeep.8038,Analysis of the use of renewable energies in Colombia and the potential application of thermoelectric devices for energy recovery
+R0312,R0312,tier-2,"RQ2,RQ3",2022,JOUR,10.1109/access.2022.3219079,An Intraday Market Design for Colombia's Energy Transition
+R0313,R0313,tier-1,RQ2,2021,JOUR,10.24425/jwld.2021.138169,Cultivation of Chlorella sp. For biodiesel production using two farming wastewaters in eastern Colombia
+R0314,R0314,tier-1,RQ2,2024,JOUR,10.1016/j.ref.2024.100591,"Geospatial analysis of hydrogen production from biogas derived from residual biomass in the dairy cattle and porcine subsectors in Antioquia, Colombia"
+R0315,R0315,tier-2,"RQ2,RQ3",2025,JOUR,10.1016/j.ijggc.2025.104361,"CO2 transport and storage potential in the Caribbean Sea, Colombia"
+R0319,R0319,tier-2,"RQ2,RQ3",2025,JOUR,10.1016/j.esr.2025.101777,A systematic approach for modeling and planning a sustainable electricity system in Colombia
+R0321,R0321,tier-1,RQ2,2022,CONF,10.1007/978-3-031-20611-5_7,Energy Performance Clustering and Data Visualization for Solar-Wind Hybrid Energy Systems
+R0323,R0323,tier-2,"RQ2,RQ4",2025,JOUR,10.3389/fsufs.2025.1672988,"Energy potential of agricultural residual biomass in municipalities of the highlands of the Santurbán Páramo, Colombia"
+R0324,R0324,tier-2,"RQ2,RQ3",2019,JOUR,10.1016/j.apenergy.2018.10.045,Climate change impacts and adaptation strategies for a hydro-dominated power system via stochastic optimization
+R0325,R0325,tier-1,RQ2,2024,JOUR,10.3303/cet24109107,Case Study: Simulation of Synthetic Natural Gas Production Plant from Empty Fruit Bunches
+R0326,R0326,tier-1,RQ2,2021,JOUR,10.3390/w13091133,Analysis of the intake locations of salinity gradient plants using hydrodynamic and membrane models
+R0327,R0327,tier-2,"RQ2,RQ3",2021,JOUR,10.1016/j.desal.2021.114933,Salinity gradient power by reverse electrodialysis: A multidisciplinary assessment in the Colombian context
+R0328,R0328,tier-2,"RQ2,RQ3",2024,JOUR,10.1016/j.jclepro.2024.141808,Biomass-based energy potential from the oil palm agroindustry in Colombia: A path to low carbon energy transition
+R0329,R0329,tier-2,"RQ2,RQ3,RQ4",2021,JOUR,10.32479/ijeep.11092,Equity and renewable energy: An analysis in residential users in the department of atlántico-colombia
+R0330,R0330,tier-2,"RQ2,RQ3",2017,JOUR,10.1016/j.energy.2017.09.041,Use of thermal energy and analysis of barriers to the implementation of thermal efficiency measures in cement production: Exploratory study in Colombia
+R0332,R0332,tier-2,"RQ2,RQ3",2023,JOUR,10.3303/cet23103149,Financial Analysis of Low-Temperature Solar Thermal Energy Storage Systems to Supply Hot Water and Heating for Rural Colombian Households
+R0333,R0333,tier-2,"RQ2,RQ4",2025,JOUR,10.3390/su17041505,"Design of an Integral Simulation Model for Solar-Powered Seawater Desalination in Coastal Communities: A Case Study in Manaure, La Guajira, Colombia"
+R0334,R0334,tier-2,"RQ2,RQ4",2018,JOUR,10.1016/j.tsep.2018.08.010,Evaluation of potential of energetic development in isolated zones with wide biodiversity: NIZ Chocó-Colombia case study
+R0335,R0335,tier-1,RQ2,2020,JOUR,10.3390/electronics9111874,PV energy performance in a sustainable campus
+R0336,R0336,tier-1,RQ2,2021,JOUR,10.3390/w13223150,Effect of climate variability events over the Colombian caribbean offshore wind resource
+R0338,R0338,tier-2,"RQ2,RQ4",2025,JOUR,10.3390/su17198767,A Methodological Framework for Technology Selection and Regional Implementation of Residual Bioenergy in Colombia
+R0339,R0339,tier-2,"RQ2,RQ3",2021,JOUR,10.1109/tla.2021.9480140,Electricity Pricing for Renewable Markets-A Simulation Approach for the Colombian Case
+R0340,R0340,tier-1,RQ2,2025,JOUR,10.1016/j.egyr.2025.01.041,Colombian agroindustrial crop residues: Thermochemical characterization and evaluation of their energy potential
+R0342,R0342,tier-1,RQ2,2020,CONF,10.1088/1742-6596/1672/1/012012,"Rice husk incidence on the physical, thermal and mechanical properties of H10 block from San José de Cúcuta, Colombia"
+R0343,R0343,tier-2,RQ3,2024,CONF,10.1109/temsconlatam61834.2024.10717825,Ancillary Services market design for Colombia's Energy Transition
+R0348,R0348,tier-2,"RQ2,RQ3,RQ4",2022,JOUR,10.1016/j.egyr.2022.01.154,Feasibility analysis for the integration of solar photovoltaic technology to the Colombian residential sector through system dynamics modeling
+R0350,R0350,tier-2,"RQ2,RQ4",2022,JOUR,10.1088/2515-7620/ac68c8,"Environmental impacts associated with hydrogen production in la Guajira, Colombia"
+R0352,R0352,tier-2,"RQ2,RQ4",2023,CONF,10.1109/aset56582.2023.10180661,Selection of environmental criteria for multi-criteria evaluation of energy supply alternatives in Non-Interconnected Zones of Colombia
+R0353,R0353,tier-2,"RQ2,RQ4",2020,JOUR,10.1007/s12649-019-00643-8,Techno-Economic and Environmental Analysis of Biogas Production from Plantain Pseudostem Waste in Colombia
+R0354,R0354,tier-2,"RQ2,RQ3",2025,JOUR,10.1016/j.egycc.2025.100216,A simulation-based analysis for the road freight transport decarbonization: A case study of Colombia
+R0360,R0360,tier-1,RQ2,2020,JOUR,10.3390/app10103566,Enzymatic transesterification ofwaste frying oil from local restaurants in east colombia using a combined lipase system
+R0363,R0363,tier-1,RQ2,2024,JOUR,10.1016/j.est.2024.112484,Enhancing DC distribution network efficiency through optimal power coordination in lithium-ion batteries: A sparse nonlinear optimization approach
+R0364,R0364,tier-1,RQ2,2017,CONF,10.1109/tdc-la.2016.7805607,Demand side management through LAB+i platform: Case study
+R0366,R0366,tier-1,RQ2,2018,JOUR,10.4067/s0718-33052018000200319,Statistical study of wind speed and direction in the departments of Atlántico and Bolivar in Colombia
+R0367,R0367,tier-2,"RQ2,RQ3",2019,JOUR,10.1016/j.jclepro.2019.02.174,Renewables energies in Colombia and the opportunity for the offshore wind technology
+R0369,R0369,tier-2,"RQ2,RQ3",2024,JOUR,10.1016/j.cles.2024.100161,Assessing the impacts of low-carbon intensity hydrogen integration in oil refineries
+R0372,R0372,tier-2,"RQ2,RQ3",2024,JOUR,10.3303/cet24109057,Sustainable Aviation Fuel Production Optimization in Colombia: an In-depth Sensitivity Analysis
+R0374,R0374,tier-2,"RQ2,RQ3",2021,JOUR,10.1002/bbb.2167,System analysis of the bio-based economy in Colombia: A bottom-up energy system model and scenario analysis
+R0376,R0376,tier-2,"RQ2,RQ3",2025,JOUR,10.3390/en18143723,Technical and Economic Feasibility Analysis to Implement a Solid-State Transformer in Local Distribution Systems in Colombia
+R0378,R0378,tier-2,"RQ3,RQ4",2017,JOUR,10.1016/j.techsoc.2017.01.002,Identifying barriers to wind energy diffusion in Colombia: A function analysis of the technological innovation system and the wider context
+R0379,R0379,tier-2,"RQ2,RQ3",2024,JOUR,10.3390/electricity5030026,The Role of Renewable Energy Policy and R&D in Renewables Diffusion
+R0381,R0381,tier-2,"RQ2,RQ3",2025,JOUR,10.1016/j.rser.2025.115885,"Fueling the transition: A comprehensive analysis of hydrogen roadmaps in Chile, Brazil and Colombia"
+R0382,R0382,tier-2,"RQ2,RQ3",2017,JOUR,10.1016/j.enpol.2017.07.063,Myths and facts of the utility death spiral
+R0383,R0383,tier-2,"RQ2,RQ4",2023,JOUR,10.1016/j.renene.2023.119555,Energy conversion and beach protection: Numerical assessment of a dual-purpose WEC farm
+R0384,R0384,tier-1,RQ2,2024,JOUR,10.1016/j.joitmc.2024.100402,Power generation mix in Colombia including wind power: Markowitz portfolio efficient frontier analysis with machine learning
+R0386,R0386,tier-2,"RQ2,RQ4",2025,JOUR,10.3390/su17030974,The Energy Potential of Agricultural Biomass Residues for Household Use in Rural Areas in the Department La Guajira (Colombia)
+R0387,R0387,tier-2,"RQ2,RQ3",2024,JOUR,10.3390/resources13010003,"Strengths, Weaknesses, Opportunities, and Threats Analysis for the Strengthening of Solar Thermal Energy in Colombia"
+R0389,R0389,tier-2,"RQ2,RQ3",2020,JOUR,10.1016/j.esr.2020.100525,Options for Colombia's mid-century deep decarbonization strategy
+R0390,R0390,tier-1,RQ2,2018,JOUR,10.4067/s0718-33052018000400599,Smart grid analysis and management in colombia towards ETAP real time solution
+R0393,R0393,tier-1,RQ2,2021,JOUR,10.1016/j.biombioe.2021.106207,CaCO3 and air/steam effect on the gasification and biohydrogen performance of corn cob as received: Application in the Colombian Caribbean region
+R0394,R0394,tier-2,"RQ2,RQ4",2023,JOUR,10.3390/fermentation9090788,Process Sustainability Analysis of Biorefineries to Produce Biofertilizers and Bioenergy from Biodegradable Residues
+R0395,R0395,tier-2,"RQ2,RQ3",2018,JOUR,10.1016/j.energy.2017.11.023,Analysis of barriers to the implementation of energy efficiency actions in the production of ceramics in Colombia
+R0396,R0396,tier-2,"RQ2,RQ3",2017,CONF,10.1109/isgt-la.2017.8126745,Methodology for defining the functionality of advanced measurement infraestructure in Colombia
+R0397,R0397,tier-2,"RQ2,RQ4",2022,JOUR,10.3390/en15030998,"Natural Gas, a Mean to Reduce Emissions and Energy Consumption of HDV? A Case Study of Colombia Based on Vehicle Technology Criteria"
+R0398,R0398,tier-2,"RQ2,RQ3",2022,JOUR,10.1016/j.energy.2021.122157,Renewables for supporting supply adequacy in Colombia
+R0399,R0399,tier-1,RQ2,2021,JOUR,10.32479/ijeep.10705,"The available waste-to-energy potential from agricultural wastes in the department of Córdoba, Colombia"
+R0400,R0400,tier-1,RQ2,2022,JOUR,10.3390/su142316083,Energy Management System for the Optimal Operation of PV Generators in Distribution Systems Using the Antlion Optimizer: A Colombian Urban and Rural Case Study
+R0401,R0401,tier-2,"RQ2,RQ4",2018,JOUR,10.1016/j.jenvman.2017.04.029,Energetic and environmental assessment of thermochemical and biochemical ways for producing energy from agricultural solid residues: Coffee Cut-Stems case
+R0402,R0402,tier-2,"RQ2,RQ3",2018,CONF,10.1007/978-3-319-95204-8_57,Knowledge management strategies to improve competitiveness by incorporating renewable energy into small companies called “mipymes” in Colombia
+R0404,R0404,tier-2,"RQ2,RQ3",2017,JOUR,10.4067/s0718-33052017000300399,"Multicriteria hybrid method - ROA, for the choice of generation of renewable sources: Case study in shopping centers"
+R0406,R0406,tier-1,RQ2,2020,CONF,10.1109/andescon50619.2020.9272144,Optimization and feasibility of standalone hybrid diesel-pv-battery microgrid considering battery technologies
+R0407,R0407,tier-2,"RQ2,RQ3,RQ4",2023,JOUR,10.3390/en16237900,A Data-Driven Architecture for Smart Renewable Energy Microgrids in Non-Interconnected Zones: A Colombian Case Study
+R0408,R0408,tier-2,"RQ2,RQ3",2025,JOUR,10.1016/j.jclepro.2025.145800,Evaluating decarbonization technologies and optimizing pathways in ceramic tile production through life cycle assessment in Latin America
+R0409,R0409,tier-2,"RQ3,RQ4",2024,JOUR,10.3390/buildings14030665,"Renewable Energy Use for Buildings Decarbonization Causes Inequity in Consumers? Comparative Analysis of Spain, Mexico, and Colombia"
+R0410,R0410,tier-1,RQ2,2018,CONF,10.1088/1742-6596/1126/1/012012,Use of organic waste biomass for the design of an electric station
+R0413,R0413,tier-1,RQ2,2025,JOUR,10.3390/su17093848,Evolution of Real-Time Dynamics Monitoring of Colombian Power Grid Using Wide-Area Monitoring System and High-Speed Big Data Analytics
+R0415,R0415,tier-1,RQ2,2021,JOUR,10.1016/j.heliyon.2021.e07959,Wind and solar resource assessment and prediction using Artificial Neural Network and semi-empirical model: case study of the Colombian Caribbean region
+R0418,R0418,tier-2,"RQ2,RQ4",2025,JOUR,10.3390/en18236141,Assessment of Hybrid Renewable Energy System: A Particle Swarm Optimization Approach to Power Demand Profile and Generation Management
+R0419,R0419,tier-2,"RQ2,RQ3",2025,JOUR,10.3390/en18102483,A Metaheuristic Framework for Cost-Effective Renewable Energy Planning: Integrating Green Bonds and Fiscal Incentives
+R0421,R0421,tier-2,"RQ2,RQ4",2025,JOUR,10.1007/s43615-025-00612-5,Life-cycle Environmental Impacts of Passenger and Freight Transport: a Comparison between the Global North and South
+R0423,R0423,tier-2,"RQ2,RQ4",2024,JOUR,10.26754/ojs_ried/ijds.10716,"Environmental impact assessment of the installation, operation and dismantling of a photovoltaic park in the Colombian Guajira IV SEGIB-AECID Secondary Award in Research on Sustainable Development in Ibero-America"
+R0424,R0424,tier-2,"RQ2,RQ4",2024,JOUR,10.1016/j.ijft.2024.100675,Hydrokinetic resource assessment in Colombia's Non-Interconnected Zones: Case study
+R0425,R0425,tier-2,"RQ2,RQ4",2020,CONF,10.1051/e3sconf/202018102002,Formulation and simulation of a hybrid solar PV-wind generation system with photovoltaic concentration for non-interconnected areas to the energy grid
+R0428,R0428,tier-1,RQ2,2025,JOUR,10.3390/su17114749,"Predicting Energy Consumption and Time of Use of Home Appliances in an HEMS Using LSTM Networks and Smart Meters: A Case Study in Sincelejo, Colombia"
+R0429,R0429,tier-1,RQ2,2024,JOUR,10.32479/ijeep.16474,Evaluation and Ranking of Energy Alternatives for Implementation in Different Geographic Scenarios using Decision Methods: Case Study of Colombia
+R0430,R0430,tier-2,"RQ2,RQ3,RQ4",2025,JOUR,10.3390/en18041010,Driving the Energy Transition in Colombia for Off-Grid Regions: Microgrids and Non-Conventional Renewable Energy Sources
+R0431,R0431,tier-2,"RQ2,RQ4",2023,JOUR,10.1007/s11356-022-24480-w,Design of an energy vulnerability index — spatial and temporal analysis: case of study Colombia
+R0434,R0434,tier-2,"RQ2,RQ3",2023,JOUR,10.1016/j.igd.2023.100071,"The influences of renewable energy, globalization, technological innovations, and forests on emission reduction in Colombia"
+R0435,R0435,tier-1,RQ2,2023,JOUR,10.3390/en16176267,Experimental and Numerical Evaluation of an HCCI Engine Fueled with Biogas for Power Generation under Sub-Atmospheric Conditions
+R0436,R0436,tier-2,"RQ3,RQ4",2025,JOUR,10.1017/sus.2025.10034,Identifying the determinants of the energy transition in departments in Colombia: an analysis with spatial econometrics
+R0440,R0440,tier-2,"RQ2,RQ3",2022,CONF,10.1109/ieeepesgtdlatinameri53482.2022.10038297,Technological Architecture Design for Energy Communities: The Colombian Case
+R0442,R0442,tier-2,"RQ2,RQ3",2023,CONF,10.1109/colcom59909.2023.10334277,The Contribution of ICTs and Digitalization to the Energy Transition: Realities and Opportunities for Project Management in Colombia
+R0443,R0443,tier-1,RQ2,2017,CONF,10.1109/isgteurope.2017.8260317,Assessing the impact of wind variability on the long-term operation of a hydro-dominated system
+R0445,R0445,tier-1,RQ2,2022,JOUR,10.3390/wind2020020,Multifactorial Analysis to Determine the Applicability of Wind Power Technologies in Favorable Areas of the Colombian Territory
+R0446,R0446,tier-2,"RQ2,RQ4",2022,JOUR,10.1016/j.deveng.2022.100093,Potential of livestock manure and agricultural wastes to mitigate the use of firewood for cooking in rural areas. The case of the department of Cordoba (Colombia)
+R0448,R0448,tier-1,RQ2,2023,JOUR,10.3390/su152316371,Economic Evaluation and Technoeconomic Resilience Analysis of Two Routes for Hydrogen Production via Indirect Gasification in North Colombia
+R0451,R0451,tier-1,RQ2,2023,JOUR,10.1016/j.applthermaleng.2022.119930,Thermo-economical performance analysis of a direct-expansion solar heat-pump water heater driven by a photovoltaic array and the electrical grid in Medellín Colombia
+R0452,R0452,tier-2,"RQ2,RQ3",2020,JOUR,10.5821/ace.15.43.8772,The cities and the sun: The grid parity of electricity generation with photovoltaic systems in Colombian households
+R0453,R0453,tier-1,RQ2,2020,CONF,10.1088/1742-6596/1587/1/012038,"Assessing wind and solar resources. Case study: Department of Norte de Santander, Colombia, stage 1"
+R0454,R0454,tier-2,"RQ2,RQ3",2022,JOUR,10.3390/su142215123,Optimal Structuring of Investments in Electricity Generation Projects in Colombia with Non-Conventional Energy Sources
+R0455,R0455,tier-2,"RQ2,RQ3",2025,JOUR,10.1007/s10098-025-03292-9,Differences in the perception of drivers and barriers to the adoption of decentralised renewable energy technologies: a comparison between Spain and Colombia
+R0457,R0457,tier-1,RQ2,2019,CONF,10.1088/1742-6596/1386/1/012130,Comparative thermal analysis of extruded ceramic products between multi perforated brick and modified bricks in cells distribution
+R0460,R0460,tier-1,RQ2,2017,JOUR,10.3303/cet1757119,Energy saving in industrial process based on the equivalent production method to calculate energy performance indicators
+R0462,R0462,tier-2,"RQ2,RQ3",2022,JOUR,10.11591/ijece.v12i5.pp4521-4528,Challenges and perspectives of the use of photovoltaic solar energy in Colombia
+R0463,R0463,tier-2,"RQ2,RQ3",2017,JOUR,10.1080/15567249.2016.1276648,Fiscal incentives impact for RETs investments in Colombia
+R0464,R0464,tier-2,"RQ2,RQ3,RQ4",2018,JOUR,10.1016/j.rser.2018.04.065,"Photovoltaic energy in Colombia: Current status, inventory, policies and future prospects"
+R0469,R0469,tier-2,"RQ2,RQ3",2021,CONF,10.1109/scla53004.2021.9540112,Standardization for the connection of electric vehicles: Colombian case
+R0470,R0470,tier-2,"RQ2,RQ3",2018,CONF,10.1109/tdc-la.2018.8511747,Applications and Validation of WECC Model for Type 4 Wind Generator Controller for the Colombian Power System
+R0472,R0472,tier-2,"RQ2,RQ3",2021,JOUR,10.4067/s0718-07642021000100079,Cost estimation of Colombian electric power distribution by considering distributed photovoltaic generation
+R0473,R0473,tier-1,RQ2,2025,JOUR,10.21303/2461-4262.2025.003612,DEVELOPMENT AND EVALUATION OF AN INTELLIGENT IOT-BASED MONITORING SYSTEM FOR ENERGY MANAGEMENT IN A COMMERCIAL REFRIGERATION SYSTEM IN THE COLOMBIAN CARIBBEAN COAST
+R0475,R0475,tier-2,"RQ2,RQ4",2023,JOUR,10.3390/en16073161,Digitalisation and Modernisation of Hydropower Operating Facilities to Support the Colombian Energy Mix Flexibility
+R0476,R0476,tier-1,RQ2,2020,CONF,10.1016/j.egyr.2020.03.030,Techno-economic benefits of grid-scale energy storage in future energy systems
+R0477,R0477,tier-2,"RQ2,RQ3",2024,JOUR,10.32479/ijeep.16280,Towards a Standardized LCOE Calculation for Informed Decision-Making in Energy Policy and Investment: Application to the Colombian Context
+R0479,R0479,tier-1,RQ2,2021,CONF,10.1109/isgtasia49270.2021.9715651,Power Quality Analysis of Colombian Local Distribution Systems with Photovoltaic Systems as Distributed Generation. Study Case: IEEE 13 Nodes System
+R0480,R0480,tier-2,RQ3,2022,JOUR,10.3390/buildings12101531,Decarbonization of the Colombian Building Sector: Social Network Analysis of Enabling Stakeholders
+R0481,R0481,tier-1,RQ2,2021,JOUR,10.32479/ijeep.11014,"A hybrid energy solution for the sustainable electricity supply of an irrigation system in a rural area of zona bananera, colombia"
+R0484,R0006,tier-1,RQ2,2025,JOUR,10.1016/j.mex.2025.103248,Multi-criteria evaluation and multi-method analysis for appropriately selecting renewable energy sources in Colombia
+R0486,R0486,tier-2,"RQ2,RQ3",2019,CONF,10.1088/1742-6596/1257/1/012011,Smart grid review: Reality in Colombia and expectations
+R0487,R0487,tier-2,"RQ2,RQ3",2020,JOUR,10.32479/ijeep.9713,Analysis of the level of implementation of programs for the efficient use of energy and unconventional sources: Case study Colombia
+R0488,R0488,tier-2,"RQ2,RQ3,RQ4",2025,JOUR,10.3390/cleantechnol7040096,The Energy Transition in Colombia: Government Projections and Realistic Scenarios
+R0490,R0490,tier-2,"RQ2,RQ3",2020,CONF,10.1088/1757-899x/844/1/012010,Drivers of Biomass Power Generation Technologies: Adoption in Colombia
+R0491,R0491,tier-2,"RQ2,RQ3,RQ4",2020,JOUR,10.1016/j.renene.2020.05.055,Renewables in the optimal expansion of colombian power considering the Hidroituango crisis
+R0493,R0493,tier-1,RQ2,2024,JOUR,10.1038/s41598-024-74141-w,Innovation in clean energy from man-made wind and small-wind generation
+R0494,R0494,tier-1,RQ2,2023,JOUR,10.1016/j.aej.2023.02.015,Selection of HVAC technology for buildings in the tropical climate case study
+R0495,R0495,tier-2,"RQ2,RQ3",2021,JOUR,10.1080/19397038.2021.1993378,Alternatives of municipal solid wastes to energy for sustainable development. The case of Barranquilla (Colombia)
+R0502,R0502,tier-2,"RQ2,RQ3",2016,JOUR,10.20937/rica.2016.32.05.06,Experiences of waste utilization for the generation of biodiesel in Colombia and Mexico
+R0504,R0504,tier-2,"RQ2,RQ3",2016,JOUR,10.1016/j.apenergy.2016.07.120,"Development of a technology roadmap for bioenergy exploitation including biofuels, waste-to-energy and power generation & CHP"
+R0505,R0505,tier-2,"RQ2,RQ3",2015,JOUR,10.1016/j.jclepro.2014.12.090,"Renewable energy technology diffusion: An analysis of photovoltaic-system support schemes in Medellín, Colombia"
+R0507,R0507,tier-2,"RQ2,RQ3",2016,JOUR,10.1016/j.rser.2015.11.065,How capacity mechanisms drive technology choice in power generation: The case of Colombia
+R0509,R0509,tier-2,"RQ2,RQ3,RQ4",2016,JOUR,10.1016/j.enpol.2016.05.008,Beyond electricity: The potential of ocean thermal energy and ocean technology ecoparks in small tropical islands
+R0512,R0512,tier-2,"RQ2,RQ3",2015,JOUR,10.3303/cet1543097,"Generation of electricity by plant biomass in villages of the Colombian provinces: Chocó, Meta and Putumayo"
+R0513,R0513,tier-1,RQ2,2016,CONF,10.1109/pesgm.2016.7741905,Optimal microgrid management in the Colombian energy market with demand response and energy storage
+R0514,R0514,tier-2,RQ3,2016,CONF,10.1007/978-3-319-47874-6_17,Colombian regulations for the implementation of cognitive radio in smart grids
+R0517,R0517,tier-2,"RQ2,RQ3",2016,JOUR,10.1016/j.energy.2016.06.051,Diffusion of renewable energy technologies: The need for policy in Colombia
+R0519,R0519,tier-2,"RQ2,RQ4",2015,JOUR,10.1016/j.resconrec.2015.04.007,"A comparison of energy use, water use and carbon footprint of cassava starch production in Thailand, Vietnam and Colombia"
+R0520,R0520,tier-2,"RQ2,RQ3,RQ4",2016,JOUR,10.1016/j.apenergy.2016.06.039,"A general modeling framework to evaluate energy, economy, land-use and GHG emissions nexus for bioenergy exploitation"
+R0524,R0524,tier-1,RQ2,2015,CONF,10.1109/smartgridcomm.2014.7007657,Narrowband power line communications evaluation in complex distribution networks
+R0527,R0527,tier-2,"RQ2,RQ3",2016,JOUR,10.1016/j.jclepro.2015.08.089,Assessing emissions-mitigation energy policy under integrated supply and demand analysis: The Colombian case
+R0529,R0529,tier-1,RQ2,2016,CONF,10.1088/1757-899x/138/1/012010,Smart Grids and their Applicability for the Development of the Electricity Sector for Colombia in the year 2050
+R0530,R0530,tier-1,RQ2,2016,JOUR,10.3303/cet1649065,Anaerobic co-digestion of organic residues from different productive sectors in Colombia: Biomethanation potential assessment
+R0531,R0531,tier-1,RQ2,2016,CONF,10.1109/isgt-la.2015.7381251,"Comparison between the energy generated from three types of c-Si photovoltaic modules and the temperature and irradiance of the city of Pasto, Colombia"
+R0534,R0534,tier-2,"RQ2,RQ3",2015,CONF,10.1109/colcomcon.2015.7152093,Performance evaluation of future AMI applications in Smart Grid Neighborhood Area Networks
+R0535,R0535,tier-2,"RQ2,RQ4",2015,JOUR,10.3303/cet1545303,Environmental sustainability analysis of technologies for electricity generation of renewable energy sources in non-interconnected areas from Colombia through the use of fuzzy logic
+R0537,R0537,tier-2,"RQ2,RQ3",2015,JOUR,10.3303/cet1543242,"Analysis on the economic feasibility of power generation from renewable energy systems in non-interconnected zones of Colombia, study of cases"
+R0538,R0538,tier-2,"RQ2,RQ3",2016,JOUR,10.1016/j.jclepro.2015.12.019,Regional analysis across Colombian departments: A non-parametric study of energy use
+R0541,R0541,tier-2,RQ3,2015,JOUR,10.1016/j.tej.2015.07.002,Impacts of Regulation in the Development of Distributed Generation
+R0542,R0542,tier-2,"RQ2,RQ3",2015,JOUR,10.1080/15567249.2010.540625,Estimating and analyzing energy efficiency in German and Colombian manufacturing industries using dea and data panel analysis. Part I: Energy-intensive sectors
+R0543,R0543,tier-1,RQ2,2015,JOUR,10.14257/ijsh.2015.9.12.10,Prediction of solar global radiation in bogotá Colombia based on mathematical models
+R0544,R0544,tier-2,"RQ3,RQ4",2016,JOUR,10.1016/j.erss.2016.08.023,The political ecology of hydropower: Social justice and conflict in Colombian hydroelectricity development
+R0557,R0557,tier-2,"RQ2,RQ3",2023,article,10.1016/j.ijepes.2023.109614,Quantifying power system flexibility for the energy transition in Colombia
+R0565,R0565,tier-2,RQ3,2019,article,10.14718/culturalatinoam.2019.29.1.6,De los hidrocarburos a las energías renovables en Colombia.
+R0578,R0578,tier-2,"RQ2,RQ4",2022,article,10.22431/25005227.vol52n2.9,Beneficios económicos de la energía renovable en Colombia
+R0591,R0591,tier-1,RQ2,2015,conference-paper,10.1109/isgt-la.2015.7381165,Integration of wind power plants into the Colombian power system
+R0598,R0598,tier-2,"RQ3,RQ4",2025,article,10.15446/ga.v27n2.118383,Análisis desde el marco normativo para el aprovechamiento de las Fuentes No Convencionales de Energía Renovable – FNCER. Avances y desafíos en la implementación de la transición energética en Colombia
+R0602,R0602,tier-1,RQ2,2017,conference-paper,10.1109/isgt-la.2017.8126714,Impact assessment of demand response and distributed generation in the colombian power system chargeability
+R0614,R0614,tier-1,RQ2,2020,article,10.3389/fenrg.2020.575240,Assessing the Complementarities of Colombia’s Renewable Power Plants
+R0617,R0617,tier-1,RQ2,2019,article,10.3390/en12020317,A BESS Sizing Strategy for Primary Frequency Regulation Support of Solar Photovoltaic Plants
+R0623,R0623,tier-1,RQ2,2020,article,10.1016/j.tsep.2020.100679,Performance evaluation of external fired hybrid solar gas-turbine power plant in Colombia using energy and exergy methods
+R0627,R0627,tier-1,RQ2,2018,article,10.18041/1794-4953/avances.1.4732,Despacho de energía óptimo en múltiples periodos considerando la incertidumbre de la generación a partir de fuentes renovables en un modelo reducido del sistema de potencia colombiano
+R0639,R0639,tier-1,RQ2,2025,conference-paper,10.1109/powertech59965.2025.11180639,Grid-scale Battery Energy Storage Systems for Fast Frequency Regulation: The Colombian Case
+R0641,R0641,tier-2,"RQ2,RQ4",2015,conference-paper,10.1109/pvsc.2015.7356258,Photovoltaic projects developed in Non-Interconnected Zones in Colombia
+R0645,R0645,tier-1,RQ2,2022,article,10.3390/en15072418,Cost Functions for Generation Dispatching in Microgrids for Non-Interconnected Zones in Colombia
+R0646,R0646,tier-2,"RQ2,RQ3",2025,article,10.1016/j.renene.2025.124040,Quantifying the 2050 scenarios for Colombia's electricity sector transition
+R0647,R0647,tier-2,"RQ2,RQ3",2015,article,10.15665/rp.v13i1.358,Rol de las Fuentes No Convencionales de Energía en el sector eléctrico colombiano
+R0649,R0649,tier-2,"RQ2,RQ4",2018,conference-paper,10.1109/icrera.2018.8566873,Exergoeconomic study of the performance of a generation system in a non-interconnected zone in Colombia using syngas in an internal combustion engine with energy accumulation
+R0650,R0650,tier-2,"RQ3,RQ4",2020,article,10.1016/j.eist.2020.04.003,Landscape matters: Insights from the impact of mega-droughts on Colombia's energy transition
+R0653,R0653,tier-1,RQ2,2023,conference-paper,10.1109/c358072.2023.10436322,Design of a Containerized Microgrid for Electricity Supply in Colombian Non-Interconnected Zones
+R0655,R0655,tier-2,"RQ2,RQ3",2022,article,10.32397/tesea.vol3.n1.3,Demand Response Program Implementation Methodology: A Colombian Study Case
+R0659,R0659,tier-2,RQ3,2025,article,10.37417/cudere/vol_3_2025_3193,Transformación de la matriz energética en Colombia: hacia una transición sostenible y responsable
+R0668,R0668,tier-1,RQ2,2024,article,10.1016/j.tsep.2024.102927,Multi-objective optimisation of hybrid renewable energy systems for Colombian non-interconnected zones
+R0676,R0676,tier-2,"RQ2,RQ3,RQ4",2021,article,10.1007/s10668-020-01188-w,Economic viability and optimization of solar microgrids with hybrid storage in a non-interconnected zone in Colombia
+R0680,R0680,tier-1,RQ2,2021,article,10.1109/access.2021.3069006,Data-Driven Load Modeling to Analyze the Frequency of System Including Demand Response: A Colombian Study Case
+R0697,R0697,tier-2,"RQ2,RQ3",2020,article,10.14482/ecoca.23.3042,Redes inteligentes y mecanismo de respuesta de la demanda: el caso del sector eléctrico colombiano
+R0710,R0710,tier-1,RQ2,2015,conference-paper,10.1109/isgt-la.2015.7381159,Hydrothermal coordination considering wind and pumping storage unit in the Colombian smart grid
+R0716,R0716,tier-1,RQ2,2016,article,10.3303/cet1650059,Assessment of the Energy Potential of Agricultural Residues in Non-Interconnected Zones of Colombia: Case Study of Chocó and Putumayo
+R0718,R0718,tier-2,"RQ2,RQ3",2022,conference-paper,10.1109/argencon55245.2022.9939739,Herramienta para el Planeamiento e Integración de Sistemas de Almacenamiento -HEPISA
+R0725,R0725,tier-2,"RQ2,RQ3,RQ4",2021,article,10.1007/s12053-021-09989-2,Rational and efficient energy use programs in Non-Interconnected Zones in Colombia: a system dynamics analysis
+R0739,R0739,tier-1,RQ2,2025,conference-paper,10.3390/engproc2025101010,Electricity Demand Model for Climate Change Analysis in Systems with High Integration of Wind and Solar Energy
+R0757,R0757,tier-2,RQ3,2024,article,10.3390/su16177263,Energy Transition in Colombia: An Implementation Proposal for SMEs
+R0759,R0759,tier-1,RQ2,2023,article,10.12720/sgce.12.4.111-117,Optimization of Photovoltaic and Wind Energy Sources Sizing for Home Requirements in Non-interconnected Zones: A Colombian Case Study
+R0762,R0762,tier-1,RQ2,2022,conference-paper,10.1109/ieeepesgtdlatinameri53482.2022.10037784,Stability Analysis in a Colombian Non-Interconnected Zone with BESS and PV Systems in Different Locations of a Recloser as Main Protection
+R0767,R0767,tier-2,"RQ2,RQ4",2017,article,10.3303/cet1757262,"Potential Assessment of Renewable Energy Sources in Non-interconnected Zones of Colombia, using Geographic Information System - ArcGIS: Study of Cases"
+R0772,R0772,tier-1,RQ2,2018,article,10.14483/23448350.12304,Metodología para la determinación de características del viento y evaluación del potencial de energía eólica en Túquerres-Nariño
+R0787,R0787,tier-2,RQ3,2016,conference-paper,10.1109/pvsc.2016.7750280,Regulating the integration of renewable energy in Colombia: Implications of Law 1715 of 2014
+R0792,R0792,tier-2,"RQ2,RQ3",2017,article,10.19053/1900771x.v17.n1.2017.5954,Colombia: Territorio de inversión en fuentes no convencionales de energía renovable para la generación eléctrica
+R0799,R0799,tier-1,RQ2,2023,conference-paper,10.26507/paper.3085,Generación de energía limpia con un innovador nano aerogenerador con alternador de automóvil de baja potencia
+R0811,R0811,tier-2,"RQ2,RQ3",2018,article,10.15765/pdv.v9i13.1117,LAS ENERGÍAS ALTERNATIVAS ¿UNA OPORTUNIDAD PARA COLOMBIA?
+R0812,R0812,tier-1,RQ2,2016,conference-paper,10.1109/sege.2016.7589496,Impact of including dynamic line rating model on colombian power system
+R0815,R0815,tier-2,"RQ2,RQ3",2022,article,10.22517/23447214.24780,Algoritmo basado en Python-Pyomo para el proceso de adjudicación de subastas de renovables en Colombia
+R0816,R0816,tier-2,"RQ2,RQ3,RQ4",2025,article,10.11591/ijece.v15i3.pp2523-2533,Analysis of geothermal technology development in the Colombian energy transition to 2050 using system dynamics
+R0829,R0829,tier-2,RQ3,2021,conference-paper,10.1007/978-3-030-75680-2_27,Guidelines to Define a Regulatory Proposal in the Transition and Inclusion of Non-conventional Renewable Energies in Colombia and Its Role in the Development of Smart Cities
+R0833,R0833,tier-2,"RQ2,RQ3,RQ4",2018,article,10.26620/uniminuto.inventum.13.25.2018.41-52,Un análisis de las implicaciones de la falta de cobertura de energía renovable no convencional en Colombia
+R0841,R0841,tier-1,RQ2,2022,article,10.3390/en15207604,Scrutinizing the Intermittency of Renewable Energy in a Long-Term Planning Model via Combining Direct Integration and Soft-Linking Methods for Colombia’s Power System
+R0848,R0848,tier-2,"RQ2,RQ4",2020,article,10.3390/en13226146,Techno-Economic Feasibility Analysis through Optimization Strategies and Load Shifting in Isolated Hybrid Microgrids with Renewable Energy for the Non-Interconnected Zone (NIZ) of Colombia
+R0849,R0849,tier-2,"RQ3,RQ4",2025,article,10.22490/ecbti.9976,Just energy transition: challenges and opportunities in rural communities
+R0853,R0853,tier-2,"RQ2,RQ4",2023,article,10.1016/j.energy.2023.128735,Sustainability assessment of the solar energy supply chain in Colombia
+R0855,R0855,tier-1,RQ2,2024,article,10.32397/tesea.vol5.n2.611,A Comprehensive Method for Designing Containerized Microgids in Non-Interconnected Zones
+R0861,R0861,tier-2,"RQ2,RQ3,RQ4",2019,article,10.1016/j.seta.2019.100531,"Assessment of solar and wind energy potential in La Guajira, Colombia: Current status, and future prospects"
+R0863,R0863,tier-2,"RQ2,RQ3",2015,article,10.15446/dyna.v82n192.48564,How to promote distributed resource supply in a Colombian microgrid with economic mechanism?: System dynamics approach
+R0869,R0869,tier-2,RQ3,2023,conference-paper,10.1109/c358072.2023.10436209,How Energy Auctions Can Support Energy Transition: A Proposition to Colombian Power Market Design
+R0880,R0880,tier-2,"RQ2,RQ3",2022,article,10.1016/j.est.2022.106433,"Economy, financial, and regulatory method for the integration of electrical energy storage in a power network"
+R0882,R0882,tier-2,"RQ2,RQ3,RQ4",2024,article,10.62754/joe.v3i8.6517,The Role of Battery Energy Storage in Colombia’s Sustainable Energy Transition: A Socio-Ecological and Economic Perspective
+R0885,R0885,tier-2,"RQ2,RQ3",2021,article,10.36260/rbr.v10i4.1271,Study of the application of energy generation systems with mini hydroelectric
+R0896,R0896,tier-2,"RQ2,RQ3",2024,conference-paper,10.1007/978-3-031-49799-5_43,Technological Alternatives for Sustainable River Mobility in Colombia
+R0898,R0898,tier-2,"RQ2,RQ3",2021,article,10.36260/rbr.v10i5.1302,Application of cogeneration and trigeneration systems
+R0905,R0905,tier-2,"RQ2,RQ3",2022,article,10.3390/su141811436,On the Potential of Blue Hydrogen Production in Colombia: A Fossil Resource-Based Assessment for Low-Emission Hydrogen
+R0911,R0911,tier-2,"RQ3,RQ4",2024,article,10.1016/j.erss.2024.103792,"Conflict and resistance: Unveiling the hidden costs of small hydropower in an armed conflict-affected region of Antioquia, Colombia"
+R0915,R0915,tier-2,"RQ2,RQ3",2022,article,10.1016/j.jobe.2022.104402,Estimation of the impact of energy efficiency measures recommended by Colombian legislation on the performance of low- and middle-income housing buildings
+R0920,R0920,tier-2,"RQ2,RQ3,RQ4",2024,article,10.32479/ijeep.14958,"Technical and Financial Analysis for the Implementation of Small-scale Self-generation Projects, based on Grid-Tied Photovoltaic Solar Energy, for Residential Users under Colombian Regulations"
+R0935,R0935,tier-2,"RQ2,RQ3",2025,article,10.3390/en18195316,Dynamic Modelling of the Natural Gas Market in Colombia in the Framework of a Sustainable Energy Transition
+R0953,R0953,tier-2,"RQ2,RQ3",2024,article,10.3390/en17225567,Innovative Microgrid Services and Applications in Electric Grids: Enhancing Energy Management and Grid Integration
+R0961,R0961,tier-2,"RQ2,RQ3,RQ4",2025,conference-paper,10.26507/paper.4244,Energía solar fotovoltaica: perspectivas y oportunidades en el marco de la política energética en las zonas no interconectadas (ZNI) en Colombia
+R0966,R0966,tier-2,"RQ2,RQ3",2021,article,10.16925/2357-6014.2021.02.05,Opportunities for crossfertilisation between the shipbuilding industry and the emergent offshore wind energy sector in Colombia: An overview of floating platformtechnologies
+R0975,R0975,tier-2,"RQ2,RQ4",2024,article,10.15446/sicel.v11.110301,"Diagnóstico y propuesta de modernización de la energía en Zonas No Interconectadas: Caso Isla Fuerte, Bolívar"
+R0978,R0978,tier-2,"RQ3,RQ4",2022,article,10.15446/ga.v24nsupl2.92941,Energías comunitarias para la transición justa
+R0986,R0986,tier-2,"RQ3,RQ4",2024,article,10.30973/dyg/2024.3.4/3,"Transición energética justa, derechos socio territoriales y culturales en comunidades étnicas en La Guajira, Colombia"
+R0989,R0989,tier-1,RQ2,2019,article,10.3390/su11133498,Solar Decathlon Latin America and Caribbean: Comfort and the Balance between Passive and Active Design
+R0990,R0990,tier-1,RQ2,2022,article,10.15446/ing.investig.92351,"Assessment of the Wind Power Potential in the Gulf of Urabá, Department of Antioquia"
+R0992,R0992,tier-2,"RQ2,RQ4",2021,article,10.35741/issn.0258-2724.56.3.33,Evaluation for the Production of Bio-Carbon and Bio-Oil through a Combined Process of Gasification and Slow Pyrolysis of the Organic Waste Fraction
+R0993,R0993,tier-2,"RQ2,RQ3,RQ4",2024,article,10.4067/s0718-07642024000500001,Hacia una matriz energética sostenible en Colombia. Una revisión sistemática de la literatura
+R0994,R0994,tier-2,"RQ2,RQ3,RQ4",2025,conference-paper,10.26507/paper.4218,Transición eléctrica inclusiva para Colombia 2050: un enfoque de sistémica aumentada
+R0995,R0995,tier-2,"RQ2,RQ3",2024,conference-paper,10.26507/paper.3675,Desafíos técnicos y regulatorios en la implementación de respuesta de la demanda en Colombia
+R1025,R1025,tier-1,RQ2,2021,article,10.17981/ingecuc.17.1.2021.20,Energy correlation between global solar radiation and wind speed in the Colombian Caribbean
+R1026,R1026,tier-2,"RQ2,RQ3",2019,article,10.4067/s0718-07642019000500047,Gestión Energética en el Sector Salud en Colombia: Un Caso de Desarrollo Limpio y Sostenible
+R1036,R1036,tier-1,RQ2,2022,article,10.3390/app12083980,Design and Development of a Management System for Energy Microgrids Using Linear Programming
+R1045,R1045,tier-2,RQ3,2016,article,10.17533/udea.rc.328430,Desarrollo sostenible e incentivos fiscales en la producción de biocombustibles: análisis crítico desde el marco de los Objetivos de Desarrollo Sostenible-ODS
+R1051,R1051,tier-1,RQ2,2018,article,10.22430/22565337.1057,Análisis de factibilidad técnico-económico de microrredes que integran celdas de combustible en zonas no interconectadas de Colombia
+R1054,R1054,tier-2,"RQ2,RQ3",2021,article,10.21830/23460628.93,"Energía eólica, una alternativa ambientalmente sostenible desde el Ejército Nacional de Colombia"
+R1060,R1060,tier-2,"RQ2,RQ3",2018,article,10.18041/1794-4953/avances.1.4743,Escenario de Desarrollo Energético Sostenible en Colombia 2017-2030
+R1070,R1070,tier-2,"RQ3,RQ4",2021,article,10.4067/s0718-34022021000300013,"Transformaciones radicales ambientales frente a la destrucción renovada y verde, La Guajira, Colombia"
+R1078,R1078,tier-2,"RQ2,RQ3",2024,article,10.15446/cuad.econ.v43n91.103081,Efecto de la entrada en operación de la central hidroeléctrica más grande y de las energías renovables no convencionales en Colombia sobre el precio de bolsa
+R1083,R1083,tier-2,"RQ3,RQ4",2024,article,10.15446/sicel.v11.110027,"Sostenibilidad de comunidades energéticas: Propuestas de gestión y evaluación de proyectos comunitarios de energías renovables para Isla Fuerte, Bolívar."
+R1084,R1084,tier-2,"RQ2,RQ3",2021,article,10.14483/22487638.18619,A Comprehensive Review of Sustainability in Isolated Colombian Microgrids
+R1088,R1088,tier-2,RQ3,2023,article,10.18601/01245996.v25n49.07,Retos para instaurar un Green New Deal en Colombia
+R1089,R1089,tier-2,"RQ2,RQ3,RQ4",2018,article,10.1016/j.rser.2018.08.001,A review of key international biomass and bioenergy sustainability frameworks and certification systems and their application and implications in Colombia
+R1103,R1103,tier-2,"RQ2,RQ3",2022,article,10.4067/s0718-07642022000300189,Metodologías para la estructuración de inversiones en proyectos de energía renovable
+R1113,R1113,tier-2,"RQ2,RQ3",2018,article,10.22430/22565337.774,Integration of distributed energy resources in isolated microgrids: the Colombian paradigm
+R1117,R1117,tier-2,"RQ2,RQ3,RQ4",2023,article,10.18273/revuin.v22n4-2023012,Methodological Proposal: First Steps for the Implementation of Demand Management Programs in Colombia
+R1121,R1121,tier-1,RQ2,2021,article,10.4067/s0718-07642021000100101,Diagnóstico del consumo de energía eléctrica en la planificación de un sistema de gestión y norma técnica de calidad ISO 50001:2011
+R1125,R1125,tier-2,"RQ2,RQ3",2018,article,10.1016/j.rser.2018.03.015,Assessing the obstacles to the participation of renewable energy sources in the electricity market of Colombia
+R1141,R1141,tier-1,RQ2,2024,article,10.22395/seec.v27n62a4561,VIABILIDAD ECONÓMICA DE LOS SISTEMAS AGRIVOLTAICOS EN COLOMBIA
+R1161,R1161,tier-2,"RQ2,RQ3",2020,article,10.17577/ijertv9is110277,Analysis of Offshore Wind Energy in Colombia: Current Status and Future Opportunities
+R1168,R1168,tier-2,"RQ2,RQ3",2025,article,10.17981/ladee.06.01.2025.4,Real Options-Based Methodology for Valuing Photovoltaic Systems in the Colombian Health Sector
+R1183,R1183,tier-2,"RQ3,RQ4",2023,article,10.26754/ojs_ried/ijds.738,Análisis sobre las barreras sociales y jurídicas que limitan la consolidación de las fuentes de energía no convencionales en La Guajira (Colombia)
+R1192,R1192,tier-1,RQ2,2018,article,10.5539/jsd.v11n5p137,Computer Tool for Sizing and Economic Assessment of Grid Connected Photovoltaic System
+R1194,R1194,tier-1,RQ2,2023,article,10.17533/udea.redin.20231133,Hydrodynamic behavior of resonant chamber of an oscillating column of water for Pacific Ocean conditions
+R1196,R1196,tier-2,RQ3,2023,article,10.18270/cuaderlam.v19i36.4052,Análisis de Políticas Públicas para la adopción de Energías Renovables No Convencionales en Colombia
+R1197,R1197,tier-2,"RQ2,RQ4",2017,article,10.22490/25394088.2251,Análisis de ciclo de vida para una biorefinería derivada de residuos agrícolas de palma aceitera (Elaeis guineeeensis)
+R1198,R1198,tier-2,"RQ2,RQ4",2020,conference-paper,10.1088/1757-899x/844/1/012034,Characterization of the current electric energy needs in subsidized residential users
+R1201,R1201,tier-1,RQ2,2025,article,10.37511/apuntesci.v3n2a2,"Evaluación del Potencial Eólico para la Generación de Energía en Barrios Unidos, Bogotá D.C.: Análisis Estadístico, Predictivo y de Distribución"
+R1206,R1206,tier-2,"RQ2,RQ3",2021,article,10.32479/ijeep.10517,THE COLOMBIAN ENERGY POLICY CHALLENGES IN FRONT OF CLIMATE CHANGE
+R1219,R1219,tier-2,"RQ2,RQ3",2021,conference-paper,10.1049/icp.2021.1272,ECONOMIC IMPACT OF WIND GENERATION PENETRATION IN THE COLOMBIAN ELECTRICITY MARKET
+R1223,R1223,tier-2,"RQ2,RQ4",2025,article,10.18041/1794-4953/avances.1.12893,Dimensionamiento de una instalación solar fotovoltaica que permita satisfacer la demanda de energía eléctrica de una vivienda residencial de estrato medio en la ciudad de Bogotá
+R1230,R1230,tier-2,"RQ2,RQ4",2024,article,10.22517/23447214.24944,Energy Transition for rural development: A preliminar case study in Colombia for improving artisanal fishing
+R1231,R1231,tier-2,"RQ3,RQ4",2025,article,10.22320/07190700.2025.15.01.01,Driving the development of energy communities in Colombia: challenges and opportunities for a decentralized energy transition
+R1241,R1241,tier-1,RQ2,2018,article,10.14483/22484728.14068,Metodología para el aprovechamiento energético de desechos pecuarios - APRENDYSAGE
+R1252,R1252,tier-1,RQ2,2022,article,10.3390/en15124273,Power System Oscillations with Different Prevalence of Grid-Following and Grid-Forming Converters
+R1262,R1262,tier-2,"RQ2,RQ3",2023,article,10.1017/lar.2023.15,A Review of the Progress and Potential of Energy Generation from Renewable Sources in Latin America
+R1276,R1276,tier-2,RQ3,2020,article,10.32479/ijeep.8924,REGIONALIZED DISCOUNT RATE TO EVALUATE RENEWABLE ENERGY PROJECTS IN COLOMBIA
+R1286,R1286,tier-2,"RQ2,RQ3",2024,conference-paper,10.18687/laccei2024.1.1.1218,Methodology for selecting rural energy alternatives applied to the Colombian context.
+R1289,R1289,tier-2,"RQ2,RQ4",2025,conference-paper,10.69997/sct.129062,"Multi-Objective Optimization and Analytical Hierarchical Process for Sustainable Power Generation Alternatives in the High Mountain Region of Santurb�n: case of Pamplona, Colombia"
+R1309,R1309,tier-1,RQ2,2021,article,10.16925/2357-6014.2021.02.01,System for performance assessment of solar home systems
+R1310,R1310,tier-2,"RQ2,RQ3,RQ4",2022,article,10.32479/ijeep.13448,"Evaluation, Hierarchy and Selection of the best Source of Energy by using AHP, as a Proposed Solution to an Energy and Socio-economic Problem, in the case of Colombia’s Pacific Zone"
+R1320,R1320,tier-2,"RQ2,RQ4",2025,article,10.1155/er/9257724,Optimized Selection of Renewable Energy Sources Based on Regional Potentials in Colombia: A Comparative Analysis of AHP and FAHP for Sustainable Development
+R1321,R1321,tier-1,RQ2,2023,article,10.18273/revuin.v22n4-2023010,Hosting capacity and optimal sizing: a Colombian case of study
+R1336,R1336,tier-1,RQ2,2019,article,10.17533/udea.redin.20190406,Design of a wave energy converter system for the Colombian Pacific Ocean
+R1341,R1341,tier-2,"RQ2,RQ3",2022,article,10.22430/22565337.2362,Introduction of Aggregators to Colombian Electricity Distribution Networks Through a Business Vision
+R1345,R1345,tier-1,RQ2,2019,article,10.14483/25905791.16362,Spatial and geographic analysis of eolic potential in Colombia: Análisis espacial y geográfico del potencial eólico en Colombia
+R1351,R1351,tier-2,"RQ2,RQ4",2022,article,10.32479/ijeep.11631,Land-use in the Electric Colombian System: Hidden Impacts and Risks of Large-scale Renewable Projects
+R1387,R1387,tier-1,RQ2,2021,article,10.17981/ingecuc.17.2.2021.07,Tidal Energy Potential in the Center Zone of the Colombian Pacific Coast
+R1396,R1396,tier-2,"RQ3,RQ4",2021,article,10.1016/j.erss.2021.102156,Lessons from last mile electrification in Colombia: Examining the policy framework and outcomes for sustainability
+R1397,R1397,tier-1,RQ2,2021,article,10.5278/ijsepm.6710,Pre-feasibility assessment for identifying locations of new offshore wind projects in the Colombian Caribbean.
+R1400,R1400,tier-1,RQ2,2024,article,10.34188/bjaerv7n2-039,Energy efficiency of hydrogen production via gasification from lignocellulosic residual biomass blend
+R1401,R1401,tier-2,"RQ2,RQ3,RQ4",2021,article,10.3390/app11125528,Potential of Photovoltaic Generation in the Putumayo Department of Colombia
+R1402,R1402,tier-1,RQ2,2021,article,10.18280/mmep.080607,CFD-FEM Modeling of a Floating Foundation under Extreme Hydrodynamic Forces Generated by Low Sea States
+R1407,R1407,tier-1,RQ2,2023,article,10.3390/wevj14120324,Prospective Analysis of Massive Integration of Electric Vehicle Chargers and Their Impact on Power Quality in Distribution Networks
+R1408,R1408,tier-2,"RQ2,RQ3",2021,article,10.15446/ing.investig.v42n2.92410,Effect of the Colombian Renewable Energy Law on the Levelized Cost of a Substitute Gaseous Fuel Produced from MSW Gasification
+R1415,R1415,tier-2,"RQ3,RQ4",2025,article,10.1016/j.exis.2025.101808,"Green extractivism in Colombia: A scoping review on indigenous rights and livelihood impacts, and policy and social movement responses"
+R1419,R1419,tier-2,"RQ2,RQ3,RQ4",2023,article,10.3390/en16145448,"Safeguarding Biodiversity and Promoting Sustainable Development: Assessing the Energy–Water Nexus of San Andrés Island, Colombia"
+R1437,R1437,tier-2,"RQ2,RQ4",2024,article,10.37391/ijeer.120307,"Cost-Benefit Evaluation of the Implementation of a Photovoltaic Solar Generation System in the Archipelago of San Andrés, Providencia, and Santa Catalina"
+R1439,R1439,tier-2,"RQ2,RQ3",2021,article,10.17081/invinno.9.2.4517,Characterization of photovoltaic solar energy systems in a Colombian region
+R1442,R1442,tier-1,RQ2,2024,article,10.32479/ijeep.16068,"Methodology for Generating a Reference Wind Year for Offshore Wind Energy: A Case Study in La Guajira, Colombia"
+R1445,R1445,tier-2,"RQ2,RQ3",2024,conference-paper,10.56238/sevenvmulti2024-101,Long-term energy demand forecasting using LEAP software in the Santurbán paramo: The case of Berlín Santander after Covid-19
+R1450,R1450,tier-2,"RQ2,RQ3,RQ4",2022,article,10.3390/pr10030568,Technical and Environmental Feasibility Study of the Co-Production of Crude Oil and Electrical Energy from Geothermal Resources: First Field Trial in Colombia
+R1455,R1455,tier-2,"RQ2,RQ3,RQ4",2022,article,10.3390/en15186690,Scenario Analysis of an Electric Power System in Colombia Considering the El Niño Phenomenon and the Inclusion of Renewable Energies
+R1456,R1456,tier-1,RQ2,2025,article,10.3390/a18020111,Enhancing Energy Microgrid Sizing: A Multiyear Optimization Approach with Uncertainty Considerations for Optimal Design
+R1468,R1468,tier-2,"RQ2,RQ4",2023,article,10.18273/revuin.v22n3-2023004,Gravitational water vortex hydraulic turbine implementation in Colombia: hydropower potential and prospects
+R1473,R1473,tier-2,"RQ2,RQ4",2023,article,10.32479/ijeep.14621,An Analytic Hierarchy Process Based Approach for Evaluating Feasibility of Offshore Wind Farm on the Colombian Caribbean Coast
+R1487,R1487,tier-2,"RQ3,RQ4",2022,article,10.1016/j.erss.2022.102688,Assessing elements of energy justice in Colombia: A case study on transmission infrastructure in La Guajira
+R1495,R1495,tier-1,RQ2,2020,article,10.11591/ijece.v11i1.pp201-216,Simulation of a microgrid for a non-interconnected zone that integrates renewable energies
+R1497,R1497,tier-2,"RQ2,RQ4",2023,article,10.3390/infrastructures8030051,Effect of Sea Level Rise and Access Channel Deepening on Future Tidal Power Plants in Buenaventura Colombia
+R1498,R1498,tier-2,"RQ2,RQ3",2019,article,10.32479/ijeep.8395,OVERVIEW OF POTENTIAL USE OF HYDROXYL AND HYDROGEN AS AN ALTERNATIVE FUEL IN COLOMBIA
+R1500,R1500,tier-2,"RQ2,RQ4",2023,article,10.3390/su152416620,Feasibility Analysis of Offshore Wind Power Projects in the Caribbean Region of Colombia: A Case Study Using FAHP–GIS
+R1507,R1507,tier-1,RQ2,2024,article,10.3390/infrastructures9080127,"Three-Dimensional Hydrodynamic and CFD Modeling of a Tidal Barrage Power Plant without Sluicing in Buenaventura, Colombia"
+R1513,R1513,tier-1,RQ2,2024,article,10.3390/wevj15110493,A Novel Neuro-Probabilistic Framework for Energy Demand Forecasting in Electric Vehicle Integration
+R1525,R1525,tier-2,"RQ2,RQ3,RQ4",2025,article,10.1016/j.socimp.2025.100153,Designing inclusive energy transitions: Insights from Latin America’s electricity sector
+R1530,R1530,tier-2,"RQ2,RQ3",2020,conference-paper,10.1088/1757-899x/844/1/012014,Prospective towards implementation of electric vehicles in Colombia
+R1534,R1534,tier-2,"RQ2,RQ4",2021,article,10.1016/j.biombioe.2021.106096,Regionalized cost supply potential of bioenergy crops and residues in Colombia: A hybrid statistical balance and land suitability allocation scenario analysis
+R1535,R1535,tier-1,RQ2,2020,conference-paper,10.26507/ponencia.816,EVALUACIÓN DEL DETERIORO POR CORROSIÓN-EROSIÓN EN PERFILES DE UNA TURBINA EÓLICA DE EJE VERTICAL
+R1537,R1537,tier-1,RQ2,2023,article,10.32479/ijeep.14413,Technical-economic Analysis of Power Generation with Steam Cycles Fed with Residual Biomass from Rice and Corn
+R1542,R1542,tier-2,"RQ2,RQ3",2022,article,10.22430/22565337.2357,A Model for Quantifying Expected Effects of Demand-Side Management Strategies
+R1543,R1543,tier-1,RQ2,2025,article,10.3390/en18226003,Balancing Resource Potential and Investment Costs in Offshore Wind Projects: Evidence from Northern Colombia
+R1547,R1547,tier-1,RQ2,2023,article,10.3390/w15152725,Hydrokinetic Energy and Transient Accelerations of Marine Currents in Colombian Nearshore Waters
+R1548,R1548,tier-2,"RQ2,RQ4",2015,article,10.14482/inde.33.1.5353,Energetic improvement of tanned leather solid wastes by thermal treatment
+R1553,R1553,tier-2,"RQ2,RQ3",2023,article,10.18273/revuin.v22n4-2023008,New business models in the Colombian energy market: Energy arbitration through storage systems
+R1558,R1558,tier-1,RQ2,2020,article,10.3390/en13215648,Hybrid Energy Systems Sizing for the Colombian Context: A Genetic Algorithm and Particle Swarm Optimization Approach
+R1561,R1561,tier-1,RQ2,2023,article,10.22430/22565337.2630,Simulación numérica de una columna de agua oscilante para las condiciones de ola del océano Pacífico colombiano
+R1570,R1570,tier-2,"RQ2,RQ3",2022,article,10.3390/en15238862,Green and Blue Hydrogen Production: An Overview in Colombia
+R1574,R1574,tier-2,"RQ2,RQ4",2015,article,10.14483/udistrital.jour.tecnura.2015.1.a07,Energy efficiency of an innovative vertical axial rotary kiln for pottery production
+R1581,R1581,tier-2,"RQ2,RQ3",2021,article,10.36260/rbr.v10i6.1334,Study of potential application of alternative power cycles in Colombia
+R1584,R1584,tier-2,"RQ2,RQ4",2024,article,10.3390/su16114862,Optimizing Renewable Energy Systems for Water Security: A Comparative Study of Reanalysis Models
+R1595,R1595,tier-1,RQ2,2019,article,10.3390/en12234542,Optimal Design of a Diesel-PV-Wind-Battery-Hydro Pumped POWER system with the Integration of ELECTRIC vehicles in a Colombian Community
+R1597,R1597,tier-2,"RQ2,RQ3,RQ4",2024,article,10.19053/uptc.01211129.v33.n68.2024.17066,Nuclear Energy: A Keystone in Colombia's Sustainable Energy Transition
+R1606,R1606,tier-2,"RQ2,RQ3",2025,article,10.32479/ijeep.19364,Estimation of Levelized Cost of Energy for Small Modular Reactors in Colombia: A Monte Carlo Simulation Approach
+R1612,R1612,tier-2,"RQ2,RQ3",2018,article,10.1016/j.esr.2018.12.009,Scenario analysis for strategy design: A case study of the Colombian electricity industry
+R1621,R1621,tier-2,"RQ2,RQ3",2019,article,10.2478/rtuect-2019-0083,Use of Multi-Criteria TOPSIS Analysis to Define a Decarbonization Path in Colombia
+R1623,R1623,tier-1,RQ2,2022,article,10.3390/su14148514,Total Variation-Based Metrics for Assessing Complementarity in Energy Resources Time Series
+R1624,R1624,tier-2,"RQ2,RQ3,RQ4",2024,article,10.15446/sicel.v11.110044,Electrificación Rural Sostenible a Partir de Potenciales Energéticos Locales – una Mirada a las Zonas No Interconectadas Colombianas
+R1631,R1631,tier-2,"RQ2,RQ3",2020,article,10.32479/ijeep.9560,FINANCING OF RESIDENTIAL ROOFTOP PHOTOVOLTAIC PROJECTS UNDER A NET METERING POLICY FRAMEWORK: THE CASE OF THE COLOMBIAN CARIBBEAN REGION
+R1633,R1633,tier-1,RQ2,2022,article,10.32479/ijeep.13576,Technoeconomic Comparison of Scenarios for the Configuration of the Renewable Hydrogen Supply Chain in Colombia
+R1654,R1654,tier-2,"RQ2,RQ3",2018,article,10.3390/su10041294,Assessment of Government Incentives for Energy from Waste in Colombia
+R1661,R1661,tier-2,"RQ2,RQ4",2023,article,10.59018/0623186,Socioeconomic impact assessment and empowerment of solar photovoltaic projects for autonomous homes in Colombia
+R1664,R1664,tier-2,"RQ2,RQ3",2021,article,10.3390/su13084308,Business Model Proposal for Energy Transition towards Operational and Economic Sustainability for Rural Electrification: Colombian Case
+R1668,R1668,tier-2,"RQ2,RQ3,RQ4",2023,article,10.15446/dyna.v90n227.107131,Biogas utilization from municipal solid waste in developing countries towards the transition to sustainable development – The Colombian case
+R1672,R1672,tier-1,RQ2,2021,article,10.3390/buildings11060219,Potential Applicability of Earth to Air Heat Exchanger for Cooling in a Colombian Tropical Weather
+R1673,R1673,tier-2,"RQ2,RQ3,RQ4",2019,article,10.1016/j.erss.2019.101302,"Forgotten spaces: How reliability, affordability and engagement shape the outcomes of last-mile electrification in Chocó, Colombia"
+R1686,R1686,tier-2,"RQ2,RQ3",2023,article,10.1016/j.heliyon.2023.e16048,Energy characterization of residential and office buildings in a tropical location
+R1687,R1687,tier-1,RQ2,2025,article,10.3390/app151910646,"Analysis of a Sustainable Hybrid Microgrid Based on Solar Energy, Biomass, and Storage for Rural Electrification in Isolated Communities"
+R1748,R1748,tier-2,"RQ2,RQ4",2023,article,10.3390/su151914449,Reference Framework Based on a Two-Stage Strategy for Sizing and Operational Management in Electrical Microgrid Planning
+R1749,R1749,tier-1,RQ2,2023,article,10.3390/en16217260,Analysis of the Impact of Integrating Variable Renewable Energy into the Power System in the Colombian Caribbean Region
+R1760,R1760,tier-2,"RQ2,RQ3",2021,article,10.3390/en14092523,Digital Transformation of Energy Companies: A Colombian Case Study
+R1761,R1761,tier-2,"RQ2,RQ3,RQ4",2023,article,10.3390/su15107985,Proposing Dynamic Pricing as an Alternative to Improve Technical and Economic Conditions in Rural Electrification: A Case Study from Colombia
+R1772,R1772,tier-1,RQ2,2024,article,10.3390/pr13010034,"Optimal Placement and Sizing of Modular Series Static Synchronous Compensators (M-SSSCs) for Enhanced Transmission Line Loadability, Loss Reduction, and Stability Improvement"
+R1776,R1776,tier-1,RQ2,2018,article,10.15446/dyna.v85n206.69577,Levelized avoided cost of electricity model based on power system operation
+R1780,R1780,tier-2,"RQ2,RQ4",2023,article,10.3390/en16207161,Feasibility Study for the Implementation of Photovoltaic Panels in Public Transportation in Barranquilla
+R1787,R1787,tier-2,"RQ2,RQ4",2022,article,10.32479/ijeep.12538,A System Dynamics Model for the Analysis of CO2 Emissions Derived from the Inclusion of Hydrogen Obtained from Coal in the Energy Matrix in Colombia
+R1790,R1790,tier-2,"RQ2,RQ3",2021,article,10.22517/23447214.24946,Challenges and recommendations for the massification of energy management systems in Colombian industry
+R1793,R1793,tier-2,"RQ2,RQ4",2024,article,10.1007/s12649-024-02473-9,Bioenergy and Biorefinery Potential of Residues: A Representative Case of the Sucre Region in Colombia
+R1794,R1794,tier-1,RQ2,2021,article,10.3390/en14051300,Methodology to Evaluate the Impact of Electric Vehicles on Electrical Networks Using Monte Carlo
+R1797,R1797,tier-2,"RQ2,RQ4",2025,article,10.3390/en18123091,Assessment of the Potential for Biogas Production in Post-Conflict Rural Areas in Colombia Using Cocoa Residues
+R1799,R1799,tier-2,"RQ2,RQ3,RQ4",2024,article,10.25100/iyc.v26i2.13360,"Potencial económico, social y ambiental de tecnologías de bioenergía con captura de CO2 en biorrefinerías"
+R1800,R1800,tier-2,RQ3,2022,article,10.32479/ijeep.13272,"Users, Vehicles Electrics, and Energy Markets in Colombia"
+R1812,R1812,tier-2,"RQ2,RQ3",2025,article,10.3390/su17083350,Complementarity in Action: Modeling Incentives to Enhance Renewable Electricity Integration
+R1813,R1813,tier-2,"RQ2,RQ4",2025,article,10.1016/j.segy.2025.100217,Electrification of passenger road transport to support renewable energy integration: A case study of Colombia
+R1814,R1814,tier-2,"RQ2,RQ4",2023,article,10.1016/j.heliyon.2023.e19874,Suitable municipalities for biomass energy use in Colombia based on a multicriteria analysis from a sustainable development perspective
+R1832,R1832,tier-2,"RQ2,RQ4",2024,article,10.15446/sicel.v11.110038,Operación de microrredes hidro +solar: estado del arte contextualizado al departamento del Chocó.
+R1837,R1837,tier-1,RQ2,2025,article,10.18273/revbol.v47n1-2025003,"Métodos de exploración y sistemas geotérmicos en Colombia con énfasis en el volcán Nevado del Ruiz, proyecto geotérmico Valle de Nereidas"
+R1839,R1839,tier-2,"RQ2,RQ3",2025,article,10.3390/en18123047,Modeling Infrastructure Delays and Congestion for Large-Scale Power Systems
+R1840,R1840,tier-2,"RQ2,RQ3",2021,article,10.3390/su13042010,Measuring Financial Impacts of the Renewable Energy Based Fiscal Policy in Colombia under Electricity Price Uncertainty

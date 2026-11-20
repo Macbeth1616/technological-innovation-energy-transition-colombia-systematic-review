@@ -1,0 +1,284 @@
+{
+  "generated_at": "2026-11-19T16:44:23Z",
+  "basis": "included studies",
+  "count": 157,
+  "per_year": {
+    "2015": 3,
+    "2016": 5,
+    "2017": 4,
+    "2018": 3,
+    "2019": 12,
+    "2020": 13,
+    "2021": 9,
+    "2022": 24,
+    "2023": 23,
+    "2024": 21,
+    "2025": 40
+  },
+  "top_venues": [
+    {
+      "venue": "Energies",
+      "count": 23
+    },
+    {
+      "venue": "Sustainability (Switzerland)",
+      "count": 16
+    },
+    {
+      "venue": "Renewable and Sustainable Energy Reviews",
+      "count": 8
+    },
+    {
+      "venue": "Renewable Energy",
+      "count": 6
+    },
+    {
+      "venue": "Journal of Cleaner Production",
+      "count": 5
+    },
+    {
+      "venue": "Energy Reports",
+      "count": 5
+    },
+    {
+      "venue": "Energy Strategy Reviews",
+      "count": 4
+    },
+    {
+      "venue": "Energy Policy",
+      "count": 4
+    },
+    {
+      "venue": "Energy Research and Social Science",
+      "count": 3
+    },
+    {
+      "venue": "Energy",
+      "count": 3
+    },
+    {
+      "venue": "Chemical Engineering Transactions",
+      "count": 3
+    },
+    {
+      "venue": "Applied Energy",
+      "count": 3
+    },
+    {
+      "venue": "Buildings",
+      "count": 3
+    },
+    {
+      "venue": "Renewable and Sustainable Energy Transition",
+      "count": 2
+    },
+    {
+      "venue": "Smart Energy",
+      "count": 2
+    },
+    {
+      "venue": "International Journal of Thermofluids",
+      "count": 2
+    },
+    {
+      "venue": "Processes",
+      "count": 2
+    },
+    {
+      "venue": "Sustainable Energy Technologies and Assessments",
+      "count": 2
+    },
+    {
+      "venue": "Thermal Science and Engineering Progress",
+      "count": 2
+    },
+    {
+      "venue": "Transactions on Energy Systems and Engineering Applications",
+      "count": 2
+    }
+  ],
+  "top_keywords": [
+    {
+      "keyword": "colombia",
+      "count": 89
+    },
+    {
+      "keyword": "renewable energies",
+      "count": 39
+    },
+    {
+      "keyword": "renewable energy",
+      "count": 37
+    },
+    {
+      "keyword": "solar power generation",
+      "count": 20
+    },
+    {
+      "keyword": "greenhouse gases",
+      "count": 20
+    },
+    {
+      "keyword": "sustainability",
+      "count": 18
+    },
+    {
+      "keyword": "sustainable development",
+      "count": 17
+    },
+    {
+      "keyword": "climate change",
+      "count": 16
+    },
+    {
+      "keyword": "energy policy",
+      "count": 16
+    },
+    {
+      "keyword": "alternative energy",
+      "count": 16
+    },
+    {
+      "keyword": "developing countries",
+      "count": 14
+    },
+    {
+      "keyword": "energy efficiency",
+      "count": 14
+    },
+    {
+      "keyword": "power generation",
+      "count": 14
+    },
+    {
+      "keyword": "investments",
+      "count": 14
+    },
+    {
+      "keyword": "wind power",
+      "count": 14
+    },
+    {
+      "keyword": "solar energy",
+      "count": 13
+    },
+    {
+      "keyword": "energy transition",
+      "count": 13
+    },
+    {
+      "keyword": "fossil fuels",
+      "count": 13
+    },
+    {
+      "keyword": "gas emissions",
+      "count": 13
+    },
+    {
+      "keyword": "hydroelectric power",
+      "count": 12
+    }
+  ],
+  "keyword_cooccurrence": [
+    {
+      "a": "colombia",
+      "b": "renewable energies",
+      "count": 30
+    },
+    {
+      "a": "colombia",
+      "b": "renewable energy",
+      "count": 26
+    },
+    {
+      "a": "renewable energies",
+      "b": "renewable energy",
+      "count": 24
+    },
+    {
+      "a": "colombia",
+      "b": "sustainability",
+      "count": 16
+    },
+    {
+      "a": "colombia",
+      "b": "energy policy",
+      "count": 15
+    },
+    {
+      "a": "colombia",
+      "b": "greenhouse gases",
+      "count": 15
+    },
+    {
+      "a": "alternative energy",
+      "b": "colombia",
+      "count": 15
+    },
+    {
+      "a": "colombia",
+      "b": "solar power generation",
+      "count": 14
+    },
+    {
+      "a": "gas emissions",
+      "b": "greenhouse gases",
+      "count": 13
+    },
+    {
+      "a": "colombia",
+      "b": "sustainable development",
+      "count": 13
+    },
+    {
+      "a": "climate change",
+      "b": "colombia",
+      "count": 12
+    },
+    {
+      "a": "colombia",
+      "b": "energy efficiency",
+      "count": 11
+    },
+    {
+      "a": "colombia",
+      "b": "solar power",
+      "count": 11
+    },
+    {
+      "a": "renewable energies",
+      "b": "solar power generation",
+      "count": 11
+    },
+    {
+      "a": "colombia",
+      "b": "fossil fuels",
+      "count": 11
+    },
+    {
+      "a": "colombia",
+      "b": "wind power",
+      "count": 11
+    },
+    {
+      "a": "colombia",
+      "b": "hydroelectric power",
+      "count": 10
+    },
+    {
+      "a": "colombia",
+      "b": "solar energy",
+      "count": 9
+    },
+    {
+      "a": "colombia",
+      "b": "energy transition",
+      "count": 9
+    },
+    {
+      "a": "colombia",
+      "b": "developing countries",
+      "count": 9
+    }
+  ]
+}
